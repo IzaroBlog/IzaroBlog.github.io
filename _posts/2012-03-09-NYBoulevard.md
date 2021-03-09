@@ -18,9 +18,9 @@ Con siete décadas a sus espaldas, este hombre no para, y actualmente está meti
 Letra de la cancion:
 
 > Pedro lives out of the Wilshire Hotel
-he looks out a window without glass
-The walls are made of cardboard, newspapers on his feet
-his father beats him 'cause he's too tired to beg
+> he looks out a window without glass
+> The walls are made of cardboard, newspapers on his feet
+> his father beats him 'cause he's too tired to beg
 
 > He's got 9 brothers and sisters
 they're brought up on their knees
