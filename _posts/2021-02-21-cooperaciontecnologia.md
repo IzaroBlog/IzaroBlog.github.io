@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Desarrollo, cooperación y tecnología"
+date:   2012-02-21
+categories: es, cooperation
+tags: [es, cooperación, tecnología]
+---
+<span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">El próximo viernes 2 de Marzo comienza el</span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> <a href="http://euskadi.isf.es/seminario/index.php" target="_blank">XIII Seminario sobre Desarrollo, Cooperación y Tecnología </a></span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">organizado por <a href="http://euskadi.isf.es/home/index.php" target="_blank">Ingeniería Sin Fronteras-Mugarik Gabeko Ingeniaritza(ISF-MGI)</a> El seminario está dividido en tres bloques: </span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Cooperación, Desarrollo y Tecnologías para el Desarrollo Humano</span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> (TpDH), en los que cada bloque está formado por tres sesiones, una por viernes.</span></span></span>
+
+<span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"><a href="http://euskadi.isf.es/home/index.php" target="_blank">ISF-MGI</a> lleva ya </span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">trece años</span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> dando esta formación tanto a los alumnos y alumnas de la UPV-EHU que se quieran acercar como al público interesado y puedo deciros por experiencia propia que merece la pena apuntarse. Los ponentes son gente con experiencia y que fomentan la participación y una visión crítica de la sociedad en la que estamos, además de ayudarnos a entender mejor el mundo en el que convivimos.</span></span></span>
+
+<em><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">¿Qué es el desarrollo? ¿Quién y cómo se define? ¿Qué consideramos cooperación? ¿Qué es el Desarrollo Humano? ¿Se diseñan las tecnologías pensando en los seres humanos?</span></span></span></em>
+
+<span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">La respuestas a estas y muchas más preguntas las podréis ver a lo largo del seminario; que además tratará de buscar soluciones a los problemas existentes y conocer nuevas formas de hacer cooperación así como de utilizar la tecnología.</span></span></span>
+
+<span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Para mí ha sido una de las </span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">mejores formaciones</span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> a las que he asistido y la verdad es que cambió bastante mi visión de la vida tras asistir al seminario... es por eso que no me canso de recomendarlo!!! :)</span></span></span>
+
+<span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Además este año se va a intentar incluir alguna sesión junto con las jornadas de<a href="http://es.wikipedia.org/wiki/Decrecimiento" target="_blank"> decrecimiento</a> que se están preparando para este año en Bilbao, y que puede ser un aliciente adicional. </span></span></span><em><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">(Aquí está el <a href="http://decrecimientoybuenvivir.wordpress.com/egitaraua-programa/" target="_blank">link a las del año pasado)</a></span></span></span></em>
+
