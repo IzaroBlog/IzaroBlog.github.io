@@ -24,6 +24,7 @@ tags: [es, cooperación, medio ambiente, marco lógico, proyectos]
 <span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una <strong>herramienta poco flexible para</strong> la transversalización de variables como el género o el medio ambiente en los proyectos.
 </span></span></span>
 
+
 <span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Más Info:
 </span></span></span>
 <ul>
