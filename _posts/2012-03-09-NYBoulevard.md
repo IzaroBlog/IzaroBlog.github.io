@@ -16,15 +16,18 @@ Con siete décadas a sus espaldas, este hombre no para, y actualmente está meti
 
 [Letra de la cancion:](https://genius.com/Lou-reed-dirty-blvd-lyrics)
 
-> Pedro lives out of the Wilshire Hotel
-> he looks out a window without glass
-> The walls are made of cardboard, newspapers on his feet
-> his father beats him 'cause he's too tired to beg
+*Pedro lives out of the Wilshire Hotel
+
+he looks out a window without glass
+
+The walls are made of cardboard, newspapers on his feet
+
+his father beats him 'cause he's too tired to beg*
 
 ....
 
 
-Blog del </span><a style="font-size:medium;font-family:Ubuntu;" href="http://cuervo-negro.blogspot.com/2008/02/lou-reed-dirty-boulevard.html" target="_blank" rel="noopener">Cuervo Negro</a></p>
+Blog del [Cuervo Negro](http://cuervo-negro.blogspot.com/2008/02/lou-reed-dirty-boulevard.html)
 
 <div>
 <div>
