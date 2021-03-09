@@ -7,7 +7,7 @@ tags: [es,cooperación, género ]
 ---
 
 
-<![CDATA[<a href="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg"><img class="wp-image-160 alignright" title="Enfoque de género en proyectos de cooperación, experiencias propias" src="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg?w=194" alt="" width="175" height="270" /></a>
+<a href="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg"><img class="wp-image-160 alignright" title="Enfoque de género en proyectos de cooperación, experiencias propias" src="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg?w=194" alt="" width="175" height="270" /></a>
 
 Estos últimos días estamos aprendiendo mucho sobre el tema del género en la cooperación. Hasta <a href="http://euskadi.isf.es/home/index.php" target="_blank">ISF-MGI </a>se ha acercado <a href="http://www.dicc.hegoa.ehu.es/authors/entradas_by_author/6" target="_blank">Clara Murguialday</a> que nos está ayudando a incluir el enfoque de género en los proyectos de fin de carrera.
 
