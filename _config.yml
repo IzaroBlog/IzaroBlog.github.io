@@ -34,7 +34,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Fediverse_username: 
 
-generate social links in footer
+# generate social links in footer
 social_links:
   github_username:  izaroblog
   pleroma: https://pleroma.libretux.com/izaro
