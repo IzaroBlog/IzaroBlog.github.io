@@ -21,4 +21,4 @@ Tras realizar el análisis de los distintos planes de cooperación, a continuaci
 </ul>
 Si quieres echarle un vistazo a la tesina en más profundidad, puedes descargarla desde aquí, estaré encantado de recibir comentarios y sugerencias sobre el tema!!
 
-[caption id="attachment_2945" align="aligncenter" width="120"]<a href="https://izaroblog.files.wordpress.com/2012/02/integracic3b3n-del-medio-ambiente-en-la-polc3adtica-de-cooperacic3b3n-descentralizada.pdf"><img class=" wp-image-2945" src="https://izaroblog.files.wordpress.com/2012/02/800px-libreoffice_icon_3.3.1_48_px.svg_.png?w=250" alt="" width="120" height="144" /></a> Descargar tesina[/caption]]]
+<a href="https://izaroblog.files.wordpress.com/2012/02/integracic3b3n-del-medio-ambiente-en-la-polc3adtica-de-cooperacic3b3n-descentralizada.pdf"><img class=" wp-image-2945" src="https://izaroblog.files.wordpress.com/2012/02/800px-libreoffice_icon_3.3.1_48_px.svg_.png?w=250" alt="" width="120" height="144" /></a> Descargar tesina
