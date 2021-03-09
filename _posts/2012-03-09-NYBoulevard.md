@@ -5,7 +5,6 @@ date:   2012-03-09
 categories: es, music
 tags: [es, Lou Reed, Dirty Boulevard, musica]
 ---
-<img class="alignright" src="http://farm7.staticflickr.com/6230/6295601850_425239aedc.jpg" alt="" width="210" height="210" />
 
 Hace 7 días <a href="http://es.wikipedia.org/wiki/Lou_Reed" target="_blank" rel="noopener">Lou Reed</a> cumplio 70 años, y para conmemorar tal fecha, la recomendación musical del blog va dedicada a él y a una canción que me gustaría recuperar: <strong>Dirty Blv.</strong>
 
@@ -18,60 +17,59 @@ Con siete décadas a sus espaldas, este hombre no para, y actualmente está meti
 
 Letra de la cancion:
 
-<blockquote>
-Pedro lives out of the Wilshire Hotel
+> Pedro lives out of the Wilshire Hotel
 he looks out a window without glass
 The walls are made of cardboard, newspapers on his feet
 his father beats him 'cause he's too tired to beg
 
-He's got 9 brothers and sisters
+> He's got 9 brothers and sisters
 they're brought up on their knees
 it's hard to run when a coat hanger beats you on the thighs
 Pedro dreams of being older and killing the old man
 but that's a slim chance he's going to the boulevard
 
-He's going to end up, on the dirty boulevard
+> He's going to end up, on the dirty boulevard
 he's going out, to the dirty boulevard
 He's going down, to the dirty boulevard
 
-This room cost 2, 000 dollars a month
+> This room cost 2, 000 dollars a month
 you can believe it man it's true
 somewhere a landlord's laughing till he wets his pants
 No one here dreams of being a doctor or a lawyer or anything
 they dream of dealing on the dirty boulevard
 
-Give me your hungry, your tired your poor I'll piss on 'em
+> Give me your hungry, your tired your poor I'll piss on 'em
 that's what the Statue of Bigotry says
 Your poor huddled masses, let's club 'em to death
 and get it over with and just dump 'em on the boulevard
 
-Get to end up, on the dirty boulevard
+> Get to end up, on the dirty boulevard
 going out, to the dirty boulevard
 He's going down, on the dirty boulevard
 going out
 
-Outside it's a bright night
+> Outside it's a bright night
 there's an opera at Lincoln Center
 movie stars arrive by limousine
 The klieg lights shoot up over the skyline of Manhattan
 but the lights are out on the Mean Streets
 
-A small kid stands by the Lincoln Tunnel
+> A small kid stands by the Lincoln Tunnel
 he's selling plastic roses for a buck
 The traffic's backed up to 39th street
 the tv whores are calling the cops out for a suck
 
-And back at the Wilshire, Pedro sits there dreaming
+> And back at the Wilshire, Pedro sits there dreaming
 he's found a book on magic in a garbage can
 He looks at the pictures and stares at the cracked ceiling
 "At the count of 3" he says, "I hope I can disappear"
 
-And fly fly away, from this dirty boulevard
+> And fly fly away, from this dirty boulevard
 I want to fly, from dirty boulevard
 I want to fly, from dirty boulevard
 I want to fly-fly-fly-fly, from dirty boulevard
 
-I want to fly away
+> I want to fly away
 I want to fly
 Fly, fly away
 I want to fly
@@ -92,5 +90,3 @@ Blog del </span><a style="font-size:medium;font-family:Ubuntu;" href="http://cue
 	<li><span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"><a href="http://www.rtve.es/alacarta/audios/radio/ambigu---lou-reed-canta-a-jesucristo---15-04-10/745645/" target="_blank" rel="noopener">Lou Reed canta a Jesucristo (Ambigú Radio3</a>)</span></span></span></li>
 	<li><img class="aligncenter" style="text-align:center;" src="http://farm6.staticflickr.com/5273/5900378749_414bac5e53.jpg" alt="" width="288" height="217" /></li>
 </ul>
-Retrato de Lou Reed: <a title="Vectorportal" href="http://www.vectorportal.com/" target="_blank" rel="noopener">VectorPortal</a>
-Lou Reed Guitarra : Galería de <a href="http://www.flickr.com/photos/24365773@N03/" target="_blank" rel="noopener">Man Alive</a>
