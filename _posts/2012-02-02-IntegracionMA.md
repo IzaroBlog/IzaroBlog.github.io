@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Integración del Medio Ambiente en la Cooperación"
+date:   2012-02-02
+categories: es, cooperation, environment
+tags: [es,medio ambiente, cooperación, tesina]
+---
+
 
 Hola lectores y lectoras,
 
