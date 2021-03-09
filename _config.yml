@@ -35,9 +35,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Fediverse_username: 
 
 # generate social links in footer
-social_links:
-  github_username:  izaroblog
-  pleroma: https://pleroma.libretux.com/izaro
+# social_links:
+#  github_username:  izaroblog
+# pleroma: https://pleroma.libretux.com/izaro
 
 # Build settings
 theme: minima
