@@ -76,7 +76,7 @@ I want to fly
 Fly-fly away (Fly a-)
 fly-fly-fly (-way, ooohhh...)
 Fly-fly away (I want to fly-fly away)
-fly away (I want to fly, wow-woh, no, fly away)</blockquote>
+fly away (I want to fly, wow-woh, no, fly away)
 
 Blog del </span><a style="font-size:medium;font-family:Ubuntu;" href="http://cuervo-negro.blogspot.com/2008/02/lou-reed-dirty-boulevard.html" target="_blank" rel="noopener">Cuervo Negro</a></p>
 
