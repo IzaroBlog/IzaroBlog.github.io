@@ -7,8 +7,10 @@ tags: [klima larrialdia, coronavirus, isurpenak, euskara]
 ---
 
 
-<h2 id="egungo-egoera-isurpen-eta-kutsadurarekin">Egungo egoera isurpen eta kutsadurarekin</h2>
-<p>Datu hauek eguneratu beharko dira asteak pasa ahala, baina hementxe daude oraintxe bertan (2020ko apirilean) eskuragarri ditugun batzuk, ideia orokor bat izan dezagun:</p>
+**Egungo egoera isurpen eta kutsadurarekin**
+Datu hauek eguneratu beharko dira asteak pasa ahala, baina hementxe daude oraintxe bertan (2020ko apirilean) eskuragarri ditugun batzuk, ideia orokor bat izan dezagun:
+
+
 <p><strong>Txinan</strong>, Koronabirusa "erdi pasata" dute eta karbono dioxido emisioek behera egin dute <a href="https://www.carbonbrief.org/analysis-coronavirus-has-temporarily-reduced-chinas-co2-emissions-by-a-quarter" target="_blank" rel="noopener">%25a gutxi gora behera, 2019 eta 2020ko datuak kontuan hartzen baditugu</a>. Altzairu enpresak bere horretan lanean mantendu direla dirudi, baina zementu-fabrikak %60 jaitsi dute produkzioa, eraikuntza sektorearen geldialdia egon da, etorkin askok egiten dute lan eraikuntzetan eta. <a href="https://www.bloomberg.com/news/articles/2020-02-04/historic-plunge-in-china-car-sales-seen-accelerating-on-virus" target="_blank" rel="noopener">Aurreikuspenen arabera</a> ere autoen produkzioa %30 jaitsiko dela dirudi.<br>
 <strong>New Yorken</strong> berriz, trafikoaren datuak diote <a href="https://www.bbc.com/news/science-environment-51944780" target="_blank" rel="noopener">%35 gutxitu dela, eta horrekin batera noski berotegi efektuko gasen isurpenak ere</a> ahuldu dira dagoeneko.</p>
 <h2 id="aire-kutsadura">Aire kutsadura</h2>
