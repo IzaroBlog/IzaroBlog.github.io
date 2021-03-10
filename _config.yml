@@ -36,7 +36,7 @@ minima:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Fediverse_username: 
-
+show_excerpts: true
 # generate social links in footer
 # social_links:
 #  github_username:  izaroblog
@@ -46,6 +46,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 #  - jekyll-seo-tag --- ez dakit zertarako den oraindik... 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -67,4 +68,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# These are default variables for my pages
+# Any file in the `_posts` directory gets a default layout of `post`, 
+# so I don't have to specify it manually
+defaults:
+    - scope:
+        path: _posts
+      values:
+        layout: post
 
