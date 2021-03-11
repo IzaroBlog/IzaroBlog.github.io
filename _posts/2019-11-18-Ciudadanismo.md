@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interneten energia beharrak"
+title: "El ciudadanismo en los movimientos sociales"
 date:   2019-11-08
 categories: es, book
 tags: [es, ciudadanismo, libros]
