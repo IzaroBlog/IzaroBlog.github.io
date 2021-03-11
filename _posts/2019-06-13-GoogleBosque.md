@@ -5,9 +5,9 @@ date:   2019-06-13
 categories: es, internet
 tags: [es,internet, google]
 ---
-<p>Un día la pequeña ardilla fue a correos a enviar una carta,&nbsp; después de que el amable cuervo le pesara el sobre y le estampara el sello, le dijo: "es gratis, no te preocupes ardilla, llegará en un día o dos a su destino".<br>
-  
-A la ardilla, le sorprendió la oferta, pero como no le iba a costar nada salio tan contenta de la <em>oficina</em>. Como es lógico, la simpática ardilla volvió a esa <em>oficina</em>, cada vez que tenía que enviar algún correo. Sorprendentemente, según pasaban los días a la suertuda ardilla le ofrecieron más y más servicios en esa maravillosa <em>oficina.</em></p>
+Un día la pequeña ardilla fue a correos a enviar una carta,&nbsp; después de que el amable cuervo le pesara el sobre y le estampara el sello, le dijo: "es gratis, no te preocupes ardilla, llegará en un día o dos a su destino".
+
+A la ardilla, le sorprendió la oferta, pero como no le iba a costar nada salio tan contenta de la <em>oficina</em>. Como es lógico, la simpática ardilla volvió a esa <em>oficina</em>, cada vez que tenía que enviar algún correo. Sorprendentemente, según pasaban los días a la suertuda ardilla le ofrecieron más y más servicios en esa maravillosa <em>oficina.</em>
 <p>[caption id="attachment_2972" align="aligncenter" width="300"]<a href="https://es.wikipedia.org/wiki/Ardilla#/media/Archivo:Ardilla_gris_mexicana.JPG"><img class="wp-image-2972 size-medium" src="https://izaroblog.files.wordpress.com/2019/06/animal-squirrel-sciurus-bird.jpg?w=300" alt="" width="300" height="200"></a> La ardilla en su oficina[/caption]</p>
 <p>- ¿Que las páginas amarillas no le llegaban a su madriguera? ¿ No necesitara un buscador para encontrar bellotas, no? Tranquila que le buscamos lo que quiera un santiamén!-le decían- Y no se preocupe por el coste, es un servicio de la casa para nuestra clientela del bosque.<br>
 - ¿Quiere usted que le guarde sus documentos, señora ardilla? ¿Y sus fotos? Tenemos un servicio de consigna muy seguro y gratuito, al que además podrá acceder cuándo y dónde quiera. Y por el mismo precio le damos la opción de ver los vídeos que quiera! No se preocupe usted de las heladas en invierno, tendrá todo muy bien guardadito!<br>
