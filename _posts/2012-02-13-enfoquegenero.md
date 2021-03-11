@@ -5,11 +5,10 @@ date:   2012-02-13
 categories: es, cooperation
 tags: [es,cooperación, género ]
 ---
-
+Estos últimos días estamos aprendiendo mucho sobre el tema del género en la cooperación. Hasta <a href="http://euskadi.isf.es/home/index.php" target="_blank">ISF-MGI </a>se ha acercado <a href="http://www.dicc.hegoa.ehu.es/authors/entradas_by_author/6" target="_blank">Clara Murguialday</a> que nos está ayudando a incluir el enfoque de género en los proyectos de fin de carrera.
 
 <a href="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg"><img class="wp-image-160 alignright" title="Enfoque de género en proyectos de cooperación, experiencias propias" src="http://izaroblog.files.wordpress.com/2012/02/mujeres-trabajando2.jpg?w=194" alt="" width="175" height="270" /></a>
 
-Estos últimos días estamos aprendiendo mucho sobre el tema del género en la cooperación. Hasta <a href="http://euskadi.isf.es/home/index.php" target="_blank">ISF-MGI </a>se ha acercado <a href="http://www.dicc.hegoa.ehu.es/authors/entradas_by_author/6" target="_blank">Clara Murguialday</a> que nos está ayudando a incluir el enfoque de género en los proyectos de fin de carrera.
 
 Estábamos haciendo un poco de historia, y viendo cómo ha ido cambiando el enfoque durante los últimos años, desde el enfoque del Bienestar (wellfare) o más asistencialista hasta el de <a href="http://es.wikipedia.org/wiki/G%C3%A9nero_en_el_Desarrollo" target="_blank">Género en el Desarrollo.</a>
 
