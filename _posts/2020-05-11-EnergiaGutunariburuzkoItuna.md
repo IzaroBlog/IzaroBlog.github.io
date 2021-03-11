@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Energia Gutunari buruzko Ituna"
