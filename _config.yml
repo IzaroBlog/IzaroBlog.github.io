@@ -28,7 +28,7 @@ theme: minima
 # Minima social links
 github_username: izaroblog
 rss: rss
-pleroma: [@izaro](https://pleroma.libretux.com/izaro)
+mastodon: [@izaro](https://pleroma.libretux.com/izaro)
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
