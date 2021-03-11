@@ -43,7 +43,7 @@ show_excerpts: true
 # pleroma: https://pleroma.libretux.com/izaro
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
