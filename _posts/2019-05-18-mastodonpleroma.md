@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zergatik pasa naiz Mastodonoetik Pleromara?"
+title: "Zergatik pasa naiz Mastodonetik Pleromara?"
 date:   2019-05-18
 categories: eu, internet
 tags: [eu,internet, mastodon, pleroma]
