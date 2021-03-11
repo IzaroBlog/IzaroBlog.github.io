@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About3
+permalink: /about3/
 ---
 
 <p><strong>Zein da blog honen atzean dagoen pertsona(ia)?</strong><br />Izaro Basurko da nire izena, eta sarean <a href="https://pleroma.libretux.com/izaro" target="_blank" rel="noopener">@izaro </a>"ezizena" erabiltzen dut, <a href="http://" target="_blank" rel="noopener">eternautaren aurpegi</a> batekin normalean, nirekin harremanetan jarri nahi izanez gero erraz duzue! Idatz iezadazu mezu bat blogeko iruzkinetan, irakurriko dut eta.</p>
