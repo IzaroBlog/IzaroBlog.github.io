@@ -10,7 +10,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 Kontaktu zuzenerako XMPP erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiene usuario XMPP*:
 > **pahoehoe@suchat.org**
 
-Beste orrialde hauetan ere idatzi ohi dut / También suele escribir en:
+Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertaldea](https://ekopol.eus/eu/)
 - [Zientzia Kaiera](https://zientziakaiera.eus/)
