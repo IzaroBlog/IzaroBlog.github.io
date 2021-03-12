@@ -5,8 +5,8 @@ title: Kolaborazioak/Colaboraciones
 ---
 Beste talde edo erakunde hauekin kolaborazioak egiten ditut:
 
-- Euskadi Irratian **Baipasa** saioan Klima larrialdiari buruzko saioak.
+- [Euskadi Irratian **Baipasa** saioan Klima larrialdiari buruzko saioak.](https://izaroblog.github.io/collaborations/Baipasa)
 - ekopol ikertaldeko blogean sarrerak.
-- Zientzia Kaieran
+- EHUko zientzia Kaieran artikuluak
 - Hitzaldiak
 
