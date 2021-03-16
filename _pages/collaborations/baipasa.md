@@ -15,12 +15,12 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 
 
 ## 2020
-- Urtarrilak 13: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/01/13/2546641/20200113_19445524_0012530068_002_001_BAIPASA__202.mp3
-- Urtarrilak 27: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/01/27/2553886/20200127_19342313_0012557855_002_001_BAIPASA__202.mp3
-- Otsailak 10:https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/02/10/2560850/20200210_19380712_0012587994_002_001_BAIPASA__202.mp3
-- Otsailak 24:https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/02/24/2567520/20200224_19402713_0012616817_002_001_BAIPASA__202.mp3
-- Martxoak 9: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/09/2575477/20200309_19370219_0012654409_002_001_BAIPASA__202.mp3
-- Martxoak 23: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/23/2581358/20200323_20165202_0012681869_002_001_BAIPASA__202.mp3
+- Urtarrilak 13: [Interneten Energia Beharrak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/01/13/2546641/20200113_19445524_0012530068_002_001_BAIPASA__202.mp3)
+- Urtarrilak 27: [Hondakin elektronikoak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/01/27/2553886/20200127_19342313_0012557855_002_001_BAIPASA__202.mp3)
+- Otsailak 10:[Hegazkinen isurketak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/02/10/2560850/20200210_19380712_0012587994_002_001_BAIPASA__202.mp3)
+- Otsailak 24:[Brumadinhoko hondamendia Martin Mantxorekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/02/24/2567520/20200224_19402713_0012616817_002_001_BAIPASA__202.mp3)
+- Martxoak 9: [Berta Cáceres eta Agua Zarca](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/09/2575477/20200309_19370219_0012654409_002_001_BAIPASA__202.mp3)
+- Martxoak 23: [Goinerrekin Energia Demokratikoari buruz hizketan](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/23/2581358/20200323_20165202_0012681869_002_001_BAIPASA__202.mp3)
 - Apirilak 6: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/04/07/2588171/20200407_19504107_0012709610_002_001_BAIPASA__202.mp3
 - Apirilak 20: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/04/20/2593325/20200420_19343217_0012732503_002_001_BAIPASA__202.mp3
 - Maiatzak 11: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/05/11/2603236/20200511_19203605_0012774805_002_001_BAIPASA__202.mp3
