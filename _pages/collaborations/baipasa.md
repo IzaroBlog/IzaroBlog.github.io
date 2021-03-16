@@ -21,7 +21,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Otsailak 24:[Brumadinhoko hondamendia Martin Mantxorekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/02/24/2567520/20200224_19402713_0012616817_002_001_BAIPASA__202.mp3)
 - Martxoak 9: [Berta Cáceres eta Agua Zarca](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/09/2575477/20200309_19370219_0012654409_002_001_BAIPASA__202.mp3)
 - Martxoak 23: [Goinerrekin Energia Demokratikoari buruz hizketan](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/03/23/2581358/20200323_20165202_0012681869_002_001_BAIPASA__202.mp3)
-- Apirilak 6: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/04/07/2588171/20200407_19504107_0012709610_002_001_BAIPASA__202.mp3
+- Apirilak 6: [CO2 isurpenak eta Coronavirusaren arteko erlazioari buruz](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/04/07/2588171/20200407_19504107_0012709610_002_001_BAIPASA__202.mp3)
 - Apirilak 20: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/04/20/2593325/20200420_19343217_0012732503_002_001_BAIPASA__202.mp3
 - Maiatzak 11: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/05/11/2603236/20200511_19203605_0012774805_002_001_BAIPASA__202.mp3
 - Maiatzak 25: https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/05/25/2609503/20200525_19431309_0012804646_002_001_BAIPASA__202.mp3
