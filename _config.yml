@@ -41,7 +41,6 @@ header_pages:
   - _pages/about.md
   - _pages/aboutme.md
   - _pages/archive.md
-  - _pages/collaborations.md
 include:
     - _pages
 
