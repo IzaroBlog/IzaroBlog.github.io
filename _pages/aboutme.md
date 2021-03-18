@@ -20,7 +20,7 @@ Kontaktu zuzenerako:
 
 ## Kolaborazioak/*Colaboraciones*
 
-### Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
+### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertaldea](https://ekopol.eus/eu/)
 - [Zientzia Kaiera](https://zientziakaiera.eus/)
