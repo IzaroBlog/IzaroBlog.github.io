@@ -12,9 +12,9 @@ Kontaktu zuzenerako:
 
  ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaroblog.helbidea_txikia.png)
 
-- XMPP erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario XMPP*:
+- [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)*:
   > **pahoehoe@suchat.org**
-
+  > [Suchat.org](https://www.suchat.org/)
 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertaldea](https://ekopol.eus/eu/)
