@@ -28,12 +28,12 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Ekainak 8:[Eraikin eta hirigintza jasngarria Xabier Barrutietarekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/06/09/2616162/20200609_15333315_0012849433_002_001_BAIPASA__202.mp3)
 - Ekainak 22:[Norilsk, kutsatutako hiria](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/06/22/2621912/20200622_19280207_0012882023_002_001_BAIPASA__202.mp3)
 - Irailak 21:[Hirien papera Klima Larrialdian, mPower](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/09/21/2654272/20200921_19234417_0013046715_002_001_BAIPASA__202.mp3)
-- Urriak 5: ["Klima-krisia: Giza eskubideak mehatxatuta" gida aurkezpena, Nekane Viotarekin]https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/10/05/2660905/20201005_19170307_0013077575_002_001_BAIPASA__202.mp3
+- Urriak 5: ["Klima-krisia: Giza eskubideak mehatxatuta" gida aurkezpena, Nekane Viotarekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/10/05/2660905/20201005_19170307_0013077575_002_001_BAIPASA__202.mp3)
 - Urriak 19: [Aztarna Energetikoa, Ortzi Akizurekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/10/19/2671932/20201019_19095318_0013108271_002_001_BAIPASA__202.mp3)
 - Azaroak 16: [PostCovid Energia Trantsizioak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/11/16/2685492/20201116_19233104_0013216501_002_001_BAIPASA__202.mp3)
-- Azaroak 30: [Klima Larrialdiaren aurkako ekintzak, positiboan!]https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/11/30/2692773/20201130_19180813_0013257346_002_001_BAIPASA__202.mp3
-- Abenduak 14: [Pobrezia Energetikoa]https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/12/14/2699864/20201214_19095203_0013289306_002_001_BAIPASA__202.mp3
-- Abenduak 28:[Autokontsumoa gure etxeetan, Álvaro Camposekin]https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/01/04/2708463/20210104_20135513_0013335870_002_001_BAIPASA__202.mp3
+- Azaroak 30: [Klima Larrialdiaren aurkako ekintzak, positiboan!](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/11/30/2692773/20201130_19180813_0013257346_002_001_BAIPASA__202.mp3)
+- Abenduak 14: [Pobrezia Energetikoa](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/12/14/2699864/20201214_19095203_0013289306_002_001_BAIPASA__202.mp3)
+- Abenduak 28:[Autokontsumoa gure etxeetan, Álvaro Camposekin](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/01/04/2708463/20210104_20135513_0013335870_002_001_BAIPASA__202.mp3)
 
 
 
