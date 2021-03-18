@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Ongi etorria
+title: 👋 Ongi etorria
 list_title: 📙 Blog sarrerak / Artículos del blog
 ---
 Ongi etorria IzaroBlog-era! *Bienvenidas a Izaroblog!*<br>
