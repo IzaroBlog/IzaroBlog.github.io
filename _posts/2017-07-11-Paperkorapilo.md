@@ -8,6 +8,7 @@ tags: [eu, paper, unibertsitatea]
 Orain dela gutxi,<a href="https://es.wikipedia.org/wiki/Revista_acad%C3%A9mica" target="_blank" rel="noopener"> "Paper"</a> edo "Artikulu akademiko" delakoei buruz hausnartzen egon naiz, eta zuekin elkarbanatu nahi nituzke bai egindako gogoetak bai sortzen zaizkidan zalantzak.
 Gure ikerketa kasuan, "Paper" hauek aktibista garen zein EHUko irakasleen lanaren fruitua dira, diruz ordaindu ezin diren ordu eta boluntariotza lanak eta soldata publikoa duten ikerlarien lana izaki.
 Behin lana egin eta gero, nazioarteko argitaletxe bati bidaltzen diogu, bere aldizkarian argitaratzeko.<a href="https://es.wikipedia.org/wiki/Journal_Citation_Reports"> JCR </a>edo inpaktu gero eta handiagoko aldizkarian orduan eta zailago argitaratzea, eta orduan eta puntu gehiago lortzen omen dira.
+
 <em>Orain arte, nahiko normala ematen du prozesuak ezta?</em>
 Beno, ba behin zuzendu eta argitaratu denean, gure lana edo paperra ezin dugu zabaldu, ze honen eskubide guztiak editorialak ditu, eta norbaitekin elkarbanatu nahi badugu (adibidez ikerketan parte hartu duen edo elkarrizketatua izan den norbaitekin) <strong><em>36 €</em></strong> ordaindu behar zaizkio argitaletxeari.
 <em>Interesgarria, ezta?</em>
