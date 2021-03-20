@@ -28,11 +28,11 @@ tags: [eu, energia, Energia Gutuna]
 <li>InfraRed eta beste batzuk, ?</li>
 <li>BayWa: ?</li>
 </ul>
-[caption id="attachment_2992" align="aligncenter" width="481"]<img class="alignnone size-full wp-image-2992" src="https://izaroblog.files.wordpress.com/2020/05/image12-graph-e1589041963222.png" alt="image12-graph" width="481" height="459" /> Berriztagarrien gainean egindako 47 salaketen erdiak ikatza, petrolioa, gasa edo energia nuklearrarekin erlazioa zuten enpresak egindakoak izan dira. Irudia eta informazioa: https://www.energy-charter-dirty-secrets.org/[/caption]
+<img class="alignnone size-full wp-image-2992" src="https://izaroblog.files.wordpress.com/2020/05/image12-graph-e1589041963222.png" alt="image12-graph" width="481" height="459" />
+Berriztagarrien gainean egindako 47 salaketen erdiak ikatza, petrolioa, gasa edo energia nuklearrarekin erlazioa zuten enpresak egindakoak izan dira. 
 <h5>Kasuen igoera nabarmena:</h5>
 <p>2020ko martxoan, 129 inbertitzaile-eskariren berri izan zen. Tratatuaren indarraldiko lehen 10 urteetan 19 eskari baino ez ziren erregistratu (1998-2007). Nahikoa da kopuru hori azken hamarkadan (2010-2019) aurkeztu diren 102 eskaerekin alderatzea. Horrek esan nahi du <strong>estatuen aurkako eskaerak% 437 igo direla</strong>. Goranzko joera nabarmena izanik.</p>
-[caption id="attachment_2993" align="aligncenter" width="1328"]<a href="https://energy-charter-dirty-secrets.org/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-2993" src="https://izaroblog.files.wordpress.com/2020/05/cases-graph-1-2019.png" alt="cases-graph-1-2019" width="1328" height="612" /></a> Irudia https://energy-charter-dirty-secrets.org/ webgunetik hartuta[/caption]
-<p>Kasuak gero eta gehiago izango dira, eta itunaren barne mekanismoek argi uzten dute estatuek ez dutela irabazteko aukera handiegirik. Transnazionalek argi ikusten dute diru publikoa lapurtzeko legezko aukera paregabea dela!</p>
+<a href="https://energy-charter-dirty-secrets.org/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-2993" src="https://izaroblog.files.wordpress.com/2020/05/cases-graph-1-2019.png" alt="cases-graph-1-2019" width="1328" height="612" /></a> <p>Kasuak gero eta gehiago izango dira, eta itunaren barne mekanismoek argi uzten dute estatuek ez dutela irabazteko aukera handiegirik. Transnazionalek argi ikusten dute diru publikoa lapurtzeko legezko aukera paregabea dela!</p>
 <p>Baina hau ez da larriena nire ustez. <strong>EGIa pobrezia energetikoa murriztea eta elektrizitatea eskuragarria izatea helburu duten gobernuen aurka egiteko erabil daitekeela da; eta baita larrialdi klimatikoaren edota trantsizio energetiko baten alde egiten duten gobernuen aurka ere.</strong></p>
 <p>EGIaren barne esparruan, Bulgariak eta Hungariak dagoeneko ehunka milioi euroko eskari edo demanda dituzte, neurri batean, konpainia elektriko handien irabaziak mugatzeagatik eta elektrizitatearen prezioak jaisteko presioa egiteagatik.<br />Inbertsioetan espezializatutako abokatuak Erresuma Batuaren aurka antzeko ekintzei ekiteko aukera aztertzen ari dira; izan ere, Gobernuak energiaren gaineko prezio maximoa proposatu du gehiegizko fakturekin amaitzeko.<br />Eta eskaera guzti hauen atzean, gas, ikatz eta petrolio enpresa edo inbertsore handiak daude ikusi dugun bezala.<br />Nola daiteke estatu batek halako itun bat sinatu izana? Eta nola liteke oraindik indarrean egotea?</p>
 <p>Informazio gehiago eskuratu nahi baduzue:</p>
@@ -45,3 +45,4 @@ tags: [eu, energia, Energia Gutuna]
 <li><a href="https://www.energycharter.org/" target="_blank" rel="noopener">(EN)Energy Charter web orri ofiziala</a></li>
 <li><a href="http://www.noalttip.org/" target="_blank" rel="noopener">TTIParen aurkako webgunean</a> ere informazioa badago</li>
 </ul>
+Irudia eta informazioa: [https://www.energy-charter-dirty-secrets.org/](https://www.energy-charter-dirty-secrets.org/)
