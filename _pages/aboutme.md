@@ -23,7 +23,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 - [Zientzia Kaiera](https://zientziakaiera.eus/)
 
 ### 📻 Irratia
-Euskadi Irratiko Baipasa saioan egindako saioak hementxe ikusi eta entzun ditzakezu:https://izaroblog.github.io/collaborations/Baipasa
+Euskadi Irratiko Baipasa saioan egindako saioak [hementxe](https://izaroblog.github.io/collaborations/Baipasa) ikusi eta entzun ditzakezu.
 
 ### Hitzaldiak
 
