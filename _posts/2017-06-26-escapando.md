@@ -7,6 +7,7 @@ tags: [es, internet, facebook, diaspora]
 ---
 <span style="font-family:Ubuntu Light;"><span style="font-size:large;">Llevo un tiempo reflexionando sobre el papel que tienen las redes sociales, sobre todo desde el punto de vista del activismo.
 Muchas veces hablamos de que es necesario llegar a “más gente”, que se conozcan las injusticias, los informes que desmontan las falacias del sistema, las actividades que se plantean para hacerle frente… pero a veces pienso que no sé si es contraproducente tanto ciber-activismo o click-activismo que nos deja contentos dando un “me gusta” o compartiendo la causa de turno.</span></span>
+
 <blockquote><span style="font-family:Ubuntu Light;"><span style="font-size:large;">
 </span></span><span style="font-family:Ubuntu Light;"><span style="font-size:large;"><strong> ¿Nos hace más conscientes de todo lo que leemos en 5 segundos en Facebook, o nos va insensibilizando y limpiamos nuestra conciencia con dos clicks?</strong> </span></span></blockquote>
 <span style="font-family:Ubuntu Light;"><span style="font-size:large;">Y es más... ¿vamos a usar las herramientas del sistema para intentar desactivarlo? ¿O tenemos que apropiarnos de otras?
