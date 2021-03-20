@@ -45,4 +45,4 @@ Berriztagarrien gainean egindako 47 salaketen erdiak ikatza, petrolioa, gasa edo
 <li><a href="https://www.energycharter.org/" target="_blank" rel="noopener">(EN)Energy Charter web orri ofiziala</a></li>
 <li><a href="http://www.noalttip.org/" target="_blank" rel="noopener">TTIParen aurkako webgunean</a> ere informazioa badago</li>
 </ul>
-Irudia eta informazioa: [https://www.energy-charter-dirty-secrets.org/](https://www.energy-charter-dirty-secrets.org/)
+Irudiak eta informazioa:[https://www.energy-charter-dirty-secrets.org/](https://www.energy-charter-dirty-secrets.org/)
