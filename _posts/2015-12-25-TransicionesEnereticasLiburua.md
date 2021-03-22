@@ -8,6 +8,7 @@ tags: [es, energia, transiciones, libro ]
 Orain dela urte t'erdi proiektuarekin hasi nintzenean ez nuen susmatu ere egiten hainbeste istorio polit eta pertsona on ezagutzeko aukera izango nuela "Trantsizio energetikoei" buruzko ikerketa bat egitean! Esperientzia ikaragarri aberasgarriak izan dira, nire kasuan bai Brasilgo <a href="http://mabnacional.org.br/" target="_blank">MAB-</a>eko kideekin zein <a href="http://ekologistakmartxan.org/" target="_blank">Ekologistak Martxan</a>ekoeki ere!
 
 <a href="https://izaroblog.files.wordpress.com/2015/12/cropped-martinirudia2.jpg" rel="attachment wp-att-1692"><img class="alignleft wp-image-1692 " src="https://izaroblog.files.wordpress.com/2015/12/cropped-martinirudia2.jpg?w=169" alt="cropped-martinirudia2" width="145" height="258" /></a>
+
 Hace un año y medio que comenzamos el proyecto denominado <em>"Transiciones energéticas, de la deuda ecológica al buen vivir". </em>Ha sido un año y medio muy intenso en el que el grupo de investigación formado por <strong>Iñaki, Rosa, Ortzi, Leire, Martin</strong> y yo hemos trabajado con mucha ilusión para terminar el documental y el libro que presentamos este mismo mes.
 
 <!--more-->El trabajo que hemos realizado no hubiera sido posible sin todas las personas, asociaciones y movimientos que nos han apoyado, dado cobijo, enviado información, compartido música y fotos, corregido los datos, invitado a sus casas a comer y propiciado conversaciones en torno a una mesa con cerveza... sin todas ellas habría sido posible terminar el trabajo!!
