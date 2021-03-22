@@ -10,7 +10,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 
 ## 📨 Harremanetarako/ *Contacto*
 
- ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaroblog.helbidea.png)
+ ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaro.helbidea.png)
 
 💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
   > **pahoehoe@suchat.org**  
