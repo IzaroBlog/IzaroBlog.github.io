@@ -17,4 +17,4 @@ Hementxe uzten dizkizuet arte hartu dudan dokumentalen zerrenda bat. Batzuetan p
 
 ### UKSkoa
 
-### Hegoakoa
+### Hegoakoa (https://multimedia.hegoa.ehu.eus/es/videos/131-trantsizio-energetikoa)
