@@ -3,25 +3,25 @@ permalink: /about
 layout: page
 title: About
 ---
-## Bloga/*El Blog*  
+## 📙 Bloga/*El Blog*  
 2012 inguruan blogetan sarrerak idazten hasi nintzen. Beranduxeago [Izaroblog](https://izaroblog.com/) weborria sortu nuen eta hori izan da nire etxea idazkiak argitaratzeko 2021 arte. Orain berriz github plataformara egin dut salto, erosoagoa egiten zait eta hemendik idaztea... hori da nire hasierako ideia behintzat! Espero dut sarrera gehiago idaztea hemendik aurrera! 
 
 *Empecé a escribir entradas de blog allá por 2012, posteriormente creé [Izaroblog](https://izaroblog.com/) para seguir escribiendo y ha sido mi casa hasta el 2020. Actualmente escribo en este lugar de Github, ya que se me hace más cómodo y fácil. Espero poder escribir mucho tiempo por aquí!*
 
-### Zeri buruz idazten dut? / *Sobre qué escribo?*
+### ✍️ Zeri buruz idazten dut? / *Sobre qué escribo?*
 Hau ez da blog tekniko edo monografiko bat. Gai asko lantzen ditut, nire hausnarketak, esperientziak, musika edota egoera pertsonalen berri adibidez. Hala ere nabaritu dut gai batzuei buruz gehiago idazten dudala, hala nola: **Energia**, **Software Librea**, **Internet**, **Klima Larrialdia**, **Liburuak**, **Ingurumena** eta **Lankidetza**.
 
 _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir sobre mis reflexiones, esperiencias vividas, música que escucho y preguntas que me hago por ejemplo. No obstante, si que he notado que hay temas recurrentes sobre los que escribo como son: **Energía**, **Software Libre**, **Internet**, **Emergencia Climática**, **Libros**, **Medio Ambiente** y **Cooperación**_.
 
 
-## 📨 Harremanetarako/ *Contacto*
+### 📨 Harremanetarako/ *Contacto*
 
  ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaro.helbidea.png)
 
 💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
   > **pahoehoe@suchat.org**  
  
- ## 😺 Zergatik blog bat Github-en/ *¿Por qué un blog en Github?*
+### 😺 Zergatik blog bat Github-en/ *¿Por qué un blog en Github?*
 
 Wordpressen nuen bloga, [Izaroblog](www.izaroblog.com), eta baneraman urte batzuk pentsatzen ea leku egokitik idazten ari nintzen. Zergatik aldaketa? 
 1. Barne-aldetik: Wordpress gero eta zailago eta konplikatuagoa egiten zitzaidan kudeatzen. Barne aldaketa asko, aukera piloa, eta idazteko editorea gero eta zailagoa egiten zitzaidan. Agian [Markdown](https://eu.wikipedia.org/wiki/Markdown) testuak idazteko erabiltzera ohitu izanak bere zerikusia zuen, baina denbora gehiago ematen nuen gauzak non jarri, diseinua nolakoa izan zitekeen eta plug-inak antolatzen, idazten baino. Nagikeria ematen zidan guzti horrek. 
