@@ -11,7 +11,7 @@ title: About
 ### Zeri buruz idazten dut? / *Sobre qué escribo?*
 Hau ez da blog tekniko edo monografiko bat. Gai asko lantzen ditut, nire hausnarketak, esperientziak, musika edota egoera pertsonalen berri adibidez. Hala ere nabaritu dut gai batzuei buruz gehiago idazten dudala, hala nola: **Energia**, **Software Librea, **Internet**, **Larrialdi Klimatikoa**, **Liburuak**, **Ingurumena** eta **Lankidetza**.
 
-*Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir sobre mis reflexiones, esperiencias vividas, música que escucho y preguntas que me hago por ejemplo. No obstante, si que he notado que hay temas recurrentes sobre los que escribo como son: **Energía**, **Software Libre, **Internet**, **Emergencia Climática**, **Libros**, **Medio Ambiente** y **Cooperación**.*
+_Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir sobre mis reflexiones, esperiencias vividas, música que escucho y preguntas que me hago por ejemplo. No obstante, si que he notado que hay temas recurrentes sobre los que escribo como son: **Energía**, **Software Libre, **Internet**, **Emergencia Climática**, **Libros**, **Medio Ambiente** y **Cooperación**_.
 
 
 ## 📨 Harremanetarako/ *Contacto*
