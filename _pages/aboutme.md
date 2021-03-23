@@ -22,8 +22,8 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 - [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) profila. Akademikoen Facebook antzeko bat da, eta ez dut gehiegi erabiltzen egia esan, baina noizbehinka sartzen naiz! 
 
 *Soy miembro del grupo de investigación [ekopol](https://www.ehu.eus/es/web/ekopol/home) y estos son los enlaces que puedes utilizar para ver mi actividad académíca:*
-- *Mi [ORCID] (https://orcid.org/0000-0002-9050-9155)*
-- *Perfil de [ResearchGate] (https://www.researchgate.net/profile/Izaro_Basurko). Es como un Facebook de los académicos, que no uso demasiado la verdad, ¡pero me meto de vez en cuando!*
+- *Mi [ORCID](https://orcid.org/0000-0002-9050-9155)*
+- *Perfil de [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko). Es como un Facebook de los académicos, que no uso demasiado la verdad, ¡pero me meto de vez en cuando!*
 
 ### 📻 Irratia
 Euskadi Irratiko Baipasa saioan egindako saioak [hementxe](https://izaroblog.github.io/collaborations/Baipasa) ikusi eta entzun ditzakezu.
