@@ -11,7 +11,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 ### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertalde](https://ekopol.eus/eu/)-ko blogean.
-- UPV/EHUko[Zientzia Kaiera](https://zientziakaiera.eus/)-n.
+- UPV/EHUko [Zientzia Kaiera](https://zientziakaiera.eus/)-n.
 
 ### 📚 Arlo akademikoa / *En la academia*
 [ekopol ikertalde](https://www.ehu.eus/eu/web/ekopol/home)-ko kide naiz eta hauexek dira nire ekarpenak akademikoak ikusteko erabili ditzakezun estekak: 
