@@ -15,7 +15,9 @@ Beno, ba behin zuzendu eta argitaratu denean, gure lana edo paperra ezin dugu za
 Baina oraindik gehiago ere badago.... <a href="http://www.ehu.eus/es">EHUk</a>, unibertsitate publikoa izaki, argitaletxe haundi hauei harpidetza bat ordaintzen die EHUko ikasle zein ikerlariek "ordaindu gabe" deskargatzeko aukera izan dezaten, zinez EHUko irakasleek egindako lana bada ere. Nahi dugunari libreki dokumentua elkarbanatzeko ere aukera ematen digu argitaletxeak, "open acces" bezala jarrita, baina horretarako hainbat mila euro ordaindu behar zaizkio....
 Eta azkenik, paper eta dokumentu hauen errebisioa, <em>peer review,</em> egiten duten pertsonen lana ez du inortxok ere ordaintzen.
 
-[caption id="" align="aligncenter" width="474"]<a href="https://es.wikipedia.org/wiki/Revisi%C3%B3n_por_pares#/media/File:ScientificReview.jpg"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/6/68/ScientificReview.jpg" width="474" height="267" /></a> "Peer Review" De Center for Scientific Review [2] - From Center for Scientific Review [1], part of the NIH, and thus under public domain, Dominio público, https://commons.wikimedia.org/w/index.php?curid=286493[/caption]<em>Ondo ulertu al duzue sistema? Hala bada...</em>
+<a href="https://es.wikipedia.org/wiki/Revisi%C3%B3n_por_pares#/media/File:ScientificReview.jpg"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/6/68/ScientificReview.jpg" width="474" height="267" /></a> <em>
+ >"Peer Review" De Center for Scientific Review [2] - From Center for Scientific Review [1], part of the NIH, and thus under public domain, Dominio público, https://commons.wikimedia.org/w/index.php?curid=286493
+ Ondo ulertu al duzue sistema? Hala bada...</em>
 <blockquote>Merezi al du horrelako lekuetan argitaratzeak?</blockquote>
 Ikerlari batzuekin komentatu eta gero artikuluak guztion eskuragarri uzteko trikimailu batzuk egiten dituztela esan didate. <a href="https://eu.wikipedia.org/wiki/Copyright">Copyright</a>-ari aurre egiteko,  <a href="https://www.researchgate.net/">Researchgate</a> erabiltzen dute adibidez, artikuluaren azken bertsioaren zirriborro bat igo; irudi, taula eta formula guztiekin txukun-txukun, eta <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/es/legalcode.eu">CC-BY-NC-ND</a> lizentziarekin, guztion eskuragarri uzten dute, argitaletxara bidali baino lehen.
 
@@ -27,5 +29,6 @@ Nire aldetik ere ikertzen aritu naiz eta <a href="https://es.wikipedia.org/wiki/
 
 Beste aldetik badago <a href="https://en.wikipedia.org/wiki/Open_access">"open acces"</a> izeneko mugimendu bat ere:  eta bertan badaude aldizkari zientifikoak paperrak argitaratzeko; hementxe lista: <a href="https://doaj.org/">https://doaj.org/</a>
 
-[caption id="" align="aligncenter" width="133"]<a href="https://es.wikipedia.org/wiki/Acceso_abierto"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="133" height="208" /></a> art designer at PLoS, modified by Wikipedia users Nina, Beao, and JakobVoss - http://www.plos.org/[/caption]
+<a href="https://es.wikipedia.org/wiki/Acceso_abierto"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="133" height="208" /></a> 
+> art designer at PLoS, modified by Wikipedia users Nina, Beao, and JakobVoss - http://www.plos.org/
 <blockquote>Irakule maiteok.... ezagutzen al duzue dago joku hontan ez dagoen "paper" argitaletxerik? Dokumentuak denon eskura eta lizentzia askeen bitartez uzten dituena?</blockquote>
