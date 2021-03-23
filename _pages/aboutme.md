@@ -19,7 +19,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 ### 📚 Arlo akademikoa / *En la academia*
 [ekopol ikertalde](https://www.ehu.eus/eu/web/ekopol/home)-ko kide naiz eta hauexek dira nire ekarpenak akademikoak ikusteko erabili ditzakezun estekak: 
 - Nire [ORCID](https://orcid.org/0000-0002-9050-9155)-a
-- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) profila. Akademikoen Facebook antzeko bat da, eta ez dut gehiegi erabiltzen egia esan, baina noizbehinka sartzen naiz! 
+- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) profila. Akademikoen Facebook antzeko bat da, eta ez dut gehiegi erabiltzen egia esan, baina noizbehinka sartzen naiz! <br>
 *Soy miembro del grupo de investigación [ekopol](https://www.ehu.eus/es/web/ekopol/home) y estos son los enlaces que puedes utilizar para ver mi actividad académíca:*
 - *Mi [ORCID] (https://orcid.org/0000-0002-9050-9155)*
 - *Perfil de [ResearchGate] (https://www.researchgate.net/profile/Izaro_Basurko). Es como un Facebook de los académicos, que no uso demasiado la verdad, ¡pero me meto de vez en cuando!*
