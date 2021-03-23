@@ -20,8 +20,8 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 Euskadi Irratiko Baipasa saioan egindako saioak [hementxe](https://izaroblog.github.io/collaborations/Baipasa) ikusi eta entzun ditzakezu.
 
 ### 🗣 Hitzaldiak
-Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.
-Aquí podréis encontrar el material de las presentaciones o charlas en las que he participado. 
+Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
+*Aquí podréis encontrar el material de las presentaciones o charlas en las que he participado.*
 
 ### ♟ Xakea / Ajedrez 
 Nirekin xakean jolastu nahi baduzue [Lichess.org](https://lichess.org/)-en aurkituko nauzue, erabiltzailea  **[IzaroChess](https://lichess.org/@/izarochess)** da! <br>
