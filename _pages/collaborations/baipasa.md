@@ -11,6 +11,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Urtarrilak 25: [Goienerrekin Energiak monografikoari buruz.](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/01/25/2718430/20210125_21253821_0013384051_002_001_BAIPASA__202.mp3)
 - Otsailak 8: [Klima larrialdia eta bankuen arteko erlazioak.](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/02/08/2725068/20210208_19083401_0013415955_002_001_BAIPASA__202.mp3)
 - Martxoak 8: [Hidrogenoa al da etorkizuna?](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/08/2738934/20210308_19120322_0013547276_002_001_BAIPASA__202.mp3) 
+- Martxoak 22: [Klima Larrialdiaren aurkako ekintza globala eta arrazoiak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/22/2745518/20210322_19201006_0013579277_002_001_BAIPASA__202.mp3)
 
 
 
