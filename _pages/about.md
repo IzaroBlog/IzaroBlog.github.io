@@ -9,7 +9,7 @@ title: About
 *Empecé a escribir entradas de blog allá por 2012, posteriormente creé [Izaroblog](https://izaroblog.com/) para seguir escribiendo y ha sido mi casa hasta el 2020. Actualmente escribo en este lugar de Github, ya que se me hace más cómodo y fácil. Espero poder escribir mucho tiempo por aquí!*
 
 ### Zeri buruz idazten dut? / *Sobre qué escribo?*
-Hau ez da blog tekniko edo monografiko bat. Gai asko lantzen ditut, nire hausnarketak, esperientziak, musika edota egoera pertsonalen berri adibidez. Hala ere nabaritu dut gai batzuei buruz gehiago idazten dudala, hala nola: **Energia**, **Software Librea, **Internet**, **Larrialdi Klimatikoa**, **Liburuak**, **Ingurumena** eta **Lankidetza**.
+Hau ez da blog tekniko edo monografiko bat. Gai asko lantzen ditut, nire hausnarketak, esperientziak, musika edota egoera pertsonalen berri adibidez. Hala ere nabaritu dut gai batzuei buruz gehiago idazten dudala, hala nola: **Energia**, **Software Librea, **Internet**, **Klima Larrialdia**, **Liburuak**, **Ingurumena** eta **Lankidetza**.
 
 _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir sobre mis reflexiones, esperiencias vividas, música que escucho y preguntas que me hago por ejemplo. No obstante, si que he notado que hay temas recurrentes sobre los que escribo como son: **Energía**, **Software Libre, **Internet**, **Emergencia Climática**, **Libros**, **Medio Ambiente** y **Cooperación**_.
 
