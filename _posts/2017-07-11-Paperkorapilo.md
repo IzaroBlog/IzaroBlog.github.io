@@ -18,7 +18,7 @@ Eta azkenik, paper eta dokumentu hauen errebisioa, <em>peer review,</em> egiten 
 <a href="https://es.wikipedia.org/wiki/Revisi%C3%B3n_por_pares#/media/File:ScientificReview.jpg"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/6/68/ScientificReview.jpg" width="474" height="267" /></a> <em>
  >"Peer Review" De Center for Scientific Review [2] - From Center for Scientific Review [1], part of the NIH, and thus under public domain, Dominio público, https://commons.wikimedia.org/w/index.php?curid=286493
  Ondo ulertu al duzue sistema? Hala bada...</em>
-<blockquote>Merezi al du horrelako lekuetan argitaratzeak?</blockquote>
+**Merezi al du horrelako lekuetan argitaratzeak?**
 Ikerlari batzuekin komentatu eta gero artikuluak guztion eskuragarri uzteko trikimailu batzuk egiten dituztela esan didate. <a href="https://eu.wikipedia.org/wiki/Copyright">Copyright</a>-ari aurre egiteko,  <a href="https://www.researchgate.net/">Researchgate</a> erabiltzen dute adibidez, artikuluaren azken bertsioaren zirriborro bat igo; irudi, taula eta formula guztiekin txukun-txukun, eta <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/es/legalcode.eu">CC-BY-NC-ND</a> lizentziarekin, guztion eskuragarri uzten dute, argitaletxara bidali baino lehen.
 
 <a href="https://creativecommons.org/"><img class="aligncenter " src="http://untzimuseoa.eus/images/itsas_memoria_orokorra/by-nc-nd.png" width="360" height="126" /></a>
