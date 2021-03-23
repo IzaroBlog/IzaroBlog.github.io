@@ -16,3 +16,6 @@ https://dialnet.unirioja.es/servlet/articulo?codigo=2555604
 
 
 https://www.mdpi.com/1996-1073/13/6/1315
+
+
+https://publicaciones.hegoa.ehu.eus/es/publications/437
