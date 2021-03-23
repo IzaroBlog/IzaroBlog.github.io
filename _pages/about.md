@@ -18,7 +18,7 @@ _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir so
 
 ![email](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/izaro.helbidea.txik.png)
 
-- 💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
+💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
   > **pahoehoe@suchat.org**  
  
 ### 😺 Zergatik blog bat Github-en/ *¿Por qué un blog en Github?*
