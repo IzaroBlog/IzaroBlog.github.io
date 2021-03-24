@@ -2,7 +2,7 @@
 layout: post
 title: "El ciudadanismo en los movimientos sociales"
 date:   2019-11-08
-categories: es, book
+categories: es book
 tags: [es, ciudadanismo, libros]
 ---
 <p>He aprovechado estas vacaciones para leer el libro <a href="https://lamalatesta.net/ensayo/5671-repensar-la-anarquia.html">"Repensar la anarquía"</a>&nbsp; de <a href="http://carlostaibo.com/index.php">Carlos Taibo</a> que tenía pendiente. Me han gustado mucho los planteamientos y aunque trata muchos temas quizá de forma un poco generalista, deja muchos hilos, autoras y bibliografía sobre los que tirar en caso de querer profundizar, muy recomendable.</p>
