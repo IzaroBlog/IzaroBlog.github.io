@@ -2,7 +2,7 @@
 layout: post
 title: "Interneten energia beharrak"
 date:   2020-01-16
-categories: eu, energia, internet
+categories: eu energy internet
 tags: [eu, energia, data center, internet]
 ---
 
