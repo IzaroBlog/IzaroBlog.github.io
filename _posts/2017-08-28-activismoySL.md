@@ -2,7 +2,7 @@
 layout: post
 title:  "Activismo y Software Libre"
 date:   2017-08-28
-categories: es, internet, softwarelibre
+categories: es freesoftware
 tags: [es, internet, software libre, activismo, RMS]
 ---
 Esta semana he estado en la <a href="https://www.esu2017.org/?lang=es" target="_blank" rel="noopener">Universidad de Verano Europea para Movimientos Sociales,</a> organizada por <a href="http://www.attac.es/" target="_blank" rel="noopener">ATTAC</a>. Nos hemos juntado más de 1.500 personas durante cinco calurosos días en Toulouse, dónde se han tratado temas de mucho interés: justicia social, transiciones energéticas, la nueva política europea tras el Brexit, las tasas financieras, ecofeminismo, paraísos fiscales el fin de la mundialización e incluso sobre "<em>Tácticas para el cambio social y ecológico".</em>
