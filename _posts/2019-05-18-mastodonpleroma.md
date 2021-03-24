@@ -2,7 +2,7 @@
 layout: post
 title: "Zergatik pasa naiz Mastodonetik Pleromara?"
 date:   2019-05-18
-categories: eu, internet
+categories: eu internet
 tags: [eu,internet, mastodon, pleroma]
 ---
 <p><strong><em>Zergatik pasa naiz</em> <a href="https://eu.wikipedia.org/wiki/Mastodon_(gizarte-sarea)">Mastodon</a>-etik <a href="https://blog.soykaf.com/post/what-is-pleroma/">Pleroma</a>-ra?</strong><br>
