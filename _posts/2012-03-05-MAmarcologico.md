@@ -2,7 +2,7 @@
 layout: post
 title:  "Integrando el medio ambiente en el marco lógico"
 date:   2012-03-05
-categories: es, cooperation
+categories: es cooperation
 tags: [es, cooperación, medio ambiente, marco lógico, proyectos]
 ---
 <span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Siguiendo con el tema del medio ambiente y la cooperación al desarrollo, a continuación os propongo </span></span></span><span style="font-family:Ubuntu;"><span style="font-size:medium;">revisar un estudio publicado recientemente <a title="Manual" href="http://www.fundacion-ipade.org/manual-para-la-integracion-del-medio-ambiente-en-la-cooperacion-al-desarrollo" target="_blank" rel="noopener">"</a></span></span><strong><span style="font-family:Ubuntu;"><span style="font-size:medium;"><a title="Manual" href="http://www.alianzaporlasolidaridad.org/publicaciones/manual-de-medio-ambiente-retos" target="_blank" rel="noopener">Manual para la integracion del medio ambiente en la cooperacion al desarrollo"</a></span></span></strong><span style="font-family:Ubuntu;"><span style="font-size:medium;"> realizado por <a href="http://www.fundacion-biodiversidad.es/" target="_blank" rel="noopener">Fundación Biodiversidad</a> e <a href="http://www.fundacion-ipade.org/" target="_blank" rel="noopener">IPADE</a>.</span></span>
