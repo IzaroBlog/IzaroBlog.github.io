@@ -2,7 +2,7 @@
 layout: post
 title:  "Larrialdi Klimatikoa birus garaian"
 date:   2020-04-07 22:55:45 +0100
-categories: eu energy
+categories: eu energy environment
 tags: [klima larrialdia, coronavirus, isurpenak, euskara]
 ---
 **Egungo egoera isurpen eta kutsadurarekin**
