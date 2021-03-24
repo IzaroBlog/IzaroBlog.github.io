@@ -2,7 +2,7 @@
 layout: post
 title:  "Enfoque de género en proyectos de cooperación. Experiencias propias"
 date:   2012-02-13
-categories: es, cooperation
+categories: es cooperation
 tags: [es,cooperación, género ]
 ---
 Estos últimos días estamos aprendiendo mucho sobre el tema del género en la cooperación. Hasta <a href="http://euskadi.isf.es/home/index.php" target="_blank">ISF-MGI </a>se ha acercado <a href="http://www.dicc.hegoa.ehu.es/authors/entradas_by_author/6" target="_blank">Clara Murguialday</a> que nos está ayudando a incluir el enfoque de género en los proyectos de fin de carrera.
