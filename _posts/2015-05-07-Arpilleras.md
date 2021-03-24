@@ -2,7 +2,7 @@
 layout: post
 title:  "Arpilleras"
 date:   2015-05-07
-categories: es,  
+categories: es 
 tags: [es, arpilleras, MAB]
 ---
 <span style="font-family:Ubuntu Light;"><span style="font-size:large;"><span lang="es-EC">La técnica de las arpilleras surgió en Isla Negra, en Chile, y adquirió su carácter político durante el periodo de la dictadura militar en el país. A través de la <a title="Estepa" href="https://es.wikipedia.org/wiki/Cistus">estepa,</a> un material de aspecto áspero y grueso, empleado para la fabricación de sacos; mujeres de los suburbios de Santiago se apropiaron de esta herramienta para desarrollar narrativas contra la represión comandada por <a title="Pinochet" href="https://www.es.amnesty.org/temas/justicia-internacional/contra-la-impunidad-de-los-crimenes-internacionales/jurisdiccion-universal/el-caso-pinochet/" target="_blank">Augusto Pinochet.  </a>Una de las personas que más trabajo en ello es <a title="Violeta Parra" href="http://www.violetaparra.cl/" target="_blank">Violeta Parra</a>, <em>arpillerista azul, verde y granate...</em>
