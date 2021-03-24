@@ -2,7 +2,7 @@
 layout: post
 title:  "El modelo energético de Iberdrola"
 date:   2015-08-25
-categories: es, energia, 
+categories: es energy
 tags: [es, energia, Iberdrola]
 ---
 
