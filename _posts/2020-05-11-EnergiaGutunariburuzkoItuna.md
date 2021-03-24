@@ -2,7 +2,7 @@
 layout: post
 title:  "Energia Gutunari buruzko Ituna"
 date:   2020-05-11
-categories: eu, energy
+categories: eu energy
 tags: [eu, energia, Energia Gutuna]
 ---
 
