@@ -2,7 +2,7 @@
 layout: post
 title:  "Un paseo por el NY del 89, con Lou Reed"
 date:   2012-03-09
-categories: es, music
+categories: es music
 tags: [es, Lou Reed, Dirty Boulevard, musica]
 ---
 
