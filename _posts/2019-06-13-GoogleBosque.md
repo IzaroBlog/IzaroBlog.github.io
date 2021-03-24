@@ -2,7 +2,7 @@
 layout: post
 title: "De cómo Google se hizo dueña del bosque"
 date:   2019-06-13
-categories: es, internet
+categories: es internet
 tags: [es,internet, google]
 ---
 Un día la pequeña ardilla fue a correos a enviar una carta,&nbsp; después de que el amable cuervo le pesara el sobre y le estampara el sello, le dijo: "es gratis, no te preocupes ardilla, llegará en un día o dos a su destino".
