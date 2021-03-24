@@ -2,7 +2,7 @@
 layout: post
 title:  "Desarrollo, cooperación y tecnología"
 date:   2012-02-21
-categories: es, cooperation
+categories: es cooperation
 tags: [es, cooperación, tecnología]
 ---
 <span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">El próximo viernes 2 de Marzo comienza el</span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> <a href="http://euskadi.isf.es/seminario/index.php" target="_blank">XIII Seminario sobre Desarrollo, Cooperación y Tecnología </a></span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">organizado por <a href="http://euskadi.isf.es/home/index.php" target="_blank">Ingeniería Sin Fronteras-Mugarik Gabeko Ingeniaritza(ISF-MGI)</a> El seminario está dividido en tres bloques: </span></span></span><strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Cooperación, Desarrollo y Tecnologías para el Desarrollo Humano</span></span></span></strong><span style="color:#000000;"><span style="font-family:Ubuntu;"><span style="font-size:medium;"> (TpDH), en los que cada bloque está formado por tres sesiones, una por viernes.</span></span></span>
