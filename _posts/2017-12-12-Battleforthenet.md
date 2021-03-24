@@ -2,7 +2,7 @@
 layout: post
 title:  "Battle for the net"
 date:   2017-12-12
-categories: es, internet
+categories: es internet
 tags: [es, internet, FSF,NetNeutrality, StopTheFCC]
 ---
 Bueno chavalada... por comentar, eh... que me ha pillado un poco a contra pie, pero que igual esto de la <a href="https://es.gizmodo.com/que-es-la-neutralidad-de-la-red-explicado-en-2-minutos-1794868754">neutralidad de la red</a> va a ser importante y todo. <strong>Stop.</strong>
