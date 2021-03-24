@@ -2,7 +2,7 @@
 layout: post
 title:  "Transiciones energéticas"
 date:   2015-12-25
-categories: es, energia, book, personal
+categories: es energy book
 tags: [es, energia, transiciones, libro ]
 ---
 Orain dela urte t'erdi proiektuarekin hasi nintzenean ez nuen susmatu ere egiten hainbeste istorio polit eta pertsona on ezagutzeko aukera izango nuela "Trantsizio energetikoei" buruzko ikerketa bat egitean! Esperientzia ikaragarri aberasgarriak izan dira, nire kasuan bai Brasilgo <a href="http://mabnacional.org.br/" target="_blank">MAB-</a>eko kideekin zein <a href="http://ekologistakmartxan.org/" target="_blank">Ekologistak Martxan</a>ekoeki ere!
