@@ -2,7 +2,7 @@
 layout: post
 title:  "Escapando de las redes"
 date:   2017-06-26
-categories: eu, university
+categories: eu university
 tags: [es, internet, facebook, diaspora]
 ---
 <span style="font-family:Ubuntu Light;"><span style="font-size:large;">Llevo un tiempo reflexionando sobre el papel que tienen las redes sociales, sobre todo desde el punto de vista del activismo.
