@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bankuak eta Klima Larrialdia"
-categories: eu, energy
+categories: eu energy
 tags: [eu, bankuak, klima larrialdia]
 ---
 **Zer ikusi daukate gure kontu korrontean izan ditzakegun aurrezkiek eta klima larrialdiak?**<br>
