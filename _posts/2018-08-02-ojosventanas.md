@@ -2,7 +2,7 @@
 layout: post
 title:  "Los ojos en las ventanas"
 date:   2018-08-02
-categories: es, personal
+categories: es personal
 tags: [es, personal, agustin, tamborrada]
 ---
 
