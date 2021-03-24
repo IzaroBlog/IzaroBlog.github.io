@@ -3,7 +3,7 @@ layout: post
 title:  "Paper-ren korapilo zoroa"
 date:   2017-07-11
 categories: eu university
-tags: eu paper unibertsitatea
+tags:[eu, paper, unibertsitatea]
 ---
 Orain dela gutxi,<a href="https://es.wikipedia.org/wiki/Revista_acad%C3%A9mica" target="_blank" rel="noopener"> "Paper"</a> edo "Artikulu akademiko" delakoei buruz hausnartzen egon naiz, eta zuekin elkarbanatu nahi nituzke bai egindako gogoetak bai sortzen zaizkidan zalantzak.
 Gure ikerketa kasuan, "Paper" hauek aktibista garen zein EHUko irakasleen lanaren fruitua dira, diruz ordaindu ezin diren ordu eta boluntariotza lanak eta soldata publikoa duten ikerlarien lana izaki.
