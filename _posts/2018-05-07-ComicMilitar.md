@@ -2,7 +2,7 @@
 layout: post
 title:  "Cómics militares en las favelas"
 date:   2018-05-07
-categories: es, 
+categories: es 
 tags: [es, cómic, brasil]
 ---
 La intervención militar en <a href="https://wp.me/p2bxqT-FU">Río de Janeiro</a> sigue su curso. Pero los militares no aperecerán en Copacabana ni en Ipanema, y menos aún cerca de los lujosos hoteles cariocas. Quizá se pueda ver algún helicóptero sobrevolando la playa, pero la presencia militar no ha ido de turismo a Río, no vaya a ser que den caza a algún pez gordo de la trama <a href="https://es.wikipedia.org/wiki/Caso_Odebrecht">Odebrecht.</a>
