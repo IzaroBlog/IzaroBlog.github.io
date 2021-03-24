@@ -2,7 +2,7 @@
 layout: post
 title:  "Río militar"
 date:   2018-02-20
-categories: es, 
+categories: es 
 tags: [es, Rio de Janeiro, brasil]
 ---
 A mediados de febrero el gobierno federal de Brasil decretó <a href="https://www.laizquierdadiario.com/Claves-para-entender-la-intervencion-militar-en-Rio-de-Janeiro" target="_blank" rel="noopener">la intervención militar en Río de Janeiro</a>.&nbsp; En el <a href="http://izaroblog.com/2016/08/05/energia-y-sociedad-en-el-capitalismo-contemporaneo-i/" target="_blank" rel="noopener">el curso </a>, hemos comentado cómo se ve la situación desde Río mismo y aquí os pongo un resumen de lo discutido.
