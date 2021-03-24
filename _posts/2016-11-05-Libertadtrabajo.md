@@ -2,7 +2,7 @@
 layout: post
 title:  "La libertad de un trabajo honesto"
 date:   2016-11-05
-categories: es, 
+categories: es 
 tags: [es, Martirio, trabajo]
 ---
 
