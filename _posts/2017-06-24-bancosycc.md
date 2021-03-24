@@ -2,7 +2,7 @@
 layout: post
 title:  "Bancos y cambio climático"
 date:   2017-06-24
-categories: es, climatechange, environment
+categories: es environment
 tags: [es, bancos, cambio climático]
 ---
 Los bancos siguen financiando el cambio climático, tal y como lo muestra este informe de <a href="https://www.ran.org/banking_on_climate_change" target="_blank" rel="noopener">Rainforest Action Network</a> titulado "<a href="https://www.ran.org/banking_on_climate_change" target="_blank" rel="noopener">Banking on Climate Change</a>".
