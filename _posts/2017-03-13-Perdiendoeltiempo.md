@@ -2,7 +2,7 @@
 layout: post
 title:  "Perdiendo el tiempo en el barrio"
 date:   2017-03-13
-categories: es, personal
+categories: es personal
 tags: [es, personal, barrio]
 ---
 <span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><span style="color:#333333;"><span style="font-family:Ubuntu;">El día pasado estuve comiendo una pizza al taglio en una pequeña <a href="http://pizzikodonostia.es/eu/">pizzería del barrio</a>, regentada por un simpático italiano. No es la primera vez que iba y esta vez disfrutamos ambos de una interesante charla sobre la situación política italiana, las diferencias entre Trump y Berlusconi y yo de paso, de una pizza excepcional.
