@@ -2,7 +2,7 @@
 layout: post
 title:  "Energía y sociedad en el capitalismo contemporáneo"
 date:   2016-08-05
-categories: es, energia
+categories: es energy
 tags: [es, brasil, MAB, IPPUR]
 ---
 Saludos Companheirada! A finales de julio he estado participando en nombre de <a href="http://www.ekologistakmartxan.org/">Ekologistak Martxan</a> en la cuarta edición del curso <a href="http://www.mabnacional.org.br/noticia/mab-e-ufrj-iniciam-4-turma-do-curso-energia-e-sociedade">“Energía y sociedad en el capitalismo contemporáneo”</a>, y me gustaría compartirlo!
