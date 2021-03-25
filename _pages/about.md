@@ -16,7 +16,7 @@ _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir so
 
 ### 📨 Harremanetarako/ *Contacto*
 
-![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txik.png)
+![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)
 
 💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
   > **pahoehoe@suchat.org**  
