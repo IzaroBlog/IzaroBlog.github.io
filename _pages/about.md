@@ -15,11 +15,11 @@ _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir so
 
 
 ### 📬 Harpidetza / *Suscripción*
-Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[¹] izango duzu sarrera argitaratuko orduko. <br>
+Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[1] izango duzu sarrera argitaratuko orduko. <br>
 <br>
 ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)<br>
 <br>
-*Si quieres recibir en tu correo electrónico las entradas que escribo, solo tienes que enviarme un correo a la dirección de arriba (puede estar vacío!) y recibirás la notificación[²] en tu correo al poco de escribir la entrada.* 
+*Si quieres recibir en tu correo electrónico las entradas que escribo, solo tienes que enviarme un correo a la dirección de arriba (puede estar vacío!) y recibirás la notificación[2] en tu correo al poco de escribir la entrada.* 
 
 ### 📨 Harremanetarako/ *Contacto*
 Nirekin harremanetan jarri nahi baduzu errazena e-posta honetara idaztea duzu, erantzungo dizut! / *Si quieres ponerte en contacto conmigo, lo más fácil es escribir a este correo, prometo responder!* <br>
@@ -45,5 +45,5 @@ Webgune sinpleago batera aldaketa egin, eta [Markdown](https://eu.wikipedia.org/
 *Llegado el año 2021 he decidido hacer el cambio. He optado por cambiar una página web más sencilla y empezar a escribir a través de [Markdown](https://es.wikipedia.org/wiki/Markdown). Sé que voy a perder cosas, saber cuántos lectores tengo, de dónde leen, bonitas fotos y diseños, posibilidad de comentarios y de avisar a las suscritas por mail... pero creo que el cambio era necesario.*
 
 
-[¹]: *Zure helbidea bakar-bakarrik sarrera berriak bidaltzeko erabiliko dudala ziurtatzen dizut! Nire disko gogorreko testu ohar batean gordeko ditut helbideak eta ez ditut inorekin partekatuko, horregatik egon lasai!* <br>
-[²]: *¡Sólo necesito su dirección de correo electrónico y te aseguro lo utilizaré exclusivamente para enviar nuevas entradas! Guardaré las direcciones en una nota de texto de mi disco duro y no las compartiré con nadie, no te preocupes por el spam!*
+[1]: *Zure helbidea bakar-bakarrik sarrera berriak bidaltzeko erabiliko dudala ziurtatzen dizut! Nire disko gogorreko testu ohar batean gordeko ditut helbideak eta ez ditut inorekin partekatuko, horregatik egon lasai!* <br>
+[2]: *¡Sólo necesito su dirección de correo electrónico y te aseguro lo utilizaré exclusivamente para enviar nuevas entradas! Guardaré las direcciones en una nota de texto de mi disco duro y no las compartiré con nadie, no te preocupes por el spam!*
