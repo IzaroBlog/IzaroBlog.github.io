@@ -14,6 +14,12 @@ Hau ez da blog tekniko edo monografiko bat. Gai asko lantzen ditut, nire hausnar
 _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir sobre mis reflexiones, esperiencias vividas, música que escucho y preguntas que me hago por ejemplo. No obstante, si que he notado que hay temas recurrentes sobre los que escribo como son: **Energía**, **Software Libre**, **Internet**, **Emergencia Climática**, **Libros**, **Medio Ambiente** y **Cooperación**_.
 
 
+### 📬 Harpidetza / *Suscripción*
+Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[1] izango duzu sarrera argitaratuko orduko. 
+![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)
+
+Si quieres recibir en tu correo electrónico las entradas que escribo, solo tienes que enviarme un correo a la dirección de arriba (puede estar vacío!) y recibirás la notificación[2] en tu correo al poco de escribir la entrada. 
+
 ### 📨 Harremanetarako/ *Contacto*
 
 ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)
@@ -36,3 +42,7 @@ Webgune sinpleago batera aldaketa egin, eta [Markdown](https://eu.wikipedia.org/
 3. *En términos energéticos cuántas más fotos, vídeos y más complicada sea la web, cada vez más energía es necesaria para mantener la web. Y yo en lugar de disminuir o decrecer, cada vez añadía más cosas. Ya era hora de hacer algo al respecto!*
 
 *Llegado el año 2021 he decidido hacer el cambio. He optado por cambiar una página web más sencilla y empezar a escribir a través de [Markdown](https://es.wikipedia.org/wiki/Markdown). Sé que voy a perder cosas, saber cuántos lectores tengo, de dónde leen, bonitas fotos y diseños, posibilidad de comentarios y de avisar a las suscritas por mail... pero creo que el cambio era necesario.*
+
+
+[1] Zure helbidea bakar-bakarrik sarrera berriak bidaltzeko erabiliko dudala ziurtatzen dizut! Nire disko gogorreko testu ohar batean gordeko ditut helbideak eta ez ditut inorekin partekatuko, horregatik egon lasai! 
+[2] ¡Sólo necesito su dirección de correo electrónico y te aseguro lo utilizaré exclusivamente para enviar nuevas entradas! Guardaré las direcciones en una nota de texto de mi disco duro y no las compartiré con nadie, no te preocupes por el spam!
