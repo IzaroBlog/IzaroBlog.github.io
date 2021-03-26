@@ -15,7 +15,7 @@ _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir so
 
 
 ### 📬 Harpidetza / *Suscripción*
-Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[1] izango duzu sarrera argitaratuko orduko. <br>
+Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta [zure postontzian][1] izango duzu sarrera argitaratuko orduko. <br>
 ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)<br>
 Si quieres recibir en tu correo electrónico las entradas que escribo, solo tienes que enviarme un correo a la dirección de arriba (puede estar vacío!) y recibirás la notificación[2] en tu correo al poco de escribir la entrada. 
 
