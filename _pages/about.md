@@ -43,5 +43,5 @@ Webgune sinpleago batera aldaketa egin, eta [Markdown](https://eu.wikipedia.org/
 *Llegado el año 2021 he decidido hacer el cambio. He optado por cambiar una página web más sencilla y empezar a escribir a través de [Markdown](https://es.wikipedia.org/wiki/Markdown). Sé que voy a perder cosas, saber cuántos lectores tengo, de dónde leen, bonitas fotos y diseños, posibilidad de comentarios y de avisar a las suscritas por mail... pero creo que el cambio era necesario.*
 
 
-[1]: Zure helbidea bakar-bakarrik sarrera berriak bidaltzeko erabiliko dudala ziurtatzen dizut! Nire disko gogorreko testu ohar batean gordeko ditut helbideak eta ez ditut inorekin partekatuko, horregatik egon lasai! <br>
-[2]: ¡Sólo necesito su dirección de correo electrónico y te aseguro lo utilizaré exclusivamente para enviar nuevas entradas! Guardaré las direcciones en una nota de texto de mi disco duro y no las compartiré con nadie, no te preocupes por el spam!
+[1]: *Zure helbidea bakar-bakarrik sarrera berriak bidaltzeko erabiliko dudala ziurtatzen dizut! Nire disko gogorreko testu ohar batean gordeko ditut helbideak eta ez ditut inorekin partekatuko, horregatik egon lasai!* <br>
+[2]: *¡Sólo necesito su dirección de correo electrónico y te aseguro lo utilizaré exclusivamente para enviar nuevas entradas! Guardaré las direcciones en una nota de texto de mi disco duro y no las compartiré con nadie, no te preocupes por el spam!*
