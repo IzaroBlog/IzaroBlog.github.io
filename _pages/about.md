@@ -15,13 +15,12 @@ _Este no es un blog técnico ni que se dedique a un solo tema. Suelo escribir so
 
 
 ### 📬 Harpidetza / *Suscripción*
-Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[1] izango duzu sarrera argitaratuko orduko. 
+Idazten ditudan sarrerak zure e-postan jaso nahi badituzu, idatzi mezu bat (hutsik egon daiteke) beheko helbidera, eta zure postontzian[1] izango duzu sarrera argitaratuko orduko. <br>
 ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)
-
 Si quieres recibir en tu correo electrónico las entradas que escribo, solo tienes que enviarme un correo a la dirección de arriba (puede estar vacío!) y recibirás la notificación[2] en tu correo al poco de escribir la entrada. 
 
 ### 📨 Harremanetarako/ *Contacto*
-
+Nirekin harremanetan jarri nahi baduzu errazena e-posta honetara idaztea duzu, erantzungo dizut! / *Si quieres ponerte en contacto conmigo, lo más fácil es escribir a este correo, prometo responder! <br>
 ![email](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.helbidea.txiki.png)
 
 💬 Kontaktu zuzenerako: [Suchat.org](https://www.suchat.org/)eko [XMPP](https://eu.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) erabiltzaile hau erabil dezakezue / *Para contacto directo podéis usar el siguiente usuario [XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) de [Suchat.org](https://www.suchat.org/)*:
