@@ -7,5 +7,6 @@ title: Kolaborazioak/Colaboraciones
 
 Bertan artikulu hauek idatzi ditut:
 - [Gailu elektronikoen bizi luzea](https://zientziakaiera.eus/2020/11/18/gailu-elektronikoen-bizi-luzea/)
+- [Zaharkitze programatua]((https://zientziakaiera.eus/2021/03/29/zaharkitze-programatua/)
 
 
