@@ -1,7 +1,7 @@
 ---
 permalink: /collaborations/ZientziaKaiera
 layout: page
-title: Kolaborazioak/Colaboraciones
+title: Zientzia Kaiera
 ---
 [Zientzia Kaiera](https://zientziakaiera.eus/) Euskal Herriko Unibertsitateko Kultura Zientifikoko Katedrak euskaraz argitaratzen duen hedabide digitala da. 
 
