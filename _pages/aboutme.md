@@ -23,12 +23,12 @@ Obras de teatro creadas con AntzerkiZ y dokumentales en los que he participado, 
 Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
 *Aquí podréis encontrar el material de las presentaciones o charlas en las que he participado.*
 
-#### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
+### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertalde](https://ekopol.eus/eu/)-ko blogean.
 - UPV/EHUko [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)-n.
 
-#### ♟ Xakea / Ajedrez 
+### ♟ Xakea / Ajedrez 
 Nirekin xakean jolastu nahi baduzue [Lichess.org](https://lichess.org/)-en aurkituko nauzue, erabiltzailea  **[IzaroChess](https://lichess.org/@/izarochess)** da! <br>
 *Si os apetece jugar una partida al ajedrez conmigo, lo podéis hacer en [Lichess.org](https://lichess.org/), mi usuario es **[IzaroChess](https://lichess.org/@/izarochess)***
 
