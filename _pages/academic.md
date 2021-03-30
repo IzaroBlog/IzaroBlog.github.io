@@ -5,7 +5,8 @@ title: Arlo Akademikoa / Ámbito Académico
 ---
 Sareak/*Redes*
 - [ORCID](https://orcid.org/0000-0002-9050-9155)
-- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) 
+- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko)
+- [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)
 
 Argitaratutako artikulu eta liburuak/ *Artículos y libros publicados*:
 - 📝[Transición energética y democracia, 2020](https://publicaciones.hegoa.ehu.eus/es/publications/437)
