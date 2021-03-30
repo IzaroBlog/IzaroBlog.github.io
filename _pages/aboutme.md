@@ -14,7 +14,7 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 - UPV/EHUko [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)-n.
 
 ### 📚 [Arlo akademikoa / *Ámbito académico*](https://izaroblog.github.io/academic)
-[ekopol ikertalde](https://www.ehu.eus/eu/web/ekopol/home)-ko kide naiz eta [hauxe da nire ekarpenak akademikoak ikusteko esteka](https://izaroblog.github.io/academic)
+[ekopol ikertalde](https://www.ehu.eus/eu/web/ekopol/home)-ko kide naiz eta [hauxe da nire ekarpenak akademikoak ikusteko esteka](https://izaroblog.github.io/academic)<br>
 *Soy miembro del grupo de investigación [ekopol](https://www.ehu.eus/es/web/ekopol/home) y [este es el enlace que puedes utilizar para ver mi actividad académíca](https://izaroblog.github.io/academic)*
 
 ### 📻 Irratia
@@ -28,6 +28,6 @@ Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
 Nirekin xakean jolastu nahi baduzue [Lichess.org](https://lichess.org/)-en aurkituko nauzue, erabiltzailea  **[IzaroChess](https://lichess.org/@/izarochess)** da! <br>
 *Si os apetece jugar una partida al ajedrez conmigo, lo podéis hacer en [Lichess.org](https://lichess.org/), mi usuario es **[IzaroChess](https://lichess.org/@/izarochess)***
 
- ![](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaro.jpg)
+ <center>![](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaro.jpg)</center>
 
 
