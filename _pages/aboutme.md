@@ -28,8 +28,6 @@ Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
 Nirekin xakean jolastu nahi baduzue [Lichess.org](https://lichess.org/)-en aurkituko nauzue, erabiltzailea  **[IzaroChess](https://lichess.org/@/izarochess)** da! <br>
 *Si os apetece jugar una partida al ajedrez conmigo, lo podéis hacer en [Lichess.org](https://lichess.org/), mi usuario es **[IzaroChess](https://lichess.org/@/izarochess)***
 
-  <p align="center">
   ![](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_pages/izaro.jpg)
-</p>
 
 
