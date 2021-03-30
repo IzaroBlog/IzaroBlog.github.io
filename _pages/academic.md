@@ -1,3 +1,9 @@
+---
+permalink: /academic
+layout: page
+title: Arlo Akademikoa / Ámbito Académico
+---
+
 
 Arlo akademikoan
 <strong><a href="https://orcid.org/0000-0002-9050-9155">ORCID</a> eta<a href="https://www.researchgate.net/profile/Izaro_Basurko"> Researchgate:</a>
