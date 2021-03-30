@@ -3,7 +3,11 @@ permalink: /academic
 layout: page
 title: Arlo Akademikoa / Ámbito Académico
 ---
+- Nire [ORCID](https://orcid.org/0000-0002-9050-9155)-a
+- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) profila. Akademikoen Facebook antzeko bat da, eta ez dut gehiegi erabiltzen egia esan, baina noizbehinka sartzen naiz! 
 
+- *Mi [ORCID](https://orcid.org/0000-0002-9050-9155)*
+- *Perfil de [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko). Es como un Facebook de los académicos, que no uso demasiado la verdad, ¡pero me meto de vez en cuando!*
 
 Arlo akademikoan
 <strong><a href="https://orcid.org/0000-0002-9050-9155">ORCID</a> eta<a href="https://www.researchgate.net/profile/Izaro_Basurko"> Researchgate:</a>
