@@ -4,7 +4,7 @@ layout: page
 title: Arlo Akademikoa / Ámbito Académico
 ---
 ## Ikertaldea
-![ekopol](https://ekopol.eus/wp-content/uploads/2020/04/logo.png)
+![ekopol](https://www.ehu.eus/documents/12829146/14094383/logo+berria+zabala.png/7d78c6db-53f8-7ea3-3001-cf63fa73e1b2?t=1583932080000)<br>
 ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación ekopol*
 - [ekopol EHU](https://www.ehu.eus/eu/web/ekopol/home)
 - [Blog ekopol](https://ekopol.eus/)
