@@ -3,29 +3,20 @@ permalink: /academic
 layout: page
 title: Arlo Akademikoa / Ámbito Académico
 ---
-- Nire [ORCID](https://orcid.org/0000-0002-9050-9155)-a
-- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) profila. Akademikoen Facebook antzeko bat da, eta ez dut gehiegi erabiltzen egia esan, baina noizbehinka sartzen naiz! 
+Sareak/*Redes*
+- [ORCID](https://orcid.org/0000-0002-9050-9155)
+- [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko) 
 
-- *Mi [ORCID](https://orcid.org/0000-0002-9050-9155)*
-- *Perfil de [ResearchGate](https://www.researchgate.net/profile/Izaro_Basurko). Es como un Facebook de los académicos, que no uso demasiado la verdad, ¡pero me meto de vez en cuando!*
+Argitaratutako artikulu eta liburuak/ *Artículos y libros publicados*:
 
-Arlo akademikoan
-<strong><a href="https://orcid.org/0000-0002-9050-9155">ORCID</a> eta<a href="https://www.researchgate.net/profile/Izaro_Basurko"> Researchgate:</a>
-<a href="https://orcid.org/0000-0002-9050-9155"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/1/14/ORCID_logo.svg" alt="" width="88" height="30" /></a>
-<a href="https://www.researchgate.net/profile/Izaro_Basurko"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="" width="96" height="30" /></a>
-</strong>
-
-
-ORCID
-https://orcid.org/0000-0002-9050-9155
+-📝[Transición energética y democracia, 2020](https://publicaciones.hegoa.ehu.eus/es/publications/437)
+-📝[European Cities in the Energy Transition: A Preliminary Analysis of 27 Cities,2020](https://www.mdpi.com/1996-1073/13/6/1315)
+-📝[Tracing the emerging energy transitions in the Global North and the Global South, 2017](https://www.sciencedirect.com/science/article/pii/S0360319917317913?via%3Dihub)
+-📕[Energia Trantsizioak: Iraunkortasuna eta demokrazia energetikoa, 2015](https://web-argitalpena.adm.ehu.es/listaproductos.asp?IdProducts=UCB00163118)/[Transiciones energéticas. Sostenibilidad y democracia energética, 2015](https://web-argitalpena.adm.ehu.es/listaproductos.asp?IdProducts=UCB00152043&titulo=Transiciones%20energ%E9ticas.%20Sostenibilidad%20y%20democracia%20energ%E9tica)  
+-📝[El cambio climático en la Comunidad Autonóma del País Vasco, 2008](https://dialnet.unirioja.es/servlet/articulo?codigo=2555604)
 
 
-https://www.sciencedirect.com/science/article/pii/S0360319917317913?via%3Dihub
-
-https://dialnet.unirioja.es/servlet/articulo?codigo=2555604
 
 
-https://www.mdpi.com/1996-1073/13/6/1315
 
 
-https://publicaciones.hegoa.ehu.eus/es/publications/437
