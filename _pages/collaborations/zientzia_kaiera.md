@@ -5,8 +5,7 @@ title: Zientzia Kaiera
 ---
 [Zientzia Kaiera](https://zientziakaiera.eus/) Euskal Herriko Unibertsitateko Kultura Zientifikoko Katedrak euskaraz argitaratzen duen hedabide digitala da. 
  
- <a href="https://zientziakaiera.eus/app/uploads/2013/09/logo-kz_twitter.png"></p>
-  <img class="aligncenter " src="https://zientziakaiera.eus/app/uploads/2013/09/logo-kz_twitter.png"</a>
+![Zientzia Kaiera](https://zientziakaiera.eus/app/uploads/2013/09/logo-kz_twitter.png)
   
 Bertan artikulu hauek idatzi ditut:
 - [Gailu elektronikoen bizi luzea](https://zientziakaiera.eus/2020/11/18/gailu-elektronikoen-bizi-luzea/)
