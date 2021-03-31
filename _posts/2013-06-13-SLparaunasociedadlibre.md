@@ -6,6 +6,7 @@ categories: es books
 tags: [es, freesoftware, RMS, Stallman, El Salvador, Corcull]
 ---
 <p><span style="font-size:medium;font-family:'Ubuntu Light';">Cuando suelo hablar sobre </span><a style="font-size:medium;font-family:'Ubuntu Light';" title="Software Libre" href="http://es.wikipedia.org/wiki/Software_libre" target="_blank">Software Libre</a><span style="font-size:medium;font-family:'Ubuntu Light';"> con mis amigos/as me doy cuenta de que la gente asocia el concepto como algo que tiene que ver con “ordenadores”, “Linux” o simplemente con tacañaría por no querer pagar por el software.&nbsp;</span></p>
+
 <p>[youtube https://www.youtube.com/watch?feature=player_detailpage&amp;v=VFpIhA5Oufg]<br>
 <strong>“<span style="font-size:medium;"><span style="font-family:'Ubuntu Light';">El software libre es una cuestión de libertad, no de precio”</span></span></strong></p>
 <p><!--more--></p>
