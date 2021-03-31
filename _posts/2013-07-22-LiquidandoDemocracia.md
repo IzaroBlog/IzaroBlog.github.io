@@ -5,7 +5,8 @@ date:   2013-07-22
 categories: es books
 tags: [es, libros, Informe Lugano II, Susan George, Davos, Attac, Gramsci]
 ---
-<span style="font-family:'Ubuntu Light';">Esta vez, vamos a liquidar la democracia” así reza el subtítulo del último libro de <a title="Susan George" href="http://es.wikipedia.org/wiki/Susan_George" target="_blank">Susan George</a>. Un libro realmente inquietante, que te deja un sabor de boca ciertamente amargo.<br>
+
+<span style="font-family:'Ubuntu Light';">Esta vez, vamos a liquidar la democracia” así reza el subtítulo del último libro de <a title="Susan George" href="http://es.wikipedia.org/wiki/Susan_George" target="_blank">Susan George</a>. Un libro realmente inquietante, que te deja un sabor de boca ciertamente amargo.
     
 </span><span style="font-family:'Ubuntu Light';">El informe parte de una petición ficticia realizad al grupo de “solicitantes”; estos son la “clase Davos” grupos de expertos cuyos miembros proceden de grandes multinacionales y el sector financiero. Esta fórmula permite a la autora ir más allá y conocer&nbsp;los argumentos e introducirse en el pensamiento de estos grupos de forma más profunda. Aunque el informe sea en cierta medida ficticio nos permite observar el tipo de ideología y movimientos que realizan:<strong> un espejo de la actualidad.</strong></span>
 <p style="text-align:center;"><span style="font-family:'Ubuntu Light';"><a href="http://www.tni.org/es/users/susan-george"><img class="aligncenter  wp-image-1234" src="http://izaroblog.files.wordpress.com/2013/07/informe-lugano-ii.jpg?w=519" alt="Informe lugano II" width="218" height="340"></a></span><!--more--></p>
