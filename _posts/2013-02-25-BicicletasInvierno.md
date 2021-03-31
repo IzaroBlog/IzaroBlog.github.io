@@ -5,7 +5,7 @@ date:   2013-02-25
 categories: es personal
 tags: [es, bicicleta, invierno]
 ---
-Hace unos años en un frío invierno alemán, mientras me dirigía pisando nieve a la facultad, una señora que tendría unas sesenta primaveras a sus espaldas pasó a mi lado en bicicleta, con su gorro, guantes y abrigo; sin conjuntar como buena alemana. Era una bici con peso, bien cuidada y equipada con los guardabarros de rigor; una bici deslizándose sobre la nieve fresca al ritmo de unas piernas fuertes y jubiladas....
+Hace unos años en un frío invierno alemán, mientras me dirigía pisando nieve a la facultad, una señora que tendría unas sesenta primaveras a sus espaldas pasó a mi lado en bicicleta, con su gorro, guantes y abrigo; sin conjuntar como buena alemana. Era una bici con peso, bien cuidada y equipada con los guardabarros de rigor; una bici deslizándose sobre la nieve fresca al ritmo de unas piernas fuertes y jubiladas...
 
 
 Ha sido una imagen que se me ha quedado grabada a nieve en la memoria. Una imagen que me ayuda a coger la bicicleta en días como hoy, en los que tengo miedo de sintonizar la radio para que las predicciones de <a title="Euskalmet" href="http://gentedigital.es/comunidad/anderiza/2013/02/25/sur-place/" target="_blank">Euskalmet</a> no me asusten; y me inciten a pecar y coger un autobús.<br>
