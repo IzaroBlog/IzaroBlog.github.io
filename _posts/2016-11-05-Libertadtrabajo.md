@@ -6,7 +6,7 @@ categories: es
 tags: [es, Martirio, trabajo]
 ---
 
-<span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Desde que escuché la entrevista de <a href="https://twitter.com/carnecrudaradio?lang=es">Javier Gallego</a> a <a href="https://es.wikipedia.org/wiki/Martirio_(cantante)">Martirio</a>, en el excelente <a href="http://www.eldiario.es/carnecruda">Carne Cruda</a>, tenía en mente compartirlo. Una perla de sabiduría, que recuerdo todos los días. </span></span>
+Desde que escuché la entrevista de <a href="https://twitter.com/carnecrudaradio?lang=es">Javier Gallego</a> a <a href="https://es.wikipedia.org/wiki/Martirio_(cantante)">Martirio</a>, en el excelente <a href="http://www.eldiario.es/carnecruda">Carne Cruda</a>, tenía en mente compartirlo. Una perla de sabiduría, que recuerdo todos los días.
 
 <span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><em><strong><a href="http://www.eldiario.es/carnecruda/programas/Martirio-mundo-peineta_6_558954114.html"><img class="aligncenter" style="border:2px solid #000000;" src="http://images.eldiario.es/carnecruda/Martirio-Carne-Cruda_EDIIMA20160915_0067_18.jpg" width="643" height="400" /></a></strong></em></span></span>
 
