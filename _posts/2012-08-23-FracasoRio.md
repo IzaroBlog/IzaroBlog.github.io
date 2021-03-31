@@ -5,8 +5,10 @@ date:   2012-08-23
 categories: es environment
 tags: [es, Rio+20]
 ---
-<p><img class="alignright" title="ONU en Río+20" src="http://farm6.staticflickr.com/5450/7418730844_1d0f06e243.jpg" alt="" width="180" height="240"></p>
-<p><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Me vais a perdonar el pesimismo que emana del post, pero creo que ha sido uno de los <strong>fracasos más rotundos</strong> de los últimos años en materia ambiental. Puede que relacionar <a title="Qué nos espera en Río&nbsp;+20?" href="http://izaroblog.com/2012/04/05/que-nos-espera-en-rio-20/" target="_blank">las expectativas</a> de esta cumbre con la “original” fuesen excesivas, pero el resultado ha dejado mucho que desear.</span></span></p>
+<span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Me vais a perdonar el pesimismo que emana del post, pero creo que ha sido uno de los <strong>fracasos más rotundos</strong> de los últimos años en materia ambiental. Puede que relacionar <a title="Qué nos espera en Río&nbsp;+20?" href="http://izaroblog.com/2012/04/05/que-nos-espera-en-rio-20/" target="_blank">las expectativas</a> de esta cumbre con la “original” fuesen excesivas, pero el resultado ha dejado mucho que desear.</span></span>
+
+<img class="alignright" title="ONU en Río+20" src="http://farm6.staticflickr.com/5450/7418730844_1d0f06e243.jpg" alt="" width="180" height="240">
+
 <p><span style="font-size:large;font-family:'Ubuntu Light';">Se ha tomado desde el primer momento el (mal)ejemplo de las habituales cumbres de cambio climático, con sus pre-reuniones, drafts, borradores, etc. con el único objetivo de llegar al último día de la cumbre (o bueno desde el primero) en Río con un acuerdo tomado.<br>
 </span><strong><em>“</em></strong><span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><strong><em>Es preferible que salga un texto criticable a que no haya ninguno”</em> </strong>era el lema principal de las potencias reunidas.&nbsp;</span></span></p>
 <p align="LEFT"><!--more--></p>
