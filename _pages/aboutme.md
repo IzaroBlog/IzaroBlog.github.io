@@ -19,9 +19,9 @@ Euskadi Irratiko Baipasa saioan egindako saioak [hementxe](https://izaroblog.git
 AntzerkiZ taldearekin sortutako antzerki lanak eta parte hartu dudan dokumentalak, [hemen](https://izaroblog.github.io/collaborations/ikus-entzunekoak).<br>
 Obras de teatro creadas con AntzerkiZ y dokumentales en los que he participado, [aquí](https://izaroblog.github.io/collaborations/ikus-entzunekoak).
 
-### 🗣 Hitzaldiak
-Hemen egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
-*Aquí podréis encontrar el material de las presentaciones o charlas en las que he participado.*
+### 🗣 [Hitzaldiak](https://izaroblog.github.io/collaborations/)
+[Hemen](https://izaroblog.github.io/collaborations/) egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
+*[Aquí](https://izaroblog.github.io/collaborations/) podréis encontrar el material de las presentaciones o charlas en las que he participado.*
 
 ### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
