@@ -5,8 +5,8 @@ date:   2012-12-20
 categories: es personal
 tags: [es, peluquero, aceituneros]
 ---
-<span style="font-family:'Ubuntu Light';"></span><span style="font-family:'Ubuntu Light';">Hoy he ido dónde Paco, peluquero de la sierra de Cádiz (“</span><i style="font-family:'Ubuntu Light';"><a title="Peribética" href="http://es.wikipedia.org/wiki/Cordillera_Penib%C3%A9tica" target="_blank">La peribética</a>&nbsp;, la segunda más importante de la península</i><span style="font-family:'Ubuntu Light';">, como a él mismo le gusta remarcar). 
-  
+Hoy he ido dónde Paco, peluquero de la sierra de Cádiz (“</span><i style="font-family:'Ubuntu Light';"><a title="Peribética" href="http://es.wikipedia.org/wiki/Cordillera_Penib%C3%A9tica" target="_blank">La peribética</a>&nbsp;, la segunda más importante de la península</i>, como a él mismo le gusta remarcar).
+
 Paco no se ha dejado llevar por la moda de los estilistas y la peluquería está igual que hace veinte años. Un gran espejo, unas butacas con periódicos para leer, alguna foto de Paco de joven con su cuadrilla, aparatos para esterilizar las tijeras, y una combinación parca de tijeras y maquinillas en el mostrador. La peluquería, como no podía se de otra manera se llama </span><em style="font-family:'Ubuntu Light';"><strong>"Peluquería Paco"</strong></em><span style="font-family:'Ubuntu Light';">.&nbsp;</span>
 
 <img class="alignleft" src="http://farm5.staticflickr.com/4015/4456231180_69aa79d4b4.jpg" alt="" width="192" height="288">
