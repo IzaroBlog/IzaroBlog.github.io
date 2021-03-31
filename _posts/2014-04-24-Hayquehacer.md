@@ -7,6 +7,7 @@ tags: [es, Lucio, Kortxoenea]
 ---
 <p style="text-align:left;"><span style="font-family:'Ubuntu Light';">El pasado 11 de Abril, <a title="Lucio Urtubia" href="https://es.wikipedia.org/wiki/Lucio_Urtubia" target="_blank">Lucio Urtubia</a> estuvo en <a title="Kortxoenea" href="http://kortxoenea.com/2014/03/25/lucio-urtubia-kortxoenean/" target="_blank">Kortxoenea</a>. En una sala abarrotada compartió su experiencia con los que allí estábamos. Lucio es una persona especial, con una vida llena de lucha, intriga y trabajo. Un anarquista que ha conocido a grandes nombres del siglo XX y casi hunde al banco más poderoso de la época, el <a title="Citibank" href="https://es.wikipedia.org/wiki/Citibank" target="_blank">Citibank</a>.
 </span></p>
+
 <p style="text-align:left;"><a href="http://kortxoenea.com/2014/03/25/lucio-urtubia-kortxoenean/"><img class="aligncenter wp-image-1465 size-medium" src="http://izaroblog.files.wordpress.com/2014/04/luciokortxoenea.jpg?w=300" alt="LucioKortxoenea" width="300" height="201" /></a></p>
 <p style="text-align:left;"><!--more--></p>
 <p style="text-align:left;"><span style="font-family:'Ubuntu Light';">También es una persona humilde, que entró pausadamente con su txapela y bastón a la sala, mirando con sorpresa y saludando cariñosamente a conocidos y amigos, sin creerse que tantas personas estuviesen deseosas de oírle hablar a él, una persona “poco inteligente” según sus palabras.</span></p>
