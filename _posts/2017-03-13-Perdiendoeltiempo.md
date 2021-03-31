@@ -5,8 +5,8 @@ date:   2017-03-13
 categories: es personal
 tags: [es, personal, barrio]
 ---
-<span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><span style="color:#333333;"><span style="font-family:Ubuntu;">El día pasado estuve comiendo una pizza al taglio en una pequeña <a href="http://pizzikodonostia.es/eu/">pizzería del barrio</a>, regentada por un simpático italiano. No es la primera vez que iba y esta vez disfrutamos ambos de una interesante charla sobre la situación política italiana, las diferencias entre Trump y Berlusconi y yo de paso, de una pizza excepcional.
-    
+El día pasado estuve comiendo una pizza al taglio en una pequeña <a href="http://pizzikodonostia.es/eu/">pizzería del barrio</a>, regentada por un simpático italiano. No es la primera vez que iba y esta vez disfrutamos ambos de una interesante charla sobre la situación política italiana, las diferencias entre Trump y Berlusconi y yo de paso, de una pizza excepcional.
+
 Esta pequeña historia me ha hecho reflexionar sobre todo lo que estamos perdiendo al abrazar sin pensar las grandes cadenas, las grandes ofertas y las grandes marcas que inundan cada vez más con su pegajosa publicidad nuestros barrios.
 Estamos perdiendo sabiduría, tiempo para conversar, conocer otras personas, el barrio, la realidad que nos rodea e incluso clases de<a href="http://izaroblog.com/2012/12/20/aceituneros-altivos/"> poesía e historia</a> mientras te cortan el pelo¹!
 Estamos perdiendo la paciencia por vivir, el sentirse a gusto dónde vives, los placeres de inesperadas pláticas, los pequeños grandes desencuentros, las bromas y detalles de personas que conocen tus gustos, la cercanía de una sonrisa o un saludo.
