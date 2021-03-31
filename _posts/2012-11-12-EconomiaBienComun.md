@@ -5,7 +5,11 @@ date:   2012-11-12
 categories: es books
 tags: [es, Christian Felber, Economía Bien Común]
 ---
-<span style="font-family: 'Ubuntu Light';"><span style="font-size: large;">>Estas últimas semanas he estado leyendo el libro «La economía del bien común» de <a title="Christian Felber" href="http://es.wikipedia.org/wiki/Christian_Felber" target="_blank" rel="noopener">Christian Felber</a>.<br></span></span><span style="font-family: 'Ubuntu Light'; font-size: large;">Es un libro muy recomendable, que responde a una queja bastante generalizada que vengo escuchando últimamente: <em>«el sistema no funciona»</em>, <em>«el modelo económico no vale»</em>,«<em> hay que hacer algo para cambiarlo»</em>...<br></span><span style="font-size: large; font-family: 'Ubuntu Light';">La propuesta que nos trae este libro propone un <strong>sistema alternativo</strong>, basado en la economía del bien común, en la que se utilizan métodos participativos, propuestas nuevas y antiguas, iniciativas utilizadas y/o en desuso así como nuevas propuestas de democratización de empresas.</span>
+Estas últimas semanas he estado leyendo el libro «La economía del bien común» de <a title="Christian Felber" href="http://es.wikipedia.org/wiki/Christian_Felber" target="_blank" rel="noopener">Christian Felber</a>.<br>
+Es un libro muy recomendable, que responde a una queja bastante generalizada que vengo escuchando últimamente: <em>«el sistema no funciona»</em>, <em>«el modelo económico no vale»</em>,«<em> hay que hacer algo para cambiarlo»</em>...
+
+La propuesta que nos trae este libro propone un <strong>sistema alternativo</strong>, basado en la economía del bien común, en la que se utilizan métodos participativos, propuestas nuevas y antiguas, iniciativas utilizadas y/o en desuso así como nuevas propuestas de democratización de empresas.
+  
 <a href="http://www.gemeinwohl-oekonomie.org/es/"><img class="alignleft  wp-image-1195" src="http://izaroblog.files.wordpress.com/2013/06/libro-economiadelbiencomun.jpg?w=200" alt="Libro Economiadelbiencomun" width="120" height="180"></a
 
 
