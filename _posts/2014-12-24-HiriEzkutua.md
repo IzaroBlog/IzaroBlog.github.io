@@ -5,9 +5,10 @@ date:   2014-12-24
 categories: eu 
 tags: [eu, argazkia, bilbo]
 ---
+<span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Azken hilabeteetan abian jarri duten ekimen interesgarri baten berri eman nahi nizueke.<a title="Hiri asko bere baitan" href="http://hiriaskoberebaitan.com/" target="_blank"> "Hiri asko bere baitan"</a>;  zortzi lanez osatutako ekimena izan da, Bilbok dituen barrutiak aitzaki hartuta. Zein baino zein ederrago.
+
 <a href="www.hiriaskoberebaitan.com"><img class="aligncenter wp-image-1590" src="https://izaroblog.files.wordpress.com/2014/12/10441351_1458181577761290_3074297750289254090_n.png?w=300" alt="Hiri Asko bere baitan" width="176" height="176" /></a>
 
-<span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Azken hilabeteetan abian jarri duten ekimen interesgarri baten berri eman nahi nizueke.<a title="Hiri asko bere baitan" href="http://hiriaskoberebaitan.com/" target="_blank"> "Hiri asko bere baitan"</a>;  zortzi lanez osatutako ekimena izan da, Bilbok dituen barrutiak aitzaki hartuta. Zein baino zein ederrago.
 <strong>Musika, argazkigintza eta idatziak batuz</strong> liburuxka polita atera dute kalera Aitor, Asier eta Unaik,; CD eta guzti. Hementxe nago ni, liburuxka esku artean irakurri, entzun edo begiratu … dena egin nahiean!
 </span></span>
 
