@@ -6,8 +6,10 @@ categories: es
 tags: [es, El Cabanyal]
 ---
 
-<p>[caption id="" align="alignright" width="226"]<a href="http://farm8.staticflickr.com/7019/6816295661_d28c1a17c9.jpg"><img src="http://farm8.staticflickr.com/7019/6816295661_d28c1a17c9.jpg" alt="" width="226" height="300"></a> Casa en el Cabanyal[/caption]</p>
 <p><span style="font-family:'Ubuntu Light';font-size:medium;">Con la excusa de participar en el </span><a style="font-family:'Ubuntu Light';font-size:medium;" title="Congreso CUD" href="http://www.sextocongresocud.es/" target="_blank">VI Congreso CUD en Valencia</a><span style="font-family:'Ubuntu Light';font-size:medium;">, tuvimos la suerte de tener una visita&nbsp;guiada&nbsp;muy especial al barrio de</span><strong style="font-family:'Ubuntu Light';font-size:medium;"> El Cabanyal.</strong></p>
+
+p><a href="http://farm8.staticflickr.com/7019/6816295661_d28c1a17c9.jpg"><img src="http://farm8.staticflickr.com/7019/6816295661_d28c1a17c9.jpg" alt="" width="226" height="300"></a> Casa en el Cabanyal</p>
+<
 <p><span style="font-family:'Ubuntu Light';"><span style="font-size:medium;">Un barrio que no conocía más que de “oídas” y especialmente por la <a href="http://elpais.com/elpais/2010/04/08/actualidad/1270714624_850215.html">resistencia frente a los desalojos realizado por sus vecinos, allá por 2010</a>. </span></span></p>
 <p><span style="font-family:'Ubuntu Light';"><span style="font-size:medium;">Muy cerquita de la playa de Malvarrosa y del puerto, nos encontramos con un barrio que derrocha<strong>&nbsp;vida</strong>&nbsp;y desborda arte y creatividad allá por dónde miras. Un barrio que está <strong>luchando frente a su propio ayuntamiento. &nbsp;</strong>Un ayuntamiento&nbsp;que se dedica a comprar, cerrar y destruir inmuebles, para posteriormente dejar solares con muros pintados con estética militar.&nbsp;</span></span></p>
 <p><!--more--></p>
