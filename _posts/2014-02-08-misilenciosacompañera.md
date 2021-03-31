@@ -6,6 +6,7 @@ categories: es personal
 tags: [es, bicicleta]
 ---
 <span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Aquí está ella, silenciosa y paciente, así la dejo de vez en cuando, cuando no es posible viajar juntos, cuando no es posible compartir en tan poco tiempo tanta distancia.</span></span>
+
 <p style="text-align:center;"><a href="https://www.flickr.com/photos/izaroblog/12386504455/sizes/l/in/set-72157640678001625/"><img class="aligncenter size-medium wp-image-1425" src="http://izaroblog.files.wordpress.com/2014/02/bici11x12.jpg?w=300" alt="Bici11x12" width="300" height="240" /></a></p>
 <!--more-->
 
