@@ -5,8 +5,10 @@ date:   2012-06-07
 categories: es 
 tags: [es, bancos, dinero]
 ---
-<p><span style="font-family:'Ubuntu Light';"><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">En este post voy a hablar de los bancos, ahora que están&nbsp;<a href="http://www.youtube.com/watch?v=CJfeUSvRKDA" target="_blank">de moda</a>... Se podrá estar en contra de ellos, del sistema económico en el que vivimos, pero al final como dice mi querido hermano </span></span></span></span></p>
-<blockquote><p><span style="font-family:'Ubuntu Light';"><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><em>Hermano, estamos obligados a tener una cuenta! aunque sólo sea para que nos ingresen la nómina!</em></span></span></span></span></p></blockquote>
+<span style="font-family:'Ubuntu Light';"><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">En este post voy a hablar de los bancos, ahora que están&nbsp;<a href="http://www.youtube.com/watch?v=CJfeUSvRKDA" target="_blank">de moda</a>... Se podrá estar en contra de ellos, del sistema económico en el que vivimos, pero al final como dice mi querido hermano </span></span></span></span></p>
+<blockquote><p><span style="font-family:'Ubuntu Light';"><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;"><em>Hermano, estamos obligados a tener una cuenta! aunque sólo sea para que nos ingresen la nómina!</em></span></span></span></span>
+
+</blockquote>
 <p><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Una de las cosas interesantes que yo les veo a los bancos es que sirven para que el dinero no esté “quieto” en casa de cada una. Se supone que mientras esté en movimiento (prestado, invertido...) crea más riqueza, puestos de trabajo y da la posibilidad comprar a crédito e invertir.</span></span></span></p>
 <p><!--more--></p>
 <p><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">Pero... la pregunta es:&nbsp;</span></span></span><strong><span style="color:#333333;"><span style="font-family:'Ubuntu Light';"><span style="font-size:large;">¿Por dónde se mueve nuestro dinero?</span></span></span></strong></p>
