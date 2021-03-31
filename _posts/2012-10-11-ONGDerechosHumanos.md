@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El silencioso fracaso de Río+20"
+title:  "¿Cómo pueden participar las ONG en el Consejo de Derechos Humanos?"
 date:   2012-08-23
 categories: es environment
 tags: [es, Rio+20]
