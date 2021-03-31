@@ -25,7 +25,7 @@ ni el dinero ni el señor,<br>
 sino la tierra callada,<br>
 el trabajo y el sudor”</span></em></p>
 <p>&nbsp;<span style="font-family:'Ubuntu Light';">Tras un momento de silencio y ciertas miradas cómplices y cruzadas a través del espejo de la peluquería, ha seguido:</span></p>
-<p>[caption id="" align="alignright" width="127"]<a href="http://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez"><img class="   " src="http://upload.wikimedia.org/wikipedia/commons/0/0e/Miguel_hernandez.jpg" alt="" width="127" height="173"></a> Miguel Hernández[/caption]</p>
+<p><a href="http://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez"><img class="   " src="http://upload.wikimedia.org/wikipedia/commons/0/0e/Miguel_hernandez.jpg" alt="" width="127" height="173"></a></p>
 <p align="LEFT">“<span style="font-family:'Ubuntu Light';">Los poetas siempre llevan razón, hay algunos a los que no les gusta pero siempre llevan razón. A este lo mataron porque decía la verdad, y ... ¿ahora? ¿No está pasando lo mismo? ¿No somos los trabajadores los que tras años de trabajo hemos levantado el estado de bienestar? ¿A quién pertenece más que a nosotros?”</span></p>
 <p align="LEFT"><span style="font-family:'Ubuntu Light';">Tienes toda la razón Paco, pero parece que a veces se nos olvida.</span></p>
 <p align="LEFT"><span style="font-family:'Ubuntu Light';">Menos mal que todavía hay peluqueros-poetas que nos recuerden estas cosas!</span></p>
