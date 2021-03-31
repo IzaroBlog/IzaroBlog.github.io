@@ -5,8 +5,10 @@ date:   2012-04-22
 categories: es book
 tags: [es, comic, Jerusalén, Guy Delisle]
 ---
-<p> </p>
-<p><span style="font-family: Ubuntu;"><span style="font-size: large;"><img class="  wp-image-2440 alignleft" src="https://izaroblog.files.wordpress.com/2012/04/cronicasdejerusalen.jpg" alt="cronicasdejerusalen" width="242" height="344" />Esta vez, os traigo una pequeña recomendación;  el último trabajo de<a href="http://es.wikipedia.org/wiki/Guy_Delisle"> Guy Delisle</a>, <strong>“<a href="http://www.astiberri.com/ficha_prod.php?cod=cronicasdejerusalen">Crónicas de Jerusalén</a>”</strong>. </span></span></p>
+Esta vez, os traigo una pequeña recomendación;  el último trabajo de<a href="http://es.wikipedia.org/wiki/Guy_Delisle"> Guy Delisle</a>, <strong>“<a href="http://www.astiberri.com/ficha_prod.php?cod=cronicasdejerusalen">Crónicas de Jerusalén</a>”
+
+<img class="  wp-image-2440 alignleft" src="https://izaroblog.files.wordpress.com/2012/04/cronicasdejerusalen.jpg" alt="cronicasdejerusalen" width="242" height="344" />  
+  
 <p><span style="font-family: Ubuntu;"><span style="font-size: large;">En el cómic (que comenzó siendo un blog, <a href="http://www.guydelisle.com/blog/jerusalem/">Canadiense Errante</a>) el autor nos narra un año de su vida en la <a title="Jerusalen" href="http://es.wikipedia.org/wiki/Jerusal%C3%A9n" target="_blank" rel="noopener">ciudad santa</a>, a la que llega acompañando a su mujer que trabaja para<a title="MSF" href="http://www.msf.es/" target="_blank" rel="noopener"> Médicos Sin Fronteras. </a></span></span></p>
 <p><span style="font-family: Ubuntu;"><span style="font-size: large;">En él, Guy nos guía a través del Jerusalén de los y las Jerosolimitanas, el del día a día con sus atascos, fiestas, muros, conflictos... centrando el objetivo en las <strong>personas</strong>. Esta forma de ver y humanizar los conflictos es uno de los mayores logros del trabajo.</span></span></p>
 <p><span style="font-size: large; font-family: Ubuntu;">Con una visión "ingenua" y con pocos prejuicios nos introduce a los sinsentidos de los fundamentalismos, en un lugar dónde las tradiciones y leyendas tienen un gran peso.</span></p>
