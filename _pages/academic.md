@@ -17,6 +17,7 @@ ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación eko
 ## Argitaratutako artikulu eta liburuak/ *Artículos y libros publicados*:
 - 📝[Transición energética y democracia, 2020](https://publicaciones.hegoa.ehu.eus/es/publications/437)
 - 📝[European Cities in the Energy Transition: A Preliminary Analysis of 27 Cities, 2020](https://www.mdpi.com/1996-1073/13/6/1315)
+- 📕[Cultura Dual.Nuevas identidades en interacción universidad-sociedad, 2019](https://www.plazayvaldes.es/libro/cultura-dual)
 - 📝[Tracing the emerging energy transitions in the Global North and the Global South, 2017](https://www.sciencedirect.com/science/article/pii/S0360319917317913?via%3Dihub)
 - 📝[Transiciones energéticas ante el cambio climático: problemáticas e ideas fuerza, 2016](https://www.fuhem.es/2016/01/19/dossier-temas-clave-en-el-debate-del-cambio-climatico/)
 - 📝[Ascertaining the arising Energy Transition in the Global North and the Global South, 2016](https://www.researchgate.net/publication/313011177_Ascertaining_the_arising_energy_transition_in_global_North_and_global_South) 
