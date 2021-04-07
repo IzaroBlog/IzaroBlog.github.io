@@ -22,6 +22,7 @@ ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación eko
 - 📝[Transiciones energéticas ante el cambio climático: problemáticas e ideas fuerza, 2016](https://www.fuhem.es/2016/01/19/dossier-temas-clave-en-el-debate-del-cambio-climatico/)
 - 📝[Ascertaining the arising Energy Transition in the Global North and the Global South, 2016](https://www.researchgate.net/publication/313011177_Ascertaining_the_arising_energy_transition_in_global_North_and_global_South) 
 - 📕[Energia Trantsizioak: Iraunkortasuna eta demokrazia energetikoa (eu), 2015](https://web-argitalpena.adm.ehu.es/listaproductos.asp?IdProducts=UCB00163118)/ *[Transiciones energéticas. Sostenibilidad y democracia energética,(es) 2015](https://web-argitalpena.adm.ehu.es/listaproductos.asp?IdProducts=UCB00152043&titulo=Transiciones%20energ%E9ticas.%20Sostenibilidad%20y%20democracia%20energ%E9tica)*  
+- 📕 [Derecho Humano al Medio Ambiente. Un largo camino por recorrer,2013](http://www.unescoetxea.org/dokumentuak/ecos_serpiente2.pdf) en "Ecos de la serpiente.Reflexiones desde el Consejo de Derechos Humanos"
 - 📝[El cambio climático en la Comunidad Autonóma del País Vasco, 2008](https://dialnet.unirioja.es/servlet/articulo?codigo=2555604)
 
 
