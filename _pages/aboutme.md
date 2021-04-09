@@ -23,7 +23,7 @@ Obras de teatro creadas con AntzerkiZ y dokumentales en los que he participado, 
 [Hemen](https://izaroblog.github.io/collaborations/hitzaldiak) egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
 *[Aquí](https://izaroblog.github.io/collaborations/hitzaldiak) podréis encontrar el material de las presentaciones o charlas en las que he participado.*
 
-### Taldeak / Grupos en los que participo
+### 👥 Taldeak / Grupos en los que participo
 Hementxe dituzue parte hartzen dudan taldeen informazioa: 
 - ⚡️[Mugarik Gabeko Ingeniaritza](https://euskadi.isf.es/): GGKE honen bazkide, lankide ohi eta boluntario naiz orain. Nire bizitzan eragin handia izan duen elkartea eta lagunak daude bertan. Asko ikasi dut eta lan bikaina egiten dute bai Euskal Herrian bai El Salvadorren. Denbora faltagatik lan edo eskaera puntualetan laguntzen dut oraintxe./ *ONGD que ha influído mucho en mi vida y visión crítica de la sociedad, cooperación y tecnología. Participo poco, pero sigo apoyando en lo que puedo!* 
 - 🎭[Antzerkiz](https://antzerkiz.wordpress.com/): Zapalduon Antzerki taldea, gure azken lana 🌵[Kaktusa Bizirik](https://antzerkiz.wordpress.com/kaktusa-bizirik/) izan zen!/*Grupo de teatro de las oprimidas, del que 🌵[Kaktusa Bizirik](https://antzerkiz.wordpress.com/kaktusa-bizirik/) ha sido nuestro último trabajo. 
