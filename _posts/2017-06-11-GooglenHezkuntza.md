@@ -2,7 +2,7 @@
 layout: post
 title:  "Googlen hezkuntzan"
 date:   2017-06-11
-categories: eu, internet
+categories: eu internet
 tags: [eu, Internet, Google, Hezkuntza, Librezale]
 ---
 <p>Lagun asko hezkuntza munduan izanda, azken aldian asko entzuten nien <em>ChromeBook, Gdrive, Gsuite</em> eta horrelako hitzekin jardunean. Ez luke agian arraro izan beharko, baina lagunek duten teknofobia ezagututa nire harridurak ikertzera gonbidatu ninduen.<br>
