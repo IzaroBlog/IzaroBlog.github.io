@@ -12,7 +12,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Otsailak 8: [Klima larrialdia eta bankuen arteko erlazioak.](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/02/08/2725068/20210208_19083401_0013415955_002_001_BAIPASA__202.mp3)
 - Martxoak 8: [Hidrogenoa al da etorkizuna?](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/08/2738934/20210308_19120322_0013547276_002_001_BAIPASA__202.mp3) 
 - Martxoak 22: [Klima Larrialdiaren aurkako ekintza globala eta arrazoiak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/22/2745518/20210322_19201006_0013579277_002_001_BAIPASA__202.mp3)
-- Apirilak 19: [Klima-aldaketari buruzko legea eta hegazkin industria]
+- Apirilak 19: [Klima-aldaketari buruzko legea eta hegazkin industria](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/04/26/2761944/20210426_16145508_0013660387_002_001_BAIPASA__202.mp3)
 
 
 
