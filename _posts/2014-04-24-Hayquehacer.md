@@ -15,22 +15,32 @@ También es una persona humilde, que entró pausadamente con su txapela y bastó
 
 Sobre la situación actual: 
 > Sin luchar no vamos a ningún lado.
+
 > No esperar nada del gobierno, no hay nada imposible
+
 > ¡Preocuparos menos por el fútbol y más sobre cosas interesantes!
 
 Sobre los poderosos: 
 > Son dueños porque les dejamos ser dueños.
+
 > Son inteligentes en números y cifras, pero... qué saben de la vida!
  
 Reflexiones:
 > La lucha es vida, la lucha es amor.
+
 > Somos algo por lo que hacemos.
+
 > Una cosa es hablar y otra hacer.
+
 > Hay que empezar poco a poco, el camino se hace andando.
+
 > Nada es mío nada me pertenece.
+
 > Creo en la inteligencia de la solidaridad, creo en el trabajo, pero en el trabajo social, no en el de carceleros y creadores de bombas atómicas.
 
 La charla fue grabada por la gente de Kortxoenea y <a title="Lucio Audio" href="http://kortxoenea.com/2014/04/14/lucio-urtubiaren-hitzaldiaren-audioa/" target="_blank">se puede descargar aquí</a>.
 
 Si queréis conocer un poco más de su vida, existen varios libros publicados y un <a title="Documental Lucio" href="http://www.lucio.com.es/index.html" target="_blank">buen documental</a> sobre él realizado por Aitor Arregi y Jose Mari Goenaga:
+
+
 <a href="http://www.rtve.es/alacarta/videos/el-documental/documental-lucio/961865/"><img class="aligncenter wp-image-1461 size-medium" src="http://izaroblog.files.wordpress.com/2014/04/cartel-lucio-sin-borde-mediano.jpg?w=212" alt="cartel-lucio-sin-borde-mediano" width="212" height="300" /></a>
