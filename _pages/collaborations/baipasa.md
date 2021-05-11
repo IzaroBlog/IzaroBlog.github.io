@@ -13,7 +13,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Martxoak 8: [Hidrogenoa al da etorkizuna?](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/08/2738934/20210308_19120322_0013547276_002_001_BAIPASA__202.mp3) 
 - Martxoak 22: [Klima Larrialdiaren aurkako ekintza globala eta arrazoiak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/03/22/2745518/20210322_19201006_0013579277_002_001_BAIPASA__202.mp3)
 - Apirilak 19: [Klima-aldaketari buruzko legea eta hegazkin industria](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/04/26/2761944/20210426_16145508_0013660387_002_001_BAIPASA__202.mp3)
-
+- Maiatzak 10: [Eko-antsietatea eta Tipping-Points](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/osoa/8040620/klima-aldaketa-ekoantsietatea-eragiten-hasi-da/)
 
 
 ## 2020
