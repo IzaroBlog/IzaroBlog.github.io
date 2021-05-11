@@ -26,7 +26,7 @@ Anímate a echar un vistazo, seguro que te sirve:
 🌐 https://izaroblog.github.io/eu/energy/internet/2020/01/16/Energiabeharrak.html
 #Energia #Izaroblog
 
-♻️ ¿Conoces la técnica del #pomododoro? Una interesante forma de centrarse en las tareas! 
+♻️ ¿Conoces la técnica del #pomodoro? Una interesante forma de centrarse en las tareas! 
 🍅 https://izaroblog.github.io/es/web/2012/02/16/Pomodoro.html
 #Izaroblog
 ♻️ #Unibertsitatea-n lanean baldin bazaude ezagutuko duzu Paper-ren korapilo zoroa.... bestela heman daukazu aukera!
