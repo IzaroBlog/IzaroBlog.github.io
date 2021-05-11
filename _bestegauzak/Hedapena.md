@@ -1,6 +1,6 @@
 ♻️"Me ha tocado ver como muchos grupos también se han ido rompiendo, deshaciéndose, hundiéndose… y aún sabiendo que es una dinámica normal, he notado que hay una debilidad común en muchas de estas desapariciones"
 "La tragedia de los cuidados"
-🤒 https://izaroblog.com/2019/02/01/la-tragedia-de-los-cuidados/
+🤒 https://izaroblog.github.io/es/personal/2019/01/02/Cuidados.html
 #IzaroBlog #Cuidados 
 
 ♻️ El #ciudadanismo un concepto sobre el que merece la pena pensar. 
@@ -18,6 +18,7 @@ Erabili itzazu RSS-ak! ;)
 Anímate a echar un vistazo, seguro que te sirve:
 🔊  https://izaroblog.github.io/es/internet/2018/11/09/UsaRSS.html
 #Izaroblog
+
 ♻️ Energia Gutunari buruzko Ituna; itun lotzaile eta ezezagun honi buruz gehiago jakin nahi? Gure energia etorkizuean eragin handia izango du! 
 📜 https://izaroblog.github.io/eu/energy/2020/05/11/EnergiaGutunariburuzkoItuna.html
 
