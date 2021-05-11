@@ -61,3 +61,9 @@ Gracias por todo #Lucio!
 :bihotz: https://izaroblog.github.io/es/politics/2014/04/24/Hayquehacer.html
 #Izaroblog
 
+♻️ "Zettelkasten" izeneko teknika ezagutzen? Ideiak eta haien arteko erlazioak antolatzeko lan egiteko modu oso interesgarria!
+🗒️ https://izaroblog.github.io/eu/2021/04/28/Zettel.html
+#Izaroblog #Zettelkasten
+
+
+
