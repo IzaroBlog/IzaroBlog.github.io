@@ -14,19 +14,21 @@ También es una persona humilde, que entró pausadamente con su txapela y bastó
 <span style="font-family:'Ubuntu Light';">Fue una charla de las que recuperan la confianza en el ser humano. Os dejo varias frases de Lucio; con las que intento resumir la charla y las experiencias que compartió con los allí presentes:</span>
 
 Sobre la situación actual: 
-*Sin luchar no vamos a ningún lado.*
-*No esperar nada del gobierno, no hay nada imposible*
-*¡Preocuparos menos por el fútbol y más sobre cosas interesantes!*
+> Sin luchar no vamos a ningún lado.
+> No esperar nada del gobierno, no hay nada imposible
+> ¡Preocuparos menos por el fútbol y más sobre cosas interesantes!
+
 Sobre los poderosos: 
--*Son dueños porque les dejamos ser dueños.*</span>
-*Son inteligentes en números y cifras, pero... qué saben de la vida!*
+> Son dueños porque les dejamos ser dueños.
+> Son inteligentes en números y cifras, pero... qué saben de la vida!
+ 
 Reflexiones:
-*La lucha es vida, la lucha es amor.*
-*Somos algo por lo que hacemos.*
-*Una cosa es hablar y otra hacer.*
-*Hay que empezar poco a poco, el camino se hace andando.*
-*Nada es mío nada me pertenece.*
-*Creo en la inteligencia de la solidaridad, creo en el trabajo, pero en el trabajo social, no en el de carceleros y creadores de bombas atómicas.*
+> La lucha es vida, la lucha es amor.
+> Somos algo por lo que hacemos.
+> Una cosa es hablar y otra hacer.
+> Hay que empezar poco a poco, el camino se hace andando.
+> Nada es mío nada me pertenece.
+> Creo en la inteligencia de la solidaridad, creo en el trabajo, pero en el trabajo social, no en el de carceleros y creadores de bombas atómicas.
 
 La charla fue grabada por la gente de Kortxoenea y <a title="Lucio Audio" href="http://kortxoenea.com/2014/04/14/lucio-urtubiaren-hitzaldiaren-audioa/" target="_blank">se puede descargar aquí</a>.
 
