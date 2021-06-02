@@ -9,13 +9,18 @@ title: H2
 - EUS: [https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/](https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/)
 - ES: [https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/](https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/)
 
-## Kartelak:
+## Kartelak eta logoak:
 
 - PDF: [https://ehubox.ehu.eus/s/dg2sG8kDkHpjci2](https://ehubox.ehu.eus/s/dg2sG8kDkHpjci2)
 - JPG: [https://ehubox.ehu.eus/s/KoiYnFDNZRH4ewG](https://ehubox.ehu.eus/s/KoiYnFDNZRH4ewG)
-
 - PDF(GV): [https://ehubox.ehu.eus/s/SqjAKAJRfKL6Gfc](https://ehubox.ehu.eus/s/SqjAKAJRfKL6Gfc)
 - JPG(GV): [https://ehubox.ehu.eus/s/PamEfegixToTDSN](https://ehubox.ehu.eus/s/PamEfegixToTDSN)
+
+- Bannerra [https://ehubox.ehu.eus/s/bkXwYytwa8j9wz6](https://ehubox.ehu.eus/s/bkXwYytwa8j9wz6)
+
+
+- ekopol logoak: [https://ehubox.ehu.eus/s/EnKKKiAzNFXeB4P](https://ehubox.ehu.eus/s/EnKKKiAzNFXeB4P)
+- EHU Gune logoak: [https://ehubox.ehu.eus/s/rSmRE3JTQzYcNcM](https://ehubox.ehu.eus/s/rSmRE3JTQzYcNcM)
 
 
 ## Sareak / Redes
