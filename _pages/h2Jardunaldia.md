@@ -29,7 +29,7 @@ title: H2
 
 #EKOPOLek jardunaldi interesgarri hau antolatu du; hidrogenoak trantsizio energetikoan izan dezakeen paperaz eztabaidatzeko, nazioarteko testuinguruari eta euskal errealitatean duen lurreratzeari helduz. Bertan, inplikazio sozioekonomikoez, apustuaren iraunkortasunaz eta bere hedapen potentzialarekin irekiko litzatekeen eszenatoki geopolitiko berriaz hitz egiteko aukera izango da.
 
-Gaia joratzeko, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor), Antonio Turiel (CSIC) eta Jorge Fernandez (Orkestra), baita EHUko, EEEko, Gure Energiako eta Ekologistak Martxan taldeko ordezkariak ere.
+Gaia joratzeko, hizlari hauen parte hartzea izango dugu: Sagrario Monedero (Ecologistas en Acción), Antonio Turiel (CSIC) eta Laura Barrio (EHU), baita Petronor, EEEko, Gure Energiako eta Orkestrako ordezkariak ere.
 
 📅 Data: ekainak 14, astelehena \
 🏛 Tokia: Bilbo, Bizkaia Aretoa. EHU Areto Baroja\
@@ -44,7 +44,7 @@ Gaia joratzeko, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor
 
 Desde #EKOPOL hemos organizado esta interesantísima jornada para debatir sobre el papel que cabe esperar del hidrógeno en la transición energética, abordando el contexto internacional y su aterrizaje en la realidad vasca. En él se hablará de las implicaciones socioeconómicas, la sostenibilidad de la apuesta y el nuevo escenario geopolítico que se abriría con su potencial despliegue.
 
-Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Antonio Turiel (CSIC) y Jorge Fernandez (Orkestra), así como representantes de la UPV-EHU, EVE, Gure Energia y Ecologistas en Acción.
+Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Sagrario Monedero (Ecologistas en Acción) y Jorge Fernandez (Orkestra), así como representantes de la UPV-EHU, EVE, Gure Energia y el CSIC.
 
 📅 Fecha: 14 de junio, lunes \
 🏛 Lugar: Bilbao, Bizkaia Aretoa. UPV-EHU Aula Baroja \
