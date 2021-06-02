@@ -31,8 +31,9 @@ Horretarako, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor), 
 🕤Ordutegia: 9: 30etik 14: 00etara.\
 ✍️ Izen ematea formulario honen bidez: https://usem.liberaforms.org/hidrogenoa \
 📹 Streaming helbidea: http://ehutb.ehu.eus/bizkaia-aretoa-baroja \
-➕Info: https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia \
+➕Info: https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia 
 
+--
 
 🔊🔊 Jornada "Hidrógeno en la transición ecológica: Tecnología, Economía y Sostenibilidad: Propuestas y Debate."
 
@@ -40,9 +41,9 @@ Desde #EKOPOL hemos organizado esta interesantísima jornada para debatir sobre 
 
 Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Antonio Turiel (CSIC) y Jorge Fernandez (Orkestra), así como representantes de la UPV-EHU, EVE, Gure Energia y Ecologistas en Acción.
 
-📅 Fecha: 14 de junio, lunes
-🏛 Lugar: Bilbao, Bizkaia Aretoa. UPV-EHU Aula Baroja
-🕤 Horario: de 9,30 a 14 horas.
-✍️ Inscripciones a través de este formulario: https://usem.liberaforms.org/hidrogenoa
-📹 Streaming en esta dirección: http://ehutb.ehu.eus/bizkaia-aretoa-baroja
-➕ Info: https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/
+📅 Fecha: 14 de junio, lunes \
+🏛 Lugar: Bilbao, Bizkaia Aretoa. UPV-EHU Aula Baroja \
+🕤 Horario: de 9,30 a 14 horas. \
+✍️ Inscripciones a través de este formulario: https://usem.liberaforms.org/hidrogenoa \
+📹 Streaming en esta dirección: http://ehutb.ehu.eus/bizkaia-aretoa-baroja \
+➕ Info: https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/ \
