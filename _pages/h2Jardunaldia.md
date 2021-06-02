@@ -26,12 +26,12 @@ title: H2
 
 Horretarako, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor), Antonio Turiel (CSIC) eta Jorge Fernandez (Orkestra), baita EHUko, EEEko, Gure Energiako eta Ekologistak Martxan taldeko ordezkariak ere.
 
-📅 Data: ekainak 14, astelehena /br
-🏛 Tokia: Bilbo, Bizkaia Aretoa. EHU Areto Baroja
-🕤Ordutegia: 9: 30etik 14: 00etara.
-✍️ Izen ematea formulario honen bidez: https://usem.liberaforms.org/hidrogenoa
-📹 Streaming helbidea: http://ehutb.ehu.eus/bizkaia-aretoa-baroja
-➕Info: https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia
+📅 Data: ekainak 14, astelehena \
+🏛 Tokia: Bilbo, Bizkaia Aretoa. EHU Areto Baroja\
+🕤Ordutegia: 9: 30etik 14: 00etara.\
+✍️ Izen ematea formulario honen bidez: https://usem.liberaforms.org/hidrogenoa \
+📹 Streaming helbidea: http://ehutb.ehu.eus/bizkaia-aretoa-baroja \
+➕Info: https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia \
 
 
 🔊🔊 Jornada "Hidrógeno en la transición ecológica: Tecnología, Economía y Sostenibilidad: Propuestas y Debate."
