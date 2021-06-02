@@ -6,16 +6,16 @@ title: H2
 # H2 Jardunaldirako informazioak: 
 
 ## Webgunea:
-EUS: https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/
-ES: https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/
+- EUS: [https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/](https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/)
+- ES: [https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/](https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/)
 
 ## Kartelak:
 
-PDF: https://ehubox.ehu.eus/s/dg2sG8kDkHpjci2
-JPG: https://ehubox.ehu.eus/s/KoiYnFDNZRH4ewG
+- PDF: [https://ehubox.ehu.eus/s/dg2sG8kDkHpjci2](https://ehubox.ehu.eus/s/dg2sG8kDkHpjci2)
+- JPG: [https://ehubox.ehu.eus/s/KoiYnFDNZRH4ewG](https://ehubox.ehu.eus/s/KoiYnFDNZRH4ewG)
 
-PDF(GV): https://ehubox.ehu.eus/s/SqjAKAJRfKL6Gfc
-JPG(GV): https://ehubox.ehu.eus/s/PamEfegixToTDSN
+- PDF(GV): [https://ehubox.ehu.eus/s/SqjAKAJRfKL6Gfc](https://ehubox.ehu.eus/s/SqjAKAJRfKL6Gfc)
+- JPG(GV): [https://ehubox.ehu.eus/s/PamEfegixToTDSN](https://ehubox.ehu.eus/s/PamEfegixToTDSN)
 
 
 ## Sareak / Redes
