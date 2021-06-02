@@ -22,9 +22,9 @@ title: H2
 
 🔊🔊 Jardunaldia: "Hidrogenoa trantsizio ekologikoan: teknologia, Ekonomia eta Iraunkortasuna: proposamenak eta eztabaida. "
 
-#EKOPOLetik jardunaldi interesgarri hau antolatu dugu hidrogenoak trantsizio energetikoan izan dezakeen paperaz eztabaidatzeko, nazioarteko testuinguruari eta euskal errealitatean duen lurreratzeari helduz. Bertan, inplikazio sozioekonomikoez, apustuaren iraunkortasunaz eta bere hedapen potentzialarekin irekiko litzatekeen eszenatoki geopolitiko berriaz hitz egingo dugu.
+#EKOPOLek jardunaldi interesgarri hau antolatu du; hidrogenoak trantsizio energetikoan izan dezakeen paperaz eztabaidatzeko, nazioarteko testuinguruari eta euskal errealitatean duen lurreratzeari helduz. Bertan, inplikazio sozioekonomikoez, apustuaren iraunkortasunaz eta bere hedapen potentzialarekin irekiko litzatekeen eszenatoki geopolitiko berriaz hitz egiteko aukera izango da.
 
-Horretarako, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor), Antonio Turiel (CSIC) eta Jorge Fernandez (Orkestra), baita EHUko, EEEko, Gure Energiako eta Ekologistak Martxan taldeko ordezkariak ere.
+Gaia joratzeko, hizlari hauen parte hartzea izango dugu: Elias Unzueta (Petronor), Antonio Turiel (CSIC) eta Jorge Fernandez (Orkestra), baita EHUko, EEEko, Gure Energiako eta Ekologistak Martxan taldeko ordezkariak ere.
 
 📅 Data: ekainak 14, astelehena \
 🏛 Tokia: Bilbo, Bizkaia Aretoa. EHU Areto Baroja\
@@ -46,4 +46,4 @@ Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Anton
 🕤 Horario: de 9,30 a 14 horas. \
 ✍️ Inscripciones a través de este formulario: https://usem.liberaforms.org/hidrogenoa \
 📹 Streaming en esta dirección: http://ehutb.ehu.eus/bizkaia-aretoa-baroja \
-➕ Info: https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/ \
+➕ Info: https://ekopol.eus/es/2021/06/02/jornadas-sobre-hidrogeno/ 
