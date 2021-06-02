@@ -3,7 +3,7 @@ permalink: /h2
 layout: page
 title: H2
 ---
-# H2 Jardunaldirako informazioak: 
+# H2 Jardunaldirako materialak:
 
 ## Webgunea:
 - EUS: [https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/](https://ekopol.eus/eu/2021/06/02/hidrogenoari-buruzko-jardunaldia/)
