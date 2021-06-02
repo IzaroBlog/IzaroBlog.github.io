@@ -1,10 +1,8 @@
 ---
-permalink: /H2
+permalink: /h2 Jardunaldia
 layout: page
 title: H2
 ---
-
-
 # H2 Jardunaldirako informazioak: 
 
 ## Webgunea:
