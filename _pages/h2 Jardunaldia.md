@@ -1,5 +1,5 @@
 ---
-permalink: /h2 Jardunaldia
+permalink: /h2
 layout: page
 title: H2
 ---
