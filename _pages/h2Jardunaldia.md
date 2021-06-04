@@ -44,7 +44,7 @@ Gaia joratzeko, hizlari hauen parte hartzea izango dugu: Sagrario Monedero (Ecol
 
 Desde #EKOPOL hemos organizado esta interesantísima jornada para debatir sobre el papel que cabe esperar del hidrógeno en la transición energética, abordando el contexto internacional y su aterrizaje en la realidad vasca. En él se hablará de las implicaciones socioeconómicas, la sostenibilidad de la apuesta y el nuevo escenario geopolítico que se abriría con su potencial despliegue.
 
-Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Sagrario Monedero (Ecologistas en Acción) y Jorge Fernandez (Orkestra), así como representantes de la UPV-EHU, EVE, Gure Energia y el CSIC.
+Para ello contaremos con ponentes de la talla de Elias Unzueta (Petronor), Sagrario Monedero (Ecologistas en Acción) y Antonio Turiel (CSIC), así como representantes de la UPV-EHU, EVE, Gure Energia y Orkestra.
 
 📅 Fecha: 14 de junio, lunes \
 🏛 Lugar: Bilbao, Bizkaia Aretoa. UPV-EHU Aula Baroja \
