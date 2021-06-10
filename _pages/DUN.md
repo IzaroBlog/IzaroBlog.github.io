@@ -12,10 +12,9 @@ En esa página podréis encontrar recopiladas las preguntas y respuestas que se 
 Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo y se hayan discutido en el grupo de Telegram entre más de 700 personas. A veces también se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
 El objetivo de esta página es que todas esas dudas, preguntas y respuestas queden escritas y accesibles para todas las personas interesadas. 
 
-Si encontráis algún error o fallo, estaremos en el grupo de [Telegram]((https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
+Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
 ![Sarrera](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/a7f3048fbcaa90fef9152f5098841929190a27ae/_images/DUN/DunPortada.png)
-
 
 
 ## Movimiento y terreno
