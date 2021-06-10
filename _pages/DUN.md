@@ -55,6 +55,8 @@ Sí la primera casilla que pisas es fuera, no.<br>
 En cualquier momento que pueda aprender una habilidad.
 
 ## Habilidades
+*Un personaje con [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png), puede destrabarse de un combate?? O solo sirve para mover por la zona de influencia sin trabarse?*<br>
+Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png) con su trabador<br>
 
 ## Aventuras y campañas
 
