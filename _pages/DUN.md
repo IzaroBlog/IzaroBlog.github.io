@@ -23,9 +23,9 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*\
-No, no se puede empujar a alguien de mayor tamaño que el tuyo. \
+  No, no se puede empujar a alguien de mayor tamaño que el tuyo. \
 *La regla de sorprendidos, a 6 de radio, se cuenta como si fuese movimiento y-o linea de visión o a 6 desde el personaje?*\
-La distancia para TODO, se cuenta como si fuera movimiento, sólo que no hay que invertir más en mover a través de superficies, pero sí hay que tener en cuenta los obstáculos impasables.
+  La distancia para TODO, se cuenta como si fuera movimiento, sólo que no hay que invertir más en mover a través de superficies, pero sí hay que tener en cuenta los obstáculos impasables.
 
 ## Magia
 
