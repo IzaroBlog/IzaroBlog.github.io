@@ -14,7 +14,7 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
-![Sarrera](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/a7f3048fbcaa90fef9152f5098841929190a27ae/_images/DUN/DunPortada.png)
+![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/DunPortada.png)
 
 
 ## Movimiento y terreno
