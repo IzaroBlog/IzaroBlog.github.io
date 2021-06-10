@@ -34,7 +34,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ## Elementos especiales y mobiliario
 
 ## Creación de personajes y evolución
-
+> Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?
+> En cualquier momento que pueda aprender una habilidad.
 ## Habilidades
 
 ## Aventuras y campañas
