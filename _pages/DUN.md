@@ -61,7 +61,7 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 ## Aventuras y campañas
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, pero el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
-Correcto, si no recuperas Fortuna no hay tirada inoportuna
+Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 
 ## Jugador oscuro (JO)
 
