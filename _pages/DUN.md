@@ -37,6 +37,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
 
 ## Elementos especiales y mobiliario
+*¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
+Sí la primera casilla que pisas es fuera, no.<br>
 
 ## Creación de personajes y evolución
 *Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
