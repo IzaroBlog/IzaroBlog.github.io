@@ -22,7 +22,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ## Acciones
 
 ## Combate
-*¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*
+*¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*\
 No, no se puede empujar a alguien de mayor tamaño que el tuyo. 
 
 ## Magia
@@ -31,7 +31,7 @@ No, no se puede empujar a alguien de mayor tamaño que el tuyo.
 ## Daño y efectos
 
 ## Equipo y armas
-*¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*
+*¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*\
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)
 ## Elementos especiales y mobiliario
 
