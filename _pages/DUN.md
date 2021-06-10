@@ -21,6 +21,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Acciones
 
+
+
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
   No, no se puede empujar a alguien de mayor tamaño que el tuyo. <br>
@@ -35,6 +37,10 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ## Equipo y armas
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
+*¿Cómo se usan la [cuerda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cuerda.jpg) y las [piquetas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/piquetas.jpg)?. Ambas tienen el simbolo de a dos manos 👐. Como se supone que las combinas, para que las piquetas te den el +1 al escalar? Tiene que ser otro personaje quien este con la cuerda?*<br>
+Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<br>
+
+
 
 ## Elementos especiales y mobiliario
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
