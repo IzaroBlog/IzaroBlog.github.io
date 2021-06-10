@@ -42,6 +42,8 @@ Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubuserco
 *¿Cómo se usan la [cuerda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cuerda.jpg) y las [piquetas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/piquetas.jpg)?. Ambas tienen el simbolo de a dos manos 👐. Como se supone que las combinas, para que las piquetas te den el +1 al escalar? Tiene que ser otro personaje quien este con la cuerda?*<br>
 Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<br>
 
+*¿Cómo se usan las "pociones arrojadizas" tipo bilis de dragón o agua bendita? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
+Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 
 
 ## Elementos especiales y mobiliario
