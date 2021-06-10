@@ -1,7 +1,7 @@
 ---
-permalink: /DUNFAQ
+permalink: /DUN
 layout: page
-title: DUN FAQ
+title: DUN
 ---
 **Presentación:**
 En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/). 
