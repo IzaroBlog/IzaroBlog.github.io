@@ -32,6 +32,9 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Magia
 
+*Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/abrirentrada.jpg) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
+Si.  
+
 
 ## Daño y efectos
 
