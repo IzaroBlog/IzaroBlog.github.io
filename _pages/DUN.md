@@ -5,7 +5,7 @@ title: DUN
 ---
 **Presentación:**
 En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/). 
-- Enlace al grupo TELEGRAM de DUN: [https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)
+- Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)
 
