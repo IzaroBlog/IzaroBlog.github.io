@@ -54,7 +54,7 @@ Sí la primera casilla que pisas es fuera, no.<br>
 *Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
 *Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
-Puedes empezar con 2, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial  
+Puedes empezar con 2 mercenarios, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial.  
 
 
 ## Habilidades
