@@ -60,10 +60,13 @@ En cualquier momento que pueda aprender una habilidad.
 *Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
 Puedes empezar con 2 mercenarios, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial.  
 
-*Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/HechiceroGuerrero.jpg) una vez creado el personaje?*  
+*Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg) una vez creado el personaje?*  
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir.  
 
 ## Habilidades
+*Si dispones de la habilidad ["Concentración"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/concentracion.jpg) puedes, disparar, activar concentración y después moverte?. (moverte y disparar, no)*  
+Si usas Concentración pierdes el movimiento. No habla de que uses Concentración antes de mover, dice que no te muevas, durante su activación es todo su turno.  
+
 *Un personaje con [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png), puede destrabarse de un combate?? O solo sirve para mover por la zona de influencia sin trabarse?*<br>
 Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png) con su trabador<br>
 
