@@ -56,8 +56,10 @@ Sí la primera casilla que pisas es fuera, no.<br>
 ## Creación de personajes y evolución
 *Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
+
 *Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
 Puedes empezar con 2 mercenarios, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial.  
+
 *Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/HechiceroGuerrero.jpg) una vez creado el personaje?*
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir
 
