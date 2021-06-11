@@ -53,6 +53,9 @@ Sí la primera casilla que pisas es fuera, no.<br>
 ## Creación de personajes y evolución
 *Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
+*Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
+Puedes empezar con 2, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial  
+
 
 ## Habilidades
 *Un personaje con [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png), puede destrabarse de un combate?? O solo sirve para mover por la zona de influencia sin trabarse?*<br>
@@ -60,7 +63,7 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 
 ## Aventuras y campañas
 
-*Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, pero el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
+*Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
 Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 
 ## Jugador oscuro (JO)
