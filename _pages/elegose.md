@@ -9,7 +9,7 @@ title: Elegose Irakurle taldea
 
 ### Egindako liburu iruzkinak
 
-- Nomada, Aitziber Etxeberria
+- [Nomada, Aitziber Etxeberria](https://izaroblog.github.io/elegose/2019/09/16/Nomada.html)
 - Pape Niang. Miker Garcia
 - Bizitzea ez al da oso arriskutsua?, Joseba Sarrionandia
 - Ez erran deus, Jon Arretxe
