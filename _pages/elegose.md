@@ -15,7 +15,7 @@ title: Elegose Irakurle taldea
 - [Ez erran deus, Jon Arretxe](https://izaroblog.github.io/elegose/2019/04/18/Ez-erran-deus.html)
 - [Fakirraren Ahotsa, Harkaitz Cano](https://izaroblog.github.io/elegose/2019/04/06/Fakirraren-ahotsa.html)
 - [Azala Erre, Danele Sarriugarte](https://izaroblog.github.io/elegose/2019/02/15/Azala-erre.html)
-- Malthusen ezinegona, Asel Luzarraga 
+- [Malthusen ezinegona, Asel Luzarraga](https://izaroblog.github.io/elegose/2021/06/15/Malthusen-ezinegona.html) 
 
 
 ![EuskarazIrakurtzenDugu](https://laborategia.eus/wp-content/uploads/2019/01/irakurketataldea.png)
