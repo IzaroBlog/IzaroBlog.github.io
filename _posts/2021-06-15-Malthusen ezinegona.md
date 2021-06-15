@@ -13,7 +13,7 @@ tags: [eu elegose Malthusen ezinegona]
 ![portada](http://aselluzarraga.com/wp-content/uploads/2021/05/Azala-1-682x1024.jpg)
 
 
-Hementxe doa nire "kritika" literarioa; niri sortu dizkidan sentsazioen menpe 
+Hementxe doa nire "kritika" literarioa; niri sortu dizkidan sentsazioen menpe %100ean! ;)    
 **Zer da gustatu zaidana?**
 - Asko gustatu zait irudikatzen duen etorkizun-distopia, halako elite bat mundua "dago", disfrutatzen, haien behar guztiak aseturik. Hortik abiatzen da istorioa, eta interesgarria da nola Aselek irudikatzen duen nolakoa izan daitekeen zahartzaro, gaixotasun eta lanik gabeko bizitza. 
 - Malthus misteriotsuaren bilakaera ere atsegin dut, nola joaten den liburuaren atalka, atalka haren nortasuna azaltzen, hartzen dituen erabakiak eta ondorioak... 
