@@ -10,7 +10,7 @@ tags: [eu elegose Malthusen ezinegona]
 - [Fedibertsoan](https://eu.wikipedia.org/wiki/Fedibertso) elkartzen den irakurketa talde irekia.
 - Hilero euskarazko liburu bat hautatu, irakurri eta komentatzen dugu.
 
-!(http://aselluzarraga.com/wp-content/uploads/2021/05/Azala-1-682x1024.jpg)
+![portada](http://aselluzarraga.com/wp-content/uploads/2021/05/Azala-1-682x1024.jpg)
 
 
 Hementxe doa nire "kritika" literarioa; niri sortu dizkidan sentsazioen menpe 
@@ -32,4 +32,4 @@ Beste elegosetarren iruzkinak irakurri nahi badituzue, #malthunsenezinegona trao
 Nik egindako beste liburuen iruzkinak irakurri nahi badituzue, hementxe duzue aukera: <https://izaroblog.github.io/elegose>
 
 Eta gogoratu [Asel](http://aselluzarraga.com/eu/ekin) ere tertulia egiteko aukera izango dela!
-!(https://mastodon.eus/system/media_attachments/files/106/405/778/970/601/040/original/1c789b9966c5134d.jpg)
+![Tertulia](https://mastodon.eus/system/media_attachments/files/106/405/778/970/601/040/original/1c789b9966c5134d.jpg)
