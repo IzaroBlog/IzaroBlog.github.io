@@ -6,6 +6,7 @@ categories: elegose
 tags: [eu elegose Malthusen ezinegona]
 ---
 ### [Malthusen ezinegona](http://aselluzarraga.com/bibliografia/euskaraz/malthusen-ezinegona/)
+
 ### Zer da [Elegose irakurle taldea](https://laborategia.eus/mastodon-irakurketa-taldea/)?
 - [Fedibertsoan](https://eu.wikipedia.org/wiki/Fedibertso) elkartzen den irakurketa talde irekia.
 - Hilero euskarazko liburu bat hautatu, irakurri eta komentatzen dugu.
