@@ -18,7 +18,7 @@ Hementxe doa nire "kritika" literarioa; niri sortu dizkidan sentsazioen menpe %1
 - Asko gustatu zait irudikatzen duen etorkizun-distopia, halako elite bat mundua "dago", disfrutatzen, haien behar guztiak aseturik. Hortik abiatzen da istorioa, eta interesgarria da nola Aselek irudikatzen duen nolakoa izan daitekeen zahartzaro, gaixotasun eta lanik gabeko bizitza. 
 - Malthus misteriotsuaren bilakaera ere atsegin dut, nola joaten den liburuaren atalka, atalka haren nortasuna azaltzen, hartzen dituen erabakiak eta ondorioak... 
 - Sortzen duen tentsioak harrapatu egiten zaitu, eta Malthus ezagutzen duzun bitartean joaten dira gertaerak bata bestearen atzetik harilkatzen. 
-- Kurtsibaz idazten duen narratzailearen misterioa ere ondo dator tentsio hau mantentzeko, baina batzuetan gehiegizko hitzaldiak botatzen d itu... nor edo zer den ez jakiteak zehazki badu bere puntua!
+- Kurtsibaz idazten duen narratzailearen misterioa ere ondo dator tentsio hau mantentzeko, baina batzuetan gehiegizko hitzaldiak botatzen ditu... nor edo zer den ez jakiteak zehazki badu bere puntua!
 
 
 **Zer hobetuko nuke edo ez zait hainbeste gustatu?**  
