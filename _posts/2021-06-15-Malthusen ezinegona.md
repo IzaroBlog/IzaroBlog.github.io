@@ -31,5 +31,5 @@ Beste elegosetarren iruzkinak irakurri nahi badituzue, #malthunsenezinegona trao
 
 Nik egindako beste liburuen iruzkinak irakurri nahi badituzue, hementxe duzue aukera: <https://izaroblog.github.io/elegose>
 
-Eta gogoratu [Asel](http://aselluzarraga.com/eu/ekin) ere tertulia egiteko aukera izango dela!
+Eta gogoratu [Asel](http://aselluzarraga.com/eu/)ekin ere tertulia egiteko aukera izango dela!
 ![Tertulia](https://mastodon.eus/system/media_attachments/files/106/405/778/970/601/040/original/1c789b9966c5134d.jpg)
