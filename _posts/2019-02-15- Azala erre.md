@@ -14,7 +14,7 @@ tags: [eu elegose Azala erre]
 <a href="https://mastodon.eus/@elegose">Elegoserentzat</a> egindako lehenengo "kritika" literarioa; idazlearen lana baloratu gabe, niri sortu dizkidan sentsazioen menpe.
 **Zer da gustatu zaidana?**<br />
 - <em>Flashback</em> eta istorioa zatika kontatzeko intentzioa, kapitulu motzekin erraz irakurtzekoa.<br />
-- - Miren gustatu zait pertsonaia bezala, eta egungo gizartearen islada erreala ematen duela iruditzen zait.<br />
+- Miren gustatu zait pertsonaia bezala, eta egungo gizartearen islada erreala ematen duela iruditzen zait.<br />
 
 **Zer da ez zaidana gustatu?**<br />
 - Istorioa gehienbat Mirenen ikuspuntutik egindakoa da. Agian <em>flashback</em> horiek beste pertsonaiei indar gehiago emateko erabil zitezkeen.
