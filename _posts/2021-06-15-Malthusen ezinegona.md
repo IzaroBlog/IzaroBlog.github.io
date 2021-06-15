@@ -21,7 +21,7 @@ Hementxe doa nire "kritika" literarioa; niri sortu dizkidan sentsazioen menpe %1
 - Kurtsibaz idazten duen narratzailearen misterioa ere ondo dator tentsio hau mantentzeko, baina batzuetan gehiegizko hitzaldiak botatzen d itu... nor edo zer den ez jakiteak zehazki badu bere puntua!
 
 
-**Zer hobetuko nuke edo ez zait hainbeste gustatu?**
+**Zer hobetuko nuke edo ez zait hainbeste gustatu?**  
 -Malthusen protagonismoa gehiegizkoa iruditu zait. Beste pertsonaiak oso bigarren mailan gelditzen dira eleberri guztian, eta egia esan badaude hor garapen polita izan zezaketenak. Lehenengo pertsonan idatzita egotearen ondorioa agian? Judithi zerbait gehiago, agian Kingsley ere, Darwinen ikuspuntua beharbada? Hori faltan bota dut. 
 - Malthusekin batera azaltzen diren pertsonaia batzuk ere, arrantzaleak, Christine, David bera?... nolabait erabili gabe edo zuku gehiago eman zezaketelakoan nago. 
 - Aselek irudikatzen duen gizarte eredua oso interesgarria da, baina nik ezaugarri edo deskribapen gehiago izatea eskertuko nuke. Betlehioa, ([Orwellen 1984ko](https://eu.wikipedia.org/wiki/1984_(eleberria)) kutsua hartu diot) orgiak asko aipatzen dira, baina gutxi deskribatu, zergatik, nortzuk, harremanak ere batzuetan gainazalean bakarrik gelditzen direla iruditu zait. Agian xehetasun gehiagoz deskribatuko nituzke Avgiko kalea, bizitza, musika kontzertuen nondik norakoak... gizartea bera hobeto ulertzeko balio dezakete eta. 
