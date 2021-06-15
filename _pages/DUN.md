@@ -19,13 +19,13 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Movimiento y terreno
 
+*Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la zona de seguridad) entre ellos, cada vez que se mueven, vuelven a lanzar dado de trampa?? O solo sa lanza al salir por primera vez de una zona de seguridad??*  
+Solo se tira el dado una vez por activación de personaje, nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
+
 ## Acciones
 
 *Cuando se averiguan puertas secretas. Esa puerta a donde da? A una loseta al azar o como se gestiona el destino de una puerta secreta?*  
 Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la hay, no se pone nada. Sabes que NO hay puertas secretas, eso si!  
-
-
-
 
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
@@ -33,6 +33,9 @@ Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la
   
 *La regla de sorprendidos, a 6 de radio, se cuenta como si fuese movimiento y-o linea de visión o a 6 desde el personaje?*<br>
   La distancia para TODO, se cuenta como si fuera movimiento, sólo que no hay que invertir más en mover a través de superficies, pero sí hay que tener en cuenta los obstáculos impasables.
+  
+*El Disparo Precipitado es solo cuando se acercan a menos de tres casillas y van hacia ti para trabarte?? Es decir, si el enemigo solo pasaba a menos 3 casilla tuyas, pero va hacia otro personaje, no habría disparo precipitado, no?*  
+Correcto, tiene que declarar trabarte.  
 
 ## Magia
 
@@ -70,8 +73,6 @@ No, se elige la habilidad al crear el personaje o despues no se puede adquirir.
 *Si un héroe a aprendido con experiencia la habilidad "Élite" por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  Exacto, no puede ser aprendida por nadie más.  
 
 
-
-
 ## Habilidades
 
 *La habilidad ["Chillido del inframundo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/chillidodelinframundo.jpg) se puede usar adyacente a un enemigo??*
@@ -97,4 +98,6 @@ Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 
 ## Otras anotaciones
 
+*En tiradas enfrentadas, doble 6 siempre le gana a cualquier otro resultado, sin importar los modificadores de cada personaje, no?*  
+[Doble 6 siempre gana y Doble 1 siempre pierde](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/doble.jpg), sin importar los valores de cada personaje involucrado. Sólo se comparan si ambos obtienen doble 6 o doble 1.Las tiradas enfrentadas son pruebas de características, pero el número objetivo es el otro en vez de uno fijo.
 
