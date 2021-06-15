@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bizitzea ez al da arriskutsua?
+title:  Bizitzea ez al da oso arriskutsua?
 date:   2019-05-27
 categories: elegose
 tags: [eu elegose PapeNiang]
