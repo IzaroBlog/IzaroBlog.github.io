@@ -11,10 +11,10 @@ title: Elegose Irakurle taldea
 
 - [Nomada, Aitziber Etxeberria](https://izaroblog.github.io/elegose/2019/09/16/Nomada.html)
 - [Pape Niang. Mikel Garcia](https://izaroblog.github.io/elegose/2019/09/01/PapeNiang.html)
-- Bizitzea ez al da oso arriskutsua?, Joseba Sarrionandia
-- Ez erran deus, Jon Arretxe
-- Fakirraren Ahotsa, Harkaitz Cano
-- Azala Erre, Danele Sarriugarte
+- [Bizitzea ez al da oso arriskutsua?, Joseba Sarrionandia](https://izaroblog.github.io/elegose/2019/05/27/Bizitzea-ez-al-da-oso-arriskutsua.html)
+- [Ez erran deus, Jon Arretxe]
+- [Fakirraren Ahotsa, Harkaitz Cano](https://izaroblog.github.io/elegose/2019/04/06/Fakirraren-ahotsa.html)
+- [Azala Erre, Danele Sarriugarte](https://izaroblog.github.io/elegose/2019/02/15/Azala-erre.html)
 - Malthusen ezinegona, Asel Luzarraga 
 
 
