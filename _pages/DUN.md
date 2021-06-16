@@ -42,6 +42,9 @@ Correcto, tiene que declarar trabarte.
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/abrirentrada.jpg) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
 Si.  
 
+*El hechizo [Fortalecer a los muertos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/levantarmuertos.jpg), solo dura el mismo turno que lo lanzas?*  
+Si, solo dura un turno, no es un hechizo permanente. Tened en cuenta que es mucho menos poderoso usado por un héroe que por el JO o JOA, donde casi toda la facción es No-muerto. Si fuera permanente sería imposible e injugable.
+
 
 ## Daño y efectos
 
