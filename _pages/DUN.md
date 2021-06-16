@@ -73,7 +73,8 @@ Puedes empezar con 2 mercenarios, previo pago. Recuerda que [jugando en solitari
 *Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg) una vez creado el personaje?*  
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir.  
 
-*Si un héroe a aprendido con experiencia la habilidad ["Élite"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elite.png) por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  Exacto, no puede ser aprendida por nadie más.  
+*Si un héroe a aprendido con experiencia la habilidad ["Élite"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elite.png) por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  
+Exacto, no puede ser aprendida por nadie más.  
 
 
 ## Habilidades
@@ -88,7 +89,7 @@ Si usas Concentración pierdes el movimiento. No habla de que uses Concentració
 Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png) con su trabador<br>
 
 *¿Cómo se aplica ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg)? Tengo un encuentro en una sala y activo ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) para el +1 a la tirada de iniciativa. Gano la iniciativa se inicia nuevo turno. Disparo y elijo usar ["Disparo Certero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/disparocerterto.png) y ["Tiro rápido"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tirorapido.png) antes del ataque. Fallo mi primera tirada de impactar. ¿Puedo usar la repetición del [Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) o como ya he seleccionado DOS habilidades activas no se me aplicaría?*  
-[Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) al iniciar un turno de combate se considera habilidad activa, así que tienes que elegir usarla si te quieres beneficiar de la misma y cuenta para el límite de 2 habilidades.
+[Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) al iniciar un turno de combate se considera habilidad activa, así que tienes que elegir usarla si te quieres beneficiar de la misma y cuenta para el [límite de 2 habilidades](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/usohabilidades.png).
 
 ## Aventuras y campañas
 
