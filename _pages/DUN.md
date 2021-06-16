@@ -62,13 +62,19 @@ Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<
 Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 
 *¿Qué quiere decir que puede usar garras?*   
-Que se puede atacar con el "arma" garras, pero recuerda que para usar un arma natural debes llevar las 2 manos libres.  
+Que se puede atacar con el "arma" garras, pero recuerda que para usar un [arma natural](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) debes llevar las 2 manos libres.  
 
 *¿Tienes que estar desarmado para usar  colmillos?, ya que ahí no usa las manos.¿Y escudos?*  
-Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usar armas naturales con escudo.  
+Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usar [armas naturales](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) con escudo.  
 
-*¿Un reptiliano con armadura completa llegaría a 7 de armadura?*  
+*¿Un [reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reptiliano.png) con [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armaduracompleta.png) llegaría a 7 de armadura?*  
 Da igual la combinación, nunca se puede tener más de armadura 6.  
+
+*Las flechas incendiarias ¿son solo arcos? ¿No valen ballestas o pistolas ballestas?*  
+Las flechas incendiarias solo pueden ser usadas en arcos.  
+
+*¿Las armas que restan armadura también lo aplican a las puertas blindadas? ¿Las armas que tienen malus contra armaduras pesadas contra una puerta blindada también los tienen?*  
+Las armas que restan armadura también lo emplean contra puertas (un hacha es crucial para abrir puertas). Una puerta se considera armadura pesada.
 
 
 
@@ -88,8 +94,8 @@ Puedes empezar con 2 mercenarios, previo pago. Recuerda que [jugando en solitari
 *Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg) una vez creado el personaje?*  
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir.  
 
-*Si un héroe a aprendido con experiencia la habilidad ["Élite"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elite.png) por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  
-Exacto, no puede ser aprendida por nadie más.  
+*¿No es posible aprender la misma habilidad con más de un personaje? Si un héroe a aprendido con experiencia la habilidad ["Élite"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elite.png) por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  
+Exacto, no puede ser aprendida por nadie más. Se hizo así por nivelación y porque todos los personajes sean útiles en su propósito.  
 
 
 ## Habilidades
@@ -105,6 +111,10 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 
 *¿Cómo se aplica ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg)? Tengo un encuentro en una sala y activo ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) para el +1 a la tirada de iniciativa. Gano la iniciativa se inicia nuevo turno. Disparo y elijo usar ["Disparo Certero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/disparocerterto.png) y ["Tiro rápido"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tirorapido.png) antes del ataque. Fallo mi primera tirada de impactar. ¿Puedo usar la repetición del [Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) o como ya he seleccionado DOS habilidades activas no se me aplicaría?*  
 [Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) al iniciar un turno de combate se considera habilidad activa, así que tienes que elegir usarla si te quieres beneficiar de la misma y cuenta para el [límite de 2 habilidades](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/usohabilidades.png).
+
+*Resistente. El enano empieza con la habilidad Resistente. La última parte de esta habilidad habla de un +1 a la armadura natural ante venenos y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar veneno) que con un arma normal?*
+
+
 
 ## Aventuras y campañas
 
