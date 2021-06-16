@@ -34,7 +34,7 @@ Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la
 *La [regla de sorprendidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sorprendidos.png), a 6 de radio, se cuenta como si fuese movimiento y-o linea de visión o a 6 desde el personaje?*<br>
   La distancia para TODO, se cuenta como si fuera movimiento, sólo que no hay que invertir más en mover a través de superficies, pero sí hay que tener en cuenta los obstáculos impasables.
   
-*El Disparo Precipitado es solo cuando se acercan a menos de tres casillas y van hacia ti para trabarte?? Es decir, si el enemigo solo pasaba a menos 3 casilla tuyas, pero va hacia otro personaje, no habría disparo precipitado, no?*  
+*El [Disparo Precipitado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/disparoprecipitado.png) es solo cuando se acercan a menos de tres casillas y van hacia ti para trabarte?? Es decir, si el enemigo solo pasaba a menos 3 casilla tuyas, pero va hacia otro personaje, no habría disparo precipitado, no?*  
 Correcto, tiene que declarar trabarte.  
 
 ## Magia
