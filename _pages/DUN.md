@@ -14,7 +14,7 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
-![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/DunPortada.png)
+![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
 
 
 ## Movimiento y terreno
@@ -58,7 +58,7 @@ Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubuserco
 *¿Cómo se usan la [cuerda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cuerda.jpg) y las [piquetas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/piquetas.jpg)?. Ambas tienen el simbolo de a dos manos 👐. Como se supone que las combinas, para que las piquetas te den el +1 al escalar? Tiene que ser otro personaje quien este con la cuerda?*<br>
 Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<br>
 
-*¿Cómo se usan las "pociones arrojadizas" tipo [bilis de dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/BilisDragon.png) o [agua bendita](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguabendita.png)? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
+*¿Cómo se usan las "pociones arrojadizas" tipo [bilis de dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/bilisDragon.png) o [agua bendita](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguabendita.png)? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
 Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 
 *¿Qué quiere decir que puede usar garras?*   
