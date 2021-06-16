@@ -4,7 +4,7 @@ layout: page
 title: DUN
 ---
 **Presentación:**
-En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/). 
+En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)
@@ -47,6 +47,9 @@ Si, solo dura un turno, no es un hechizo permanente. Tened en cuenta que es much
 
 
 ## Daño y efectos
+*¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
+Un personaje puede obstaculizar la LdV, pero no es cobertura. Recuerda que ninguna criatura podrá tener Línea de Visión a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
+
 
 ## Equipo y armas
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
@@ -57,6 +60,18 @@ Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<
 
 *¿Cómo se usan las "pociones arrojadizas" tipo [bilis de dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/BilisDragon.png) o [agua bendita](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguabendita.png)? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
 Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
+
+*¿Qué quiere decir que puede usar garras?*   
+Que se puede atacar con el "arma" garras, pero recuerda que para usar un arma natural debes llevar las 2 manos libres.  
+
+*¿Tienes que estar desarmado para usar  colmillos?, ya que ahí no usa las manos.¿Y escudos?*  
+Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usar armas naturales con escudo.  
+
+*¿Un reptiliano con armadura completa llegaría a 7 de armadura?*  
+Da igual la combinación, nunca se puede tener más de armadura 6.  
+
+
+
 
 
 ## Elementos especiales y mobiliario
