@@ -68,7 +68,7 @@ Sí la primera casilla que pisas es fuera, no.<br>
 En cualquier momento que pueda aprender una habilidad.
 
 *Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
-Puedes empezar con 2 mercenarios, previo pago. Recuerda que jugando en solitario también tienes más dinero inicial.  
+Puedes empezar con 2 mercenarios, previo pago. Recuerda que [jugando en solitario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/solitario.png) también tienes más dinero inicial.  
 
 *Puede un [montaraz](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/montaraz.jpg) adquirir la habilidad ["hechicero guerrero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg) una vez creado el personaje?*  
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir.  
