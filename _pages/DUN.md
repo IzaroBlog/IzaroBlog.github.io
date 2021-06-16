@@ -19,12 +19,12 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Movimiento y terreno
 
-*Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, vuelven a lanzar dado de trampa?? O solo sa lanza al salir por primera vez de una zona de seguridad??*  
+*Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, ¿vuelven a lanzar dado de trampa? O solo sa lanza al salir por primera vez de una zona de seguridad?*  
 [Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
 
 ## Acciones
 
-*Cuando se averiguan puertas secretas. Esa puerta a donde da? A una loseta al azar o como se gestiona el destino de una puerta secreta?*  
+*Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
 Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la hay, no se pone nada. Sabes que NO hay puertas secretas, eso si!  
 
 ## Combate
@@ -64,7 +64,7 @@ Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 Sí la primera casilla que pisas es fuera, no.<br>
 
 ## Creación de personajes y evolución
-*Las clases que dicen "puede aprender la habilidad volar", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
+*Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
 
 *Jugando en solitario, puedes empezar con dos mercenarios o que puedes contratarlos con su correspondiente dinero??*  
