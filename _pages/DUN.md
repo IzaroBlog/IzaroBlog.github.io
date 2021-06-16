@@ -19,8 +19,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Movimiento y terreno
 
-*Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la zona de seguridad) entre ellos, cada vez que se mueven, vuelven a lanzar dado de trampa?? O solo sa lanza al salir por primera vez de una zona de seguridad??*  
-Solo se tira el dado una vez por activación de personaje, nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
+*Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, vuelven a lanzar dado de trampa?? O solo sa lanza al salir por primera vez de una zona de seguridad??*  
+[Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
 
 ## Acciones
 
@@ -55,7 +55,7 @@ Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubuserco
 *¿Cómo se usan la [cuerda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cuerda.jpg) y las [piquetas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/piquetas.jpg)?. Ambas tienen el simbolo de a dos manos 👐. Como se supone que las combinas, para que las piquetas te den el +1 al escalar? Tiene que ser otro personaje quien este con la cuerda?*<br>
 Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<br>
 
-*¿Cómo se usan las "pociones arrojadizas" tipo bilis de dragón o agua bendita? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
+*¿Cómo se usan las "pociones arrojadizas" tipo [bilis de dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/BilisDragon.png) o [agua bendita](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguabendita.png)? Primero tienes que equiparte con ellas como si fueran un arma arrojadiza (acción rápida) y después las tiras? o... las tiras sin equiparlas, cuál pócima de curación que te tomas?*<br>
 Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 
 
