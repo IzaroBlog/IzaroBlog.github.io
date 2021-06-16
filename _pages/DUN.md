@@ -70,11 +70,11 @@ Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usa
 *¿Un [reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reptiliano.png) con [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armaduracompleta.png) llegaría a 7 de armadura?*  
 Da igual la combinación, nunca se puede tener más de armadura 6.  
 
-*Las flechas incendiarias ¿son solo arcos? ¿No valen ballestas o pistolas ballestas?*  
-Las flechas incendiarias solo pueden ser usadas en arcos.  
+*Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/flechasincendiarias.png) ¿son solo arcos? ¿No valen ballestas o pistolas ballestas?*  
+Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/flechasincendiarias.png) solo pueden ser usadas en arcos.  
 
 *¿Las armas que restan armadura también lo aplican a las puertas blindadas? ¿Las armas que tienen malus contra armaduras pesadas contra una puerta blindada también los tienen?*  
-Las armas que restan armadura también lo emplean contra puertas (un hacha es crucial para abrir puertas). Una puerta se considera armadura pesada.
+[Las armas que restan armadura también lo emplean contra puertas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/puertasblindadas_armas.png) (un hacha es crucial para abrir puertas). Una puerta se considera armadura pesada.
 
 
 
@@ -110,9 +110,11 @@ Si usas Concentración pierdes el movimiento. No habla de que uses Concentració
 Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png) con su trabador<br>
 
 *¿Cómo se aplica ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg)? Tengo un encuentro en una sala y activo ["Emboscar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) para el +1 a la tirada de iniciativa. Gano la iniciativa se inicia nuevo turno. Disparo y elijo usar ["Disparo Certero"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/disparocerterto.png) y ["Tiro rápido"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tirorapido.png) antes del ataque. Fallo mi primera tirada de impactar. ¿Puedo usar la repetición del [Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) o como ya he seleccionado DOS habilidades activas no se me aplicaría?*  
-[Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) al iniciar un turno de combate se considera habilidad activa, así que tienes que elegir usarla si te quieres beneficiar de la misma y cuenta para el [límite de 2 habilidades](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/usohabilidades.png).
+[Emboscar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/emboscar.jpg) al iniciar un turno de combate se considera habilidad activa, así que tienes que elegir usarla si te quieres beneficiar de la misma y cuenta para el [límite de 2 habilidades](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/usohabilidades.png).  
 
-*Resistente. El enano empieza con la habilidad Resistente. La última parte de esta habilidad habla de un +1 a la armadura natural ante venenos y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar veneno) que con un arma normal?*
+*El [enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png) empieza con la habilidad [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png). La última parte de esta habilidad habla de un +1 a la armadura natural ante [venenos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) ) que con un arma normal?*  
+El +1 es cuando impactas, a la hora de ver si afecta el [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png). Primero se comprueba de la forma habitual los daños normales, y luego se hace tirada para ver si le afecta el veneno (ahí es donde tiene el +1).
+
 
 
 
