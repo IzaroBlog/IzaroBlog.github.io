@@ -24,7 +24,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 [Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
 
 *¿Se puede mover en diagonal entre personajes? ¿Entre enemigos? ¿Entre un aliado y un enemigo? ¿Se puede mover en diagonal saliendo de un puente sobre un foso?*  
-No se puede atravesar una puerta en diagonal y obstáculos impasables tampoco.  Entre personajes si, pero entre enemigos no (a no ser que estén trabados o sea destrabándote). Lo del puente y el foso NO, al igual que las puertas.  
+[No se puede atravesar una puerta en diagonal y obstáculos impasables tampoco](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientodiagonal.png).  Entre personajes si, pero entre enemigos no (a no ser que estén trabados o sea destrabándote). Lo del puente y el foso NO, al igual que las puertas.  
 
 *Un personaje tamaño normal si pasa a través de un compañero grande, ¿le cuesta +1 mov. por cada casilla que ocupa el grande?*  
 Para movimientos se considera la criatura de 1 casilla, pero ha de poder sobrepasar lo que ocupa con su movimiento.  
