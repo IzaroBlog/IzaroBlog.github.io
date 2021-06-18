@@ -87,6 +87,8 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 *¿Las armas que restan armadura también lo aplican a las puertas blindadas? ¿Las armas que tienen malus contra armaduras pesadas contra una puerta blindada también los tienen?*  
 [Las armas que restan armadura también lo emplean contra puertas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/puertasblindadas_armas.png) (un hacha es crucial para abrir puertas). Una puerta se considera armadura pesada.
 
+*Las reglas dicen que no se pueden acumular efectos de dos pócimas. ¿No se puede entonces tener activa una pócima de destreza y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
+Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero no el de dos pócimas.   
 
 
 
