@@ -118,8 +118,14 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 *El [enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png) empieza con la habilidad [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png). La última parte de esta habilidad habla de un +1 a la armadura natural ante [venenos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) ) que con un arma normal?*  
 El +1 es cuando impactas, a la hora de ver si afecta el [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png). Primero se comprueba de la forma habitual los daños normales, y luego se hace tirada para ver si le afecta el veneno (ahí es donde tiene el +1).
 
-*¿Un personaje arquero en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) dispararía con el arco o se acercaría a golpear cuerpo a cuerpo aunque esté desarmado?*
-Entablará combate con el más cercano, ha de ser cuerpo a cuerpo.
+*¿Un personaje arquero en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) dispararía con el arco o se acercaría a golpear cuerpo a cuerpo aunque esté desarmado?*  
+Entablará combate con el más cercano, ha de ser cuerpo a cuerpo.  
+
+*Cuando estás en estado berserker no tienes miedo a las criaturas temibles. Una vez que termina el estado berserker y sigues en el mismo combate ¿tendrías que tirar por si te dan miedo las criaturas a las que has pegado en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png)*  
+NO. La tirada se hace solo una vez por tipo de criatura en un combate.  
+
+*Mirando las habilidades he visto que con [Golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/golpebrutal.png) se pueden realizar ataques considerando 4, 5 o 6 como críticos. Después pone en la habilidad [Golpe letal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/golpeletal.png) que si consigue algún impacto crítico reduce a - 1 la armadura del objetivo.¿Se pueden combinar ambas habilidades, o lo del impacto crítico del golpe letal es sólo a seises?*  
+Se pueden combinar.  
 
 
 
@@ -127,6 +133,10 @@ Entablará combate con el más cercano, ha de ser cuerpo a cuerpo.
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
 Correcto, si no recuperas Fortuna no hay tirada inoportuna.
+
+*¿Para qué interviene el alineamiento en el juego? No he visto nada de eso.*  
+En los periodos entre aventuras. En campaña, si vas a una población/ciudad/castillo de alineamiento diferente [todos los servicios cuestan +1 moneda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/alineamientopoblaciones.png). Basta con que uno solo del grupo sea de alineamiento opuesto para aplicar el sobrecoste.  
+
 
 ## Jugador oscuro (JO)
 
