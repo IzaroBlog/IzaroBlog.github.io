@@ -22,6 +22,13 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 *Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, ¿vuelven a lanzar dado de trampa? O solo sa lanza al salir por primera vez de una zona de seguridad?*  
 [Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
 
+*¿Se puede mover en diagonal entre personajes? ¿Entre enemigos? ¿Entre un aliado y un enemigo? No se puede atravesar una puerta en diagonal, obstáculos impasables tampoco. ¿Se puede mover en diagonal saliendo de un puente sobre un foso?*  
+Entre personajes si, entre enemigos no (a no ser que estén trabados o sea destrabándote). Lo del puente y el foso NO, al igual que las puertas.  
+
+*Un personaje tamaño normal si pasa a través de un compañero grande, ¿le cuesta +1 mov. por cada casilla que ocupa el grande?*  
+Para movimientos se considera la criatura de 1 casilla, pero ha de poder sobrepasar lo que ocupa con su movimiento.  
+
+
 ## Acciones
 
 *Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
@@ -163,6 +170,8 @@ En los periodos entre aventuras. En campaña, si vas a una población/ciudad/cas
 ## Jugador oscuro (JO)
 
 ## Jugador oscuro artificial (JOA)
+*La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se saca trampa. Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración. Lo que nos despista es el hecho de decir que "cuando vayas a pisar una casilla (ficha) de exploración..." ahí es cuando se tira dado por si hay obstáculo, antes de estar encima por lo que suponemos que es debido a que sale en esa casilla la trampa ¿es correcto?*  
+Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
 ## Otras anotaciones
 
