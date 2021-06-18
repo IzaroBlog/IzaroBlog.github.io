@@ -38,7 +38,7 @@ Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la
 Correcto, tiene que declarar trabarte.  
 
 *En una situación en la que estas defendiendo, ganas en CaC y empujas al rival, ¿si no hay casillas libres por algún obstáculo no haces 1 punto de daño? Según se explica en ["Uso de escudo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escudotiradasenfrentadas.png) no. Pero luego dice que vayas a la sección de ["Empujar"]((https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/empujar.png),), la cual te dice que si no le puedes empujar por obstáculo se comería daño el enemigo. A cual de las dos hay que hacer caso?*  
-Sí defiendes no hay posibilidad de generar daño, a no ser que tengas una habilidad que te dé opción a hacerlo.  
+Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habilidad que te dé opción a hacerlo.  
 
 ## Magia
 
