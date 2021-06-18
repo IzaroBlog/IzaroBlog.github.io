@@ -117,6 +117,9 @@ Exacto, no puede ser aprendida por nadie más. Se hizo así por nivelación y po
 *En el caso del [monje guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/monjeguerrero.png) que solo dice: “empieza con dos hechizos básicos del saber bendicion o luz", quiere decir que ¿únicamente podrá aprender los hechizos del saber elegido a la hora de la creación, verdad?*  
 Así es. Los hechiceros guerreros están capados en magia. Recuerda que, como máximo podrá tener tantos puntos de maná como su inteligencia.  
 
+*En el caso de heroes de [tamaño grande](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tama%C3%B1ogrande.png), las armas y armaduras cuestan el doble, pero ¿otros objetos como hierbas curativas?*  
+No, cuestan lo mismo para todos.  
+
 
 ## Habilidades
 
