@@ -197,7 +197,7 @@ Si.
 Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
 *Entiendo que en momentos de combate, no pueden aparecer trampas dado del JOA al salir de zona de seguridad ¿cierto?*  
-No pueden, siempre que estés en la misma zona del combate, si te vas fuera de la zona donde se está combatiendo, podrían ponerte una trampa. Por ejemplo, si hay dos personajes combatiendo en una sala y otro no ha entrado aún y decide separarse para buscar tesoros en habitaciones exploradas o zonas inexploradas. En ese caso se podrían poner trampas.  
+No pueden, [siempre que estés en la misma zona del combate]((https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png)), si te vas fuera de la zona donde se está combatiendo, podrían ponerte una trampa. Por ejemplo, si hay dos personajes combatiendo en una sala y otro no ha entrado aún y decide separarse para buscar tesoros en habitaciones exploradas o zonas inexploradas. En ese caso se podrían poner trampas.  
 
 *Al pisar las flechas de exploración, si están en la zona de seguridad de algún héroe ¿también puede haber trampa?*  
 Si.  
