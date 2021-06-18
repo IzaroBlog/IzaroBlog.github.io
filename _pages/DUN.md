@@ -193,7 +193,7 @@ Suman para el PV. el JO calcula el presupuesto con todo aquello con lo que comie
 Si.  
 
 ## Jugador oscuro artificial (JOA)
-*La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se saca trampa. Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración. Lo que nos despista es el hecho de decir que "cuando vayas a pisar una casilla (ficha) de exploración..." ahí es cuando se tira dado por si hay obstáculo, antes de estar encima por lo que suponemos que es debido a que sale en esa casilla la trampa ¿es correcto?*  
+*[La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se ha de tirar el dado de escenario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png). Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración.*  
 Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
 *Entiendo que en momentos de combate, no pueden aparecer trampas dado del JOA al salir de zona de seguridad ¿cierto?*  
