@@ -75,7 +75,7 @@ Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 *¿Qué quiere decir que puede usar garras?*   
 Que se puede atacar con el "arma" garras, pero recuerda que para usar un [arma natural](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) debes llevar las 2 manos libres.  
 
-*¿Tienes que estar desarmado para usar  colmillos?, ya que ahí no usa las manos.¿Y escudos?*  
+*¿Tienes que estar [desarmado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desarmado.png) para usar  colmillos?, ya que ahí no usa las manos.¿Y escudos?*  
 Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usar [armas naturales](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) con escudo.  
 
 *¿Un [reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reptiliano.png) con [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armaduracompleta.png) llegaría a 7 de armadura?*  
@@ -87,7 +87,7 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 *¿Las armas que restan armadura también lo aplican a las puertas blindadas? ¿Las armas que tienen malus contra armaduras pesadas contra una puerta blindada también los tienen?*  
 [Las armas que restan armadura también lo emplean contra puertas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/puertasblindadas_armas.png) (un hacha es crucial para abrir puertas). Una puerta se considera armadura pesada.
 
-*Las reglas dicen que no se pueden acumular efectos de dos pócimas. ¿No se puede entonces tener activa una pócima de destreza y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
+*Las reglas dicen que [no se pueden acumular efectos de dos pociones](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pociones.png). ¿No se puede entonces tener activa una [pócima de destreza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimadeladestreza.png) y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
 Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero no el de dos pócimas.   
 
 
@@ -135,7 +135,7 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 *El [enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png) empieza con la habilidad [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png). La última parte de esta habilidad habla de un +1 a la armadura natural ante [venenos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) ) que con un arma normal?*  
 El +1 es cuando impactas, a la hora de ver si afecta el [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png). Primero se comprueba de la forma habitual los daños normales, y luego se hace tirada para ver si le afecta el veneno (ahí es donde tiene el +1).
 
-*¿Un personaje arquero en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) dispararía con el arco o se acercaría a golpear cuerpo a cuerpo aunque esté desarmado?*  
+*¿Un personaje arquero en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) dispararía con el arco o se acercaría a golpear cuerpo a cuerpo aunque esté [desarmado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desarmado.png)?*  
 Entablará combate con el más cercano, ha de ser cuerpo a cuerpo.  
 
 *Cuando estás en estado berserker no tienes miedo a las criaturas temibles. Una vez que termina el estado berserker y sigues en el mismo combate ¿tendrías que tirar por si te dan miedo las criaturas a las que has pegado en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png)*  
