@@ -172,9 +172,8 @@ Se debe realizar una tirada de [Eventos de viaje](https://raw.githubusercontent.
 *Turno de campaña.*  
 1. *permaneces en un territorio, población o lugar, solo se hace una tirada de evento dependiendo del tipo de lugar en el que este.*  
 2. *si se viaja a una población en un territorio diferente, se hacen 2 primero por tipo territorio y luego por tipo de población + los 3 lugares y servicios que quieras visitar.*  
-3. *si se viaja a un territorio sin población solo una tirada por tipo de terreno.*
-¿Es así?*  
-Así es, es correcto.
+3. *si se viaja a un territorio sin población solo una tirada por tipo de terreno.¿Es así?*  
+Así es, es correcto.  
 
 *¿La recompensa de oro de la misión es a repartir entre todo el grupo o a cada jugador?*  
 Si no especifica que es por héroe, es a repartir.
