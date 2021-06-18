@@ -118,6 +118,8 @@ Se destraba automático si usa [sigilo](https://raw.githubusercontent.com/IzaroB
 *El [enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png) empieza con la habilidad [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png). La última parte de esta habilidad habla de un +1 a la armadura natural ante [venenos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) y otros. ¿Significa eso que, si no tiene armadura, los dados de daño de un arma normal ante un enano van a 3+, pero los dados de daño de un arma envenenada van a 4+? ¿Es por lo tanto peor atacar a un enano con un arma mejorada (aplicar [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png) ) que con un arma normal?*  
 El +1 es cuando impactas, a la hora de ver si afecta el [veneno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/veneno.png). Primero se comprueba de la forma habitual los daños normales, y luego se hace tirada para ver si le afecta el veneno (ahí es donde tiene el +1).
 
+*¿Un personaje arquero en estado [berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) dispararía con el arco o se acercaría a golpear cuerpo a cuerpo aunque esté desarmado?*
+Entablará combate con el más cercano, ha de ser cuerpo a cuerpo.
 
 
 
