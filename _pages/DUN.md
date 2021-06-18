@@ -120,6 +120,10 @@ Así es. Los hechiceros guerreros están capados en magia. Recuerda que, como m�
 *En el caso de heroes de [tamaño grande](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tama%C3%B1ogrande.png), las armas y armaduras cuestan el doble, pero ¿otros objetos como hierbas curativas?*  
 No, cuestan lo mismo para todos.  
 
+*En el manual dice que los [PV de los héroes son la exp gastada en él](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/valoracionpersonaje.png), no lo que lleve encima. Yo creo q los PV del héroe no se le suma los objetos que lleve pero si q se suma todo al presupuesto del JO. Así un mago no puede ser avanzado solo por llevar pociones. Ej: base (10PV) + 1 habilidad (3PV) = 13PV del héroe y ahora sumamos los objetos para el presupuesto del JO.*  
+Correcto.  
+
+
 
 ## Habilidades
 
@@ -149,7 +153,6 @@ Se pueden combinar.
 
 *Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "Invulnerable". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
 Es correcto.  
-
 
 *Dudas con [Veneno paralizante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/venenoparalizante.png)*  
 Es como el veneno normal. Solo que en lugar de quedar envenenado debido a que te cause daño ese dado de daño extra, quedas [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) durante este turno (el turno de la criatura- así que otras criaturas te podrán pegar considerándote  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png)) y tu siguiente turno (por tanto, en tu siguiente turno no puedes hacer nada, pero las criaturas en su siguiente turno ya no te consideran inmóvil).  
@@ -183,6 +186,8 @@ Si no especifica que es por héroe, es a repartir.
 
 
 ## Jugador oscuro (JO)
+*¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
+Si.  
 
 ## Jugador oscuro artificial (JOA)
 *La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se saca trampa. Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración. Lo que nos despista es el hecho de decir que "cuando vayas a pisar una casilla (ficha) de exploración..." ahí es cuando se tira dado por si hay obstáculo, antes de estar encima por lo que suponemos que es debido a que sale en esa casilla la trampa ¿es correcto?*  
@@ -193,6 +198,9 @@ No pueden, siempre que estés en la misma zona del combate, si te vas fuera de l
 
 *Al pisar las flechas de exploración, si están en la zona de seguridad de algún héroe ¿también puede haber trampa?*  
 Si.  
+
+*En la carta de líder pone que se tiran 3d6 para ver las mejoras que tiene el líder. Bien, cada número representa una mejora que se le puede poner de esos puntos resultantes en el dado. ¿estos puntos se sustraen de la reserva del señor oscuro o son mejoras gratuitas?*  
+Del presupuesto, siempre que haya presupuesto.  
 
 
 
