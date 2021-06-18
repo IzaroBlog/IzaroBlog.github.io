@@ -140,6 +140,10 @@ Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 *¿Para qué interviene el alineamiento en el juego? No he visto nada de eso.*  
 En los periodos entre aventuras. En campaña, si vas a una población/ciudad/castillo de alineamiento diferente [todos los servicios cuestan +1 moneda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/alineamientopoblaciones.png). Basta con que uno solo del grupo sea de alineamiento opuesto para aplicar el sobrecoste.  
 
+*Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "Invulnerable". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
+Es correcto.  
+
+
 
 ## Jugador oscuro (JO)
 
