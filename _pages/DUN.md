@@ -130,6 +130,14 @@ NO. La tirada se hace solo una vez por tipo de criatura en un combate.
 *Mirando las habilidades he visto que con [Golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/golpebrutal.png) se pueden realizar ataques considerando 4, 5 o 6 como críticos. Después pone en la habilidad [Golpe letal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/golpeletal.png) que si consigue algún impacto crítico reduce a - 1 la armadura del objetivo.¿Se pueden combinar ambas habilidades, o lo del impacto crítico del golpe letal es sólo a seises?*  
 Se pueden combinar.  
 
+*Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "Invulnerable". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
+Es correcto.  
+
+
+*Dudas con [Veneno paralizante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/venenoparalizante.png)*  
+Es como el veneno normal. Solo que en lugar de quedar envenenado debido a que te cause daño ese dado de daño extra, quedas [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) durante este turno (el turno de la criatura- así que otras criaturas te podrán pegar considerándote  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png)) y tu siguiente turno (por tanto, en tu siguiente turno no puedes hacer nada, pero las criaturas en su siguiente turno ya no te consideran inmóvil).
+*Entiendo que si luego te vuelve a pegar la misma criatura ¿vuelves a quedar  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) no?*  
+Si, pero no te pega automáticamente. Lo que pasa que si te causa inmovilidad una criatura y tienes otras criaturas alrededor que no te han atacado en ese turno del jugador oscuro, te hacen polvo al considerarte  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png). Y luego pierdes tu turno. En el siguiente turno del JO ya te atacan y te defiendes de forma normal. Es decir, si combate solo con una criatura, pues es malo pero no tanto. Porque en el siguiente turno de la criatura ya podrás defenderte (aunque es cierto que habrás perdido tu turno).  
 
 
 ## Aventuras y campañas
@@ -140,8 +148,7 @@ Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 *¿Para qué interviene el alineamiento en el juego? No he visto nada de eso.*  
 En los periodos entre aventuras. En campaña, si vas a una población/ciudad/castillo de alineamiento diferente [todos los servicios cuestan +1 moneda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/alineamientopoblaciones.png). Basta con que uno solo del grupo sea de alineamiento opuesto para aplicar el sobrecoste.  
 
-*Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "Invulnerable". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
-Es correcto.  
+
 
 
 
