@@ -103,8 +103,8 @@ Exacto, no puede ser aprendida por nadie más. Se hizo así por nivelación y po
 
 ## Habilidades
 
-*La habilidad ["Chillido del inframundo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/chillidodelinframundo.jpg) se puede usar adyacente a un enemigo??*
-Si.
+*La habilidad ["Chillido del inframundo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/chillidodelinframundo.jpg) se puede usar adyacente a un enemigo??*  
+Si.  
 
 *Si dispones de la habilidad ["Concentración"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/concentracion.jpg) puedes, disparar, activar concentración y después moverte?. (moverte y disparar, no)*  
 Si usas Concentración pierdes el movimiento. No habla de que uses Concentración antes de mover, dice que no te muevas, durante su activación es todo su turno.  
