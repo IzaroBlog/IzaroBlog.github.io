@@ -170,9 +170,9 @@ En los periodos entre aventuras. En campaña, si vas a una población/ciudad/cas
 Se debe realizar una tirada de [Eventos de viaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/eventosdeviaje.png) cada vez que los héroes entren o permanezcan en un territorio o población, o cada vez que alcancen un icono de Río navegable o Camino.  
 
 *Turno de campaña.*  
-1. *permaneces en un territorio, población o lugar, solo se hace una tirada de evento dependiendo del tipo de lugar en el que este.*  
-2. *si se viaja a una población en un territorio diferente, se hacen 2 primero por tipo territorio y luego por tipo de población + los 3 lugares y servicios que quieras visitar.*  
-3. *si se viaja a un territorio sin población solo una tirada por tipo de terreno.¿Es así?*  
+*1.permaneces en un territorio, población o lugar, solo se hace una tirada de evento dependiendo del tipo de lugar en el que este.*  
+*2.si se viaja a una población en un territorio diferente, se hacen 2 primero por tipo territorio y luego por tipo de población + los 3 lugares y servicios que quieras visitar.*  
+*3.si se viaja a un territorio sin población solo una tirada por tipo de terreno.¿Es así?*  
 Así es, es correcto.  
 
 *¿La recompensa de oro de la misión es a repartir entre todo el grupo o a cada jugador?*  
