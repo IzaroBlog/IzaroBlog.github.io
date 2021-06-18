@@ -5,6 +5,7 @@ title: DUN
 ---
 **Presentación:**
 En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth
+- [Reglamento DUN V2, sin fondo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/DUN_REGLAMENTO_ESPA%C3%91OL_version_web_MARCADA_sin_fondo1_LIGERO.pdf). Gracias a @Trabucaire77!
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)
@@ -163,8 +164,18 @@ Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 *¿Para qué interviene el alineamiento en el juego? No he visto nada de eso.*  
 En los periodos entre aventuras. En campaña, si vas a una población/ciudad/castillo de alineamiento diferente [todos los servicios cuestan +1 moneda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/alineamientopoblaciones.png). Basta con que uno solo del grupo sea de alineamiento opuesto para aplicar el sobrecoste.  
 
+*No lo dice expresamente, pero da a entender que cada turno de "viaje por el mapa" se tira por evento, ya sea porque sigues en el mismo sitio o porque estás moviendo. ¿Es así?*  
+Se debe realizar una tirada de [Eventos de viaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/eventosdeviaje.png) cada vez que los héroes entren o permanezcan en un territorio o población, o cada vez que alcancen un icono de Río navegable o Camino.  
 
+*Turno de campaña.*  
+1. *permaneces en un territorio, población o lugar, solo se hace una tirada de evento dependiendo del tipo de lugar en el que este.*  
+2. *si se viaja a una población en un territorio diferente, se hacen 2 primero por tipo territorio y luego por tipo de población + los 3 lugares y servicios que quieras visitar.*  
+3. *si se viaja a un territorio sin población solo una tirada por tipo de terreno.*
+¿Es así?*  
+Así es, es correcto.
 
+*¿La recompensa de oro de la misión es a repartir entre todo el grupo o a cada jugador?*  
+Si no especifica que es por héroe, es a repartir.
 
 
 ## Jugador oscuro (JO)
