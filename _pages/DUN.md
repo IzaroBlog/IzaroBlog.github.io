@@ -173,6 +173,15 @@ En los periodos entre aventuras. En campaña, si vas a una población/ciudad/cas
 *La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se saca trampa. Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración. Lo que nos despista es el hecho de decir que "cuando vayas a pisar una casilla (ficha) de exploración..." ahí es cuando se tira dado por si hay obstáculo, antes de estar encima por lo que suponemos que es debido a que sale en esa casilla la trampa ¿es correcto?*  
 Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
+*Entiendo que en momentos de combate, no pueden aparecer trampas dado del JOA al salir de zona de seguridad ¿cierto?*  
+No pueden, siempre que estés en la misma zona del combate, si te vas fuera de la zona donde se está combatiendo, podrían ponerte una trampa. Por ejemplo. Hay dos personajes combatiendo en una sala y otro no ha entrado aún y decide separarse para buscar tesoros en habitaciones exploradas o zonas inexploradas. Pues podrían ponerse trampas.  
+
+*Al pisar las flechas de exploración, si están en la zona de seguridad de algún héroe ¿también puede haber trampa?*  
+Si.  
+
+
+
+
 ## Otras anotaciones
 
 *En tiradas enfrentadas, doble 6 siempre le gana a cualquier otro resultado, sin importar los modificadores de cada personaje, no?*  
