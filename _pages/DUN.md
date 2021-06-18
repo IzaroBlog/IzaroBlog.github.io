@@ -87,6 +87,10 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
 Sí la primera casilla que pisas es fuera, no.<br>
 
+*En la fuente hay una opcion que te deja dormido durante 3 turnos, entiendo que es el estado inmóvil, la duda es ¿si recibe daño se despierta?*  
+Si no dice nada de que despierte, es que no despierta. Así que si te quedas dormido, reza para que tus compañeros no se pongan a explorar o el JO no tenga en su mano una carta de emboscada o ladrón.  
+
+
 ## Creación de personajes y evolución
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
@@ -138,6 +142,10 @@ Es correcto.
 Es como el veneno normal. Solo que en lugar de quedar envenenado debido a que te cause daño ese dado de daño extra, quedas [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) durante este turno (el turno de la criatura- así que otras criaturas te podrán pegar considerándote  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png)) y tu siguiente turno (por tanto, en tu siguiente turno no puedes hacer nada, pero las criaturas en su siguiente turno ya no te consideran inmóvil).  
 *Entiendo que si luego te vuelve a pegar la misma criatura ¿vuelves a quedar  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) no?*  
 Si, pero no te pega automáticamente. Lo que pasa que si te causa inmovilidad una criatura y tienes otras criaturas alrededor que no te han atacado en ese turno del jugador oscuro, te hacen polvo al considerarte  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png). Y luego pierdes tu turno. En el siguiente turno del JO ya te atacan y te defiendes de forma normal. Es decir, si combate solo con una criatura, pues es malo pero no tanto. Porque en el siguiente turno de la criatura ya podrás defenderte (aunque es cierto que habrás perdido tu turno).  
+
+*¿El [paladin](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) no gasta mana para usar su habilidad de [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png)?*  
+No. Pero únicamente los puede lanzar una vez por partida cada uno.  
+
 
 
 ## Aventuras y campañas
