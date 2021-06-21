@@ -77,7 +77,7 @@ Un compañero te tiene que ayudar con la cuerda, mientras tu usas las piquetas.<
 Si tiene icono de ✋ o 🤲 hay que equipar para poder lanzar<br>
 
 *¿Qué quiere decir que puede usar garras?*   
-Que se puede atacar con el "arma" garras, pero recuerda que para usar un [arma natural](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) debes llevar las 2 manos libres.  
+Que se puede atacar con el "arma" [garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/garras.png), pero recuerda que para usar un [arma natural](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) debes llevar las 2 manos libres.  
 
 *¿Tienes que estar [desarmado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desarmado.png) para usar  colmillos?, ya que ahí no usa las manos.¿Y escudos?*  
 Para usar colmillos y cuernos tienes que llevar las 2 manos libres.No puedes usar [armas naturales](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armasnaturales.png) con escudo.  
