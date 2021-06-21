@@ -29,8 +29,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 *Un personaje tamaño normal si pasa a través de un compañero grande, ¿le cuesta +1 mov. por cada casilla que ocupa el grande?*  
 Para movimientos se considera la criatura de 1 casilla, pero ha de poder sobrepasar lo que ocupa con su movimiento.  
 
-Movimiento de Criaturas Grandes [(ver imagen)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientocriaturasgrandes.png). Cuando dice "algún espacio inferior a su peana" incluye esto pasar por lugares donde uno de los espacios está ocupado por una figura aliada?
-Por ejemplo en el caso del dibujo, el troll se considera que está pasando por espacios 'inferiores a su peana' al pasar por al lado del esqueleto (asumiendo que son aliados)? O podría correr por ahí?  
+*Movimiento de Criaturas Grandes [(ver imagen)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientocriaturasgrandes.png). Cuando dice "algún espacio inferior a su peana" incluye esto pasar por lugares donde uno de los espacios está ocupado por una figura aliada?*
+*Por ejemplo en el caso del dibujo, el troll se considera que está pasando por espacios 'inferiores a su peana' al pasar por al lado del esqueleto (asumiendo que son aliados)? O podría correr por ahí?*  
 Puedes mover por este tipo de casillas pero no correr.   
 
 
