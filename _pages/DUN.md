@@ -169,8 +169,8 @@ No. Pero únicamente los puede lanzar una vez por partida cada uno.
 *Combinando habilidades que te den +1 ataque y añadiéndo una [pócima de héroes](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimaheroes.png) o hechizos que te den más ataques, se pueden obtener más de 3 ataques por turno?  
 No, el [máximo de ataques por turno es de 3](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/variosataques.png).  
 
-*Si combino la habilidad [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestroencombate.jpg) y [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) tendría 3 ataques ese turno. ¿Cómo serían los modificadores?*  
-Dos de los ataques tendrían un -1 de penalización y otro no tendría modificador.   
+*Si combino la habilidad [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestroencombate.jpg) y  tendría 3 ataques ese turno. ¿Cómo serían los modificadores?*  
+La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) hay que declararla al principio del turno y penaliza con -1 todos los ataques que se realizen. Los tres tendrían un -1.   
 
 
 
