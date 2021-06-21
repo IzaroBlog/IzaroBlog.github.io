@@ -69,6 +69,8 @@ Como norma general, [no puedes hacer acciones en zona de influencia de enemigos]
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
 Un personaje puede obstaculizar la LdV, pero no es cobertura. Recuerda que ninguna criatura podrá tener Línea de Visión a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
 
+*Si tienes [escudo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escudos.png), se considera que tienes cobertura ligera contra ataques a distancia y magia de proyectiles, pero, además 1 dado de daño menos??*  
+No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mientras que contra proyectiles mágicos, dispones de cobertura ligera (-1 de daño)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/bloqueoescudo.png).   
 
 ## Equipo y armas
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
