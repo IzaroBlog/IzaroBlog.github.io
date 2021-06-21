@@ -29,6 +29,10 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 *Un personaje tamaño normal si pasa a través de un compañero grande, ¿le cuesta +1 mov. por cada casilla que ocupa el grande?*  
 Para movimientos se considera la criatura de 1 casilla, pero ha de poder sobrepasar lo que ocupa con su movimiento.  
 
+Movimiento de Criaturas Grandes [(ver imagen)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientocriaturasgrandes.png). Cuando dice "algún espacio inferior a su peana" incluye esto pasar por lugares donde uno de los espacios está ocupado por una figura aliada?
+Por ejemplo en el caso del dibujo, el troll se considera que está pasando por espacios 'inferiores a su peana' al pasar por al lado del esqueleto (asumiendo que son aliados)? O podría correr por ahí?  
+Puedes mover por este tipo de casillas pero no correr.   
+
 
 ## Acciones
 
@@ -161,6 +165,12 @@ Si, pero no te pega automáticamente. Lo que pasa que si te causa inmovilidad un
 
 *¿El [paladin](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) no gasta mana para usar su habilidad de [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png)?*  
 No. Pero únicamente los puede lanzar una vez por partida cada uno.  
+
+*Combinando habilidades que te den +1 ataque y añadiéndo una [pócima de héroes](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimaheroes.png) o hechizos que te den más ataques, se pueden obtener más de 3 ataques por turno?  
+No, el [máximo de ataques por turno es de 3](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/variosataques.png).  
+
+
+
 
 
 
