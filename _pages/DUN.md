@@ -116,7 +116,7 @@ Puedes empezar con 2 mercenarios, previo pago. Recuerda que [jugando en solitari
 No, se elige la habilidad al crear el personaje o despues no se puede adquirir.  
 
 *¿No es posible aprender la misma habilidad con más de un personaje? Si un héroe a aprendido con experiencia la habilidad ["Élite"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elite.png) por ejemplo, esa habilidad ya no la puede aprender ningún otro héroe, sea de la clase que sea, no?*  
-Exacto, no puede ser aprendida por nadie más. Se hizo así por nivelación y porque todos los personajes sean útiles en su propósito.  
+Exacto, [no puede ser aprendida por nadie más](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aprendizajehabilidades.png). Se hizo así por nivelación y porque todos los personajes sean útiles en su propósito.  
 
 *En el caso del [monje guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/monjeguerrero.png) que solo dice: “empieza con dos hechizos básicos del saber bendicion o luz", quiere decir que ¿únicamente podrá aprender los hechizos del saber elegido a la hora de la creación, verdad?*  
 Así es. Los hechiceros guerreros están capados en magia. Recuerda que, como máximo podrá tener tantos puntos de maná como su inteligencia.  
