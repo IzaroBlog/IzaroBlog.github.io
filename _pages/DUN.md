@@ -60,6 +60,10 @@ Si.
 *El hechizo [Fortalecer a los muertos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/levantarmuertos.jpg), solo dura el mismo turno que lo lanzas?*  
 Si, solo dura un turno, no es un hechizo permanente. Tened en cuenta que es mucho menos poderoso usado por un héroe que por el JO o JOA, donde casi toda la facción es No-muerto. Si fuera permanente sería imposible e injugable.
 
+*Se pueden lanzar hechizo dentro de la zona de influencia de un enemigo? Entiendo que no, porque hay hechizos que lo especifican y dispersar hechizos solo se puede fuera de la zona de influencia enemiga. Pero estoy leyendo el manual el apartado de Magia, y soy incapaz de encontrarlo 😔 Solo veo que [hay que tener una mano libre](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/lanzarhechizos.png).*  
+Como norma general, [no puedes hacer acciones en zona de influencia de enemigos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acciones.png), y lanzar hechizos es una acción, con lo que no se pueden lanzar hechizos ni dispersar en ZI a menos que tengas una regla especial o lo diga el propio hechizo.  
+
+
 
 ## Daño y efectos
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
