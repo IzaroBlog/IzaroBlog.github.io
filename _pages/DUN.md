@@ -133,6 +133,9 @@ No, cuestan lo mismo para todos.
 *En el manual dice que los [PV de los héroes son la exp gastada en él](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/valoracionpersonaje.png), no lo que lleve encima. Yo creo q los PV del héroe no se le suma los objetos que lleve pero si q se suma todo al presupuesto del JO. Así un mago no puede ser avanzado solo por llevar pociones. Ej: base (10PV) + 1 habilidad (3PV) = 13PV del héroe y ahora sumamos los objetos para el presupuesto del JO.*  
 Correcto.  
 
+*El [paladín](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) tiene la habilidad favor de los dioses, que le permite, para ciertos hechizos aprenderlos  "como si fueran nuevas habilidades".*
+*1) ¿Se debe ir a la escuela de hechiceria y pagar el coste por dichos hechizos?*
+*2) cada uno de estos hechizos cuenta para el máximo de habilidades (2xInt)?*
 
 
 ## Habilidades
@@ -169,7 +172,7 @@ Es como el veneno normal. Solo que en lugar de quedar envenenado debido a que te
 *Entiendo que si luego te vuelve a pegar la misma criatura ¿vuelves a quedar  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png) no?*  
 Si, pero no te pega automáticamente. Lo que pasa que si te causa inmovilidad una criatura y tienes otras criaturas alrededor que no te han atacado en ese turno del jugador oscuro, te hacen polvo al considerarte  [inmóvil](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/inmovilcac.png). Y luego pierdes tu turno. En el siguiente turno del JO ya te atacan y te defiendes de forma normal. Es decir, si combate solo con una criatura, pues es malo pero no tanto. Porque en el siguiente turno de la criatura ya podrás defenderte (aunque es cierto que habrás perdido tu turno).  
 
-*¿El [paladin](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) no gasta mana para usar su habilidad de [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png)?*  
+*¿El [paladín](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) no gasta mana para usar su habilidad de [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png)?*  
 No. Pero únicamente los puede lanzar una vez por partida cada uno.  
 
 *Combinando habilidades que te den +1 ataque y añadiéndo una [pócima de héroes](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimaheroes.png) o hechizos que te den más ataques, se pueden obtener más de 3 ataques por turno?  

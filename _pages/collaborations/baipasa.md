@@ -15,6 +15,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Apirilak 19: [Klima-aldaketari buruzko legea eta hegazkin industria](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2021/04/26/2761944/20210426_16145508_0013660387_002_001_BAIPASA__202.mp3)
 - Maiatzak 10: [Eko-antsietatea eta Tipping-Points](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/osoa/8040620/klima-aldaketa-ekoantsietatea-eragiten-hasi-da/)
 - Ekainak 7: [Kriptomonetak eta energia, Shell enpresari auzia](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/audioak/osoa/8107372/audioa-shell-konpainia-derrigortu-dute-isurketak-45ean-murriztera-/)
+- Ekainak 21 [Hidrogenoa energia trantsizioan](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/osoa/8140112/hidrogenoa-izan-daiteke-energia-iturri/)
 
 
 ## 2020
