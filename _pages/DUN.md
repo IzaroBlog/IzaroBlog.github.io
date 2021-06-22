@@ -138,7 +138,7 @@ Correcto.
 *b) Cada uno de estos hechizos cuenta para el [máximo de habilidades (2xInt)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escogerhabilidades.png)?*  
 Respuestas:  
 a) No, no hace falta ir a ningún lugar para aprender el hechizo, se aprende como cualquier otra habilidad.   
-b) No, tampoco contaria para el cupo de habilidades, pq dice que la puedes aprender "como" si fuera una habilidad pero NO es una habilidad. Los hechizos de un hechicero tampoco cuentan para este cupo.   
+b) No, tampoco contaria para el cupo de habilidades, porque dice que la puedes aprender "como" si fuera una habilidad pero NO es una habilidad. Los hechizos de un hechicero tampoco cuentan para este cupo.   
 
 ## Habilidades
 
