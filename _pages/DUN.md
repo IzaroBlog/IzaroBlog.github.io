@@ -133,7 +133,7 @@ No, cuestan lo mismo para todos.
 *En el manual dice que los [PV de los héroes son la exp gastada en él](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/valoracionpersonaje.png), no lo que lleve encima. Yo creo q los PV del héroe no se le suma los objetos que lleve pero si q se suma todo al presupuesto del JO. Así un mago no puede ser avanzado solo por llevar pociones. Ej: base (10PV) + 1 habilidad (3PV) = 13PV del héroe y ahora sumamos los objetos para el presupuesto del JO.*  
 Correcto.  
 
-*El [paladín](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) tiene la habilidad  [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png), que le permite, para ciertos hechizos aprenderlos  "como si fueran nuevas habilidades".*  
+*El [paladín](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) tiene la habilidad  [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png) que le permite aprender ciertos hechizos  "como si fueran nuevas habilidades".*  
 *a) ¿Se debe ir a la [Escuela de Hechicería](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg) y pagar el coste por dichos hechizos?*
 *b) Cada uno de estos hechizos cuenta para el [máximo de habilidades (2xInt)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escogerhabilidades.png)?*
 Respuestas:  
