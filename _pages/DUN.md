@@ -211,6 +211,9 @@ Si no especifica que es por héroe, es a repartir.
 *Cuando una habilidad te da un objeto, como una poción con [herbología](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/herbologia.png) o la clase [cazabrujas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cazabrujas.png), ¿se cuenta para los PV del JO o la fase de preparación del oscuro es antes de que ellos reciban esos objetos gratis para la aventura y sería después de que ajustase la reserva el oscuro?*  
 Suman para el PV. el JO calcula el presupuesto con todo aquello con lo que comienzan los héroes.  
 
+*Hay ciertos escenarios dónde el objetivo es que un personaje aliado termine fuera del dungeon en menos de X turnos, no así los héroes. Si un personaje queda [fuera de combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombatedefinicion.png) en ese tipo de escenarios, ha de ser llevado por un compañero hasta la salida para que se considere que el grupo se llevó su cuerpo? Al pasar los X turnos, si no lo llevaron, se considera que esto no se logró?*  
+Cuando en una misión normal derrotas a todos los enemigos, [los héroes pueden dar por finalizado el escenario si renuncian a explorar más](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/finaldeaventura.png). En una misión contrareloj,  sí no tenéis el cuerpo del compañero cuando termine, le abandonáis.   
+
 
 ## Jugador oscuro (JO)
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
