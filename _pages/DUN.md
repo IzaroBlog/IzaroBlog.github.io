@@ -72,6 +72,9 @@ Un personaje puede obstaculizar la LdV, pero no es cobertura. Recuerda que ningu
 *Si tienes [escudo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escudos.png), se considera que tienes cobertura ligera contra ataques a distancia y magia de proyectiles, pero, además 1 dado de daño menos??*  
 No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mientras que contra proyectiles mágicos, dispones de cobertura ligera (-1 de daño)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/bloqueoescudo.png).   
 
+*Cuando un personaje queda f[uera de combate pero es llevado por un compañero a la salida del dungeon](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate1.png), el reglamento dice que hay que lanzar 1D6 y leer el resultado. Con 2-6 se evita la muerte pero se gana una lesión. En ese caso, ¿el personaje recupera sus puntos de vitalidad?*  
+[No, no recupera su vitalidad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate2.png), se considerará [herido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/herido.png) hasta recuperarse.  
+
 ## Equipo y armas
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
