@@ -214,6 +214,11 @@ Suman para el PV. el JO calcula el presupuesto con todo aquello con lo que comie
 *Hay ciertos escenarios dónde el objetivo es que un personaje aliado termine fuera del dungeon en menos de X turnos, no así los héroes. Si un personaje queda [fuera de combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombatedefinicion.png) en ese tipo de escenarios, ha de ser llevado por un compañero hasta la salida para que se considere que el grupo se llevó su cuerpo? Al pasar los X turnos, si no lo llevaron, se considera que esto no se logró?*  
 Cuando en una misión normal derrotas a todos los enemigos, [los héroes pueden dar por finalizado el escenario si renuncian a explorar más](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/finaldeaventura.png). En una misión contrareloj,  sí no tenéis el cuerpo del compañero cuando termine, le abandonáis.   
 
+*En partidas por tiempo, si los héroes ganan iniciativa comienza un turno nuevo por lo que se disminuye en uno el contador de turnos, no?*  
+SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse una sección, [si ganan la iniciativa se comienza un nuevo turno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/iniciativacuadroresumen.png).  
+
+
+
 
 ## Jugador oscuro (JO)
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
