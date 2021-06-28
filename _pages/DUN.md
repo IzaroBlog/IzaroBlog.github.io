@@ -238,6 +238,10 @@ Si.
 Del presupuesto, siempre que haya presupuesto.  
 
 
+*Una sala principal que ademas es grande signifia que tiras dado de JOA, sacas carta de Encuentro y pones criaturas como si hubieras sacado carta Enemigos? Las tres cosas?*
+No, [las reglas de sala principal substituyen a la sala grande](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartasencuentroJOA.png)  
+	Principal: Colocas "Enemigos" y tiras el dado  
+	Grande: Tiras el dado y levantas carta de encuentro  
 
 
 ## Otras anotaciones
