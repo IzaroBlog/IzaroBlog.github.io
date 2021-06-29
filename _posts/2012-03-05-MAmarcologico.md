@@ -27,6 +27,6 @@ tags: [es, cooperación, medio ambiente, marco lógico, proyectos]
 
 <span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Más Info:  
 </span></span></span>
-- Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas  
+- [Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/IntegracionMAenCooperacion.pdf)  
 - [Manual para la integración del medio ambiente en proyectos de desarrollo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/manualintegracionipade.pdf)  
 
