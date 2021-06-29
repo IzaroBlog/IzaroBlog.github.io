@@ -5,7 +5,7 @@ date:   2012-03-05
 categories: es cooperation
 tags: [es, cooperación, medio ambiente, marco lógico, proyectos]
 ---
-<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Siguiendo con el tema del medio ambiente y la cooperación al desarrollo, a continuación os propongo </span></span></span><span style="font-family:Ubuntu;"><span style="font-size:medium;">revisar un estudio publicado recientemente <a title="Manual" href="http://www.fundacion-ipade.org/manual-para-la-integracion-del-medio-ambiente-en-la-cooperacion-al-desarrollo" target="_blank" rel="noopener">"</a></span></span><strong><span style="font-family:Ubuntu;"><span style="font-size:medium;"><a title="Manual" href="http://www.alianzaporlasolidaridad.org/publicaciones/manual-de-medio-ambiente-retos" target="_blank" rel="noopener">Manual para la integracion del medio ambiente en la cooperacion al desarrollo"</a></span></span></strong><span style="font-family:Ubuntu;"><span style="font-size:medium;"> realizado por <a href="http://www.fundacion-biodiversidad.es/" target="_blank" rel="noopener">Fundación Biodiversidad</a> e <a href="http://www.fundacion-ipade.org/" target="_blank" rel="noopener">IPADE</a>.</span></span>
+<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Siguiendo con el tema del medio ambiente y la cooperación al desarrollo, a continuación os propongo </span></span></span><span style="font-family:Ubuntu;"><span style="font-size:medium;">revisar un estudio publicado recientemente [Manual para la integracion del medio ambiente en la cooperacion al desarrollo](https://www.miteco.gob.es/es/ceneam/recursos/materiales/integracion-ma-proyectos-desarrollo.aspx) realizado por <a href="http://www.fundacion-biodiversidad.es/" target="_blank" rel="noopener">Fundación Biodiversidad</a> e <a href="http://www.fundacion-ipade.org/" target="_blank" rel="noopener">IPADE</a>.</span></span>
 <div>
 
 <span style="font-size:medium;font-family:Ubuntu;">La propuesta que se hace en este manual trata de integrar el medio ambiente en proyectos de cooperación para el desarrollo. El manual, ha sido elaborado a través de un esfuerzo teórico que tiene los siguientes dos limitantes:</span>
@@ -21,12 +21,12 @@ tags: [es, cooperación, medio ambiente, marco lógico, proyectos]
 
 <span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">El manual es una herramienta interesante para incluir la variable ambiental dentro de proyectos que funcionen con la lógica del "Marco Lógico", ya que no es fácil encontrar la manera de hacerlo de una forma transversal. Es un buen manual para que las ONGD comiencen a preocuparse por el medio ambiente, y los problemas que suponen para el desarrollo.</span></span></span>
 
-<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una <strong>herramienta poco flexible para</strong> la transversalización de variables como el género o el medio ambiente en los proyectos.
+<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una <strong>herramienta poco flexible para</strong> la transversalización de variables como el género o el medio ambiente en los proyectos.  
 </span></span></span>
 
 
-<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Más Info:
+<span style="color:#333333;"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Más Info:  
 </span></span></span>
-<ul>
- 	<li><a title="Integración del Medio Ambiente en la Cooperación" href="http://izaroblog.com/2012/02/02/integracion-del-medio-ambiente-en-la-cooperacion/" target="_blank" rel="noopener"><span style="font-family:Ubuntu;"><span style="font-size:medium;">Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas</span></span></a></li>
-</ul>
+- Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas  
+- [Manual para la integración del medio ambiente en proyectos de desarrollo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/manualintegracionipade.pdf)  
+
