@@ -182,7 +182,7 @@ Si, pero no te pega automáticamente. Lo que pasa que si te causa inmovilidad un
 *¿El [paladín](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/paladin.png) no gasta mana para usar su habilidad de [Favor de los dioses](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/favordioses.png)?*  
 No. Pero únicamente los puede lanzar una vez por partida cada uno.  
 
-*Combinando habilidades que te den +1 ataque y añadiéndo una [pócima de héroes](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimaheroes.png) o hechizos que te den más ataques, se pueden obtener más de 3 ataques por turno?  
+*Combinando habilidades que te den +1 ataque y añadiéndo una [pócima de héroes](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimaheroes.png) o hechizos que te den más ataques, se pueden obtener más de 3 ataques por turno?*  
 No, el [máximo de ataques por turno es de 3](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/variosataques.png).  
 
 *Si combino la habilidad [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestroencombate.jpg) y  tendría 3 ataques ese turno. ¿Cómo serían los modificadores?*  
