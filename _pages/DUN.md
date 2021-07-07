@@ -63,6 +63,8 @@ Si, solo dura un turno, no es un hechizo permanente. Tened en cuenta que es much
 *Se pueden lanzar hechizo dentro de la [zona de influencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonadeinfluencia.png) de un enemigo? Entiendo que no, porque hay hechizos que lo especifican y dispersar hechizos solo se puede fuera de la zona de influencia enemiga. Pero estoy leyendo el manual el apartado de Magia, y soy incapaz de encontrarlo 😔 Solo veo que [hay que tener una mano libre](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/lanzarhechizos.png).*  
 Como norma general, [no puedes hacer acciones en zona de influencia de enemigos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acciones.png), y lanzar hechizos es una acción, con lo que no se pueden lanzar hechizos ni dispersar en ZI a menos que tengas una regla especial o lo diga el propio hechizo.  
 
+*En el hechizo [Posesión Demoníaca](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/posesiondemoniaca.jpg)el icono ⏳ indica que es un hechizo de "permanece activo". ¿Como funciona exactamente? ¿Lanzas el hechizo, y cada turno de los que perdura tiras el dado para intentar superar inteligencia?*  
+El icono del reloj de arena indica que es un hechizo permanente, no en duración, pero sí para efectos de lanzar otro hechizo permanente y malus a posteriores lanzamientos. El efecto dura ese y su siguiente turno, o hasta que le ataquen, el icono simplemente indica que dura más de un turno.  
 
 
 ## Daño y efectos
@@ -186,6 +188,8 @@ No, el [máximo de ataques por turno es de 3](https://raw.githubusercontent.com/
 *Si combino la habilidad [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestroencombate.jpg) y  tendría 3 ataques ese turno. ¿Cómo serían los modificadores?*  
 La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/berserker.png) hay que declararla al principio del turno y penaliza con -1 todos los ataques que se realizen. Los tres tendrían un -1.   
 
+*¿Las armas hechizadas durante la aventura se consideran aptas contra [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg), o sigue necesitando de críticos para impactar?*  
+Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
 
 
 ## Aventuras y campañas
