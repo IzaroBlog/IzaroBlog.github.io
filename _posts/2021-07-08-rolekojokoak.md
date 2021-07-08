@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Rol jokoak zergatik ez euskaraz?"
 date:   2021-07-08
