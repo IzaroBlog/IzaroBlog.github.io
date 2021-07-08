@@ -40,3 +40,4 @@ Denbora pasa da, baina idatzitako iritzi artikulua zaharkitua geratzeak ilusio h
 Rolean euskaraz egin, ikasi eta gozatu nahi baduzu, badago **Rolariak** izeneko Telegram talde bat ere, bertan egongo gara zure zain! ;) 
 - 🎲[Rolariak Telegram Taldea](https://t.me/rolariak)
 
+Iñaki eta Izaro
