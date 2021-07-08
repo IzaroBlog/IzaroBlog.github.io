@@ -20,7 +20,7 @@ Artikuluaren bila nenbilela [Donostia Euskaraz](http://www.donostiaeuskaraz.eus/
 
 ![Auzoka](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/auzoka95.jpg) 
 
-Eta artikulua... uste baino motzagoa izan arren, hantxe zegoen! Beste “iritzi-meritzi” idazkien artean! 
+Eta artikulua... uste baino motzagoa izan arren, hantxe zegoen! Beste “Eritzi-meritziak” idazkien artean! 
 
 ![rolekoartikulua](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/rolekojokoak.jpg)
 
