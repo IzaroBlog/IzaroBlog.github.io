@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Rol jokoak zergatik ez euskaraz?"
 date:   2021-07-08
@@ -20,7 +20,7 @@ Artikuluaren bila nenbilela [Donostia Euskaraz](http://www.donostiaeuskaraz.eus/
 
 ![Auzoka](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/auzoka95.jpg) 
 
-Eta artikulua... uste baino motzagoa izan arren, hantxe zegoen! Irakurr nahi baduzue:
+Eta artikulua... uste baino motzagoa izan arren, hantxe zegoen! Irakurri nahi baduzue:
 
 ![rolekoartikulua](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/rolekojokoak.jpg)
 
