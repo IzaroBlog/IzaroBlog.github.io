@@ -66,6 +66,9 @@ Como norma general, [no puedes hacer acciones en zona de influencia de enemigos]
 *En el hechizo [Posesión Demoníaca](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/posesiondemoniaca.jpg) el icono ⏳ indica que es un hechizo de "permanece activo". ¿Como funciona exactamente? ¿Lanzas el hechizo, y cada turno de los que perdura tiras el dado para intentar superar inteligencia?*  
 El icono del reloj de arena indica que es un hechizo permanente, no en duración, pero sí para efectos de lanzar otro hechizo permanente y malus a posteriores lanzamientos. El efecto dura ese y su siguiente turno, o hasta que le ataquen, el icono simplemente indica que dura más de un turno.  
 
+*Si eres, por ejemplo, un [Maestro Rúnico](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestrorunico.png) con [lanza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/lanza.png) y estás a una casilla de distancia de un enemigo. Tu al tener lanza le estás pudiendo pegar, pero se supone que no estás en su zona de influencia. En ese caso, podrías dispersar o lanzar hechizos?*  
+Si, podrías lanzar hechizos ya que no estás en su [zona de influencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonadeinfluencia.png). Estar equipado con un [arma larga](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armalarga.png) te permite atacar a una casilla de distancia, fuera de la ZI enemiga.  
+
 
 ## Daño y efectos
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
