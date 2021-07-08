@@ -5,7 +5,7 @@ title: DUN
 ---
 **Presentación:**
 En esa página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth
-- [Reglamento DUN V2, sin fondo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/DUN_REGLAMENTO_ESPA%C3%91OL_version_web_MARCADA_sin_fondo1_LIGERO.pdf). Gracias a @Trabucaire77!
+- [Reglamento DUN V2, sin fondo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO_ESPA%C3%91OL_version_web_MARCADA_sin_fondo1_LIGERO.pdf). Gracias a @Trabucaire77!
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)
