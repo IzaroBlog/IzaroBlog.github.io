@@ -22,6 +22,7 @@ title: Pribatasuna
 *[Alemania abre expediente a Google por el uso de los datos de los usuarios y por abusar de su posición de dominio](https://elpais.com/economia/2021-05-25/la-autoridad-de-competencia-alemana-investiga-a-google-por-abusar-de-su-dominio-y-el-uso-de-los-datos-de-los-usuarios.html)
 * https://www.wired.co.uk/article/google-chrome-browser-data
 * [Monopolioaren aurka egieteagatik](https://www.genbeta.com/actualidad/ue-quiere-volver-a-investigar-a-google-monopolio-eso-puede-llevarle-a-mayor-multa-su-historia-reuters)
+** [Mozilla Investigation: YouTube Algorithm Recommends Videos that Violate the Platform’s Very Own Policies](https://foundation.mozilla.org/en/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies/)
 * [El presidente de Microsoft alerta: "cuidado, o la vida en 2024 será como en 1984 de George Orwell"](https://www.elmundo.es/tecnologia/2021/06/05/60b929dce4d4d8f6288b4580.html)
 ## Estekak
 
