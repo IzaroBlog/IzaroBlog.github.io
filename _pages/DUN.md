@@ -72,12 +72,12 @@ Si, podrías lanzar hechizos ya que no estás en su [zona de influencia](https:/
 
 ## Daño y efectos
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
-Un personaje puede obstaculizar la LdV, pero no es cobertura. Recuerda que ninguna criatura podrá tener Línea de Visión a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
+Un personaje puede obstaculizar la [Línea de Visión](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ldv.png), pero no es cobertura. Recuerda que ninguna criatura podrá tener LdV a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
 
 *Si tienes [escudo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escudos.png), se considera que tienes cobertura ligera contra ataques a distancia y magia de proyectiles, pero, además 1 dado de daño menos??*  
 No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mientras que contra proyectiles mágicos, dispones de cobertura ligera (-1 de daño)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/bloqueoescudo.png).   
 
-*Cuando un personaje queda f[uera de combate pero es llevado por un compañero a la salida del dungeon](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate1.png), el reglamento dice que hay que lanzar 1D6 y leer el resultado. Con 2-6 se evita la muerte pero se gana una lesión. En ese caso, ¿el personaje recupera sus puntos de vitalidad?*  
+*Cuando un personaje queda [fuera de combate pero es llevado por un compañero a la salida del dungeon](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate1.png), el reglamento dice que hay que lanzar 1D6 y leer el resultado. Con 2-6 se evita la muerte pero se gana una lesión. En ese caso, ¿el personaje recupera sus puntos de vitalidad?*  
 [No, no recupera su vitalidad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate2.png), se considerará [herido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/herido.png) hasta recuperarse.  
 
 ## Equipo y armas
