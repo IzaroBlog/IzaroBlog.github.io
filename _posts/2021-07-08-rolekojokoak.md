@@ -8,7 +8,7 @@ tags: [eu, rol, atopia, auzoka, adur]
 
 *Rol jokoak zergatik ez euskaraz?*  
 
-Orain dela 26 urte, Iñaki eta biok argitaratu diguten lehen eta azken iritzi artikulua sinatu genuen. Auzoka aldizkarian idatzi genuela bagenekien, baina egongo ote zen alerik eskuragarri?   
+Orain dela 26 urte, Iñaki eta biok argitaratu diguten lehen eta azken iritzi artikulua sinatu genuen galdera horrekin. Auzoka aldizkarian idatzi genuela bagenekien, baina egongo ote zen alerik eskuragarri?   
 
 Orduan zortzigarren mailan geunden, eta euskarako irakasleak xaxaturik idatzi genuela ziur nago. Hala ere egiten genuen galderak egunerokotasun handia zuen.   
 **Rol-eko jokoak zergatik ez euskaraz?**  
