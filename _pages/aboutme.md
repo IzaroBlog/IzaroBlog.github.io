@@ -34,7 +34,7 @@ Hementxe dituzue parte hartzen dudan taldeen informazioa:
 
 ### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
-- [ekopol ikertalde](https://ekopol.eus/eu/)-ko blogean.
+- [ekopol ikertaldea](https://ekopol.eus/eu/)-ko blogean.
 - UPV/EHUko [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)-n.
 
 ### ♟ Xakea / Ajedrez 
