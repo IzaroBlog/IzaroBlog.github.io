@@ -11,7 +11,7 @@ Hace unos meses decidí cambiar el blog de [Wordpress](https://izaroblog.com/202
 Tenía ganas de escribir, sin preocuparme demasiado por cómo insertar fotos, cómo quedaría la cabecera, etc. Estuve preguntado por opciones de hacer blogs simples, en los que se pudiese escribir en [Markdown](https://es.wikipedia.org/wiki/Markdown) tranquilamente, y me decanté por la posibilidad que daba [Githubpages](https://pages.github.com/). Prioricé otra vez la facilidad de instalarlo y hacerlo funcionar, además de que puedo guardar en formato de texto simple todo el blog de forma cómoda y sin que pese mucho en mi ordenador. 
 Metí bastantes horas intentando entender el funcionamiento de [Githubpages](https://pages.github.com/), comprendí lo mínimo de [Jekyll](https://jekyllrb.com/) para montar la web, y he ido poco a poco migrando mi blog, añadiendo cosas y sintiéndome más a gusto con la decisión.
 
-> Pero claro... no todo el monte es orégano ni todo podia ser tan fácil! :D  
+> Pero claro... no todo el monte es orégano ni todo podía ser tan fácil! :D  
 
 ![Jekyll](https://jekyllrb.com/img/octojekyll.png)
 
@@ -26,5 +26,5 @@ Pregunté a la sabiduría ([Moribundo Insurgente](https://pleroma.libretux.com/@
 
 ![Codeberg](https://codeberg.org/img/logo.svg)
 
-Tras haber estudiado, y revisado las opciones, por ahora me quedaré por [Githubpages](https://pages.github.com/) ya que no veo ninguna otra opción factible (con mis conocimientos). Esto que me supone añadir una incoherencia más a mi mochila. 
+Tras haber estudiado, y revisado las opciones, por ahora me quedaré por [Githubpages](https://pages.github.com/) ya que no veo ninguna otra opción factible (con mis conocimientos). Esto que me supone añadir una incoherencia más a mi mochila.   
 A veces resulta cansado buscar y rebuscar para encontrar la alternativa más acorde con tus principios, pero en la búsqueda siempre se aprende y se encuentran cosas interesantes para el futuro! 
