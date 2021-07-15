@@ -43,6 +43,10 @@ Puedes mover por este tipo de casillas pero no correr.
 *Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
 Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la hay, no se pone nada. Sabes que NO hay puertas secretas, eso si!  
 
+*Cuando uno esta [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg), en su turno se levanta y pasa a estar aturdido. ¿Puedo hacer algo mas? Me explico, ¿puede moverse y hacer una accion en el mismo turno que se levanta o levantarse es todo lonque puede hacer ese turno?*  
+Cuando uno está derribado, si no tiene ZI adyacentes, la "acción" de levantarse es gratuita y pasa a estar aturdido (ver [Recuperación](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/recuperaci%C3%B3n.png)). Con lo que puede actuar con normalidad.  
+
+
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
   No, no se puede empujar a alguien de mayor tamaño que el tuyo. <br>
@@ -55,6 +59,9 @@ Correcto, tiene que declarar trabarte.
 
 *En una situación en la que estas defendiendo, ganas en CaC y empujas al rival, ¿si no hay casillas libres por algún obstáculo no haces 1 punto de daño? Según se explica en ["Uso de escudo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escudotiradasenfrentadas.png) no. Pero luego dice que vayas a la sección de ["Empujar"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/empujar.png), la cual te dice que si no le puedes empujar por obstáculo se comería daño el enemigo. A cual de las dos hay que hacer caso?*  
 Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habilidad que te dé opción a hacerlo.  
+
+*Tienes alguna ventaja al atacar a un enemigo derribado?*  
+Si, o el atacante obtiene un +1, ya que un enemigo [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg) y no podrá usar escudo. 
 
 ## Magia
 
