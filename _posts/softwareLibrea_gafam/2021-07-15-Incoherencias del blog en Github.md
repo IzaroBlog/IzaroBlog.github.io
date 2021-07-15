@@ -13,7 +13,7 @@ Pero claro... no todo el monte es orégano ni todo podia ser tan fácil! :D
 [Github](https://es.wikipedia.org/wiki/GitHub) es ahora propiedad de [Microsoft](https://es.wikipedia.org/wiki/Microsoft) y hace poco a habilitado un "servicio" llamado [Copilot](https://copilot.github.com/), que resulta que [ignora bastentes licencias libres](https://sergiotarxz.me/2021/07/04/thoughts-about-github-copilot-license-laundry/). 
 Si ya tenía cierta reticencia con dónde tenía alojado mi blog, con esto ya me siento un poco más incómodo la verdad, pese a que realmente yo uso la plataforma únicamente para publicar mis escritos, porque de programación no tengo ni idea! 
 
-Tras preguntar entre la sabiduría del [Fediverso][1] he recibido información de varias alternativas, con el "sistema Git":
+Tras preguntar entre la sabiduría del [Fediverso](https://es.wikipedia.org/wiki/Fediverso)[^1] he recibido información de varias alternativas, con el "sistema Git":
 - [Gitea](https://gitea.com/), parece ser que está más pensado para trabajar con programación, y no está pensado para hacer páginas.
 - [Codeberg](https://victorhckinthefreeworld.com/2020/07/06/codeberg-alternativa-github-gitlab/) una alternativa muy interesante, pero que a día sólo permite crear en local la página, además de que creo que funciona más con [html](https://es.wikipedia.org/wiki/HTML) y no soy un especialista en ese lenguaje! Eso si, el gran [Victorhck](https://mastodon.social/@victorhck) no ha perdido la ocasión de intentarlo y ha creado un [clon de mi blog](https://victorhck.codeberg.page/) bastante interesante! ;)
 - [GitLab](https://about.gitlab.com/), pese a que no esté en manos del señor Gates, su nube depende de [AWS(Amazon)](https://es.wikipedia.org/wiki/Amazon_Web_Services) y [GoogleCloud](https://es.wikipedia.org/wiki/Google_Cloud), con lo que sería saltar de la sartén al fuego.
@@ -22,4 +22,4 @@ Tras haber estudiado, y revisado las opciones, por ahora me quedaré por [Github
 A veces resulta cansado buscar y rebuscar para encontrar la alternativa más acorde con tus principios, pero en la búsqueda siempre se aprende y se encuentran cosas interesantes para el futuro! 
 
 
-[1]: Gracias a [Moribundo Insurgente](https://pleroma.libretux.com/@demoakracia),[Tarteka](https://pleroma.libretux.com/@tarteka),[Victorhck](https://mastodon.social/@victorhck) y [Marcel Costa](https://barcelona.social/users/marcelcosta)
+[^1] : Gracias a [Moribundo Insurgente](https://pleroma.libretux.com/@demoakracia),[Tarteka](https://pleroma.libretux.com/@tarteka),[Victorhck](https://mastodon.social/@victorhck) y [Marcel Costa](https://barcelona.social/users/marcelcosta)
