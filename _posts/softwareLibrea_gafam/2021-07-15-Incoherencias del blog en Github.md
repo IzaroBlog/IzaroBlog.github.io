@@ -13,10 +13,11 @@ Metí bastantes horas intentando entender el funcionamiento de [Githubpages](htt
 
 > Pero claro... no todo el monte es orégano ni todo podia ser tan fácil! :D  
 
+![Jekyll](https://jekyllrb.com/img/octojekyll.png)
+
+
 [Github](https://es.wikipedia.org/wiki/GitHub) es ahora propiedad de [Microsoft](https://es.wikipedia.org/wiki/Microsoft) y hace poco a habilitado un "servicio" llamado [Copilot](https://copilot.github.com/), que resulta que [ignora bastentes licencias libres](https://sergiotarxz.me/2021/07/04/thoughts-about-github-copilot-license-laundry/). 
 Si ya tenía cierta reticencia con dónde tenía alojado mi blog, con esto ya me siento un poco más incómodo la verdad, pese a que realmente yo uso la plataforma únicamente para publicar mis escritos, porque de programación no tengo ni idea! 
-
-![Jekyll](https://jekyllrb.com/img/octojekyll.png)
 
 Pregunté a la sabiduría[¹] del [Fediverso](https://es.wikipedia.org/wiki/Fediverso) y he recibido información de varias alternativas, con el "sistema Git":
 - [Gitea](https://gitea.com/), parece ser que está más pensado para trabajar con programación, y no está pensado para hacer páginas.
