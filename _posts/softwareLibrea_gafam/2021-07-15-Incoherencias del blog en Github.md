@@ -7,9 +7,11 @@ tags: [es, blog, github, microsoft, gitea, codeberg, gitlab]
 ---
 
 Hace unos meses decidí cambiar el blog de [Wordpress](https://izaroblog.com/2021/03/23/helbide-aldaketa-cambio-de-direccion/) dónde llevaba mucho tiempo escribiendo. Se me hacía cada vez más difícil entender los sistemas, opciones, y todas las complicaciones que iban añadiendo año tras año. 
-Tenía ganas de escribir, sin preocuparme demasiado por cómo insertar fotos, cómo quedaría la cabecera, etc. Estuve preguntado por opciones de hacer blogs simples, en los que se pudiese escribir en [Markdown](https://es.wikipedia.org/wiki/Markdown) tranquilamente, y me decanté por la posibilidad que daba [Githubpages](https://pages.github.com/). Prioricé otra vez la facilidad de instalarlo y hacerlo funcionar, además de que puedo guardar en formato texto todo el blog de forma cómoda y sin que pese mucho en mi ordenador. 
+Tenía ganas de escribir, sin preocuparme demasiado por cómo insertar fotos, cómo quedaría la cabecera, etc. Estuve preguntado por opciones de hacer blogs simples, en los que se pudiese escribir en [Markdown](https://es.wikipedia.org/wiki/Markdown) tranquilamente, y me decanté por la posibilidad que daba [Githubpages](https://pages.github.com/). Prioricé otra vez la facilidad de instalarlo y hacerlo funcionar, además de que puedo guardar en formato texto todo el blog de forma cómoda y sin que pese mucho en mi ordenador.   
 Metí bastantes horas intentando entender el funcionamiento de [Githubpages](https://pages.github.com/), comprendí lo mínimo de [Jekyll](https://jekyllrb.com/) para montar la web, y he ido poco a poco migrando mi blog, añadiendo cosas y sintiéndome más a gusto con la decisión. 
-Pero claro... no todo el monte es orégano ni todo podia ser tan fácil! :D
+
+> Pero claro... no todo el monte es orégano ni todo podia ser tan fácil! :D  
+
 [Github](https://es.wikipedia.org/wiki/GitHub) es ahora propiedad de [Microsoft](https://es.wikipedia.org/wiki/Microsoft) y hace poco a habilitado un "servicio" llamado [Copilot](https://copilot.github.com/), que resulta que [ignora bastentes licencias libres](https://sergiotarxz.me/2021/07/04/thoughts-about-github-copilot-license-laundry/). 
 Si ya tenía cierta reticencia con dónde tenía alojado mi blog, con esto ya me siento un poco más incómodo la verdad, pese a que realmente yo uso la plataforma únicamente para publicar mis escritos, porque de programación no tengo ni idea! 
 
