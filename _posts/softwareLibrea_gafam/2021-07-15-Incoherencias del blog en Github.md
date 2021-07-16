@@ -27,4 +27,7 @@ Pregunté a la sabiduría ([Moribundo Insurgente](https://pleroma.libretux.com/@
 ![Codeberg](https://codeberg.org/img/logo.svg)
 
 Tras haber estudiado, y revisado las opciones, por ahora me quedaré por [Githubpages](https://pages.github.com/) ya que no veo ninguna otra opción factible (con mis conocimientos). Esto que me supone añadir una incoherencia más a mi mochila.   
-A veces resulta cansado buscar y rebuscar para encontrar la alternativa más acorde con tus principios, pero en la búsqueda siempre se aprende y se encuentran cosas interesantes para el futuro! 
+A veces resulta cansado buscar y rebuscar para encontrar la alternativa más acorde con tus principios, pero en la búsqueda siempre se aprende y se encuentran cosas interesantes para el futuro!
+
+⚽️ Bolas extra: 
+- [Eleventy](https://www.11ty.dev/) nos lo trae [Fedizen4](https://barcelona.social/titi) y [posibilita convertir los archivos md en html "mágicamente"](https://barcelona.social/notice/A9L7dygjPVqGURT3GC) ;), un ejemplo de instrucciones: <https://forja.laloka.org/laloka/laloka.org>
