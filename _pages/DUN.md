@@ -80,6 +80,9 @@ El icono del reloj de arena indica que es un hechizo permanente, no en duración
 *Si eres, por ejemplo, un [Maestro Rúnico](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maestrorunico.png) con [lanza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/lanza.png) y estás a una casilla de distancia de un enemigo. Tu al tener lanza le estás pudiendo pegar, pero se supone que no estás en su zona de influencia. En ese caso, podrías dispersar o lanzar hechizos?*  
 Si, podrías lanzar hechizos ya que no estás en su [zona de influencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonadeinfluencia.png). Estar equipado con un [arma larga](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armalarga.png) te permite atacar a una casilla de distancia, fuera de la ZI enemiga.  
 
+*Si soy un [archimago](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/niveleshechiceria.png) y uso una [poción de mana](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocionmana.png).... aún así estoy limitado a [2 elementales por aventura?](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elementalfuego.jpg)*  
+Sólo puedes invocar 2 elementales por aventura, en el [aether](https://en.wikipedia.org/wiki/Aether_(classical_element)) no caben más! ;). 
+
 
 ## Daño y efectos
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
