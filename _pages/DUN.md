@@ -259,10 +259,14 @@ Si.
 Del presupuesto, siempre que haya presupuesto.  
 
 
-*Una sala principal que ademas es grande signifia que tiras dado de JOA, sacas carta de Encuentro y pones criaturas como si hubieras sacado carta Enemigos? Las tres cosas?*
+*Una sala principal que ademas es grande significa que tiras dado de JOA, sacas carta de Encuentro y pones criaturas como si hubieras sacado carta Enemigos? Las tres cosas?*
 No, [las reglas de sala principal substituyen a la sala grande](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartasencuentroJOA.png)  
 	Principal: Colocas "Enemigos" y tiras el dado  
 	Grande: Tiras el dado y levantas carta de encuentro  
+
+*Cómo funciona exáctamente la mejora del líder?*  
+[Cuando los héroes visualicen la sala Principal, una vez colocadas todas las criaturas, reduce el contador de Puntos de Reserva a 10](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/mejoraliderjoa.png). 
+Si el presupuesto está por encima de 10 después de generar criaturas y ponerle habilidades al líder, restar 10 y dividir el resultado entre 2 y sumar esa cantidad a la Vitalidad del Lider. [Ver ejemplo en pág 64](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/presupuestoliderJOA.png)  
 
 
 ## Otras anotaciones
