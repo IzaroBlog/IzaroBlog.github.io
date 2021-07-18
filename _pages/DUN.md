@@ -132,6 +132,9 @@ Sí la primera casilla que pisas es fuera, no.<br>
 *En la fuente hay una opcion que te deja dormido durante 3 turnos, entiendo que es el estado inmóvil, la duda es ¿si recibe daño se despierta?*  
 Si no dice nada de que despierte, es que no despierta. Así que si te quedas dormido, reza para que tus compañeros no se pongan a explorar o el JO no tenga en su mano una carta de emboscada o ladrón.  
 
+*¿Para abrir el [rastrillo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/rastrillo.jpg) realizas una unica tirada de Fuerza?. Y, si no las superas? ¿Que haces con el rastrillo?*  
+Se puede intentar el rastrillo todos los turnos, y no es un elemento que se pueda romper, como las puertas. La redacción de "hacer una única prueba de fuerza", se refiere a que aunque sean dos personajes intentando abrirla, solo haces una tirada para los dos. 
+
 
 ## Creación de personajes y evolución
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
