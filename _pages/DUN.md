@@ -84,7 +84,7 @@ Si, podrías lanzar hechizos ya que no estás en su [zona de influencia](https:/
 Sólo puedes invocar 2 elementales por aventura, en el [aether](https://en.wikipedia.org/wiki/Aether_(classical_element)) no caben más! ;). 
 
 
-*Cuando se lanza un hechizo que provoca aturdimiento al enemigo y es permanenta, como por ejemplo [Aguas traicioneras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguastraicioneras.jpg), el efecto de aturdido dura los turnos que dure el hechizo, o puede recuperarse en el siguiente turno?   
+*Cuando se lanza un hechizo que provoca aturdimiento al enemigo y es permanenta, como por ejemplo [Aguas traicioneras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguastraicioneras.jpg), el efecto de aturdido dura los turnos que dure el hechizo, o puede recuperarse en el siguiente turno?*   
 Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aturdido.jpg)s provocados por un hechizo permanente duran la duración del hechizo independientemente lo indique o no el hechizo.  
 
 
