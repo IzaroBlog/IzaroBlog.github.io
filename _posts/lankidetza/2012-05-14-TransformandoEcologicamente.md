@@ -20,7 +20,7 @@ Más info:
 - <a href="https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/Guiapracticatransformacionecologica.pdf">
 Descarga de la Guía</a>
 - <a href="https://izaroblog.github.io/es/cooperation/2012/03/05/MAmarcologico.html" target="_blank">Integrando el Medio Ambiente en el “Marco Lógico”</a>  
-- <a href="http://izaroblog.com/2012/02/02/integracion-del-medio-ambiente-en-la-cooperacion/" target="_blank">Integración del Medio Ambiente en la Cooperación</a>  
+- <a href="https://izaroblog.github.io/es/cooperation/environment/2012/02/02/IntegracionMA.html" target="_blank">Integración del Medio Ambiente en la Cooperación</a>  
 - <a href="http://www.bakeaz.org/">Bakeaz</a>  
 
 1: Grupo de trabajo participativo y de reflexión sobre sostenibilidad, medio ambiente y cooperación al desarrollo, compuesto por miembros de ONG de desarrollo y ecologistas e instituciones públicas.
