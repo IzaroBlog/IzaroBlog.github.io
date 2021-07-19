@@ -19,7 +19,7 @@ El **tercer apartado** se centra en proponer nuevas herramientas (Matriz Implica
 
 El manual es una herramienta interesante para incluir la variable ambiental dentro de proyectos que funcionen con la lógica del "Marco Lógico", ya que no es fácil encontrar la manera de hacerlo de una forma transversal. Es un buen manual para que las ONGD comiencen a preocuparse por el medio ambiente, y los problemas que suponen para el desarrollo.
 
-No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una herramienta poco flexible para la transversalización de variables como el género o el medio ambiente en los proyectos.  
+No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía **una herramienta poco flexible** para la transversalización de variables como el género o el medio ambiente en los proyectos.  
 
 
 Más Info:  
