@@ -7,7 +7,7 @@ title: DUN
 En esta página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 
-Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y se hayan discutido en el grupo de Telegram entre más de 700 personas. A veces también se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
+Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y hayan pasado el escrutinio de @Behelin y se han discutido en el grupo de Telegram entre más de 700 personas. A veces también se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
 El objetivo de esta página es que todas esas dudas, preguntas y respuestas queden escritas y accesibles para todas las personas interesadas. 
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
@@ -82,6 +82,10 @@ Si, podrías lanzar hechizos ya que no estás en su [zona de influencia](https:/
 
 *Si soy un [archimago](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/niveleshechiceria.png) y uso una [poción de mana](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocionmana.png).... aún así estoy limitado a [2 elementales por aventura?](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/elementalfuego.jpg)*  
 Sólo puedes invocar 2 elementales por aventura, en el [aether](https://en.wikipedia.org/wiki/Aether_(classical_element)) no caben más! ;). 
+
+
+*Cuando se lanza un hechizo que provoca aturdimiento al enemigo y es permanenta, como por ejemplo [Aguas traicioneras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguastraicioneras.jpg), el efecto de aturdido dura los turnos que dure el hechizo, o puede recuperarse en el siguiente turno?   
+Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aturdido.jpg)s provocados por un hechizo permanente duran la duración del hechizo independientemente lo indique o no el hechizo.  
 
 
 ## Daño y efectos
