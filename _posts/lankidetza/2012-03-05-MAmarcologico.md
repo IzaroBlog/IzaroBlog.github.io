@@ -22,9 +22,7 @@ El manual es una herramienta interesante para incluir la variable ambiental dent
 No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una <strong>herramienta poco flexible para</strong> la transversalización de variables como el género o el medio ambiente en los proyectos.  
 
 
-
 Más Info:  
-
-- [Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/IntegracionMAenCooperacion.pdf)  
-- [Manual para la integración del medio ambiente en proyectos de desarrollo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/manualintegracionipade.pdf)  
+📘[Integración del medio ambiente en  políticas de cooperación al desarrollo descentralizadas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/IntegracionMAenCooperacion.pdf)  
+📘[Manual para la integración del medio ambiente en proyectos de desarrollo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/manualintegracionipade.pdf)  
 
