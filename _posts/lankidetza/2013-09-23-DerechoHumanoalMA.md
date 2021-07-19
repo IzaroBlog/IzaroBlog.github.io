@@ -15,6 +15,6 @@ Para terminar menciono las principales amenazas con las que se encuentra la prop
 
 > Un largo camino por recorrer
 
-Además de mi articulo podéis leer también las de mis compañeras **Silvia Felipe, Cristina Fernández, Sarai Martín, Natalia Rodriguez, Aimar Rubio** y **Eva Sánchez.**
+Además de mi articulo podéis leer también las de mis compañeras **Silvia Felipe, Cristina Fernández, Sarai Martín, Natalia Rodriguez, Aimar Rubio** y **Eva Sánchez.**  
 
 📘[Si queréis echarle un vistazo al artículo ;“Derecho Humano al Medio Ambiente”podéis pinchar aquí](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/derecho-humano-al-medio-ambiente.pdf).
