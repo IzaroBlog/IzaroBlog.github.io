@@ -31,7 +31,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 [No se puede atravesar una puerta en diagonal y obstáculos impasables tampoco](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientodiagonal.png).  Entre personajes si, pero entre enemigos no (a no ser que estén trabados o sea destrabándote). Lo del puente y el foso NO, al igual que las puertas.  
 
 *Un personaje tamaño normal si pasa a través de un compañero grande, ¿le cuesta +1 mov. por cada casilla que ocupa el grande?*  
-Para movimientos se considera la criatura de 1 casilla, pero ha de poder sobrepasar lo que ocupa con su movimiento.  
+Para movimientos, la criatura grande se considera que ocupa 1 casilla, pero el compañero que mueve por encima ha de poder sobrepasar lo que ocupa con su movimiento.  
 
 *Movimiento de Criaturas Grandes [(ver imagen)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/movimientocriaturasgrandes.png). Cuando dice "algún espacio inferior a su peana" incluye esto pasar por lugares donde uno de los espacios está ocupado por una figura aliada?*
 *Por ejemplo en el caso del dibujo, el troll se considera que está pasando por espacios 'inferiores a su peana' al pasar por al lado del esqueleto (asumiendo que son aliados)? O podría correr por ahí?*  
