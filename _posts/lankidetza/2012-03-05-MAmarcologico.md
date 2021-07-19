@@ -12,14 +12,14 @@ La propuesta que se hace en este manual trata de integrar el medio ambiente en p
 - Las propuestas en él incluidas no supusiesen una sobrecarga de trabajo para los responsables de cada una de las fases de la gestión del ciclo del proyecto.  
 - Las propuestas no requiriesen para su aplicación un alto nivel de especialización sobre cuestiones ambientales.  
 
-En el <strong>segundo apartado</strong> pasa a la parte práctica de integrar el medio ambiente a <strong>nivel operativo</strong>, principalmente enfocado a proyectos específicos. Se centra en la parte de planificación y el manual dispone de varias preguntas de chequeo que pueden ayudar incluir el medio ambiente en los proyectos; desde la identificación a la evaluación y el seguimiento.  
+En el **segundo apartado** pasa a la parte práctica de integrar el medio ambiente a **nivel operativo**, principalmente enfocado a proyectos específicos. Se centra en la parte de planificación y el manual dispone de varias preguntas de chequeo que pueden ayudar incluir el medio ambiente en los proyectos; desde la identificación a la evaluación y el seguimiento.  
 
-En el <strong>primer apartado</strong> el manual propone un modelo <strong>SABA</strong>(Suelo, Agua, Biodiversidad y Atmósfera), que habría que tener en cuenta en los proyectos de cooperación y proporciona buenas prácticas para implementar en los proyectos; además de proporcionar varios ejemplos prácticos de cada uno de ellos.  
-El<strong> tercer apartado</strong> se centra en proponer nuevas herramientas (Matriz Implicados-Recursos Naturales, Diagrama Implicados-Recursos Naturales, Matriz actividad económica-Recursos Naturales, Matriz de riesgos ambientales, Líneas de tendencia, entre otras)para facilitar la integración en los proyectos de la variable ambiental.  
+En el **primer apartado** el manual propone un modelo **SABA**(Suelo, Agua, Biodiversidad y Atmósfera), que habría que tener en cuenta en los proyectos de cooperación y proporciona buenas prácticas para implementar en los proyectos; además de proporcionar varios ejemplos prácticos de cada uno de ellos.  
+El **tercer apartado** se centra en proponer nuevas herramientas (Matriz Implicados-Recursos Naturales, Diagrama Implicados-Recursos Naturales, Matriz actividad económica-Recursos Naturales, Matriz de riesgos ambientales, Líneas de tendencia, entre otras)para facilitar la integración en los proyectos de la variable ambiental.  
 
 El manual es una herramienta interesante para incluir la variable ambiental dentro de proyectos que funcionen con la lógica del "Marco Lógico", ya que no es fácil encontrar la manera de hacerlo de una forma transversal. Es un buen manual para que las ONGD comiencen a preocuparse por el medio ambiente, y los problemas que suponen para el desarrollo.
 
-No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una <strong>herramienta poco flexible para</strong> la transversalización de variables como el género o el medio ambiente en los proyectos.  
+No obstante, habrá que ver la evolución de los proyectos en los años venideros, para ver si se consigue una integración real de la variable ambiental, ya que a mí me parece que el "Marco Lógico" es todavía una herramienta poco flexible para la transversalización de variables como el género o el medio ambiente en los proyectos.  
 
 
 Más Info:  
