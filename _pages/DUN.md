@@ -275,6 +275,10 @@ No, [las reglas de sala principal substituyen a la sala grande](https://raw.gith
 [Cuando los héroes visualicen la sala Principal, una vez colocadas todas las criaturas, reduce el contador de Puntos de Reserva a 10](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/mejoraliderjoa.png). 
 Si el presupuesto está por encima de 10 después de generar criaturas y ponerle habilidades al líder, restar 10 y dividir el resultado entre 2 y sumar esa cantidad a la Vitalidad del Lider. [Ver ejemplo en pág 64](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/presupuestoliderJOA.png)  
 
+*Los mercenarios son considerados "héroes" a efectos de selección de objetivo (entrar en la alternancia de ataques de los enemigos) y a efectos de reglas especiales de misión? (cosas como reduce 1 turno por cada héroe)*?  
+Si, son considerados en la [seleccion de objetivos para los enemigos (JOA)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/seleccionobjetivoJOA.png), pero no son considerados como heroes a efecto que especifica "heroes".
+Heroes: solo heroes reales, Enemigos: solo enemigos Personajes: todos. Se suelen usar estos tres terminos para definir objetivos.  
+
 
 ## Otras anotaciones
 
