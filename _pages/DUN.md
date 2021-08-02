@@ -215,6 +215,12 @@ La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.g
 *¿Las armas hechizadas durante la aventura se consideran aptas contra [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg), o sigue necesitando de críticos para impactar?*  
 Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
 
+*Un personaje con habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png), puede comenzar el turno declarando que vuela, moverse, y dejar de volar para atacar CaC? O debe esperar al siguiente turno, declarar que no vuela al comienzo y luego atacar?*  
+Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!  
+*Y una criatura con la [habilidad volar del JO](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, como atacan cuerpo a cuerpo?*
+Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 terrestre, se consideran que van siempre volando y atacan desde el aire](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladorasLudic.png). 
+
+
 
 ## Aventuras y campañas
 
@@ -251,6 +257,10 @@ SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse 
 ## Jugador oscuro (JO)
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
 Si.  
+*Respecto a la iniciativa, cuando la ganan los héroes comienza un nuevo turno para ellos... Pero ¿el JO no suma punto de logró verdad?*  
+Exactamante, no se suman puntos de logros.  
+
+
 
 ## Jugador oscuro artificial (JOA)
 *[La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se ha de tirar el dado de escenario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png). Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración.*  
