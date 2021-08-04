@@ -13,9 +13,10 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
 ## Materiales adicionales
-- [Reglamento DUN V2, sin fondo](hhttps://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
+- [Reglamento DUN V2, sin fondo](hhttps://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materihttps://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350als/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
-- [Referencia rápida de combate](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20combateV2.pdf), gracias a @drassain 👏 !  
+- [Referencia rápida de combate](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20combateV2.pdf), gracias a @drassain 👏 !
+- [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)  
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)  
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
@@ -46,6 +47,8 @@ Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la
 *Cuando uno esta [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg), en su turno se levanta y pasa a estar aturdido. ¿Puedo hacer algo mas? Me explico, ¿puede moverse y hacer una accion en el mismo turno que se levanta o levantarse es todo lonque puede hacer ese turno?*  
 Cuando uno está derribado, si no tiene ZI adyacentes, la "acción" de levantarse es gratuita y pasa a estar aturdido (ver [Recuperación](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/recuperaci%C3%B3n.png)). Con lo que puede actuar con normalidad.  
 
+*Al pisar una flecha de exploracion ¿se acaba el turno? Y si sale trampa, sale en la flecha?*  
+No, pisar una flecha por si mismo no acaba el turno, la [Acción Desvelar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desvelarzona.png) zona interrumpe el movimiento y en función de si se produce o no encuentro o se juegan trampas, puede terminar con la activación del héroe o grupo de jugadores.  
 
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
