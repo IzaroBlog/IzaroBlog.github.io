@@ -7,15 +7,16 @@ title: DUN
 En esta página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
 
-Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y hayan pasado el escrutinio de @Behelin y se han discutido en el grupo de Telegram entre más de 700 personas. A veces también se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
+Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y hayan pasado el escrutinio de @Behelin. También se han discutido en el grupo de Telegram entre más de 700 personas y a veces se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
 El objetivo de esta página es que todas esas dudas, preguntas y respuestas queden escritas y accesibles para todas las personas interesadas. 
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
 ## Materiales adicionales
-- [Reglamento DUN V2, sin fondo](hhttps://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
+- [Reglamento DUN V2, sin fondo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
-- [Referencia rápida de combate](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20combateV2.pdf), gracias a @drassain 👏 !  
+- [Referencia rápida de combate](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20combateV2.pdf), gracias a @drassain 👏 !
+- [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - Las FAQ oficiales del juego las podéis encontrar aquí: [https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.pdf](https://dungeonuniversalis.com/wp-content/uploads/2020/04/DUN-ESP-FAQS-Y-ERRATAS-2020-04-06.p)  
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)  
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
@@ -46,6 +47,8 @@ Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la
 *Cuando uno esta [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg), en su turno se levanta y pasa a estar aturdido. ¿Puedo hacer algo mas? Me explico, ¿puede moverse y hacer una accion en el mismo turno que se levanta o levantarse es todo lonque puede hacer ese turno?*  
 Cuando uno está derribado, si no tiene ZI adyacentes, la "acción" de levantarse es gratuita y pasa a estar aturdido (ver [Recuperación](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/recuperaci%C3%B3n.png)). Con lo que puede actuar con normalidad.  
 
+*Al pisar una flecha de exploracion ¿se acaba el turno? Y si sale trampa, sale en la flecha?*  
+No, pisar una flecha por si mismo no acaba el turno, la [Acción Desvelar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desvelarzona.png) zona interrumpe el movimiento y en función de si se produce o no encuentro o se juegan trampas, puede terminar con la activación del héroe o grupo de jugadores.  
 
 ## Combate
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
@@ -215,6 +218,12 @@ La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.g
 *¿Las armas hechizadas durante la aventura se consideran aptas contra [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg), o sigue necesitando de críticos para impactar?*  
 Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
 
+*Un personaje con habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png), puede comenzar el turno declarando que vuela, moverse, y dejar de volar para atacar CaC? O debe esperar al siguiente turno, declarar que no vuela al comienzo y luego atacar?*  
+Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!  
+*Y una criatura con la [habilidad volar del JO](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, como atacan cuerpo a cuerpo?*
+Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 terrestre, se consideran que van siempre volando y atacan desde el aire](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladorasLudic.png). 
+
+
 
 ## Aventuras y campañas
 
@@ -251,6 +260,10 @@ SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse 
 ## Jugador oscuro (JO)
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
 Si.  
+*Respecto a la iniciativa, cuando la ganan los héroes comienza un nuevo turno para ellos... Pero ¿el JO no suma punto de logró verdad?*  
+Exactamante, no se suman puntos de logros.  
+
+
 
 ## Jugador oscuro artificial (JOA)
 *[La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se ha de tirar el dado de escenario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png). Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración.*  
@@ -284,4 +297,12 @@ Heroes: solo heroes reales, Enemigos: solo enemigos Personajes: todos. Se suelen
 
 *En tiradas enfrentadas, doble 6 siempre le gana a cualquier otro resultado, sin importar los modificadores de cada personaje, no?*  
 [Doble 6 siempre gana y Doble 1 siempre pierde](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/doble.jpg), sin importar los valores de cada personaje involucrado. Sólo se comparan si ambos obtienen doble 6 o doble 1.Las tiradas enfrentadas son pruebas de características, pero el número objetivo es el otro en vez de uno fijo.
+
+Sobre la habilidad **Volar** y sus diferencias entre V1 y V2:  
+Al hilo de algún comentario sobre "Volar", esta habilidad ha sido uno de los grandes cambios en DUN, buscando mayor fluidez en el juego (como las armas largas, la renovación de las cartas de comportamiento, algunos movimientos de las criaturas grandes, o la explicación mejor ordenada de las acciones disponibles, las tiradas de iniciativa o las zonas de influencia).
+La regla actual de Volar (V2) solo alude a la propia habilidad (se ha suprimido el texto que explicaba otros pormenores. Al simplificarse, ha cabido todo en la carta de habilidad (el texto también está en la referencia rápida del libro, donde se indica a su vez el uso para las criaturas manejadas por el JO e incluso el JOA (inteligencia artificial).
+La habilidad de Volar (que no se emplea estando herido o con armadura pesada) permite al personaje superar las pruebas de Agilidad al saltar o trepar (saltar fosos, por ejemplo, una gran ventaja). Esta es la ventaja que confiere en escenarios interiores. En los exteriores, es mucho mejor. Al inicio de activación el héroe decide si vuela o no (no es una acción ponerse en vuelo) y permanece así hasta su siguiente turno. Mientras vuela, mueve las casillas que indica su perfil (es más rápido que a pie), ignora obstáculos no impasables (mobiliario o terreno difícil no entorpece su movimiento), ignora las zonas de influencia enemigas (gran libertad de movimiento). Sin embargo, tienen penalización a -1 a Disparo porque es difícil disparar mientras se baten las alas ;) 
+Las criaturas del JO y JOA lo tienen mejor, ya que pueden volar en escenarios interiores (al contrario que los héroes) si tienen el icono de comportamiento de criatura voladora.
+Recordemos que, según se indica en los capítulos de combate, impactar a una criatura voladora en cuerpo a cuerpo o disparo es difícil, ya que el atacante tienen una penalización de -1 a su tirada. A su vez, mientras una criatura vuela, los rivales la verán más fácilmente (una criatura situada tras un compañero, será vista igualmente, ya que está en alto y el rival tendrá línea de visión hacia ella).
+Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
