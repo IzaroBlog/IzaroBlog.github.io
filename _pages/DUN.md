@@ -14,6 +14,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Materiales adicionales
 - [Reglamento DUN V2, sin fondo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
+- [Bestiario 1 DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario1.pdf)
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
 - [Referencia rápida de combate](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20combateV2.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
