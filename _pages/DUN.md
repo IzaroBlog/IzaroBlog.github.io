@@ -22,6 +22,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Contenido oficial (FAQ, hojas de personajes, etc.](https://dungeonuniversalis.com/es/dun-fans-2/)
 - La plataforma para jugar online y la creación de personajes es: [https://worldofarasca.dungeonuniversalis.com/](https://worldofarasca.dungeonuniversalis.com/)  
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
+- [Discord DUN Fans](https://discord.gg/dMfgehy5)
+
 ![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
 
 
