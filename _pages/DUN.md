@@ -72,6 +72,8 @@ No, pisar una flecha por si mismo no acaba el turno, la [Acción Desvelar](https
 *Si un personaje va con un animal/mercenario de compañero y hay un foso, el animal/compañero puede intentar saltar el foso igual que otro personaje?*  
 Si, claro. Lo que **no puede hacer** son [acciones exploratorias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/accionesgeneral.png), pero el resto de [acciones y/o acciones rápidas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/mercenarioanimal.png) si.  
 
+*Cuando un personaje pisa una casilla donde se activa una trampa, y supera la tirada de detección, el manual dice que [debe volver a la casilla de dónde provenía](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reacciontrampas.png). Si esta casilla estaba ocupada (por ejemplo por un aliado) entonces debe volver a la última libre por la que pasó?*
+En este caso ocupar la casilla libre más próxima prioriza, luego habría que desplazar los personajes que ocupan dicha casilla.  
 
 ## Combate {#Combate-id}
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
