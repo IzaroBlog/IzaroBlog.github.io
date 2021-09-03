@@ -1,5 +1,5 @@
 ---
-permalink: /collaborations/Baipasa
+permalink: /collaborations/Irratia
 layout: page
 title: Baipasa
 ---
@@ -17,6 +17,7 @@ Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi d
 - Ekainak 7: [Kriptomonetak eta energia, Shell enpresari auzia](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/audioak/osoa/8107372/audioa-shell-konpainia-derrigortu-dute-isurketak-45ean-murriztera-/)
 - Ekainak 21 [Hidrogenoa energia trantsizioan](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/osoa/8140112/hidrogenoa-izan-daiteke-energia-iturri/)
 
+- Abuztuak 3 an, Naiz Irratian [Euskal Herriko energia-egoeraz, trantsizioaz, lurrandearen aukerez eta mugez gogoeta egin genuen](https://irratia.naiz.eus/eu/info_irratia/20210804/30-plentziako-itsas-estazioa-ezagutu-dugu),  Eli Pagolak zuzendutako [Gelditu Makinak](https://irratia.naiz.eus/eu/list_irratia/gelditu-makinak) saioan.
 
 ## 2020
 - Urtarrilak 13: [Interneten Energia Beharrak](https://euskalpmdeus-vh.akamaihd.net/multimedia/audios/2020/01/13/2546641/20200113_19445524_0012530068_002_001_BAIPASA__202.mp3)

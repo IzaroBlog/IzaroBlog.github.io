@@ -13,8 +13,8 @@ Zein da blog honen atzean dagoen pertsona(ia)? Izaro Basurko da nire izena, eta 
 [ekopol ikertalde](https://www.ehu.eus/eu/web/ekopol/home)-ko kide naiz eta [hauxe da nire ekarpenak akademikoak ikusteko esteka](https://izaroblog.github.io/academic)<br>
 *Soy miembro del grupo de investigación [ekopol](https://www.ehu.eus/es/web/ekopol/home) y [este es el enlace que puedes utilizar para ver mi actividad académíca](https://izaroblog.github.io/academic)*
 
-### 📻 [Irratia](https://izaroblog.github.io/collaborations/Baipasa)
-Euskadi Irratiko Baipasa saioan egindako saioak [hementxe](https://izaroblog.github.io/collaborations/Baipasa) ikusi eta entzun ditzakezu.
+### 📻 [Irratia](https://izaroblog.github.io/collaborations/Irratia)
+Euskadi Irratiko Baipasa saioan egindako saioak eta beste irrati elkarrizketak [hementxe](https://izaroblog.github.io/collaborations/Irratia) entzun ditzakezu.
 
 ### 🎬 [Dokumentalak eta antzerkia / Documentales y teatro](https://izaroblog.github.io/collaborations/ikus-entzunekoak)
 AntzerkiZ taldearekin sortutako antzerki lanak eta parte hartu dudan dokumentalak, [hemen](https://izaroblog.github.io/collaborations/ikus-entzunekoak).<br>
