@@ -157,6 +157,9 @@ Si no dice nada de que despierte, es que no despierta. Así que si te quedas dor
 *¿Para abrir el [rastrillo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/rastrillo.jpg) realizas una unica tirada de Fuerza?. Y, si no las superas? ¿Que haces con el rastrillo?*  
 Se puede intentar el rastrillo todos los turnos, y no es un elemento que se pueda romper, como las puertas. La redacción de "hacer una única prueba de fuerza", se refiere a que aunque sean dos personajes intentando abrirla, solo haces una tirada para los dos. 
 
+*Si caes en un foso, para trepar y salir, no importa en qué parte del foso caiste? Por ejemplo en la loseta de foso de 2x6, si caes por un extremo, puedes trepar por el otro?*  
+Sales por [cualquier casilla adyacente al foso](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/treparfosos.jpg). Por otro lado excepto en fosos de una casilla, nunca sabes en qué parte del fondo del foso estás, *fondo de foso* es un lugar indeterminado abstracto donde cabe todo pero no hay adyacencia con nada.
+
 ## Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
