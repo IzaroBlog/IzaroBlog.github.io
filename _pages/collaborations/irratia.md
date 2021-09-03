@@ -1,7 +1,7 @@
 ---
 permalink: /collaborations/Irratia
 layout: page
-title: Baipasa
+title: Irrati kolaborazioak
 ---
 2020tik aurrera [Euskadi Irratiko Baipasa](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/baipasa/) irratsaioan kolaborazioak egin ohi ditut, Klima Larrialdia eta ingurumenarekin harremana duten gaiak jorratuz.
 Hementxe dituzue egindako saioak entzun nahi badituzue, saio amaieran izan ohi dira, **2:40**tik aurrera normalean! 
