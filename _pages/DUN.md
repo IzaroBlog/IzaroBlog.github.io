@@ -26,7 +26,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
-- [Acciones](Acciones-id)
+- [Acciones](#Acciones-id)
 - [Combate](#Combate-id)
 - [Magia](Magia-id)
 - [Daño y efectos](#Dañoyefectos-id)
