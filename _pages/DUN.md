@@ -24,8 +24,20 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - [Discord DUN Fans](https://discord.gg/dMfgehy5)
 
-Secciones: 
+## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
+- [Acciones](Acciones-id)
+- [Combate](#Combate-id)
+- [Magia](Magia-id)
+- [Daño y efectos](#Dañoyefectos-id)
+- [Equipo y armas](#EquipoyArmas-id)
+- [Elementos especiales y mobiliario](#ElementosEspecialesyMobiliario-id)
+- [Creación de personajes y evolución](#CreaciondePersonajesyEvolucion-id)
+- [Habilidades](#Habilidades-id)
+- [Aventuras y campañas](#AventurasyCampañas-id)
+- [Jugador oscuro (JO)](#JO-id)
+- [Jugador oscuro artificial (JOA)](#JOA-id)
+- [Otras anotaciones](#OtrasAnotaciones-id)
 
 ![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
 
@@ -46,7 +58,7 @@ Para movimientos, la criatura grande se considera que ocupa 1 casilla, pero el c
 Puedes mover por este tipo de casillas pero no correr.   
 
 
-## Acciones
+## Acciones {#Acciones-id}
 
 *Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
 Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la hay, no se pone nada. Sabes que NO hay puertas secretas, eso si!  
@@ -57,7 +69,7 @@ Cuando uno está derribado, si no tiene ZI adyacentes, la "acción" de levantars
 *Al pisar una flecha de exploracion ¿se acaba el turno? Y si sale trampa, sale en la flecha?*  
 No, pisar una flecha por si mismo no acaba el turno, la [Acción Desvelar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desvelarzona.png) zona interrumpe el movimiento y en función de si se produce o no encuentro o se juegan trampas, puede terminar con la activación del héroe o grupo de jugadores.  
 
-## Combate
+## Combate {#Combate-id}
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
   No, no se puede empujar a alguien de mayor tamaño que el tuyo. <br>
   
@@ -73,7 +85,7 @@ Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habili
 *Tienes alguna ventaja al atacar a un enemigo derribado?*  
 Si, o el atacante obtiene un +1, ya que un enemigo [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg) y no podrá usar escudo. 
 
-## Magia
+## Magia {#Magia-id}
 
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/abrirentrada.jpg) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
 Si.  
@@ -97,8 +109,7 @@ Sólo puedes invocar 2 elementales por aventura, en el [aether](https://en.wikip
 *Cuando se lanza un hechizo que provoca aturdimiento al enemigo y es permanenta, como por ejemplo [Aguas traicioneras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguastraicioneras.jpg), el efecto de aturdido dura los turnos que dure el hechizo, o puede recuperarse en el siguiente turno?*   
 Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aturdido.jpg)s provocados por un hechizo permanente duran la duración del hechizo independientemente lo indique o no el hechizo.  
 
-
-## Daño y efectos
+## Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
 Un personaje puede obstaculizar la [Línea de Visión](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ldv.png), pero no es cobertura. Recuerda que ninguna criatura podrá tener LdV a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
 
@@ -108,7 +119,7 @@ No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mie
 *Cuando un personaje queda [fuera de combate pero es llevado por un compañero a la salida del dungeon](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate1.png), el reglamento dice que hay que lanzar 1D6 y leer el resultado. Con 2-6 se evita la muerte pero se gana una lesión. En ese caso, ¿el personaje recupera sus puntos de vitalidad?*  
 [No, no recupera su vitalidad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate2.png), se considerará [herido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/herido.png) hasta recuperarse.  
 
-## Equipo y armas
+## Equipo y armas {#EquipoyArmas-id}
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
 
@@ -136,10 +147,7 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 *Las reglas dicen que [no se pueden acumular efectos de dos pociones](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pociones.png). ¿No se puede entonces tener activa una [pócima de destreza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimadeladestreza.png) y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
 Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero no el de dos pócimas.   
 
-
-
-
-## Elementos especiales y mobiliario
+## Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
 Sí la primera casilla que pisas es fuera, no.<br>
 
@@ -149,8 +157,7 @@ Si no dice nada de que despierte, es que no despierta. Así que si te quedas dor
 *¿Para abrir el [rastrillo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/rastrillo.jpg) realizas una unica tirada de Fuerza?. Y, si no las superas? ¿Que haces con el rastrillo?*  
 Se puede intentar el rastrillo todos los turnos, y no es un elemento que se pueda romper, como las puertas. La redacción de "hacer una única prueba de fuerza", se refiere a que aunque sean dos personajes intentando abrirla, solo haces una tirada para los dos. 
 
-
-## Creación de personajes y evolución
+## Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
 
@@ -179,7 +186,7 @@ Respuestas:
 a) No, no hace falta ir a ningún lugar para aprender el hechizo, se aprende como cualquier otra habilidad.   
 b) No, tampoco contaria para el cupo de habilidades, porque dice que la puedes aprender "como" si fuera una habilidad pero NO es una habilidad. Los hechizos de un hechicero tampoco cuentan para este cupo.   
 
-## Habilidades
+## Habilidades {#Habilidades-id}
 
 *La habilidad ["Chillido del inframundo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/chillidodelinframundo.jpg) se puede usar adyacente a un enemigo??*  
 Si.  
@@ -230,9 +237,7 @@ Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir a
 *Y una criatura con la [habilidad volar del JO](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, como atacan cuerpo a cuerpo?*
 Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 terrestre, se consideran que van siempre volando y atacan desde el aire](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladorasLudic.png). 
 
-
-
-## Aventuras y campañas
+## Aventuras y campañas {#AventurasyCampañas-id}
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
 Correcto, si no recuperas Fortuna no hay tirada inoportuna.
@@ -264,7 +269,7 @@ SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse 
 
 
 
-## Jugador oscuro (JO)
+## Jugador oscuro (JO) {#JO-id}
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
 Si.  
 *Respecto a la iniciativa, cuando la ganan los héroes comienza un nuevo turno para ellos... Pero ¿el JO no suma punto de logró verdad?*  
@@ -272,7 +277,7 @@ Exactamante, no se suman puntos de logros.
 
 
 
-## Jugador oscuro artificial (JOA)
+## Jugador oscuro artificial (JOA) {#JOA-id}
 *[La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se ha de tirar el dado de escenario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png). Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración.*  
 Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
@@ -300,7 +305,7 @@ Si, son considerados en la [seleccion de objetivos para los enemigos (JOA)](http
 Heroes: solo heroes reales, Enemigos: solo enemigos Personajes: todos. Se suelen usar estos tres terminos para definir objetivos.  
 
 
-## Otras anotaciones
+## Otras anotaciones {#OtrasAnotaciones-id}
 
 *En tiradas enfrentadas, doble 6 siempre le gana a cualquier otro resultado, sin importar los modificadores de cada personaje, no?*  
 [Doble 6 siempre gana y Doble 1 siempre pierde](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/doble.jpg), sin importar los valores de cada personaje involucrado. Sólo se comparan si ambos obtienen doble 6 o doble 1.Las tiradas enfrentadas son pruebas de características, pero el número objetivo es el otro en vez de uno fijo.
