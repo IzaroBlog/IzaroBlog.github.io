@@ -7,8 +7,8 @@ tags: [es, fediverso, redes sociales, datos]
 ---
 
 Hace poco he participado en la prueba que ha realizado Drymer sobre la información que se puede obtener de lo que publicamos en las redes sociales. 
-Merece mucho la pena leer su análisis:
-https://daemons.it/posts/antisocial-analizar-datos-del-fediverso/#antisocial-qu%C3%A9-datos-se-pueden-sacar-de-las-redes-sociales-libres
+Merece mucho la pena leer su análisis:  
+<https://daemons.it/posts/antisocial-analizar-datos-del-fediverso/#antisocial-qu%C3%A9-datos-se-pueden-sacar-de-las-redes-sociales-libres>
 
 Di mi consentimiento para que analizase lo que escribía y hacer un gráfico con las palabras más usadas, aquí tenéis el resultado: 
 
@@ -16,11 +16,11 @@ Di mi consentimiento para que analizase lo que escribía y hacer un gráfico con
 
 Como se ve, una de las palabras más repetidas es "eta", el equivalente a la conjunción copulativa "y" en euskera. Hace algunos años, e incluso hoy en día con cualquier encierra-titiriteros podría ponernos en aprietos si lo quisiese; en caso por ejemplo de que yo fuese alguna figura política-representativa de algún tipo. Eso me ha dado qué pensar. 
 
-Por otra parte, ha sido bonito ver que hay muchas palabras en euskera, mostrando que existe una red social interesante en el #Fediverso que nos comunicamos y vivimos en euskera. 
+Por otra parte, ha sido bonito ver que hay muchas palabras en euskera, mostrando que existe una red social interesante en el #[Fediverso](https://es.wikipedia.org/wiki/Fediverso) que nos comunicamos y vivimos en euskera. 
 
 Se nota también que #izaroblog es una de las palabras clave, ya que suelo usar la red social para promocionar los posts que escribo y tengo algunas entradas programadas para ello. 
 
-También se nota que últimamente he estado enfrascado con el tema del blog en [#github] (https://izaroblog.github.io/es/internet/2021/07/15/Incoherencias-del-blog-en-Github.html), y muchas de las palabras son relativas a ello. 
+También se nota que últimamente he estado enfrascado con el tema del blog en [#github](https://izaroblog.github.io/es/internet/2021/07/15/Incoherencias-del-blog-en-Github.html), y muchas de las palabras son relativas a ello. 
 
 Lo que resulta interesante de verdad es ver cuánta información se puede sacar sobre mis andanzas con sólo ese gráfico! También hay otro que muestra con quién suelo interactuar más, pero analizar eso me parece ya demasiado! ;)
 ![Antisocial2](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/antisocial2.png)
