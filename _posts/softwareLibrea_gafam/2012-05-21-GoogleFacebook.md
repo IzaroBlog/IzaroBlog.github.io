@@ -16,11 +16,13 @@ Personalmente me da un poco de temor que estemos llegando a este nivel de person
 Los <strong>puntos de vista distintos o contrarios</strong> al de uno mismo<strong> son ocultados</strong> y recibes la información que <em>necesitas</em>en cada una de las búsquedas. Unos dirán que esto es bueno, ya que los buscadores están bien diseñados y siempre encontramos lo que necesitamos, evitándonos búsquedas innecesarias y enseñándonos únicamente las páginas más relevantes.
 
 Pero... yo no estoy tan seguro!
-<p style="text-align:center;"><a href="http://upload.wikimedia.org/wikipedia/commons/5/52/Newgooglelogo.png"><img class="aligncenter" src="http://upload.wikimedia.org/wikipedia/commons/5/52/Newgooglelogo.png" alt="" width="320" height="118"></a></p>
+
+
+![https://live.staticflickr.com/4140/4890043404_d7660366ac_b.jpg]
 
 Cada búsqueda depende de cada persona, del momento y objetivo de la búsqueda, y por lo menos estaría bien conocer qué tipo de datos dispone Google (o Facebook, o el buscador que venga) del usuario para que este gestione la búsqueda o los resultados que necesita.<br>
 La realidad es que están **filtrando la información** ;según unos parámetros totalmente opacos. Los algoritmos de búsqueda que se utilizan no son inocuos, objetivos o neutrales. "Alguien" los programa y los implementa.
-Los datos que disponen estos gigantes (y que la mayoría de las personas entregamos gratuitamente y sin ningún pudor) deberían estar mucho <strong>más disponibles</strong> y deberían poder ser consultados de forma <strong>más transparente</strong> y fácil por los usuarios y usuarias. Ya que están utilizando esos datos... ¿por qué no conocerlos?<a href="http://farm5.staticflickr.com/4006/4660452869_ec134f95c6_m.jpg"><img class="alignright" src="http://farm5.staticflickr.com/4006/4660452869_ec134f95c6_m.jpg" alt="" width="240" height="216"></a> 
+Los datos que disponen estos gigantes (y que la mayoría de las personas entregamos gratuitamente y sin ningún pudor) deberían estar mucho <strong>más disponibles</strong> y deberían poder ser consultados de forma <strong>más transparente</strong> y fácil por los usuarios y usuarias. Ya que están utilizando esos datos... ¿por qué no conocerlos?
 
 ¿Te parece bien que en aras de mejorar y optimizar las búsquedas se utilicen estos datos, o preferirías disponer de otros resultados, menos precisos pero con más diversidad?
 Google tiene como lema: “Don't be evil”<em>(No seas malvado)</em>, esperemos que no sea muy malvado con los datos que dispone!!

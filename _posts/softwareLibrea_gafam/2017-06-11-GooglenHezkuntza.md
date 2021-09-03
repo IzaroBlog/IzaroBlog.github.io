@@ -5,11 +5,12 @@ date:   2017-06-11
 categories: eu internet
 tags: [eu, Internet, Google, Hezkuntza, Librezale]
 ---
-<p>Lagun asko hezkuntza munduan izanda, azken aldian asko entzuten nien <em>ChromeBook, Gdrive, Gsuite</em> eta horrelako hitzekin jardunean. Ez luke agian arraro izan beharko, baina lagunek duten teknofobia ezagututa nire harridurak ikertzera gonbidatu ninduen.<br>
-Galderatxo batzuk egin eta gero, konturatu nintzen eskola eta institutu publiko zein pribatuetan, <a href="https://eu.wikipedia.org/wiki/Google" target="_blank" rel="noopener">google</a>k eskainitako sistema guztiak erabiltzen ari zirela. E-posta, dokumentuak lantzeko zein gordetzeko aplikazioak eta noski, nola ez... ikasle bakoitzarentzat bere ordenagailu berri, polit eta merkea, Chromebook-a!</p>
+Lagun asko hezkuntza munduan izanda, azken aldian asko entzuten nien <em>ChromeBook, Gdrive, Gsuite</em> eta horrelako hitzekin jardunean. Ez luke agian arraro izan beharko, baina lagunek duten teknofobia ezagututa nire harridurak ikertzera gonbidatu ninduen.<br>
+Galderatxo batzuk egin eta gero, konturatu nintzen eskola eta institutu publiko zein pribatuetan, <a href="https://eu.wikipedia.org/wiki/Google" target="_blank" rel="noopener">google</a>k eskainitako sistema guztiak erabiltzen ari zirela. E-posta, dokumentuak lantzeko zein gordetzeko aplikazioak eta noski, nola ez... ikasle bakoitzarentzat bere ordenagailu berri, polit eta merkea, Chromebook-a!
 
 <p><img class="wp-image-2338" style="border:1px solid #000000;" src="https://izaroblog.files.wordpress.com/2017/10/chromebook.jpg" alt="Chromebook" width="406" height="271"></p>
 <p>Geroxeago, <a href="https://hackinbadakigu.net/" target="_blank" rel="noopener">hack.in#badakigu elkarteak</a> sortutako <a href="https://t.me/hackinbadakigu" target="_blank" rel="noopener">Telegram taldeko</a> kideei ere galdera luzatu diet eta hauen eta <a href="https://t.me/librezale">Librezale taldean</a> izandako berantzunei esker diagnostiko kaxkar bat egitera ausartzen naiz:</p>
+
 <p><strong>Nola dago egoera eskoletan?</strong></p>
 <ul>
 <li>Euskadi guztitik hedaturik dagoen eredu bat da Google Eskoletan sartzearena. Badaude hala ere <a href="http://alexgabi.blogspot.com.es/">Software Librearen aldeko mugimendua sustatzen duten pertsonak</a> ere!</li>
