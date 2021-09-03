@@ -18,7 +18,7 @@ Los <strong>puntos de vista distintos o contrarios</strong> al de uno mismo<stro
 Pero... yo no estoy tan seguro!
 
 
-![https://live.staticflickr.com/4140/4890043404_d7660366ac_b.jpg]
+![Dontbeevil](https://live.staticflickr.com/4140/4890043404_d7660366ac_b.jpg)
 
 Cada búsqueda depende de cada persona, del momento y objetivo de la búsqueda, y por lo menos estaría bien conocer qué tipo de datos dispone Google (o Facebook, o el buscador que venga) del usuario para que este gestione la búsqueda o los resultados que necesita.<br>
 La realidad es que están **filtrando la información** ;según unos parámetros totalmente opacos. Los algoritmos de búsqueda que se utilizan no son inocuos, objetivos o neutrales. "Alguien" los programa y los implementa.
