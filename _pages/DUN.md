@@ -24,10 +24,13 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - [Discord DUN Fans](https://discord.gg/dMfgehy5)
 
+Secciones: 
+- [Movimiento y terreno](#MovimientoyTerreno-id)
+
 ![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
 
 
-## Movimiento y terreno
+## Movimiento y terreno {#MovimientoyTerreno-id}
 
 *Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, ¿vuelven a lanzar dado de trampa? O solo sa lanza al salir por primera vez de una zona de seguridad?*  
 [Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
