@@ -69,6 +69,10 @@ Cuando uno está derribado, si no tiene ZI adyacentes, la "acción" de levantars
 *Al pisar una flecha de exploracion ¿se acaba el turno? Y si sale trampa, sale en la flecha?*  
 No, pisar una flecha por si mismo no acaba el turno, la [Acción Desvelar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desvelarzona.png) zona interrumpe el movimiento y en función de si se produce o no encuentro o se juegan trampas, puede terminar con la activación del héroe o grupo de jugadores.  
 
+*Si un personaje va con un animal/mercenario de compañero y hay un foso, el animal/compañero puede intentar saltar el foso igual que otro personaje?*  
+Si, claro. Lo que **no puede hacer** son [acciones exploratorias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/accionesgeneral.png), pero el resto de [acciones y/o acciones rápidas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/mercenarioanimal.png) si.  
+
+
 ## Combate {#Combate-id}
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
   No, no se puede empujar a alguien de mayor tamaño que el tuyo. <br>
