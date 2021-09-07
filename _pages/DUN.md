@@ -127,6 +127,9 @@ No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mie
 *Cuando un personaje queda [fuera de combate pero es llevado por un compañero a la salida del dungeon](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate1.png), el reglamento dice que hay que lanzar 1D6 y leer el resultado. Con 2-6 se evita la muerte pero se gana una lesión. En ese caso, ¿el personaje recupera sus puntos de vitalidad?*  
 [No, no recupera su vitalidad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/fueradecombate2.png), se considerará [herido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/herido.png) hasta recuperarse.  
 
+*Se pueden tener valores negativos en las características? P ej Alguien con Agilidad 1 con una [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armaduracompleta.png) tendría -1?*  
+Si, en negativo no hay límites.  
+
 ## Equipo y armas {#EquipoyArmas-id}
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
@@ -154,6 +157,9 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 
 *Las reglas dicen que [no se pueden acumular efectos de dos pociones](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pociones.png). ¿No se puede entonces tener activa una [pócima de destreza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimadeladestreza.png) y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
 Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero no el de dos pócimas.   
+
+*Si un personaje empieza la aventura con el ["Anillo del Sol"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/anillosol.jpg) y luego durante la misma se lo quita para usar otro objeto mágico, se pierde el maná extra?  
+No. Ten en cuenta que los puntos extra de lo que sea: Fortuna, Maná o Vitalidad, siempre se consumen los primeros. Si el personaje ya ha gastado esos 2 manas extra, puede cambiar el anillo sin problema. Obviamente si se quita el anillo antes de gastar esos manas, pierde su beneficio y no lo recupera hasta la siguiente aventura.
 
 ## Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
