@@ -58,6 +58,8 @@ Para movimientos, la criatura grande se considera que ocupa 1 casilla, pero el c
 Puedes mover por este tipo de casillas pero no correr.   
 
 
+
+
 ## Acciones {#Acciones-id}
 
 *Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
@@ -89,7 +91,7 @@ Correcto, tiene que declarar trabarte.
 Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habilidad que te dé opción a hacerlo.  
 
 *Tienes alguna ventaja al atacar a un enemigo derribado?*  
-Si, o el atacante obtiene un +1, ya que un enemigo [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg) y no podrá usar escudo. 
+Si, el atacante obtiene un +1, ya que un enemigo [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg) y no podrá usar escudo. 
 
 ## Magia {#Magia-id}
 
@@ -165,6 +167,10 @@ Se puede intentar el rastrillo todos los turnos, y no es un elemento que se pued
 
 *Si caes en un foso, para trepar y salir, no importa en qué parte del foso caiste? Por ejemplo en la loseta de foso de 2x6, si caes por un extremo, puedes trepar por el otro?*  
 Sales por [cualquier casilla adyacente al foso](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/treparfosos.jpg). Por otro lado excepto en fosos de una casilla, nunca sabes en qué parte del fondo del foso estás, *fondo de foso* es un lugar indeterminado abstracto donde cabe todo pero no hay adyacencia con nada.
+
+*Si un héroe humano (altura 2) está en unas escaleras de altura 2, estaría a una altura 4 respecto al suelo?*  
+Cuando un personaje sube encima de algo se considera que esta a la altura de donde esta subido (pero no se le suma su altura). Por ejemplo: tanto si un personaje pequeño (1), mediano (2) o grande (3) suben encima de una mesa, todos se consideran que estan a una altura de 1 (pq la mesa es altura 1).   
+
 
 ## Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
