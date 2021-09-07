@@ -57,7 +57,8 @@ Para movimientos, la criatura grande se considera que ocupa 1 casilla, pero el c
 *Por ejemplo en el caso del dibujo, el troll se considera que está pasando por espacios 'inferiores a su peana' al pasar por al lado del esqueleto (asumiendo que son aliados)? O podría correr por ahí?*  
 Puedes mover por este tipo de casillas pero no correr.   
 
-
+*Sobre [nadar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/nadar.png), cuando te plantea la posibilidad de acabar en negativo con tu agilidad se refiere a tener de base una agilidad negativa o es que te permite agotar el máximo de tu agilidad de base aunque esta este reducida por penalizadores y ese sobreesfuerzo es lo que conlleva que hagas la tirada de daño?*  
+No, mueves tu Agilidad, pero hay eventos, trampas y circunstancias inusuales que te obligan a encontrate con AGI negativa al final de tu activación. Al ser al final y no al principio, te da tiempo en tu turno a intentar remediar la situación.   
 
 
 ## Acciones {#Acciones-id}
