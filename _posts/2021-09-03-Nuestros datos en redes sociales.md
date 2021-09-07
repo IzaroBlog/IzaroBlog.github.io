@@ -14,7 +14,7 @@ Di mi consentimiento para que analizase lo que escribía y hacer un gráfico con
 
 ![Antisocial1](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/postimages/antisocial1.png)
 
-Como se ve, una de las palabras más repetidas es "eta", el equivalente a la conjunción copulativa "y" en euskera. Hace algunos años, e incluso hoy en día con cualquier encierra-titiriteros podría ponernos en aprietos si lo quisiese; en caso por ejemplo de que yo fuese alguna figura política-representativa de algún tipo. Eso me ha dado qué pensar. 
+Como se ve, una de las palabras más repetidas es "eta", el equivalente a la conjunción copulativa "y" en euskera. Hace algunos años, e incluso hoy en día con cualquier encierra-titiriteros al mando, podría ponernos en aprietos si lo quisiese; en caso por ejemplo de que yo fuese alguna figura política-representativa de algún tipo. Eso me ha dado qué pensar. 
 
 Por otra parte, ha sido bonito ver que hay muchas palabras en euskera, mostrando que existe una red social interesante en el #[Fediverso](https://es.wikipedia.org/wiki/Fediverso) que nos comunicamos y vivimos en euskera. 
 
