@@ -13,7 +13,7 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
 ## Materiales adicionales
-- [Reglamento DUN V2, sin fondo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
+- [Reglamento DUN V2, sin fondo y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Bestiario 1 DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario1.pdf)
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
 - [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)
