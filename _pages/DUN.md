@@ -92,7 +92,7 @@ Correcto, tiene que declarar trabarte.
 Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habilidad que te dé opción a hacerlo.  
 
 *Tienes alguna ventaja al atacar a un enemigo derribado?*  
-No, el personaje [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) tiene un modificador de -1 a las características, pero ten en cuenta que NO se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg) ya que es una [errata (derivada de la V1)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg), que existe en el reglamento.  
+No, el personaje [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) tiene un modificador de -1 a las características, pero ten en cuenta que NO se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg). Es una [errata (derivada de la V1)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) que existe en el reglamento.  
 
 ## Magia {#Magia-id}
 
