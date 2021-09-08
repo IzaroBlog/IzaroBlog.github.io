@@ -159,7 +159,7 @@ Las [flechas incendiarias](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog
 *Las reglas dicen que [no se pueden acumular efectos de dos pociones](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pociones.png). ¿No se puede entonces tener activa una [pócima de destreza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/pocimadeladestreza.png) y una [hidromiel vigorosa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hidromiel.png)?*  
 Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero no el de dos pócimas.   
 
-*Si un personaje empieza la aventura con el ["Anillo del Sol"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/anillosol.jpg) y luego durante la misma se lo quita para usar otro objeto mágico, se pierde el maná extra?  
+*Si un personaje empieza la aventura con el ["Anillo del Sol"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/anillosol.jpg) y luego durante la misma se lo quita para usar otro objeto mágico, se pierde el maná extra?*  
 No. Ten en cuenta que los puntos extra de lo que sea: Fortuna, Maná o Vitalidad, siempre se consumen los primeros. Si el personaje ya ha gastado esos 2 manas extra, puede cambiar el anillo sin problema. Obviamente si se quita el anillo antes de gastar esos manas, pierde su beneficio y no lo recupera hasta la siguiente aventura.
 
 ## Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
