@@ -22,7 +22,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
-- [Discord DUN Fans](https://discord.gg/dMfgehy5)
+- En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, dónde se juegan partidas. 
 
 ## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
