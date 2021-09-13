@@ -94,6 +94,10 @@ Si defiendes no hay posibilidad de generar daño, a no ser que tengas una habili
 *Tienes alguna ventaja al atacar a un enemigo derribado?*  
 No, el personaje [derribado](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/derribado.jpg) tiene un modificador de -1 a las características, pero ten en cuenta que NO se considera [atacado por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ataqueporlaespalda.jpg). Es una [errata (derivada de la V1)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) que existe en el reglamento.  
 
+*Duda Si ganas un combate y quieres [ganar la posición](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ganarlaposicion.jpg) del enemigo al que acabas de empujar. ¿Es posible hacerlo si estás trabado con otro enemigo además de al que acabas de empujar? Yo entiendo que  si ya que en la regla pone que no se considera movimiento.*  
+Si empujas, puedes ganar la posición sin problemas, la regla de trabado no aplica aquí ya que no se considera movimiento.  
+
+
 ## Magia {#Magia-id}
 
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/abrirentrada.jpg) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
@@ -117,6 +121,10 @@ Sólo puedes invocar 2 elementales por aventura, en el [aether](https://en.wikip
 
 *Cuando se lanza un hechizo que provoca aturdimiento al enemigo y es permanenta, como por ejemplo [Aguas traicioneras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguastraicioneras.jpg), el efecto de aturdido dura los turnos que dure el hechizo, o puede recuperarse en el siguiente turno?*   
 Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aturdido.jpg)s provocados por un hechizo permanente duran la duración del hechizo independientemente lo indique o no el hechizo.  
+
+*Si un Animista/Druida se convierte en Oso, por ejemplo, con la magia de Señor de las Bestias, puede lanzar hechizos en forma de oso?? (Con el correspondiente - 1)*  
+No, un [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cambiapieles.jpg) no puede utilizar hechizos una vez convertido. 
+
 
 ## Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
