@@ -17,7 +17,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Bestiario 1 DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario1.pdf)
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
 - [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)
-- [Referencia rápida de combateV5](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV5.pdf), gracias a @drassain 👏 !
+- [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
