@@ -12,15 +12,18 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
-## Materiales adicionales
+## Materiales oficiales
 - [Reglamento DUN V2, sin fondo y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Bestiario 1 DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario1.pdf)
+- [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
+- [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
+
+## Materiales fanmade
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
 - [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)
 - [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
-- [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
-- [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
+- [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) y [Reglas para jugar sin logros](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros.pdf) creadas por @Behelin 👏 .   
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, dónde se juegan partidas. 
 
