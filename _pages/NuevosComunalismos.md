@@ -7,13 +7,11 @@ title: Nuevos Comunalismos frente al colapso ecosocial
 Jardunaldien material eta informazio gehigarria dagoen weborri bat da, informazio guztia eskura izan dezazuen. Erabili libreki!   
 Esta es una página dónde se encuntran los recursos para difundir las jornadas. Sed libres de usarlas! 
 
-## Web:
+## 🌐Web:
 - ES: <https://ekopol.eus/es/nuevos-comunalismos-frente-al-colapso/>
 - EUS:<https://ekopol.eus/eu/komunalismo-berriak-kolapso-ekosozialaren-aurrean> 
 
-
-
-## Material gráfico:
+## 👀Material gráfico:
 
 ### Kartelak eta diptikoak/ Carteles y dípticos:
 
@@ -32,7 +30,7 @@ Esta es una página dónde se encuntran los recursos para difundir las jornadas.
 - [Cabecera Twitter](https://ehubox.ehu.eus/s/d2JrwqF7y6HowxA)
 - [Perfil Whatssap/Twitter](https://ehubox.ehu.eus/s/JsBGErZJpjr6YDc), [Perfil Whatssap/Twitter círculo](https://ehubox.ehu.eus/s/Dim59Q4kmT4dG9i)
 
-## Mail tipo
+## ✍️ Mail tipo
 
 Querida amiga, querido amigo.
 
