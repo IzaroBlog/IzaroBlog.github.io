@@ -16,12 +16,12 @@ Esta es una página dónde se encuntran los recursos para difundir las jornadas.
 
 ### Kartelak eta diptikoak/ Carteles y dípticos:
 
-- [Cartel con enlace(PDF)](https://ekopol.eus/wp-content/uploads/2021/09/Cartel-Castellano-enlace.pdf)
-- [Cartel Alta resolución 13MB(JPG)](https://ekopol.eus/wp-content/uploads/2021/09/CARTEL-A3-COMUNALISMOS-CASTELLANO-300ppp-scaled.jpg)
-- [Cartel Baja resolución 884kB(JPG)](https://ehubox.ehu.eus/s/cTDPZYZTa2rojFc)
-- [Díptico(PDF)](https://ekopol.eus/wp-content/uploads/2021/09/Diptico-Castellano-PDF.pdf) 
-	- [Cara A Introducción(jpg)](https://ehubox.ehu.eus/s/AHsbn58w2CsmS96)
-	- [Cara B Programa(jpg)](https://ehubox.ehu.eus/s/b9cezoxzB82D6qm)
+- [Cartel con enlace(PDF)](https://ekopol.eus/wp-content/uploads/2021/09/Cartel-Castellano-enlace.pdf) / [Estekarekin kartela (PDF](https://ekopol.eus/wp-content/uploads/2021/09/CarteL-EUSKERA-enlace.pdf)
+- [Cartel Alta resolución 13MB(JPG)](https://ekopol.eus/wp-content/uploads/2021/09/CARTEL-A3-COMUNALISMOS-CASTELLANO-300ppp-scaled.jpg)/[Kalitate handiko kartela 13MB(JPG)](https://ekopol.eus/wp-content/uploads/2021/09/CARTEL-A3-COMUNALISMOS-EUSKERA-300ppp-scaled.jpg)
+- [Cartel Baja resolución 884kB(JPG)](https://ehubox.ehu.eus/s/cTDPZYZTa2rojFc)/ [Kalitate txikiko kartela 884kB(JPG)](https://ehubox.ehu.eus/s/9BtffAKy7oiGSa7)
+- [Díptico(PDF)](https://ekopol.eus/wp-content/uploads/2021/09/Diptico-Castellano-PDF.pdf) / [Diptikoa (PDF)](https://ehubox.ehu.eus/s/SmoQeGM8WC8WtQF)
+	- [Cara A Introducción(jpg)](https://ehubox.ehu.eus/s/AHsbn58w2CsmS96) / [Sarrera](https://ehubox.ehu.eus/s/sCFBpW3P2k6nHRe)
+	- [Cara B Programa(jpg)](https://ehubox.ehu.eus/s/b9cezoxzB82D6qm) / [Programa](https://ehubox.ehu.eus/s/g7ewDRsCYwmzFQ3)
 
 - ekopol logoak/logos ekopol: [https://ehubox.ehu.eus/s/EnKKKiAzNFXeB4P](https://ehubox.ehu.eus/s/EnKKKiAzNFXeB4P)
 
