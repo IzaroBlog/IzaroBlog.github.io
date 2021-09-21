@@ -4,6 +4,7 @@ layout: page
 title: Nuevos Comunalismos frente al colapso ecosocial
 ---
 
+Jardunaldien material eta informazio gehigarria dagoen weborri bat da, informazio guztia eskura izan dezazuen. Erabili libreki!   
 Esta es una página dónde se encuntran los recursos para difundir las jornadas. Sed libres de usarlas! 
 
 ## Web:
