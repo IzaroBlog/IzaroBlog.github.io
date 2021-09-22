@@ -6,7 +6,7 @@ categories: eu
 tags: [eu, hezkuntza, google]
 ---
 
-Hasi gara ikasturte berria eskola berrian eta hasi dira [Google handiaren aurkako borrokak](https://izaroblog.github.io/eu/internet/2017/06/11/GooglenHezkuntza.html) ere. Alabak oraindik ez du Chromebook bat erosi behar, haur hezkuntza oraindik ez dute eskatzen eta, baina ikasturtea hasi eta berehala e-posta bat iritsi zitzaigun guraso guztiei, ikastetxeko gmail kontu bat ireki genezan, eskolaren domeinuarekin hori bai. 
+Hasi gara ikasturte berria eskola berrian eta hasi dira [Google handiaren aurkako borrokak](https://izaroblog.github.io/eu/internet/2017/06/11/GooglenHezkuntza.html) ere. Alabak oraindik ez du Chromebook bat erosi behar, haur hezkuntza oraindik ez dute eskatzen eta, baina ikasturtea hasi eta berehala bat iritsi zitzaigun guraso guztiei, ikastetxeko gmail kontu bat ireki genezan, eskolaren domeinuarekin hori bai. 
 
 Nik erantzun nien banuela jada e-posta kontua, eta ordura arte bezala jaso nitzakeela bidalitako informazio guztiak, erantzuna ezingo nituela argazkiak ikusi eta arazoak izan nitzakeela informazioa jasotzeko garaian. 
 
@@ -27,8 +27,8 @@ Beste guraso eta hezkuntza taldeetako pertsonekin hitz egin eta gero, ez da gure
 
 *Baina aizu... non daude bada Googlen eskuetan hezkuntza uztearen arriskuak? Ez al zara gehiegikeriatan ibiliko? Azkenean e-posta zerbitzu bat baino ez da....*
 
-Google ez da e-posta zerbitzu bat soilik, bere inguruan izugarrizko zerbitzu mordoa (Gdrive, Gmaps, GSuite,...) eratu duen enpresa boteretsu bat da. Eta irabaziak lortzeko iturria, ustekabean, haien bezeroen datuak saltzea da. Zergatik ba emango luke norbaitek halako zerbitzu piloa doan? 
-Gure haurren datu guztiak haien esku uzten ari gara, inolako hausnarketarik ere egin gabe. Eta gaitzena hezkuntza sistemak berak sartzen dituela "G-handia"-ren atzamarretan. E- posta zerbitzu bat behar badute, asko ditugu aukeran! 
+Google ez da e-posta zerbitzu bat soilik, bere inguruan izugarrizko [zerbitzu mordoa](https://eu.wikipedia.org/wiki/Zerrenda:Googleren_produktuak) (Gdrive, Gmaps, GSuite,...) eratu duen enpresa boteretsu bat da. Eta irabaziak lortzeko iturria, ustekabean, haien bezeroen datuak saltzea da. Zergatik ba emango luke norbaitek halako zerbitzu piloa doan? 
+Gure haurren datu guztiak haien esku uzten ari gara, inolako hausnarketarik ere egin gabe. Eta gaitzena hezkuntza sistemak berak sartzen dituela "G-handia"-ren atzamarretan. Posta elektroniko zerbitzu bat behar badute, asko ditugu aukeran! 
 Eman diezaiogun gure haurrei dauden aukera guztien berri! 
 
 ![Gmail](https://cdn.pixabay.com/photo/2016/09/13/11/04/browser-1666982_960_720.png)
@@ -53,8 +53,9 @@ Telegram kanalak:
 
 Bideoak: 
 
-- [La vigilancia es un problema colectivo, como el cambio climático | Marta Peirano | TEDxMadrid](https://yewtu.be/watch?v=7wPFYdazgUs)
+- [La vigilancia es un problema colectivo, como el cambio climático,  Marta Peirano](https://yewtu.be/watch?v=7wPFYdazgUs)
 
 Honi buruz hitz egin nahi baduzue, [Lemmy.eus](https://lemmy.eus/)-en ireki dugu elkarrizketatzeko aukera: 
 - **[Ez dut nire haurrak Gmail erabiltzea nahi. Zer egin?](https://lemmy.eus/post/9059)** 
+
 
