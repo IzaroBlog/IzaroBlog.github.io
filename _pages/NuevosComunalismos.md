@@ -47,9 +47,8 @@ Informazioa eta izen-emateak:
 
 #### ✅ Mensaje Wahtssap/Telegram, adjuntando [cartel](https://ekopol.eus/wp-content/uploads/2021/09/Cartel-Castellano-enlace.pdf)
 
-**JORNADAS: NUEVOS COMUNALISMOS FRENTE AL COLAPSO ECOSOCIAL**
-
-**29 Y 30 DE NOVIEMBRE (BILBAO)**
+**Jornadas: Nuevos comunalismos frente al colapso ecosocial**  
+**29 Y 30 de noviembre (Bilbao)**
 
 Durante dos días queremos debatir, favorecer e impulsar propuestas que, partiendo del necesario decrecimiento al que nos enfrentamos como sociedad, pongan en el centro la acción colectiva democrática y lo que denominamos comunalismo, recuperando el conjunto de reflexiones e investigaciones que han resaltado en los últimos años la importancia de las instituciones que organizan los bienes comunes. En este tipo de acción política vemos el potencial de garantizar mayores grados de igualdad, identificamos una mayor sensibilidad ante la justicia y, muy importante, una gran capacidad de modificar los imaginarios sociales. Para ello nos aproximaremos a las resistencias en clave comunitaria abordándolas desde perspectivas históricas, sociológicas, filosóficas y políticas. Además, conjugaremos una visión local con una visión global; las voces no académicas –que aporten su conocimiento situado obtenido a través de la praxis– con la investigación. Por último, contaremos con la presencia de voces rurales que rompan el urbanocentrismo y con perspectivas del sur global que rompan la clausura eurocéntrica.
 
@@ -57,7 +56,7 @@ Más información e inscripciones:
 <https://ekopol.eus/es/nuevos-comunalismos-frente-al-colapso/>
 
 #### Euskarazko bertsioa, [kartela](https://ekopol.eus/wp-content/uploads/2021/09/CarteL-EUSKERA-enlace.pdf) atxikituz. 
-**"Komunalismo berriak kolapso ekosozialaren aurrean" Jardunaldiak.**
+**"Komunalismo berriak kolapso ekosozialaren aurrean" Jardunaldiak.**  
 **Azaroak 29 eta 30, Bilbon**
 
 Bi egunez, proposamenak eztabaidatu, bultzatu eta bultzatu nahi ditugu, gizarte gisa aurre egin behar diogun beherakadatik abiatuta, ekintza kolektibo demokratikoa eta komunalismo deritzona erdigunean jar ditzaten, azken urteotan ondasun komunak antolatzen dituzten erakundeen garrantzia nabarmendu duten gogoeta eta ikerketen multzoa berreskuratuz. Ekintza politiko mota honetan berdintasun-maila handiagoak bermatzeko ahalmena ikusten dugu, justiziarekiko sentsibilitate handiagoa identifikatzen dugu eta, oso garrantzitsua, gizarte-iruditeriak aldatzeko gaitasun handia. Horretarako, erresistentzia komunitarioetara hurbilduko gara, ikuspegi historiko, soziologiko, filosofiko eta politikoetatik helduz. Gainera, tokiko ikuspegia eta ikuspegi globala uztartuko ditugu; ahots ez-akademikoak – Praxiaren bidez lortutako ezagutza kokatua ematen dutenak – Eta ikerketa. Azkenik, urbanozentrismoa apurtzen duten landa-ahotsak eta itxiera eurozentrikoa apurtzen duten hego globaleko perspektibak izango ditugu.
