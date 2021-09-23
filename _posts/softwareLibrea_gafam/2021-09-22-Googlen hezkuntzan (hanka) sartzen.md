@@ -45,6 +45,7 @@ Webguneak:
 	- [Demanda judicial contra los convenios con Google, la necesidad de la acción colectiva](https://www.educar.encanarias.info/fundacion/)
 	- [En defensa de una educación digital pública: la propuesta de FASE CGT](https://edigpubfasecgt.org/)
 	- [EducaMadrid, la Plataforma Tecnológica Educativa y Libre de la Comunidad de Madrid](https://www.educa2.madrid.org/educamadrid/)
+- [GDRP](https://www.gdprexplained.eu/es/) gaztelerazko webgune interesgarria europear["Datuak Babesteko Erregelamendu Orokorra"](https://eu.wikipedia.org/wiki/Datuak_Babesteko_Erregelamendu_Orokorra)ri buruzko galdera eta erantzunekin. 
 
 Telegram kanalak:
 
