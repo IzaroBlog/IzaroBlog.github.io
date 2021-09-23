@@ -63,8 +63,7 @@ https://ekopol.eus/es/nuevos-comunalismos-frente-al-colapso/
 Bi egunez, proposamenak eztabaidatu, bultzatu eta bultzatu nahi ditugu, gizarte gisa aurre egin behar diogun beherakadatik abiatuta, ekintza kolektibo demokratikoa eta komunalismo deritzona erdigunean jar ditzaten, azken urteotan ondasun komunak antolatzen dituzten erakundeen garrantzia nabarmendu duten gogoeta eta ikerketen multzoa berreskuratuz. Ekintza politiko mota honetan berdintasun-maila handiagoak bermatzeko ahalmena ikusten dugu, justiziarekiko sentsibilitate handiagoa identifikatzen dugu eta, oso garrantzitsua, gizarte-iruditeriak aldatzeko gaitasun handia. Horretarako, erresistentzia komunitarioetara hurbilduko gara, ikuspegi historiko, soziologiko, filosofiko eta politikoetatik helduz. Gainera, tokiko ikuspegia eta ikuspegi globala uztartuko ditugu; ahots ez-akademikoak – Praxiaren bidez lortutako ezagutza kokatua ematen dutenak – Eta ikerketa. Azkenik, urbanozentrismoa apurtzen duten landa-ahotsak eta itxiera eurozentrikoa apurtzen duten hego globaleko perspektibak izango ditugu.
 
 Informazio gehiago eta izen-emateak:
-https://ekopol.eus/es/nuevos-comunalismos-frente-al-colapso /
-
+https://ekopol.eus/eu/komunalismo-berriak-kolapso-ekosozialaren-aurrean/
 
 ## ✍️ Mail tipo
 
