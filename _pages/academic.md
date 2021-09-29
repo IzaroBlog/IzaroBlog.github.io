@@ -26,7 +26,7 @@ ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación eko
 - 📝[Análisis del grado de conocimiento del alumnado y el tratamiento que hacen los libros de texto de Ciencias de la Naturaleza sobre la contribución de las mujeres a la ciencia, 2015](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_materials/An%C3%A1lisis%20del%20grado%20de%20conocimiento.pdf). Trabajo Fin de Master.  
 - 📝[Transiciones energéticas para cambiar el clima (COP21 París: otro clima para un mundo vivible), TRADEBU 2014](https://vientosur.info/category/revista/vientosur-no-142/)
 - 📕 [Derecho Humano al Medio Ambiente. Un largo camino por recorrer, 2013](http://www.unescoetxea.org/dokumentuak/ecos_serpiente2.pdf) en "Ecos de la serpiente.Reflexiones desde el Consejo de Derechos Humanos"
-- 📝[Integración del medio ambiente en la política de cooperación descentralizada, 2012](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_materials/IntegracionMAenCooperacion.pdf). Trabajo Fin de Máster.
+- 📝[Integración del medio ambiente en la política de cooperación descentralizada, 2012](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/IntegracionMAenCooperacion.pdf). Trabajo Fin de Máster.
 - 📝[El cambio climático en la Comunidad Autonóma del País Vasco, 2008](https://dialnet.unirioja.es/servlet/articulo?codigo=2555604)
 
 
