@@ -26,7 +26,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) y [Reglas para jugar sin logros](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros.pdf) creadas por @Behelin 👏 .   
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
-- En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, dónde se juegan partidas. 
+- En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas. 
 
 ## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
