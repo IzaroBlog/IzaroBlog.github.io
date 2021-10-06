@@ -25,6 +25,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) y [Reglas para jugar sin logros](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros.pdf) creadas por @Behelin 👏 .   
+- [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas. 
 
