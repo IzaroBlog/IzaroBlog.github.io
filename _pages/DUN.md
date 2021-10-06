@@ -175,7 +175,7 @@ Puedes tener el efecto de un consumible y de una pócima al mismo tiempo, pero n
 *Si un personaje empieza la aventura con el ["Anillo del Sol"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/anillosol.jpg) y luego durante la misma se lo quita para usar otro objeto mágico, se pierde el maná extra?*  
 No. Ten en cuenta que los puntos extra de lo que sea: Fortuna, Maná o Vitalidad, siempre se consumen los primeros. Si el personaje ya ha gastado esos 2 manas extra, puede cambiar el anillo sin problema. Obviamente si se quita el anillo antes de gastar esos manas, pierde su beneficio y no lo recupera hasta la siguiente aventura.
 
-*Un personaje convertido en hombre lobo o bajo los efectos de un hechizo [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cambiapieles.jpg) : 1) ¿se beneficia de los efectos de una poción tomada antes de transformarse? 2) ¿Pueden usar Fortuna con su perfil de criatura?*  
+*Un personaje convertido en hombre lobo o bajo los efectos de un hechizo [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/senordelasbestias.png): ¿Se beneficia de los efectos de una poción tomada antes de transformarse? y ¿Pueden usar Fortuna con su perfil de criatura?*  
 Así es, se beneficia de los efectos de la poción (el personaje es el mismo, aunque se transforme) y de los puntos de fortuna.   
 
 
