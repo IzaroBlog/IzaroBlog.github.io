@@ -272,8 +272,8 @@ La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.g
 Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
 
 *Un personaje con habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png), puede comenzar el turno declarando que vuela, moverse, y dejar de volar para atacar CaC? O debe esperar al siguiente turno, declarar que no vuela al comienzo y luego atacar?*  
-Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!  
-*Y una criatura con la [habilidad volar del JO o JOA](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, cómo atacan cuerpo a cuerpo?*
+Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!      
+*Y una criatura con la [habilidad volar del JO o JOA](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, cómo atacan cuerpo a cuerpo?*  
 Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 terrestre, se consideran que van siempre volando y atacan desde el aire](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladorasLudic.png).Los compañeros voladores, como el [águila](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguilagigante.jpg) por ejemplo, se comportan como las [criaturas voladoras del JOA](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg). 
 
 
