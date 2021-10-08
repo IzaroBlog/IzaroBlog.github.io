@@ -178,6 +178,9 @@ No. Ten en cuenta que los puntos extra de lo que sea: Fortuna, Maná o Vitalidad
 *Un personaje convertido en hombre lobo o bajo los efectos de un hechizo [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/senordelasbestias.png): ¿Se beneficia de los efectos de una poción tomada antes de transformarse? y ¿Pueden usar Fortuna con su perfil de criatura?*  
 Así es, se beneficia de los efectos de la poción (el personaje es el mismo, aunque se transforme) y de los puntos de fortuna.   
 
+*La cerbatana ¿por qué especifica lo de "causa 1 dado de daño incluso si el personaje es pequeño"? Siempre se causa 1 de daño mínimo, aunque aumenta la armadura si fuese menos. Por tanto ¿lo que quiere decir es que no sufre el aumento de armadura?*  
+No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización de daño -1. (Y tampoco el aumento de armadura, claro)  
+
 
 ## Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
