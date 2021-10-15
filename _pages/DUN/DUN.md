@@ -364,12 +364,12 @@ Las criaturas del JO y JOA lo tienen mejor, ya que pueden volar en escenarios in
 Recordemos que, según se indica en los capítulos de combate, impactar a una criatura voladora en cuerpo a cuerpo o disparo es difícil, ya que el atacante tienen una penalización de -1 a su tirada. A su vez, mientras una criatura vuela, los rivales la verán más fácilmente (una criatura situada tras un compañero, será vista igualmente, ya que está en alto y el rival tendrá línea de visión hacia ella).
 Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
-## Erratas V2 {ErratasV2-id}
+## Erratas V2 {#ErratasV2-id}
 Cartas de bestiario:
 
 Errata detectada en el personaje "Espectro" de la facción "criaturas de la noche", su coste es de 12PV y no de 8PV como está reflejado en la carta. Comprobad las cartas siempre con el libro de Bestiario I de la V2. 
 
-## Erratas V1 {ErratasV1-id}
+## Erratas V1 {#ErratasV1-id}
 - **Pág.21** Aventura 7. El líder debería costar 5 PV en lugar de 7.
 - **Pág 68** La criatura tendrá Línea de Visión 360º
 - **Pág 31**, Aventura M15. Quitar el texto "con 3 turnos más de tiempo límite para alcanzar la meta," en dicha aventura no hay turnos de tiempo límite.
