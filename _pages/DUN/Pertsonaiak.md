@@ -14,9 +14,9 @@ title: DUN Pertsonaiak
 | Suerte     |   5   | Experiencia  |  0   |
 | Destreza   |   1   | Percepción   |  0    |
 
-**Armas**: Hacha de Batalla, Lanza, Arco Corto
-**Armaduras**: Armadura de Cuero, Escudo
-**Equipo**: Ganzúas
+- **Armas**: Hacha de Batalla, Lanza, Arco Corto  
+- **Armaduras**: Armadura de Cuero, Escudo  
+- **Equipo**: Ganzúas  
 
 ---
 
