@@ -17,6 +17,7 @@ title: DUN Pertsonaiak
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
+- **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, Resistente, Vista de Águila.
 
 ---
 
