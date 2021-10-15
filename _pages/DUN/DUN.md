@@ -367,7 +367,7 @@ Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglam
 ## Erratas V2 {#ErratasV2-id}
 Cartas de bestiario:
 
-Errata detectada en el personaje "Espectro" de la facción "criaturas de la noche", su coste es de 12PV y no de 8PV como está reflejado en la carta. Comprobad las cartas siempre con el libro de Bestiario I de la V2. 
+Errata detectada en el personaje "Espectro" de la facción "criaturas de la noche", su costeerratas es de **12PV** y no de 8PV como está reflejado en la carta. Comprobad las cartas siempre con el libro de Bestiario I de la V2. 
 
 ## Erratas V1 {#ErratasV1-id}
 - **Pág.21** Aventura 7. El líder debería costar 5 PV en lugar de 7.
