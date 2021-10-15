@@ -14,6 +14,7 @@ title: DUN Pertsonaiak
 | Suerte     |   5   | Experiencia  |  0   |
 | Destreza   |   1   | Percepción   |  0    |
 
+- *Enano*-*Explorador*
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
@@ -21,15 +22,21 @@ title: DUN Pertsonaiak
 
 ---
 
-| Einar      |      |              |      |
+| Morbius      |      |              |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |      | Agilidad     |      |
-| Ataque     |      | Inteligencia |      |
-| Fuerza     |      | Mana         |      |
-| Disparo    |      | Valentia     |      |
-| Armadura   |      | Vitalidad    |      |
-| Suerte     |      | Experiencia  |      |
-| Destreza   |      | Percepción   |      |
+| Movimiento |  5    | Agilidad     |   3   |
+| Ataque     |  4    | Inteligencia |   2   |
+| Fuerza     |  4    | Mana         |   -   |
+| Disparo    |  3    | Valentia     |   3   |
+| Armadura   |  4   | Vitalidad    |   6   |
+| Suerte     |  5    | Experiencia  |  0    |
+| Destreza   |  -1    | Percepción   |  0    |
+
+- *Reptiliano*-*Gladiador*
+- **Armas**: Espada ancha, 
+- **Armaduras**: Armadura de Cuero, Escudo  
+- **Equipo**: Cerveza, Cuerda
+- **Habilidades** (0/8): Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia. 
 
 ---
 
@@ -68,3 +75,6 @@ title: DUN Pertsonaiak
 | Destreza   |      | Percepción   |      |
 
 ---
+
+
+
