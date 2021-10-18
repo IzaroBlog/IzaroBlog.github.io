@@ -32,6 +32,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas. 
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏
+- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.
 
 ## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
@@ -290,6 +291,9 @@ Se consideran hechizadas y dañan a [invulnerables](https://raw.githubuserconten
 Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!      
 *Y una criatura con la [habilidad volar del JO o JOA](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg), Si siempre vuelan, cómo atacan cuerpo a cuerpo?*  
 Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 terrestre, se consideran que van siempre volando y atacan desde el aire](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladorasLudic.png).Los compañeros voladores, como el [águila](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/aguilagigante.jpg) por ejemplo, se comportan como las [criaturas voladoras del JOA](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/criaturasvoladoras.jpg). 
+
+*La habilidad [Brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/brutal.png) de los orcos sirve para armas a distancia? No especifica que sea para ataques a melé*.
+La habilidad brutal solo se puede usar en cuerpo a cuerpo (Ludic). 
 
 
 ## Aventuras y campañas {#AventurasyCampañas-id}
