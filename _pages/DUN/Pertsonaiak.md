@@ -20,7 +20,7 @@ title: DUN Pertsonaiak
 - **Equipo**: Ganzúas  
 - **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, Resistente, Vista de Águila.
 
----
+---  
 
 | Morbius      |      |              |      |
 | ---------- | :--: | ------------ | :--: |
@@ -38,7 +38,7 @@ title: DUN Pertsonaiak
 - **Equipo**: Pócima de curación. 
 - **Habilidades** (0/6): Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia. 
 
----
+---  
 
 | Leon O    |      |              |      |
 | ---------- | :--: | ------------ | :--: |
@@ -75,8 +75,7 @@ title: DUN Pertsonaiak
 - **Equipo**: Hidromiel, Instrumento musical  
 - **Habilidades** (0/8): Hechicero Guerrero, Música enardecedora, Sentidos Agudizados  
 
-
----
+---  
 
 | Nereus The Great      |      |              |      |
 | ---------- | :--: | ------------ | :--: |
@@ -96,7 +95,7 @@ title: DUN Pertsonaiak
 - **Hechizos**: Saber de la Luz (4/6) Luz Sanadora, Luz protectora, Clarividencia, Arma centelleante. 
 - **Acompañante**: Cuervo
 
----
+---  
 
 | Matatrolls      |      |              |      |
 | ---------- | :--: | ------------ | :--: |
@@ -114,5 +113,5 @@ title: DUN Pertsonaiak
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, Resistente, Matagigantes, Aguante
 
----
+---  
 
