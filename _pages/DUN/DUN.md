@@ -31,7 +31,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram. 
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas. 
-- [Adaptación de Hero Quest a Dun] por @Behelin 👏
+- [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏
 
 ## Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
