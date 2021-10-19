@@ -19,6 +19,7 @@ title: DUN Pertsonaiak
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
 - **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, Resistente, Vista de Águila.
+- Xp en Pozo de Lucha: 0/3
 
 ---  
 
@@ -37,6 +38,7 @@ title: DUN Pertsonaiak
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
 - **Equipo**: Pócima de curación. 
 - **Habilidades** (0/6): Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia. 
+- Xp en Pozo de Lucha: 0/3
 
 ---  
 
@@ -55,6 +57,7 @@ title: DUN Pertsonaiak
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Hidromiel  
 - **Habilidades** (0/8): Danza de Combate, Salto Volador, Sentidos Agudizados  
+- Xp en Pozo de Lucha: 0/3
 
 
 ---
@@ -74,7 +77,8 @@ title: DUN Pertsonaiak
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
 - **Habilidades** (0/8): Hechicero Guerrero, Música enardecedora, Sentidos Agudizados  
-
+- **Hechizos**:  Quitar alimañas y Distracción.
+- Xp en Pozo de Lucha: 0/3
 ---  
 
 | Nereus The Great      |      |              |      |
@@ -94,7 +98,7 @@ title: DUN Pertsonaiak
 - **Habilidades** (0/10): Secretos de la Magia, Tamaño pequeño, Ignora terrendo difícil, Sigilo. 
 - **Hechizos**: Saber de la Luz (4/6) Luz Sanadora, Luz protectora, Clarividencia, Arma centelleante. 
 - **Acompañante**: Cuervo
-
+- Xp en Pozo de Lucha: 0/3
 ---  
 
 | Matatrolls      |      |              |      |
@@ -109,9 +113,28 @@ title: DUN Pertsonaiak
 
 - *Enano*- *Bárbaro*
 - **Armas**: Hacha de doble filo
-- **Armaduras**: Armadua de Cuero
+- **Armaduras**: Armadura de Cuero
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, Resistente, Matagigantes, Aguante
+- Xp en Pozo de Lucha: 0/3
 
 ---  
+
+| Duncan      |      |              |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   5   | Agilidad     |  4    |
+| Ataque     |   5   | Inteligencia |  4    |
+| Fuerza     |   3   | Mana         |  -    |
+| Disparo    |   3   | Valentia     |  4    |
+| Armadura   |   3   | Vitalidad    |  5    |
+| Suerte     |   6   | Experiencia  |  0    |
+| Destreza   |   0   | Percepción   |  0    |
+
+- *Humano*-*Guerrero*
+- **Armas**: Espada ancha
+- **Armaduras**: Cota de malla y Escudo
+- **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
+- **Habilidades** (0/8): Perdido en la oscuridad, Curtido, Aguante
+- Xp en Pozo de Lucha: 0/3
+
 
