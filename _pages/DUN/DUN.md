@@ -295,6 +295,9 @@ Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 
 *La habilidad [Brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/brutal.png) de los orcos sirve para armas a distancia? No especifica que sea para ataques a melé*.
 La habilidad brutal solo se puede usar en cuerpo a cuerpo (Ludic). 
 
+*Se puede combinar la habilidad de sentido agudizado de personajes y animales para obtener un +2 a la Percepción?*  
+Si, la restricción se quitó en la edición revisada (Ludic). 
+
 
 ## Aventuras y campañas {#AventurasyCampañas-id}
 
