@@ -18,8 +18,8 @@ title: DUN Pertsonaiak
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
-- **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Vista de Águila.
-- Xp en Pozo de Lucha: 0/3
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Vista de Águila*.
+- **Xp en Pozo de Lucha**: 0/3
 
 ---  
 
@@ -37,8 +37,8 @@ title: DUN Pertsonaiak
 - **Armas**: Espada ancha, Colmillos.   
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
 - **Equipo**: Pócima de curación. 
-- **Habilidades** (0/6): Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia. 
-- Xp en Pozo de Lucha: 0/3
+- **Habilidades** (0/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia.* 
+- **Xp en Pozo de Lucha**: 0/3
 
 ---  
 
@@ -56,8 +56,8 @@ title: DUN Pertsonaiak
 - **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/garras.png).  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Hidromiel  
-- **Habilidades** (0/8): Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)  
-- Xp en Pozo de Lucha: 0/3
+- **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
+- **Xp en Pozo de Lucha**: 0/3
 
 
 ---
@@ -76,9 +76,10 @@ title: DUN Pertsonaiak
 - **Armas**: Hachas arrojadizas, jabalinas pesasdas y tridente
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
-- **Habilidades** (0/8): [Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg), Música enardecedora, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)  
+- **Habilidades** (0/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg), Música enardecedora, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
 - **Hechizos**:  Quitar alimañas y Distracción.
-- Xp en Pozo de Lucha: 0/3
+- **Xp en Pozo de Lucha**: 0/3
+
 ---  
 
 | Nereus The Great      |      |              |      |
@@ -95,10 +96,11 @@ title: DUN Pertsonaiak
 - **Armas**: Dagas y Bastón
 - **Armaduras**: -   
 - **Equipo**: Pócima de maná, hierbas curativas...  
-- **Habilidades** (0/10): Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png). 
+- **Habilidades** (0/10): *Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png)*. 
 - **Hechizos**: Saber de la Luz (4/6) Luz Sanadora, [Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/luzprotectora.png), Clarividencia, [Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armacentelleante.png). 
 - **Acompañante**: Cuervo
-- Xp en Pozo de Lucha: 0/3
+- **Xp en Pozo de Lucha**: 0/3
+
 ---  
 
 | Matatrolls      |      |              |      |
@@ -115,8 +117,8 @@ title: DUN Pertsonaiak
 - **Armas**: Hacha de doble filo
 - **Armaduras**: Armadura de Cuero
 - **Equipo**: Pócima de curación
-- **Habilidades** (0/8): Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Matagigantes, Aguante
-- Xp en Pozo de Lucha: 0/3
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Matagigantes, Aguante*
+- **Xp en Pozo de Lucha**: 0/3
 
 ---  
 
@@ -134,7 +136,7 @@ title: DUN Pertsonaiak
 - **Armas**: Espada ancha
 - **Armaduras**: Cota de malla y Escudo
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
-- **Habilidades** (0/8): Perdido en la oscuridad, Curtido, Aguante
-- Xp en Pozo de Lucha: 0/3
+- **Habilidades** (0/8): *Perdido en la oscuridad, Curtido, Aguante*
+- **Xp en Pozo de Lucha**: 0/3
 
 
