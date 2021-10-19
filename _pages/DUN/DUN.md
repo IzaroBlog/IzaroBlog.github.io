@@ -118,7 +118,7 @@ No. El Ataque CaC incluye empujar y ocupar en la misma Acción. Cualquier cosa a
 
 ## Magia {#Magia-id}
 
-*Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/abrirentrada.jpg) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
+*Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Tierra/abrirentrada.png) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
 Si.  
 
 *El hechizo [Fortalecer a los muertos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/levantarmuertos.jpg), solo dura el mismo turno que lo lanzas?*  
