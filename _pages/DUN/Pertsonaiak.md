@@ -77,7 +77,10 @@ title: DUN Pertsonaiak
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
 - **Habilidades** (0/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg), Música enardecedora, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
-- **Hechizos**:  Quitar alimañas y Distracción.
+- **Hechizos**: [Saber de la Interpretación](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
+	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)
+	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
+
 - **Xp en Pozo de Lucha**: 0/3
 
 ---  
