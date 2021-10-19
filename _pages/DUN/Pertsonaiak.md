@@ -97,7 +97,7 @@ title: DUN Pertsonaiak
 - **Armaduras**: -   
 - **Equipo**: Pócima de maná, hierbas curativas...  
 - **Habilidades** (0/10): *Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png)*. 
-- **Hechizos**: Saber de la Luz (4/6) Luz Sanadora, [Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/luzprotectora.png), Clarividencia, [Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armacentelleante.png). 
+- **Hechizos**: Saber de la Luz (4/6) [Luz Sanadora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png), [Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzprotectora.png), [Clarividencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/clarividencia.png), [Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
 - **Acompañante**: Cuervo
 - **Xp en Pozo de Lucha**: 0/3
 
