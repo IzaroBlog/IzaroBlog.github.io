@@ -121,7 +121,7 @@ No. El Ataque CaC incluye empujar y ocupar en la misma Acción. Cualquier cosa a
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Tierra/abrirentrada.png) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
 Si.  
 
-*El hechizo [Fortalecer a los muertos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/levantarmuertos.jpg), solo dura el mismo turno que lo lanzas?*  
+*El hechizo [Fortalecer a los muertos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Nigromancia/fortaleceralosmuertos.png), solo dura el mismo turno que lo lanzas?*  
 Si, solo dura un turno, no es un hechizo permanente. Tened en cuenta que es mucho menos poderoso usado por un héroe que por el JO o JOA, donde casi toda la facción es No-muerto. Si fuera permanente sería imposible e injugable.
 
 *Se pueden lanzar hechizo dentro de la [zona de influencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonadeinfluencia.png) de un enemigo? Entiendo que no, porque hay hechizos que lo especifican y dispersar hechizos solo se puede fuera de la zona de influencia enemiga. Pero estoy leyendo el manual el apartado de Magia, y soy incapaz de encontrarlo 😔 Solo veo que [hay que tener una mano libre](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/lanzarhechizos.png).*  
