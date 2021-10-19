@@ -97,7 +97,7 @@ title: DUN Pertsonaiak
 - **Armaduras**: -   
 - **Equipo**: Pócima de maná, hierbas curativas...  
 - **Habilidades** (0/10): *Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png)*. 
-- **Hechizos**: [Saber de la Luz (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz): 
+- **Hechizos**: [Saber de la Luz (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz):   
 	💫[Luz Sanadora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png)  
 	💫[Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzprotectora.png)  
 	💫[Clarividencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/clarividencia.png)  
