@@ -36,4 +36,4 @@ Aquí os dejo el listado de hechizos completo para que estén disponible en una 
 
 ## 🔥[Saber del Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20del%20Fuego)
 
-##🗿[Tribal](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Tribal) 
+## 🗿[Tribal](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Tribal) 
