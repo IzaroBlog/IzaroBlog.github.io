@@ -13,7 +13,7 @@ El objetivo de esta página es que todas esas dudas, preguntas y respuestas qued
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
 ## Materiales oficiales
-- [Reglamento DUN V2, sin fondo y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
+- [Reglamento DUN V2, sin fondo (PrintFriendly) y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Bestiario DUN V2, sin fondo (PrintFriendly)](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_materials/dun/Bestiario%20I%20V2_PrintFriend.pdf) gracias a @trabucaire77,[Bestiario DUN V2, normal](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2.pdf)
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
