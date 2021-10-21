@@ -12,7 +12,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Materiales oficiales
 - [Reglamento DUN V2, sin fondo (PrintFriendly) y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
-- [Bestiario DUN V2, sin fondo (PrintFriendly) y marcadores](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2_PrintFriend_marcadores_indice.pdf) gracias a @trabucaire77,[Bestiario DUN V2, normal](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2.pdf)
+- [Bestiario DUN V2, sin fondo (PrintFriendly) y marcadores](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario%20I%20V2_PrintFriend_marcadores_indice.pdf) gracias a @trabucaire77,[Bestiario DUN V2, normal](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Bestiario%20I%20V2.pdf)
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
 - [Erratas de la V2](#ErratasV2-id)
@@ -24,15 +24,15 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
 - [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) creado por @Behelin 👏 .
-- [Reglas para jugar sin logros (V4)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros%20(v4).pdf) creado por @Behelin 👏 .   
-- [Referencia de aventuras por Territorio Campaña I y II](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20de%20aventuras%20por%20territorio%20Campa%C3%B1a%20I%20y%20II.ods) por @Oraculizador y @Triple6  👏 .   
-- [Listado de Objetos Mágicos y Reliquias](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Objetos%20m%C3%A1gicos%20y%20Reliquias.pdf) creado por @Oraculizador 👏 .   
-- [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
-- [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
+- [Reglas para jugar sin logros (V4)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros%20(v4).pdf) creado por @Behelin 👏 .   
+- [Referencia de aventuras por Territorio Campaña I y II](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Referencia%20de%20aventuras%20por%20territorio%20Campa%C3%B1a%20I%20y%20II.ods) por @Oraculizador y @Triple6  👏 .   
+- [Listado de Objetos Mágicos y Reliquias](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Objetos%20m%C3%A1gicos%20y%20Reliquias.pdf) creado por @Oraculizador 👏 .   
+- [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
+- [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
 - [Cronograma de reglas para jugar con JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/4_6019197443285977481.pdf) gracias a @Joseca 👏 .
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
-- [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
+- [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
 - [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.  
 
 ## FAQ
