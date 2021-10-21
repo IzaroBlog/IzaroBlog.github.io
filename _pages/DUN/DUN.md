@@ -4,11 +4,7 @@ layout: page
 title: DUN
 ---
 ## Presentación
-En esta página podréis encontrar recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
-- Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
-
-Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y hayan pasado el escrutinio de @Behelin. También se han discutido en el grupo de Telegram entre más de 700 personas y a veces se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
-El objetivo de esta página es que todas esas dudas, preguntas y respuestas queden escritas y accesibles para todas las personas interesadas. 
+En esta página podréis encontrar material oficial, material "Fanmade" y una recopilación de FAQ. 
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
 
@@ -37,7 +33,14 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
 - [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.  
 
-## Índice de secciones: 
+## FAQ
+Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
+- Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
+
+Estas FAQ son adicionales y no tienen ninguna oficialidad, más alla de que están aprobadas por el Oráculo (@Oraculizador) y hayan pasado el escrutinio de @Behelin. También se han discutido en el grupo de Telegram entre más de 700 personas y a veces se han contrastado con el equipo de [Ludic Dragon](https://ludicdragon.com/), pero no siempre es el caso. 
+El objetivo de esta página es que todas esas dudas, preguntas y respuestas queden escritas y accesibles para todas las personas interesadas. 
+
+### Índice de secciones: 
 - [Movimiento y terreno](#MovimientoyTerreno-id)
 - [Acciones](#Acciones-id)
 - [Combate](#Combate-id)
@@ -55,7 +58,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
 
 
-## Movimiento y terreno {#MovimientoyTerreno-id}
+### Movimiento y terreno {#MovimientoyTerreno-id}
 
 *Si en un grupo de 3 personajes, por circunstancias de la partida se encuentra separados (más de la [zona de seguridad](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/zonaseguridad.png)) entre ellos, cada vez que se mueven, ¿vuelven a lanzar dado de trampa? O solo sa lanza al salir por primera vez de una zona de seguridad?*  
 [Solo se tira el dado una vez por activación de personaje](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/trampas.png), nada más abandonar la Zona de Seguridad. Cada personaje genera una Zona de seguridad de 2 casillas a su alrededor ANTES de iniciar su activación, una vez pise la tercera casilla, si no hay más Zonas de Seguridad disponibles, lanzaría el dado de escenario una única.  
@@ -74,7 +77,7 @@ Puedes mover por este tipo de casillas pero no correr.
 No, mueves tu Agilidad, pero hay eventos, trampas y circunstancias inusuales que te obligan a encontrate con AGI negativa al final de tu activación. Al ser al final y no al principio, te da tiempo en tu turno a intentar remediar la situación.   
 
 
-## Acciones {#Acciones-id}
+### Acciones {#Acciones-id}
 
 *Cuando se averiguan puertas secretas. Esa puerta a dónde da? ¿A una loseta al azar o cómo se gestiona el destino de una puerta secreta?*  
 Aunque superes la tirada para encontrar puerta secreta, si en el escenario no la hay, no se pone nada. Sabes que NO hay puertas secretas, eso si!  
@@ -119,7 +122,7 @@ El -1 se aplica a tus ataques en tu turno.
 *¿Se puede aprovechar que has empujado a tu rival para realizar una acción rápida (como tomarte una pócima por ejemplo) antes de ganar la posición de este y volver a trabarte?*  
 No. El Ataque CaC incluye empujar y ocupar en la misma Acción. Cualquier cosa adicional  debe hacerse antes o después.  
 
-## Magia {#Magia-id}
+### Magia {#Magia-id}
 
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Tierra/abrirentrada.png) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
 Si.  
@@ -147,7 +150,7 @@ Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.githu
 No, un [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cambiapieles.jpg) no puede utilizar hechizos una vez convertido. 
 
 
-## Daño y efectos {#Dañoyefectos-id}
+### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
 Un personaje puede obstaculizar la [Línea de Visión](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ldv.png), pero no es cobertura. Recuerda que ninguna criatura podrá tener LdV a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
 
@@ -160,7 +163,7 @@ No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mie
 *Se pueden tener valores negativos en las características? P ej Alguien con Agilidad 1 con una [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/armaduracompleta.png) tendría -1?*  
 Si, en negativo no hay límites.  
 
-## Equipo y armas {#EquipoyArmas-id}
+### Equipo y armas {#EquipoyArmas-id}
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
 
@@ -198,7 +201,7 @@ Así es, se beneficia de los efectos de la poción (el personaje es el mismo, au
 No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización de daño -1. (Y tampoco el aumento de armadura, claro)  
 
 
-## Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
+### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
 Sí la primera casilla que pisas es fuera, no.<br>
 
@@ -215,7 +218,7 @@ Sales por [cualquier casilla adyacente al foso](https://raw.githubusercontent.co
 Cuando un personaje sube encima de algo se considera que esta a la altura de donde esta subido (pero no se le suma su altura). Por ejemplo: tanto si un personaje pequeño (1), mediano (2) o grande (3) suben encima de una mesa, todos se consideran que estan a una altura de 1 (pq la mesa es altura 1).   
 
 
-## Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
+### Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
 
@@ -244,7 +247,7 @@ Respuestas:
 a) No, no hace falta ir a ningún lugar para aprender el hechizo, se aprende como cualquier otra habilidad.   
 b) No, tampoco contaria para el cupo de habilidades, porque dice que la puedes aprender "como" si fuera una habilidad pero NO es una habilidad. Los hechizos de un hechicero tampoco cuentan para este cupo.   
 
-## Habilidades {#Habilidades-id}
+### Habilidades {#Habilidades-id}
 
 *La habilidad ["Chillido del inframundo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/chillidodelinframundo.jpg) se puede usar adyacente a un enemigo??*  
 Si.  
@@ -302,7 +305,7 @@ La habilidad brutal solo se puede usar en cuerpo a cuerpo (Ludic).
 Si, la restricción se quitó en la edición revisada (Ludic). 
 
 
-## Aventuras y campañas {#AventurasyCampañas-id}
+### Aventuras y campañas {#AventurasyCampañas-id}
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
 Correcto, si no recuperas Fortuna no hay tirada inoportuna.
@@ -334,7 +337,7 @@ SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse 
 
 
 
-## Jugador oscuro (JO) {#JO-id}
+### Jugador oscuro (JO) {#JO-id}
 *¿El JO recibe "puntos de reserva", cuando es obligado a descartarse de alguna carta si por algún motivo supera el límite máximo de cartas en su mano?*  
 Si.  
 *Respecto a la iniciativa, cuando la ganan los héroes comienza un nuevo turno para ellos... Pero ¿el JO no suma punto de logró verdad?*  
@@ -342,7 +345,7 @@ Exactamante, no se suman puntos de logros.
 
 
 
-## Jugador oscuro artificial (JOA) {#JOA-id}
+### Jugador oscuro artificial (JOA) {#JOA-id}
 *[La regla del JOA dice que cuando vayas a pisar una flecha exploratoria, se ha de tirar el dado de escenario](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/activacioncartaobstaculo.png). Si sale una trampa posible ¿donde se coloca, en la sección nueva que se va a poner o donde se encontraban las flechas de exploración? Se dio el caso de que salió un foso y no sabíamos si se situaba en el pasillo que apreció después de la exploración o en las dos casillas de exploración.*  
 Es en la casilla exploratoria donde se coloca, y si sale foso, se coloca solo en la flecha. No es lo mismo dos fichas exploratorias que son independientes que una puerta doble (que la trampa sería en la puerta, 2 casillas)  
 
@@ -371,7 +374,7 @@ Si, son considerados en la [seleccion de objetivos para los enemigos (JOA)](http
 Heroes: solo heroes reales, Enemigos: solo enemigos Personajes: todos. Se suelen usar estos tres terminos para definir objetivos.  
 
 
-## Otras anotaciones {#OtrasAnotaciones-id}
+### Otras anotaciones {#OtrasAnotaciones-id}
 
 *En tiradas enfrentadas, doble 6 siempre le gana a cualquier otro resultado, sin importar los modificadores de cada personaje, no?*  
 [Doble 6 siempre gana y Doble 1 siempre pierde](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/doble.jpg), sin importar los valores de cada personaje involucrado. Sólo se comparan si ambos obtienen doble 6 o doble 1.Las tiradas enfrentadas son pruebas de características, pero el número objetivo es el otro en vez de uno fijo.
@@ -384,17 +387,17 @@ Las criaturas del JO y JOA lo tienen mejor, ya que pueden volar en escenarios in
 Recordemos que, según se indica en los capítulos de combate, impactar a una criatura voladora en cuerpo a cuerpo o disparo es difícil, ya que el atacante tienen una penalización de -1 a su tirada. A su vez, mientras una criatura vuela, los rivales la verán más fácilmente (una criatura situada tras un compañero, será vista igualmente, ya que está en alto y el rival tendrá línea de visión hacia ella).
 Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
-## Erratas V2 {#ErratasV2-id}
+### Erratas V2 {#ErratasV2-id}
 - [Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis]((https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg)) sobra, es reminiscencia de la V1. (Ludic)
 
 Cartas de bestiario:
 
 Errata detectada en el personaje "Espectro" de la facción "criaturas de la noche", su costeerratas es de **12PV** y no de 8PV como está reflejado en la carta. Comprobad las cartas siempre con el libro de Bestiario I de la V2. 
 
-## Erratas V1 {#ErratasV1-id}
+### Erratas V1 {#ErratasV1-id}
 - **Pág.21** Aventura 7. El líder debería costar 5 PV en lugar de 7.
 - **Pág 68** La criatura tendrá Línea de Visión 360º
 - **Pág 31**, Aventura M15. Quitar el texto "con 3 turnos más de tiempo límite para alcanzar la meta," en dicha aventura no hay turnos de tiempo límite.
 - **Pág 68** Criatura "iguale o gane"
-- Aventura 26 Proteger el altar. Turnos: 10 **MÁS** número de héroes
-
+- Aventura 26 Proteger el altar. Turnos: 10 **MÁS** número de héroes.
+   
