@@ -135,7 +135,7 @@ title: DUN Pertsonaiak
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   3   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
-| Armadura   |   3   | Vitalidad    |  5    |
+| Armadura   |   3   | Vitalidad    |  6    |
 | Suerte     |   6   | Experiencia  |  0    |
 | Destreza   |   0   | Percepción   |  0    |
 
