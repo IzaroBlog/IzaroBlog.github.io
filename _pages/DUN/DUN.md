@@ -3,12 +3,12 @@ permalink: /DUN
 layout: page
 title: DUN
 ---
-![DUN](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dungeon-universalis.jpg)
-
 ## Presentación
 En esta página podréis encontrar material oficial, material "Fanmade" y una recopilación de FAQ. 
 
 Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag)! 
+
+![DUN](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dungeon-universalis.jpg)
 
 ## Materiales oficiales
 - [Reglamento DUN V2, sin fondo (PrintFriendly) y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
