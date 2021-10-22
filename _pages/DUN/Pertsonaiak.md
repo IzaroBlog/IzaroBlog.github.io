@@ -91,7 +91,7 @@ title: DUN Pertsonaiak
 
 ---  
 
-| Nereus The Great      |      |    **PV: 11**(10+1)          |      |
+| Nereus The Great      |      |    **PV: 11**	(10+1)          |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   2   | Inteligencia |  5    |
