@@ -4,7 +4,7 @@ layout: page
 title: DUN Pertsonaiak
 ---
 
-| Thrund Bugman      |      |              |      |
+| Thrund Bugman      |      | **PV: 10**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
@@ -20,10 +20,12 @@ title: DUN Pertsonaiak
 - **Equipo**: Ganzúas  
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Vista de Águila*.
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 1/1
+
 
 ---  
 
-| Morbius      |      |              |      |
+| Morbius      |      |      **PV: 10**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   2   |
 | Ataque     |  4    | Inteligencia |   3   |
@@ -39,10 +41,11 @@ title: DUN Pertsonaiak
 - **Equipo**: Pócima de curación. 
 - **Habilidades** (0/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia.* 
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 1/1
 
 ---  
 
-| Leon O    |      |              |      |
+| Leon O    |      |     **PV: 10**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
@@ -58,11 +61,12 @@ title: DUN Pertsonaiak
 - **Equipo**: Hidromiel  
 - **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 1/1
 
 
 ---
 
-| Blues Bard      |      |              |      |
+| Blues Bard      |      | **PV: 10**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |   4   |
 | Ataque     |   3   | Inteligencia |   4   |
@@ -82,10 +86,12 @@ title: DUN Pertsonaiak
 	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
 
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 1/1
+
 
 ---  
 
-| Nereus The Great      |      |              |      |
+| Nereus The Great      |      |    **PV: 11**(10+1)          |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   2   | Inteligencia |  5    |
@@ -105,12 +111,14 @@ title: DUN Pertsonaiak
 	💫[Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzprotectora.png)  
 	💫[Clarividencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/clarividencia.png)  
 	💫[Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
-- **Acompañante**: Cuervo
+- **Acompañante**: Cuervo (+1PV)
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 1/1
+
 
 ---  
 
-| Matatrolls      |      |              |      |
+| Matatrolls      |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
@@ -126,10 +134,12 @@ title: DUN Pertsonaiak
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 0/1
+
 
 ---  
 
-| Duncan      |      |              |      |
+| Duncan      |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   5   | Inteligencia |  4    |
@@ -145,5 +155,5 @@ title: DUN Pertsonaiak
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
 - **Habilidades** (0/8): *Perdido en la oscuridad, Curtido, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-
+- **Partidas jugadas:** 0/1
 
