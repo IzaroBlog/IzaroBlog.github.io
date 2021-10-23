@@ -158,7 +158,7 @@ title: DUN Pertsonaiak
 - **Partidas jugadas:** 0/1
 
 ----
-## Thrund Bugman {#Bugman-id}
+## Thrund Bugman {#Thrund-id}
 Thrund llegó cansado a su choza. Se había pasado las últimas 20 horas cortando pinos en los bosques de Norkfall. Dejó su hacha a un lado y cerró la puerta de un manotazo. Estaba empapado, con los dedos doloridos y la espalda agarrotada. Se sentó en su taburete y se dispuso a acabar el último barril de cerveza Bugman XXX que le quedaba. 
 Nada más sentir el tacto de su abollada jarra, le vinieron los recuerdos de su pasado reciente a las órdenes de su tio Josef. Las emboscadas a los goblins, el olor de los pielesverdes, los disparos con ballestas en la oscuridad, el entrechocar de acero y los escudos rotos.... y también el dolor por la pérdida de compañeros, Gronth, el gordo Waldo, Fink el negro... todos grandes amigos y guerreros. Se había cansado de perseguir a goblins por todo Arasca, su tío ansíaba venganza pero no había forma de saciarlo... y el necesitaba descansar para no acabar iguak. Era cierto que la destrucción de la fábrica y el asesinato de sus seres queridos había trastocado sus vidas, pero no veía claro que malgastar su tiempo en cazar goblins le reportara ya mayor satisfacción. 
 ¿Y trabajar como leñador y vivir en una choza a las afueras de Norkfall? se preguntó mientras apuraba la jugosa espuma de la cerveza. Se estaba deslomando cortando árboles, arreglando los carros, dándo de comer a los ponis... para conseguir unas míseras monedas que no llegaba ni para comprar una cama con decencia... Miró a su desvencijado catre con tristeza. Total, suspiró, estaba acostumbrado a dormir en el suelo bajo las estrellas entre ronquidos enanos, no? 
