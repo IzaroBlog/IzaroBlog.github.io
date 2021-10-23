@@ -66,7 +66,7 @@ title: DUN Pertsonaiak
 
 ---
 
-| Blues Bard      |      | **PV: 10**             |      |
+| Harpmouth Moe    |      | **PV: 10**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |   4   |
 | Ataque     |   3   | Inteligencia |   4   |
@@ -118,7 +118,7 @@ title: DUN Pertsonaiak
 
 ---  
 
-| Matatrolls      |      |   **PV: 10**           |      |
+| Thainn     |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
