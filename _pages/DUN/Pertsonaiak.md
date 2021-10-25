@@ -1,19 +1,21 @@
 ---
 permalink: /DUN/Pertsonaiak
 layout: page
-title: DUN Pertsonaiak
+title: DUN Bigarren kanpaina
 ---
 
 
 
 ----
 
--📆 Semana de campaña: 12
--💰 Tesorería: 14 monedas de oro. 
--↪️ Partidas disponibles: 
-	- Burmister el mercader (la siguiente)
+-📆 Semana de campaña: 12  
+-💰 Tesorería: 14 monedas de oro.   
+-↪️ Partidas disponibles:   
+	- Burmister el mercader (la siguiente)  
+  
 ----
 
+## Pertsonaiak
 
 | Nereus The Great      |      |    **PV: 13**	(12+1)          |      |
 | ---------- | :--: | ------------ | :--: |
