@@ -151,6 +151,12 @@ Todos los [Aturdido](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.githu
 *Si un Animista/Druida se convierte en Oso, por ejemplo, con la magia de Señor de las Bestias, puede lanzar hechizos en forma de oso?? (Con el correspondiente - 1)*  
 No, un [cambiapieles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cambiapieles.jpg) no puede utilizar hechizos una vez convertido. 
 
+*El hechizo [Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg) da un -1 en TODAS las tiradas? Incluido herir, bloquear con el escudo, recuperarse de aturdimiento?*  
+Exacto, el hechizo da un -1 a todas las tiradas, menos a las de Fortuna.   
+
+*Los [hechizos de dominio](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dominio.jpg) solo se pueden echar a lideres sacando crítico. Si lanzo y no saco crítico se gasta maná y se considera lanzado o es fallo?*  
+Contra criaturas grandes, enorme y campones es con critico y si se gasta el mana, el hechizo no es que falle sino que no le afecta. Si un hechizo es de Dominacion en area afectara al resto pero a ellos no (la invocacion de elementales estan excluidos en esta equación).  
+
 
 ### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
@@ -202,8 +208,6 @@ Así es, se beneficia de los efectos de la poción (el personaje es el mismo, au
 *La [cerbatana](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cerbatana.png) ¿por qué especifica lo de "causa 1 dado de daño incluso si el personaje es de [tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg)"? [Siempre se causa 1 de daño mínimo, aunque aumenta la armadura si fuese menos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dadosdedano.jpg). Por tanto ¿lo que quiere decir es que no sufre el aumento de armadura?*  
 No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización de daño -1. (Y tampoco el aumento de armadura, claro)  
 
-*El hechizo [Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg) da un -1 en TODAS las tiradas? Incluido herir, bloquear con el escudo, recuperarse de aturdimiento?*  
-Exacto, el hechizo da un -1 a todas las tiradas, menos a las de Fortuna.   
 
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
