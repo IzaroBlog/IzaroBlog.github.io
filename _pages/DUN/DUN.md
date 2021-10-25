@@ -202,6 +202,9 @@ Así es, se beneficia de los efectos de la poción (el personaje es el mismo, au
 *La [cerbatana](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/cerbatana.png) ¿por qué especifica lo de "causa 1 dado de daño incluso si el personaje es de [tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg)"? [Siempre se causa 1 de daño mínimo, aunque aumenta la armadura si fuese menos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dadosdedano.jpg). Por tanto ¿lo que quiere decir es que no sufre el aumento de armadura?*  
 No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización de daño -1. (Y tampoco el aumento de armadura, claro)  
 
+*El hechizo [Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg) da un -1 en TODAS las tiradas? Incluido herir, bloquear con el escudo, recuperarse de aturdimiento?*  
+Exacto, el hechizo da un -1 a todas las tiradas, menos a las de Fortuna.   
+
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
