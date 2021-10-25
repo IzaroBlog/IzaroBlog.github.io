@@ -9,7 +9,7 @@ title: DUN Bigarren kanpaina
 ----
 
 ### 📆 Semana de campaña: 12    
-###💰 Tesorería: 14 monedas de oro.     
+### 💰 Tesorería: 14 monedas de oro.     
 ### ↪️ Partidas disponibles:   
 - Burmister el mercader (la siguiente)  
   
