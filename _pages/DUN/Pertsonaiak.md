@@ -1,5 +1,5 @@
 ---
-permalink: /DUN/Pertsonaiak
+permalink: /DUN/Bigarrenkanpaina
 layout: page
 title: DUN Bigarren kanpaina
 ---
