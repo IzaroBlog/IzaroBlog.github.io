@@ -31,7 +31,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Dagas y Bastón
 - **Armaduras**: -   
 - **Equipo**: Pócima de maná, hierbas curativas...  
-- **Habilidades** (1/10): *Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sigilo.png)*. [Habilidad Mental](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/habilidadmental.png)
+- **Habilidades** (1/10): *Secretos de la Magia, [Tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/tamanopeque%C3%B1o.jpg), Ignora terrendo difícil, [Sigilo](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sigilo.png)*. [Habilidad Mental](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/habilidadmental.png)
 - **Hechizos**: [Saber de la Luz (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz):   
 	💫[Luz Sanadora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png)  
 	💫[Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzprotectora.png)  
@@ -55,7 +55,7 @@ title: DUN Bigarren kanpaina
 | Suerte     |  5    | Experiencia  |  3    |
 | Destreza   |  -1    | Percepción   |  0    |
 
-- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reptiliano.png)*-*Gladiador*
+- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
 - **Armas**: Espada ancha, Colmillos.   
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
 - **Equipo**: Pócima de curación. 
@@ -79,7 +79,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/garras.png).  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Hidromiel  
-- **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
+- **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 2/2
 
@@ -100,7 +100,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Hachas arrojadizas, jabalinas pesasdas y tridente
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
-- **Habilidades** (0/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/hechiceroguerrero.jpg), Música enardecedora, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sentidosagudizados.png)*  
+- **Habilidades** (0/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Música enardecedora, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Hechizos**: [Saber de la Interpretación (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
 	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)  
 	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
@@ -139,11 +139,11 @@ title: DUN Bigarren kanpaina
 | Suerte     |   5   | Experiencia  |  1   |
 | Destreza   |   1   | Percepción   |  0    |
 
-- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png)*-*Explorador*
+- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*-*Explorador*
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Vista de Águila*.
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*.
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 1/2
 
@@ -159,11 +159,11 @@ title: DUN Bigarren kanpaina
 | Suerte     |   5   | Experiencia  |  0    |
 | Destreza   |   1   | Percepción   |  0    |
 
-- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/enano.png)*- *Bárbaro*
+- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Bárbaro*
 - **Armas**: Hacha de doble filo
 - **Armaduras**: Armadura de Cuero
 - **Equipo**: Pócima de curación
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/resistente.png), Matagigantes, Aguante*
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/2
 
