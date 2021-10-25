@@ -76,7 +76,7 @@ title: DUN Bigarren kanpaina
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
-- **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/garras.png).  
+- **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png).  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Hidromiel  
 - **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
