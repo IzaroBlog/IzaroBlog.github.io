@@ -415,6 +415,9 @@ Errata detectada en el personaje “Jefe Orco” de la facción “Tribus de los
 - CARTA DE BESTIARIO “CHAMÁN ORCO”:   
 Errata detectada en el personaje “Chamán Orco” de la facción “Tribus de los grandes orcos”. El coste en P.V. debe ser 6 y no de 5 como por error consta en la carta.  
 
+- CARTA DE BESTIARIO “CAUDILLO ORCO”:   
+Errata detectada en el personaje “Caudillo Orco" de la facción “Tribus de los grandes orcos”. Le faltan las notas con el siguiente enunciado: "Puede adquirir *Berserker* a cambio de usar armadura de cuero.  
+
 - CARTA DE BESTIARIO “DIABLILLO”:  
 Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”. El Diablillo debe tener 1 P.V. (y no 1-4) y su Rango de Encuentro debe ser 1-4 (y no 1).  
 
