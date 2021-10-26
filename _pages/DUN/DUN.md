@@ -419,10 +419,6 @@ Errata detectada en el personaje “Chamán Orco” de la facción “Tribus de 
 Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”. El Diablillo debe tener 1 P.V. (y no 1-4) y su Rango de Encuentro debe ser 1-4 (y no 1).  
 
 
-Cartas de bestiario:
-
-Errata detectada en el personaje "Espectro" de la facción "criaturas de la noche", su costeerratas es de **12PV** y no de 8PV como está reflejado en la carta. Comprobad las cartas siempre con el libro de Bestiario I de la V2. 
-
 ### Erratas V1 {#ErratasV1-id}
 - **Pág.21** Aventura 7. El líder debería costar 5 PV en lugar de 7.
 - **Pág 68** La criatura tendrá Línea de Visión 360º
