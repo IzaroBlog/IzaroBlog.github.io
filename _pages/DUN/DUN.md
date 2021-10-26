@@ -397,7 +397,7 @@ Recordemos que, según se indica en los capítulos de combate, impactar a una cr
 Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
 ### Erratas V2 {#ErratasV2-id}
-Con la inestimable ayuda de @joseca! 
+Con la inestimable ayuda de @joseca! [PDF de Erratas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Erratas%20DUN%20V2.pdf)
 - MODIFICADOR “DERRIBADO” EN ATAQUES CAC Y A DISTANCIA EN EL
 REGLAMENTO:  
 [Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) sobra, es reminiscencia de la V1. (Ludic)
