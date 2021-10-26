@@ -108,6 +108,7 @@ title: DUN Bigarren kanpaina
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 2/2
 
+----
 
 | [Vardek Duncan](#Duncan-id)      |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |

@@ -211,6 +211,8 @@ No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización
 *Se puede usar la habilidad [Disparo Certero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/disparocertero.png) con un [hacha arrojadiza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/hachaarrojadiza.png)? Ya que, aunque el hacha "pueda usarse" como arrojadiza, de ser, es un arma da cuerpo a cuerpo.*  
 Si, se pueden utilizar habilidades que afecten a armas arrojadizas con el hacha arrojadiza.   
 
+*¿Las armas arrojadizas se consideran armas a distancia para hacer con ellas ataques precipitados? Suponiendo claro que la lleves equipada en el momento.*  
+Si.
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
