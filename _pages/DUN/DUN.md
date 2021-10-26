@@ -34,7 +34,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
 - [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.  
-
+- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
@@ -397,7 +397,26 @@ Recordemos que, según se indica en los capítulos de combate, impactar a una cr
 Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
 ### Erratas V2 {#ErratasV2-id}
-- [Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) sobra, es reminiscencia de la V1. (Ludic)
+- MODIFICADOR “DERRIBADO” EN ATAQUES CAC Y A DISTANCIA EN EL
+REGLAMENTO:  
+[Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) sobra, es reminiscencia de la V1. (Ludic)
+En las páginas 35 y 37 del Reglamento se establece que si un personaje ataca desde la espalda* del objetivo (o este se encuentra derribado), obtendrá +1 a su prueba de Disparo a su tirada Cuerpo a Cuerpo y el defensor no podrá aplicar la parada de su escudo. El texto puesto entre paréntesis debe suprimirse, ya que el estado de Derribado no otorga dicho modificador positivo al atacante. Las consecuencias de estar derribado ese contemplan en la página 42 del Reglamento.  
+
+- CARTA DE PERSONAJE PREGENERADO “CRYXX”.  
+Errata detectada en el personaje pregenerado “Cryxx” (raza cristalinos). Sus puntos de maná deben ser 8 y no 0 como por error consta en la carta.  
+
+- CARTA DE BESTIARIO “ESPECTRO”:   
+Errata detectada en el personaje “Espectro” de la facción “Criaturas de la noche”. El coste en P.V. debe ser 12 y no 8 como por error consta en la carta.   
+
+- CARTA DE BESTIARIO “JEFE ORCO”:   
+Errata detectada en el personaje “Jefe Orco” de la facción “Tribus de los grandes orcos”. Su vitalidad es de 8 y no de 10 como por error consta en la carta.  
+
+- CARTA DE BESTIARIO “CHAMÁN ORCO”:   
+Errata detectada en el personaje “Chamán Orco” de la facción “Tribus de los grandes orcos”. El coste en P.V. debe ser 6 y no de 5 como por error consta en la carta.  
+
+- CARTA DE BESTIARIO “DIABLILLO”:  
+Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”. El Diablillo debe tener 1 P.V. (y no 1-4) y su Rango de Encuentro debe ser 1-4 (y no 1).  
+
 
 Cartas de bestiario:
 
@@ -409,4 +428,11 @@ Errata detectada en el personaje "Espectro" de la facción "criaturas de la noch
 - **Pág 31**, Aventura M15. Quitar el texto "con 3 turnos más de tiempo límite para alcanzar la meta," en dicha aventura no hay turnos de tiempo límite.
 - **Pág 68** Criatura "iguale o gane"
 - Aventura 26 Proteger el altar. Turnos: 10 **MÁS** número de héroes.
+
+### Medidas y cantidad de las fundas para las cartas {#MedidasFundas-id}
+- 442 minieuro (68x45mm)
+- 570 poker (88x63mm)
+- 192 Bestiary cards (120x80 mm)
+- 80 Perfidiae (poker, 88x63mm)
+
    
