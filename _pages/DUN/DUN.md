@@ -208,6 +208,8 @@ Así es, se beneficia de los efectos de la poción (el personaje es el mismo, au
 *La [cerbatana](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/cerbatana.png) ¿por qué especifica lo de "causa 1 dado de daño incluso si el personaje es de [tamaño pequeño](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/tamanopeque%C3%B1o.jpg)"? [Siempre se causa 1 de daño mínimo, aunque aumenta la armadura si fuese menos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dadosdedano.jpg). Por tanto ¿lo que quiere decir es que no sufre el aumento de armadura?*  
 No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización de daño -1. (Y tampoco el aumento de armadura, claro)  
 
+*Se puede usar la habilidad [Disparo Certero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/disparocertero.png) con un [hacha arrojadiza](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/hachaarrojadiza.png)? Ya que, aunque el hacha "pueda usarse" como arrojadiza, de ser, es un arma da cuerpo a cuerpo.*  
+Si, se pueden utilizar habilidades que afecten a armas arrojadizas con el hacha arrojadiza.   
 
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
@@ -311,7 +313,10 @@ Estas criaturas no necesitan bajar para atacar. [Las criaturas con movimiento 1 
 La habilidad brutal solo se puede usar en cuerpo a cuerpo (Ludic). 
 
 *Se puede [combinar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/animalesconsentidoagudizado.png) la habilidad de [sentidos agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png) de personajes y animales para obtener un +2 a la Percepción?*  
-Si, la restricción se quitó en la edición revisada (Ludic). 
+Si, la restricción se quitó en la edición revisada (Ludic).   
+
+*¿Qué signifca la frase "se resolverá del mismo modo que un hechizo de potenciación" en la habilidad [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png) ? Se aplican las restricciones a las veces que se pueda lanzar el hechizo, modificadores por aprendiz, etc?*  
+Tienes usos infinitos mientras tengas mana, no se puede dispersar, no se pueden gastar consumibles, si pifias no explotas, etc, etc. Solo que afecta igual que un hechizo de "Potenciacion" y la "Duracion" es lo unico que aprovecha de ese "como si fuera un hechizo"  
 
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
