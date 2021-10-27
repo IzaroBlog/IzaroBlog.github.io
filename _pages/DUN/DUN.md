@@ -286,7 +286,7 @@ NO. La tirada se hace solo una vez por tipo de criatura en un combate.
 *Mirando las habilidades he visto que con [Golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/golpebrutal.png) se pueden realizar ataques considerando 4, 5 o 6 como críticos. Después pone en la habilidad [Golpe letal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/golpeletal.png) que si consigue algún impacto crítico reduce a - 1 la armadura del objetivo.¿Se pueden combinar ambas habilidades, o lo del impacto crítico del golpe letal es sólo a seises?*  
 Se pueden combinar.  
 
-*Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "Invulnerable". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
+*Característica ["Etéreo"](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/etereo.png). Pone que solo se daña con ataques mágicos. Ni crítico ni leches, solo así. Es mucho más bestia que "[Invulnerable](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg)". Si no hay magos que quede vivos, o se han quedado sin hechizos, y no se tienen armas mágicas, solo queda correr por patas y huir. ¿Correcto?*  
 Es correcto.  
 
 *Dudas con [Veneno paralizante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/venenoparalizante.png)*  
@@ -303,8 +303,8 @@ No, el [máximo de ataques por turno es de 3](https://raw.githubusercontent.com/
 *Si combino la habilidad [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg) y [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/berserker.png) tendría 3 ataques ese turno. ¿Cómo serían los modificadores?*  
 La habilidad [Berserker](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/berserker.png) hay que declararla al principio del turno y penaliza con -1 todos los ataques que se realizen. Los tres tendrían un -1.   
 
-*¿Las armas hechizadas durante la aventura se consideran aptas contra [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg), o sigue necesitando de críticos para impactar?*  
-Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
+*¿Las armas hechizadas durante la aventura se consideran aptas contra [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg), o sigue necesitando de críticos para impactar?*  
+Se consideran hechizadas y dañan a [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg) sin necesidad de críticos. Tened en cuenta que las armas mágicas si que requieren de críticos.  
 
 *Un personaje con habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/volar.png), puede comenzar el turno declarando que vuela, moverse, y dejar de volar para atacar CaC? O debe esperar al siguiente turno, declarar que no vuela al comienzo y luego atacar?*  
 Declarar volar o no es al principio de turno. Si quieres atacar, tienes que ir andando al principio de turno!      
@@ -322,6 +322,10 @@ Tienes usos infinitos mientras tengas mana, no se puede dispersar, no se pueden 
 
 *Con la habilidad [ataques rápidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/ataquesrapidos.png) y un [tridente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/tridente.png) (pifia con doble 1, doble 2 y doble 3), ¿se pifia solo con doble 1 en 3D6, o con doble 2 y doble 3 también?*  
 Se pifia con doble 1, 2 y 3. Sucede lo mismo con todas las armas donde hay más probabilidades de cometer crítico. Espada dentada, Mangual... son armas cuyo manejo y forma te exponen a cometer más pifias. Por tanto la habilidad [ataques rápidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/ataquesrapidos.png) no es aconsejable que sea combinada con dichas armas.  (Ludic)  
+
+*¿La habilidad [golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/golpebrutal.png) sirve para impactar a personajes [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg)  con 4,5,6?*  
+Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6.   
+
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
