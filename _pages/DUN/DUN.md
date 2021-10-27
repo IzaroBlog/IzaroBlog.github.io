@@ -320,6 +320,8 @@ Si, la restricción se quitó en la edición revisada (Ludic).
 *¿Qué signifca la frase "se resolverá del mismo modo que un hechizo de potenciación" en la habilidad [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png) ? Se aplican las restricciones a las veces que se pueda lanzar el hechizo, modificadores por aprendiz, etc?*  
 Tienes usos infinitos mientras tengas mana, no se puede dispersar, no se pueden gastar consumibles, si pifias no explotas, etc, etc. Solo que afecta igual que un hechizo de "Potenciacion" y la "Duracion" es lo unico que aprovecha de ese "como si fuera un hechizo"  
 
+*Con la habilidad [ataques rápidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/ataquesrapidos.png) y un [tridente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/tridente.png) (pifia con doble 1, doble 2 y doble 3), ¿se pifia solo con doble 1 en 3D6, o con doble 2 y doble 3 también?*  
+Se pifia con doble 1, 2 y 3. Sucede lo mismo con todas las armas donde hay más probabilidades de cometer crítico. Espada dentada, Mangual... son armas cuyo manejo y forma te exponen a cometer más pifias. Por tanto la habilidad [ataques rápidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/ataquesrapidos.png) no es aconsejable que sea combinada con dichas armas.  (Ludic)  
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
