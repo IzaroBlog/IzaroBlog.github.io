@@ -24,15 +24,6 @@ Obras de teatro creadas con AntzerkiZ y dokumentales en los que he participado, 
 [Hemen](https://izaroblog.github.io/collaborations/hitzaldiak) egindako aurkezpen edo hitzaldiei buruzko materiala aurki dezakezue.<br>
 *[Aquí](https://izaroblog.github.io/collaborations/hitzaldiak) podréis encontrar el material de las presentaciones o charlas en las que he participado.*
 
-### 👥 Taldeak / Grupos en los que participo
-Hementxe dituzue parte hartzen dudan taldeen informazioa: 
-- ⚡️[Mugarik Gabeko Ingeniaritza](https://euskadi.isf.es/): GGKE honen bazkide, lankide ohi eta boluntario naiz orain. Nire bizitzan eragin handia izan duen elkartea eta lagunak daude bertan. Asko ikasi dut eta lan bikaina egiten dute bai Euskal Herrian bai El Salvadorren. Denbora faltagatik lan edo eskaera puntualetan laguntzen dut oraintxe./ *ONGD que ha influído mucho en mi vida y visión crítica de la sociedad, cooperación y tecnología. Participo poco, pero sigo apoyando en lo que puedo!* 
-- 🎭[Antzerkiz](https://antzerkiz.wordpress.com/): Zapalduon Antzerki taldea, gure azken lana 🌵[Kaktusa Bizirik](https://antzerkiz.wordpress.com/kaktusa-bizirik/) izan zen!/*Grupo de teatro de las oprimidas, del que 🌵[Kaktusa Bizirik](https://antzerkiz.wordpress.com/kaktusa-bizirik/) ha sido nuestro último trabajo. 
-- 🌿[Ekologistak Martxan](https://www.ekologistakmartxan.org/eu/): [TRADENER](https://www.tradener.org/) proiektua bukatu eta gero, Antiglobalizazio taldean nago, baina denbora gutxi eskaintzeko aukerarekin. / *Tras la finalización del proiekto [TRADENER](https://www.tradener.org/), participo en el grupo de Antiglobalización.* 
-- 🐗[Hezkuntzan ere Librezale](https://hezkuntza.librezale.eus/): [Google-en hezkuntza](https://izaroblog.github.io/eu,/internet/2017/06/11/GooglenHezkuntza.html) idatzi eta gero talde polita sortu zen. Google eta Microsoft-ek hezkuntzan duten eragina azalaretzeko eta subiranotasun teknologikoa aldarrikatzeko sortutako taldea. [Telegram](https://t.me/hezkuntzanlibre)/Matrix talde oso aktiboa du. 
-	- [Hik Hasi](http://www.hikhasi.eus/) aldizkarian idatzi genuen artikulua: [Zergatik da garrantzitsua eskoletan software librea erabiltzea, et ez google eta microsoft-en produktuak?,2020](http://www.hikhasi.eus/Artikuluak/20200401/ZERGATIK_DA_GARRANTZITSUA_ESKOLETAN_SOFTWARE_LIBREA_ERABILTZEA_ETA_EZ_GOOGLE_ETA_MICROSOFT-EN_PRODUKTUAK__)	
-- 🕸[UKS](https://www.uks.eus/): Unibertsitate Kritikoa Sarea, beste modu batean egindako Unibertsitatea lortzeko sortutako taldea. Nahi baino denbora gutxiago eskaini diot azken aldian! :(
-
 ### 📝 Beste orrialde hauetan ere idatzi ohi dut / *También suele escribir en*:
 
 - [ekopol ikertaldea](https://ekopol.eus/eu/)-ko blogean.

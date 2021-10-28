@@ -324,7 +324,7 @@ Tienes usos infinitos mientras tengas mana, no se puede dispersar, no se pueden 
 Se pifia con doble 1, 2 y 3. Sucede lo mismo con todas las armas donde hay más probabilidades de cometer crítico. Espada dentada, Mangual... son armas cuyo manejo y forma te exponen a cometer más pifias. Por tanto la habilidad [ataques rápidos](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/ataquesrapidos.png) no es aconsejable que sea combinada con dichas armas.  (Ludic)  
 
 *¿La habilidad [golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/golpebrutal.png) sirve para impactar a personajes [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg)  con 4,5,6?*  
-Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6. (Ludic)   
+Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6. (Ludic)	   
 
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
