@@ -65,14 +65,14 @@ title: DUN Bigarren kanpaina
 
 ---  
 
-| Leon O    |      |     **PV: 10**         |      |
+| Leon O    |      |     **PV: 12**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   3   |
+| Suerte     |  **5**    | Experiencia  |   3   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
