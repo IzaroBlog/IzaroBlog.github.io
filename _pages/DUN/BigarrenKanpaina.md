@@ -44,27 +44,6 @@ title: DUN Bigarren kanpaina
 
 ---  
 
-
-| Morbius      |      |      **PV: 10**        |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |  5    | Agilidad     |   2   |
-| Ataque     |  4    | Inteligencia |   3   |
-| Fuerza     |  4    | Mana         |   -   |
-| Disparo    |  3    | Valentia     |   3   |
-| Armadura   |  4   | Vitalidad    |   6   |
-| Suerte     |  5    | Experiencia  |  3    |
-| Destreza   |  -1    | Percepción   |  0    |
-
-- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
-- **Armas**: Espada ancha, Colmillos.   
-- **Armaduras**: Armadura de Cuero, Gran Escudo.  
-- **Equipo**: Pócima de curación. 
-- **Habilidades** (0/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia.* 
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/2
-
----  
-
 | Leon O    |      |     **PV: 12**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4   |
@@ -85,6 +64,28 @@ title: DUN Bigarren kanpaina
 
 
 ---
+
+
+
+| Morbius      |      |      **PV: 10**        |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   2   |
+| Ataque     |  4    | Inteligencia |   3   |
+| Fuerza     |  4    | Mana         |   -   |
+| Disparo    |  3    | Valentia     |   3   |
+| Armadura   |  4   | Vitalidad    |   6   |
+| Suerte     |  5    | Experiencia  |  3    |
+| Destreza   |  -1    | Percepción   |  0    |
+
+- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
+- **Armas**: Espada ancha, Colmillos.   
+- **Armaduras**: Armadura de Cuero, Gran Escudo.  
+- **Equipo**: Pócima de curación. 
+- **Habilidades** (0/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia.* 
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 2/2
+
+---  
 
 | Harpmouth Moe    |      | **PV: 10**             |      |
 | ---------- | :--: | ------------ | :--: |
