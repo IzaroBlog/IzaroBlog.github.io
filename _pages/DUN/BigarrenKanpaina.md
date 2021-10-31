@@ -8,14 +8,82 @@ title: DUN Bigarren kanpaina
 
 ----
 
-### 📆 Semana de campaña: 12    
-### 💰 Tesorería: 14 monedas de oro.     
+### 📆 Semana de campaña: 14    
+### 💰 Tesorería: 8 monedas de oro.     
 ### ↪️ Partidas disponibles:   
-- Burmister el mercader (la siguiente)  
+- La cueva de Burmister
   
 ----
 
 ## Pertsonaiak
+
+
+| Leon O    |      |     **PV: 12**         |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   4   |
+| Ataque     |  4    | Inteligencia |   4   |
+| Fuerza     |  4    | Mana         |   -   |
+| Disparo    |  3    | Valentia     |   4   |
+| Armadura   |  3    | Vitalidad    |   5   |
+| Suerte     |  **5**    | Experiencia  |   2   |
+| Destreza   |  0    | Percepción   |  1   |
+
+- *Félido*-*Bailarín Marcial*
+- **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png).  
+- **Armaduras**: Armadura de Cuero, Escudo  
+- **Equipo**: Hidromiel  
+- **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 3/3
+
+
+---
+
+
+| Morbius      |      |      **PV: 12**        |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   2   |
+| Ataque     |  4    | Inteligencia |   3   |
+| Fuerza     |  4    | Mana         |   -   |
+| Disparo    |  3    | Valentia     |   3   |
+| Armadura   |  4   | Vitalidad    |   6   |
+| Suerte     |  5    | Experiencia  |  2    |
+| Destreza   |  -1    | Percepción   |  0    |
+
+- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
+- **Armas**: Espada ancha, Colmillos.   
+- **Armaduras**: Armadura de Cuero, Gran Escudo.  
+- **Equipo**: Pócima de curación. 
+- **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* Maestro de combate.
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 3/3
+
+---  
+
+| Harpmouth Moe    |      | **PV: 12**             |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   5   | Agilidad     |   4   |
+| Ataque     |   3   | Inteligencia |   4   |
+| Fuerza     |   4   | Mana         |   5(+1)   |
+| Disparo    |   4   | Valentia     |   4   |
+| Armadura   |   3   | Vitalidad    |   4   |
+| Suerte     |   5   | Experiencia  |  2    |
+| Destreza   |   0   | Percepción   |  1    |
+
+- *Elfo*-*Bardo*
+- **Armas**: Hachas arrojadizas, jabalinas pesasdas y tridente
+- **Armaduras**: Armadura de Cuero  
+- **Equipo**: Hidromiel, Instrumento musical  
+- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png), [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Primeros auxilios.  
+- **Hechizos**: [Saber de la Interpretación (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
+	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)  
+	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
+
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 3/3
+
+----
+
 
 | Nereus The Great      |      |    **PV: 13**	(12+1)          |      |
 | ---------- | :--: | ------------ | :--: |
@@ -39,115 +107,48 @@ title: DUN Bigarren kanpaina
 	💫[Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
 - **Acompañante**: Cuervo (+1PV)
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/2
+- **Partidas jugadas:** 2/3
 
 
 ---  
 
-| Leon O    |      |     **PV: 12**         |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |  5    | Agilidad     |   4   |
-| Ataque     |  4    | Inteligencia |   4   |
-| Fuerza     |  4    | Mana         |   -   |
-| Disparo    |  3    | Valentia     |   4   |
-| Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   3   |
-| Destreza   |  0    | Percepción   |  1   |
-
-- *Félido*-*Bailarín Marcial*
-- **Armas**: Espada élfica, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png).  
-- **Armaduras**: Armadura de Cuero, Escudo  
-- **Equipo**: Hidromiel  
-- **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/2
-
-
----
-
-
-
-| Morbius      |      |      **PV: 10**        |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |  5    | Agilidad     |   2   |
-| Ataque     |  4    | Inteligencia |   3   |
-| Fuerza     |  4    | Mana         |   -   |
-| Disparo    |  3    | Valentia     |   3   |
-| Armadura   |  4   | Vitalidad    |   6   |
-| Suerte     |  5    | Experiencia  |  3    |
-| Destreza   |  -1    | Percepción   |  0    |
-
-- *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
-- **Armas**: Espada ancha, Colmillos.   
-- **Armaduras**: Armadura de Cuero, Gran Escudo.  
-- **Equipo**: Pócima de curación. 
-- **Habilidades** (0/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia.* 
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/2
-
----  
-
-| Harpmouth Moe    |      | **PV: 10**             |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   5   | Agilidad     |   4   |
-| Ataque     |   3   | Inteligencia |   4   |
-| Fuerza     |   4   | Mana         |   5(+1)   |
-| Disparo    |   4   | Valentia     |   4   |
-| Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  3    |
-| Destreza   |   0   | Percepción   |  1    |
-
-- *Elfo*-*Bardo*
-- **Armas**: Hachas arrojadizas, jabalinas pesasdas y tridente
-- **Armaduras**: Armadura de Cuero  
-- **Equipo**: Hidromiel, Instrumento musical  
-- **Habilidades** (0/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png), [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
-- **Hechizos**: [Saber de la Interpretación (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
-	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)  
-	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
-
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/2
-
-----
-
-| [Vardek Duncan](#Duncan-id)      |      |   **PV: 10**           |      |
+| [Vardek Duncan](#Duncan-id)      |      |   **PV: 12**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   3   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   6   | Experiencia  |  2    |
+| Suerte     |   6   | Experiencia  |  1    |
 | Destreza   |   0   | Percepción   |  0    |
 
 - *Humano*-*Guerrero*
 - **Armas**: Espada ancha
 - **Armaduras**: Cota de malla y Escudo
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
-- **Habilidades** (0/8): *Perdido en la oscuridad, Curtido, Aguante*
+- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, Escolta
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 1/2
+- **Partidas jugadas:** 2/3
 
 ---
 
-| [Thrund Bugman](#Thrund-id)      |      | **PV: 10**             |      |
+| [Thrund Bugman](#Thrund-id)      |      | **PV: 12**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   3   | Mana         |  -    |
 | Disparo    |   4   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  1   |
-| Destreza   |   1   | Percepción   |  0    |
+| Suerte     |   5   | Experiencia  |  0   |
+| Destreza   |   1   | Percepción   |  **1**    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*-*Explorador*
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*.
+- **Habilidades** (1/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 1/2
+- **Partidas jugadas:** 2/3
 
 ---  
 
@@ -167,14 +168,15 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/2
+- **Partidas jugadas:** 0/3
 
 
 ----
 
 ### Partidas jugadas
 - El loco y la piedra
-- Primeras pistas 
+- Primeras pistas
+- Burmister el mercader 
 
 
 ----
