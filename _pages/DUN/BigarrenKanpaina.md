@@ -8,24 +8,24 @@ title: DUN Bigarren kanpaina
 
 ----
 
-### 📆 Semana de campaña: 14    
-### 💰 Tesorería: 8 monedas de oro.     
+### 📆 Semana de campaña: 14??    
+### 💰 Tesorería: 40 y pico monedas de oro.     
 ### ↪️ Partidas disponibles:   
-- La cueva de Burmister
+- Vuelta a la mansión
   
 ----
 
 ## Pertsonaiak
 
 
-| Leon O    |      |     **PV: 12**         |      |
+| Leon O    |      |     **PV: 14**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   2   |
+| Suerte     |  **6**    | Experiencia  |   2   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
@@ -34,7 +34,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Hidromiel  
 - **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/3
+- **Partidas jugadas:** 4/4
 
 
 ---
@@ -47,7 +47,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   3   |
 | Armadura   |  4   | Vitalidad    |   6   |
-| Suerte     |  5    | Experiencia  |  2    |
+| Suerte     |  5    | Experiencia  |  3    |
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
@@ -56,7 +56,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación. 
 - **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* Maestro de combate.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/3
+- **Partidas jugadas:** 4/4
 
 ---  
 
@@ -67,7 +67,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |   4   | Mana         |   5(+1)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  2    |
+| Suerte     |   5   | Experiencia  |  3    |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfo*-*Bardo*
@@ -80,7 +80,49 @@ title: DUN Bigarren kanpaina
 	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
 
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/3
+- **Partidas jugadas:** 4/4
+
+
+---  
+
+| [Vardek Duncan](#Duncan-id)      |      |   **PV: 12**           |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   5   | Agilidad     |  4    |
+| Ataque     |   5   | Inteligencia |  4    |
+| Fuerza     |   3   | Mana         |  -    |
+| Disparo    |   3   | Valentia     |  4    |
+| Armadura   |   3   | Vitalidad    |  6    |
+| Suerte     |   6   | Experiencia  |  2    |
+| Destreza   |   0   | Percepción   |  0    |
+
+- *Humano*-*Guerrero*
+- **Armas**: Espada ancha
+- **Armaduras**: Cota de malla y Escudo
+- **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
+- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, Escolta
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 3/4
+
+---
+
+| [Thrund Bugman](#Thrund-id)      |      | **PV: 12**             |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   4   | Agilidad     |  3    |
+| Ataque     |   5   | Inteligencia |  4    |
+| Fuerza     |   3   | Mana         |  -    |
+| Disparo    |   4   | Valentia     |  4    |
+| Armadura   |   3   | Vitalidad    |  6    |
+| Suerte     |   5   | Experiencia  |  1   |
+| Destreza   |   1   | Percepción   |  **1**    |
+
+- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*-*Explorador*
+- **Armas**: Hacha de Batalla, Lanza, Arco Corto  
+- **Armaduras**: Armadura de Cuero, Escudo  
+- **Equipo**: Ganzúas  
+- **Habilidades** (1/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 3/4
+
 
 ----
 
@@ -107,50 +149,9 @@ title: DUN Bigarren kanpaina
 	💫[Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
 - **Acompañante**: Cuervo (+1PV)
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/3
-
-
----  
-
-| [Vardek Duncan](#Duncan-id)      |      |   **PV: 12**           |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   5   | Agilidad     |  4    |
-| Ataque     |   5   | Inteligencia |  4    |
-| Fuerza     |   3   | Mana         |  -    |
-| Disparo    |   3   | Valentia     |  4    |
-| Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   6   | Experiencia  |  1    |
-| Destreza   |   0   | Percepción   |  0    |
-
-- *Humano*-*Guerrero*
-- **Armas**: Espada ancha
-- **Armaduras**: Cota de malla y Escudo
-- **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
-- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, Escolta
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/3
+- **Partidas jugadas:** 2/4
 
 ---
-
-| [Thrund Bugman](#Thrund-id)      |      | **PV: 12**             |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   4   | Agilidad     |  3    |
-| Ataque     |   5   | Inteligencia |  4    |
-| Fuerza     |   3   | Mana         |  -    |
-| Disparo    |   4   | Valentia     |  4    |
-| Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  0   |
-| Destreza   |   1   | Percepción   |  **1**    |
-
-- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*-*Explorador*
-- **Armas**: Hacha de Batalla, Lanza, Arco Corto  
-- **Armaduras**: Armadura de Cuero, Escudo  
-- **Equipo**: Ganzúas  
-- **Habilidades** (1/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/3
-
----  
 
 | Thainn     |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
@@ -168,7 +169,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/3
+- **Partidas jugadas:** 0/4
 
 
 ----
@@ -177,7 +178,7 @@ title: DUN Bigarren kanpaina
 - El loco y la piedra
 - Primeras pistas
 - Burmister el mercader 
-
+- La cueva de Burmister
 
 ----
 
