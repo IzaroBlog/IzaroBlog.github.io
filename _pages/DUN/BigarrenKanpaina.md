@@ -25,7 +25,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **6**    | Experiencia  |   2   |
+| Suerte     |  **6**    | Experiencia  |   0   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
