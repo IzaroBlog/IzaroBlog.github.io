@@ -127,6 +127,13 @@ El -1 se aplica a tus ataques en tu turno.
 *¿Se puede aprovechar que has empujado a tu rival para realizar una acción rápida (como tomarte una pócima por ejemplo) antes de ganar la posición de este y volver a trabarte?*  
 No. El Ataque CaC incluye empujar y ocupar en la misma Acción. Cualquier cosa adicional  debe hacerse antes o después.  
 
+*Un personaje que dispone más de un ataque, con su primer ataque impacta y acaba con un oponente. Puede moverse con normalidad pero, ¿puede realizar el segundo ataque tras moverse, o solo podría realizarse a un enemigo adyacente del primero?*  
+2 ataques son 2 acciones de ataque diferentes. Puedes atacar, mover y volver a atacar, las Acciones no tienen por qué ser consecutivas. Esto sirve tanto para héroes como para criaturas de JO o JOA. 
+El movimiento debe completarse o se pierde antes o después de hacer una acción:
+- Mover-atacar-ganar posición ✅  
+- Atacar-mover-atacar✅  
+- Mover-atacar-mover-atacar❌  
+
 ### Magia {#Magia-id}
 
 *Si se lanza [Abrir Entrada](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Tierra/abrirentrada.png) y al otro lado no hay nada ¿se pierde el maná por lanzar el hechizo?*  
