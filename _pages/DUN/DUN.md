@@ -215,7 +215,10 @@ No, si el personaje que utiliza la cerbatana es pequeño, no sufre penalización
 Si, se pueden utilizar habilidades que afecten a armas arrojadizas con el hacha arrojadiza.   
 
 *¿Las armas arrojadizas se consideran armas a distancia para hacer con ellas ataques precipitados? Suponiendo claro que la lleves equipada en el momento.*  
-Si.
+Si.  
+
+*¿Con [ganzúas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ganzuas.png) equipadas se puede llegar a +4 para abrir cerraduras? ([Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png) +1, [Cerrajería](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/cerrajeria.png) +2)*  
+El [máximo de modificadores es +3](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/maximobonificadores.png). Se aplica a todo (habilidades, compañeros, objetos...) excepto en caso de objetos mágicos, objetos especiales o hechizos (por ser efectos temporales o mágicos). En estos casos sí podrá alcanzarse hasta un +5.  
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
