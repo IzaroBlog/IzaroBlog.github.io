@@ -54,7 +54,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Espada ancha, Colmillos.   
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
 - **Equipo**: Pócima de curación. 
-- **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* Maestro de combate.
+- **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg).
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 4/4
 
@@ -99,7 +99,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Espada ancha
 - **Armaduras**: Cota de malla y Escudo
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
-- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, Escolta
+- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, [Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png)	
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 3/4
 
@@ -119,7 +119,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Hacha de Batalla, Lanza, Arco Corto  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
-- **Habilidades** (1/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
+- **Habilidades** (1/8): *Odio a Orcos y Goblins, ([Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 3/4
 
@@ -167,7 +167,7 @@ title: DUN Bigarren kanpaina
 - **Armas**: Hacha de doble filo
 - **Armaduras**: Armadura de Cuero
 - **Equipo**: Pócima de curación
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, Manos hábiles, [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, ([Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/4
 
