@@ -96,6 +96,9 @@ Si, claro. Lo que **no puede hacer** son [acciones exploratorias](https://raw.gi
 *Cuando un personaje pisa una casilla donde se activa una trampa, y supera la tirada de detección, el manual dice que [debe volver a la casilla de dónde provenía](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/reacciontrampas.png). Si esta casilla estaba ocupada (por ejemplo por un aliado) entonces debe volver a la última libre por la que pasó?*  
 En este caso ocupar la casilla libre más próxima prioriza, luego habría que desplazar los personajes que ocupan dicha casilla.  
 
+*¿Equipar un escudo se puede hacer con la acción rápida [Desenvainar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desenvainar.jpg) estando trabado?*  
+Desenvainar se refiere a armas (precisamente por entender que es relativamente rápido desenvainar un arma, pero no es rápido colocarse un escudo que llevas a la espalda) (Ludic).  
+
 ## Combate {#Combate-id}
 *¿Se puede empujar a alguien de tamaño grande o enorme, si soy de tamaño normal?*<br>
   No, no se puede empujar a alguien de mayor tamaño que el tuyo. <br>
