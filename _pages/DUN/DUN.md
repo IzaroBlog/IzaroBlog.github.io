@@ -121,7 +121,7 @@ Si empujas, puedes ganar la posición sin problemas, la regla de trabado no apli
 *Un personaje sin ZI (Mono, gato, cuervo), puede atacar?*   
 Sí, puede atacar, puede atacar a cualquier enemigo adyacente situado en su frontal. En lugar de "Carece de zona de influencia", se podría explicar mejor con más palabras, pero o usaba la economía de espacio o directamente eliminaba esa excepción en esos 3 perfiles. Pero necesitaba que esos 3 animales no pudieran trabar de ningún modo (Ludic).  
 
-*[Desenvainar]((https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desenvainar.jpg)). Si en mi turno ataco (en ZI), desenvaino (cambio de arma), en el turno del enemigo también tengo el -1 en combate? O es solo en tu turno?*  
+*[Desenvainar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/desenvainar.jpg). Si en mi turno ataco (en ZI), desenvaino (cambio de arma), en el turno del enemigo también tengo el -1 en combate? O es solo en tu turno?*  
 El -1 se aplica a tus ataques en tu turno.  
 
 *¿Se puede aprovechar que has empujado a tu rival para realizar una acción rápida (como tomarte una pócima por ejemplo) antes de ganar la posición de este y volver a trabarte?*  
