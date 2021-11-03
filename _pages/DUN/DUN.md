@@ -329,6 +329,11 @@ Se pifia con doble 1, 2 y 3. Sucede lo mismo con todas las armas donde hay más 
 Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6. (Ludic)	   
 
 
+*Habilidad "[Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png)"*.   
+1. *Es una habilidad pasiva, ¿con lo que necesita un desencadenante o debes elegir el aliado a escoltar de los que tengas adyacentes al acabar el turno de los héroes?*   
+2. *Si necesita desencadenante, o sea un ataque a un aliado adyacente al escolta. ¿Puede elegirse escoltar antes de ese ataque (para que el JOA cambie de objetivo o confundir al JO) o sólo puede decidirse aplicar escolta cuando un aliado es seleccionado como objetivo?*  
+Se necesita desencadenante, no eliges escoltar a un héroe concreto, sino que puedes escoltar a un héroe adyacente cuando es atacado. Se elige escoltar en el momento en que el aliado es seleccionado como objetivo.(Ludic)
+
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
