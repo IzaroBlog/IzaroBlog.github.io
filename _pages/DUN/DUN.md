@@ -347,7 +347,7 @@ Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6
 2. *Si necesita desencadenante, o sea un ataque a un aliado adyacente al escolta. ¿Puede elegirse escoltar antes de ese ataque (para que el JOA cambie de objetivo o confundir al JO) o sólo puede decidirse aplicar escolta cuando un aliado es seleccionado como objetivo?*  
 Se necesita desencadenante, no eliges escoltar a un héroe concreto, sino que puedes escoltar a un héroe adyacente cuando es atacado. Se elige escoltar en el momento en que el aliado es seleccionado como objetivo.(Ludic)  
 
-*La habilidad [Pelea Sucia]¿Cuando entra en juego?*
+*La habilidad [Pelea Sucia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/peleasucia.png?raw=true)¿Cuando entra en juego?*
 - *A) Inmediatamente y puede dar pie a ganar un combate CaC por ese aturdido al rival.*  
 - *B) Justo después de la tirada CaC, en ese mismo combate dando pie a que si estabas defendiendo y pierdes, recibas daño con  -1d6 por el aturdido del rival.*  
 - *C) No se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido).*  
