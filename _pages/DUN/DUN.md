@@ -351,7 +351,7 @@ Se necesita desencadenante, no eliges escoltar a un héroe concreto, sino que pu
 - *A) Inmediatamente y puede dar pie a ganar un combate CaC por ese aturdido al rival.*  
 - *B) Justo después de la tirada CaC, en ese mismo combate dando pie a que si estabas defendiendo y pierdes, recibas daño con  -1d6 por el aturdido del rival.*  
 - *C) No se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido).*  
-La habilidad entra en juego en el caso C); no se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido).  
+La habilidad entra en juego en el caso C); no se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido)(Ludic).  
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
