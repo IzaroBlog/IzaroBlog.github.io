@@ -12,7 +12,9 @@ Nik erantzun nien banuela jada e-posta kontua, eta ordura arte bezala jaso nitza
 
 > Korreoak zure posta pertsonalera  berbidalidaltzeko aukera egoten da, hala ere, arazoak sortuko zaizkizu  hainbat gunetan sartzerakoan xxxxxxx.net-eko erabiltzaileek soilik sartzerik dutelako (boletinak, argazkiak).
 
-Zur eta lur gelditu nintzen. Orain arte oso ondo jaso ditut ikastetxearen buletin eta informazio guztiak. **Benetan beharrezkoa al da beste e-posta kontu ba sortzea gurasoak informaturik mantentzeko?** . Nik ez dut uste, posta-zerrenda bat egitearekin nahikoa litzateke, hori baino errazagorik... Nik, oraingoz behintzat gmail kontu hori ez irekitzea erabaki dut. Gainera datorren urteetan nire alabari ere kontua irekiko diotela esan zidaten... eskerrak oraindik ez dakien hori ere zer den!! 
+Zur eta lur gelditu nintzen. Orain arte oso ondo jaso ditut ikastetxearen buletin eta informazio guztiak eta.  
+**Benetan beharrezkoa al da beste e-posta kontu ba sortzea gurasoak informaturik mantentzeko?**   
+Nik ez dut uste, posta-zerrenda bat egitearekin nahikoa litzateke, hori baino errazagorik... Nik, oraingoz behintzat gmail kontu hori ez irekitzea erabaki dut. 
 
 ![google](https://cdn.pixabay.com/photo/2017/01/19/09/11/logo-google-1991840__340.png)
 
