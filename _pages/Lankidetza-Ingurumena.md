@@ -1,5 +1,5 @@
 ---
-permalink: /Hegoa
+permalink: /Lankidetza-Ingurumena
 layout: page
 title: Información adicional para la clase
 ---
