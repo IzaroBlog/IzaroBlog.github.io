@@ -97,14 +97,13 @@ title: Paters Online DUN
 
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
-- **Armaduras**: 
+- **Armaduras**:
 - **Equipo**: Poción de maná
 - **Habilidades** (0/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)* 
-
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/0
 - **Hechizos**: 
--[Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)
+- [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)
 	🌚 ???  
 	🌚 ???  
 	🌚 ???  
