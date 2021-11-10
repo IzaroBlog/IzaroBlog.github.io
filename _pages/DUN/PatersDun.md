@@ -79,8 +79,8 @@ title: Paters Online DUN
 - **Partidas jugadas:** 0/0
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
-	💫???
-	💫???
+	💫???   
+	💫???    
 
 
 ---  
@@ -105,10 +105,10 @@ title: Paters Online DUN
 - **Partidas jugadas:** 0/0
 - **Hechizos**: 
 -[Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)
-	🌚???
-	🌚 ???
-	🌚 ???
-	🌚 ???
+	🌚 ???  
+	🌚 ???  
+	🌚 ???  
+	🌚 ???   
 
 ---  
 
