@@ -51,9 +51,9 @@ title: Paters Online DUN
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
-- **Armas**: Hacha
-- **Armaduras**: Armadura de Cuero y Escudo
-- **Equipo**: 
+- **Armas**: Hacha a dos manos, Espada Ancha. 
+- **Armaduras**: Armadura de Cuero y Escudo.
+- **Equipo**: Hidromiel, Hierbas Curativas.
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/0
