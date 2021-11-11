@@ -103,7 +103,7 @@ title: Paters Online DUN
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/0
 - **Hechizos**: 
-- [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)
+- [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 ???  
 	🌚 ???  
 	🌚 ???  
