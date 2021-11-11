@@ -40,7 +40,7 @@ title: Paters Online DUN
 ---
 
 
-| [Intxaur Waldosson]((#Intxaur-id)     |      |   **PV: 10**           |      |
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
