@@ -40,7 +40,7 @@ title: Paters Online DUN
 ---
 
 
-| Intxaur Waldosson     |      |   **PV: 10**           |      |
+| [Intxaur Waldosson]((#Intxaur-id)     |      |   **PV: 10**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
@@ -115,3 +115,19 @@ title: Paters Online DUN
 
 
 ----
+
+## Intxaur Waldosson {#Intxaur-id}
+
+Entré a la taberna que me había mencionado la posadera. Según parecía, andaban buscando aventureros para formar una banda, y estaban bastante desesperados. La lavandera me dijo que había una bruja detrás de todo aquello, la habían visto hablar con los árboles y repartir pócimas en el río... pero el enlace debía de ser un félido charlatán. Con esas informaciones avancé con paso firme por las calles de Verneck, enfrentándome a las miradas curiosas de los lugareños. ¿Es que nunca habían visto a una enana con un hacha en su vida? 
+
+Con paso ligero, de enana, entré en la taberna del Celíaco Feliz; era fácil reconocerla por su gran hogaza en la puerta. Las risas y buen ambiente que había se iba silenciando mientras avanzaba a la mugrienta barra. ¿Era tan dificil mantener limpia, aunque solo fuese la barra? Estos humanos no tenían ningún sentido de la limpieza... en las tierras enanas por menos que aquello habrían apaleado al tabernero.
+
+Mientras estaba recordando la calidez de las tabernas enanas, sentí un leve golpe en el tobillo y vi mi frente estampada en el inmundo suelo lleno de gluten. Las carcajadas no tardaron en llenar el habitáculo y como siempre, un tipo más grande de lo habitual se levantó y comenzó a gritar: 
+
+- Viktor, desde cuándo permites entrar a muj....
+
+No terminó la frase porque ya tenía un jarra de cerveza estampada en la cara, y para cuándo se dió cuenta un codazo le rompió la nariz. Como siempre, su ayudante de bravuconadas intentó ayudar al señorito, pero recibió un golpe en la entrepierna con el asta del hacha. No merecia la pena desenvainarla para tamaños piltrafas. Un golpe por la espalda que no esperaba la hizo trastabillar, pero hacía falta más fuerza para tumbar a Intxaur Waldosson. Con un ágil movimiento se dió la vuelta y embistió al tercero que quedó tumbado y sin aliento empotrado en la barra. 
+
+Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico de la sangre en mi boca, y miré en redondo a la concurrencia. Como siempre, la manada con su lider inconsciente en el suelo, no se atrevía a levantar la mirada de sus jarras. Con la mano en el pomo de la espada, avancé directa a por el único que me sostenía la mirada. Tenía que ser este el félido que andaba buscando. 
+¿Por qué los hombres hacían siempre las cosas tán difíciles?
+
