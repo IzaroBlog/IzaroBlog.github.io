@@ -25,7 +25,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **6**    | Experiencia  |   0   |
+| Suerte     |  **6**    | Experiencia  |   2   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
@@ -34,7 +34,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Hidromiel  
 - **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 4/4
+- **Partidas jugadas:** 5/5
 
 
 ---
@@ -47,7 +47,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   3   |
 | Armadura   |  4   | Vitalidad    |   6   |
-| Suerte     |  5    | Experiencia  |  3    |
+| Suerte     |  5    | Experiencia  |  5    |
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
@@ -56,72 +56,72 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación. 
 - **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg).
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 4/4
+- **Partidas jugadas:** 5/5
 
 ---  
 
-| Harpmouth Moe    |      | **PV: 12**             |      |
+| [Harpmouth Moe](#Xarpas-id)    |      | **PV: 12**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |   4   |
 | Ataque     |   3   | Inteligencia |   4   |
 | Fuerza     |   4   | Mana         |   5(+1)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  3    |
+| Suerte     |   5   | Experiencia  |  2    |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfo*-*Bardo*
 - **Armas**: Hachas arrojadizas, jabalinas pesasdas y tridente
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
-- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png), [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Primeros auxilios.  
+- **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png), [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Primeros auxilios, Torturador.  
 - **Hechizos**: [Saber de la Interpretación (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
 	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)  
 	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)
 
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 4/4
+- **Partidas jugadas:** 5/5
 
 
 ---  
 
-| [Vardek Duncan](#Duncan-id)      |      |   **PV: 12**           |      |
+| [Vardek Duncan](#Duncan-id)      |      |   **PV: 14**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   3   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   6   | Experiencia  |  2    |
+| Suerte     |   6   | Experiencia  |  1    |
 | Destreza   |   0   | Percepción   |  0    |
 
 - *Humano*-*Guerrero*
 - **Armas**: Espada ancha
 - **Armaduras**: Cota de malla y Escudo
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
-- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, [Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png)	
+- **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, [Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png), Forzudo.  	
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/4
+- **Partidas jugadas:** 4/5
 
 ---
 
-| [Thrund Bugman](#Thrund-id)      |      | **PV: 12**             |      |
+| [Thrund Bugman](#Thrund-id)      |      | **PV: 14**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   3   | Mana         |  -    |
 | Disparo    |   4   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  1   |
+| Suerte     |   5   | Experiencia  |  0   |
 | Destreza   |   1   | Percepción   |  **1**    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*-*Explorador*
-- **Armas**: Hacha de Batalla, Lanza, Arco Corto  
+- **Armas**: Hacha, Lanza, Ballesta  
 - **Armaduras**: Armadura de Cuero, Escudo  
 - **Equipo**: Ganzúas  
-- **Habilidades** (1/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador
+- **Habilidades** (2/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador, Recarga rápida.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/4
+- **Partidas jugadas:** 4/5
 
 
 ----
@@ -149,7 +149,7 @@ title: DUN Bigarren kanpaina
 	💫[Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
 - **Acompañante**: Cuervo (+1PV)
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/4
+- **Partidas jugadas:** 2/5
 
 ---
 
@@ -169,7 +169,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/4
+- **Partidas jugadas:** 0/5
 
 
 ----
@@ -179,6 +179,7 @@ title: DUN Bigarren kanpaina
 - Primeras pistas
 - Burmister el mercader 
 - La cueva de Burmister
+- De vuelta en la mansión
 
 ----
 
@@ -202,3 +203,9 @@ Acabó fijando la mirada en su hacha, "la pequeña Gilda"; con un rápido movimi
 **Son tiempos de paz.** Las cicatrices pueblan tu piel como recordatorios de cada uno de los errores cometidos en el campo de batalla. Tu cuerpo ha perdido en vigor y ganado en volumen. A este lado de la ley no queda sitio para un veterano acostumbrado al rigor de mil campañas. Malvives con lo que te dan por ahuyentar a borrachos y alborotadores de El Mercader errante en Vernek. La rutina diaria y demasiada hidromiel han apagado tu curiosidad y anquilosado tus músculos; simplemente te dejas llevar a la espera del próximo trago. Son tiempos de paz. Son tiempos difíciles.
 
 **Son tiempos de cambio.** Algo ha ocurrido hoy: Un extraño y variopinto grupo ha venido a la taberna haciendo preguntas... Lo que inicialmente te ha sugerido problemas pronto se ha convertido en oportunidades. Algo ha encendido la chispa de la curiosidad en tu interior y reavivado unas brasas que hace tiempo que creías extintas. Si... ¿Por qué no? Tal vez sea el momento de afilar el acero, quitarle el polvo al escudo y la herrumbre a la coraza. Es hora de que el viejo lobo vuelva a aullar por última vez... Son tiempos de cambio. Tiempos de incertidumbre para Vardek Duncan.
+
+## Xarpas Moe {#Xarpas-id}
+Hijo bastardo de la condesa Arnaltia del Castillo Azul, Xarpas creció en la corte, junto a la aristocracia humana de la ciudad. El empeño y orgullo de su madre le proporcionó una educación a la altura de los señoritos, matemáticas, física y sobre todo música. Su mente sin embargo viajaba por todo Arasca soñando con una familia unida y un padre al que no conoció.
+Su condición de mestizo le granjeó la enemistad de la chavalería de la corte, siendo las palizas y los insultos su segunda escuela. La belleza y voluptuosidad de su señora madre tampoco ayudaban. Arnaltia, sin embargo, era una mujer fuerte y de carácter, una auténtica señora. Consiguió que su hijo sobreviviera a cambio de favores y trifulcas.
+Un buen día, Arnaltia escuchó que se celebraba el campeonato de tiro más importante de la región a día y medio de marcha del Castillo Azul. Le dijo a su hijo que tenía que negociar ciertos asuntos y se encaminó al torneo con su fiel rodillo de madera como arma. Xarpas, curioso siempre, la siguió hasta el torneo, en el que quedó maravillado con la habilidad de Pogachas, Brassanac, pero sobre todo con el arte de un tal Errupin, a la postre campeón del torneo y ganador de la Gran Bolsa del concurso. Como buen pillo, robó una de las hachas arrojadizas del Elfo y volvió corriendo a su casa, donde no dejó de practicar el lanzamiento hasta convertirse en el campeón de lanzamiento del Castillo Azul. Arnaltia volvió más tarde con los ojos brillantes, las mejillas sonrojadas y una gran bolsa de dinero.
+Errupin por su parte, volvió a la taberna con sus amigos sin dinero, borracho y hablando de señoras y algo de cierta manutención...

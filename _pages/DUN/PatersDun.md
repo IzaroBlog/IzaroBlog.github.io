@@ -29,9 +29,9 @@ title: Paters Online DUN
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
-- **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png).  
+- **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero
-- **Equipo**: Ganzúas 
+- **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (0/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 0/0
