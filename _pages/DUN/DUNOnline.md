@@ -1,7 +1,7 @@
 ---
-permalink: /DUN/PatersDun
+permalink: /DUN/DUNOnline
 layout: page
-title: Paters Online DUN
+title: Online DUN
 ---
 
 
@@ -11,7 +11,7 @@ title: Paters Online DUN
 ### 📆 Semana de campaña: 1   
 ### 💰 Tesorería: 0     
 ### ↪️ Partidas disponibles:   
-- Liberad a los mercadres
+- La Guarida de Rorg
   
 ----
 
@@ -25,7 +25,7 @@ title: Paters Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   0   |
+| Suerte     |  4    | Experiencia  |   1   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
@@ -34,7 +34,7 @@ title: Paters Online DUN
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (0/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/0
+- **Partidas jugadas:** 2/2
 
 
 ---
@@ -47,7 +47,7 @@ title: Paters Online DUN
 | Fuerza     |   4   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  0    |
+| Suerte     |   5   | Experiencia  |  1    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
@@ -56,43 +56,19 @@ title: Paters Online DUN
 - **Equipo**: Hidromiel, Hierbas Curativas.
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/0
+- **Partidas jugadas:** 2/2
 
 ---
 
-| Drugbyu Sagarrondo     |      |      **PV: 10**        |      |
+
+| Varyana Piruja    |      | **PV: 10**             |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |  4    | Agilidad     |   1   |
-| Ataque     |  3    | Inteligencia |   3   |
-| Fuerza     |  4    | Mana         |   3   |
-| Disparo    |  2    | Valentia     |   4   |
-| Armadura   |  5   | Vitalidad    |   6   |
-| Suerte     |  4    | Experiencia  |  0    |
-| Destreza   |  0    | Percepción   |  0    |
-
-- *Arbóreo-Monje Guerrero*
-- **Armas**: Espada ancha,
-- **Armaduras**: Gran Escudo
-- **Equipo**: Cuerda y Piquetas. 
-- **Habilidades** (0/6): *Supervivencia, Vulnerable al Fuego, [Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo*
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/0
-- **Hechizos**: 
--[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
-	💫???   
-	💫???    
-
-
----  
-
-| Dark Nereus    |      | **PV: 10**             |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   ?   | Agilidad     |   ?   |
-| Ataque     |   ?   | Inteligencia |   ?   |
-| Fuerza     |   ?   | Mana         |   ?   |
-| Disparo    |   ?   | Valentia     |   ?   |
-| Armadura   |   ?   | Vitalidad    |   ?   |
-| Suerte     |   5   | Experiencia  |  0    |
+| Movimiento |   6   | Agilidad     |   4   |
+| Ataque     |   2   | Inteligencia |   5   |
+| Fuerza     |   3   | Mana         |   10 (+2)   |
+| Disparo    |   4   | Valentia     |   4   |
+| Armadura   |   3   | Vitalidad    |   4   |
+| Suerte     |   5   | Experiencia  |  1    |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
@@ -101,18 +77,43 @@ title: Paters Online DUN
 - **Equipo**: Poción de maná
 - **Habilidades** (0/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)* 
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/0
+- **Partidas jugadas:** 2/2
 - **Hechizos**: 
 - [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
-	🌚 ???  
-	🌚 ???  
-	🌚 ???  
-	🌚 ???   
+	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
+	🌚 [Alas negras](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/alasnegras.png?raw=true)  
+	🌚 [Asfixia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/asfixia.png?raw=true)  
+	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)   
+
+---  
+
+| Bergoglio    |      |      **PV: 10**        |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   3   |
+| Ataque     |  5    | Inteligencia |   4   |
+| Fuerza     |  4    | Mana         |   4   |
+| Disparo    |  3    | Valentia     |   4   |
+| Armadura   |  3   | Vitalidad    |   4   |
+| Suerte     |  6    | Experiencia  |  0    |
+| Destreza   |  0    | Percepción   |  0    |
+
+- *Humano-Monje Guerrero*
+- **Armas**: Espada ancha,
+- **Armaduras**: Gran Escudo, Coraza
+- **Equipo**: Cuerda y Piquetas. 
+- **Habilidades** (0/6): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo*
+- **Xp en Pozo de Lucha**: 0/3
+- **Partidas jugadas:** 0/2
+- **Hechizos**: 
+-[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
+	💫???   
+	💫???    
+
 
 ---  
 
 ## Partidas jugadas
-
+- Liberad a los mercaderes
 
 ----
 
