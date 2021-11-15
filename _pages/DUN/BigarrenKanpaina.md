@@ -12,7 +12,8 @@ title: DUN Bigarren kanpaina
 ### 💰 Tesorería: 40 y pico monedas de oro.     
 ### ↪️ Partidas disponibles:   
 - Visita al monasterio
-### [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
+
+### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
 ----
 
 ## Pertsonaiak
@@ -212,6 +213,9 @@ Errupin por su parte, volvió a la taberna con sus amigos sin dinero, borracho y
 
 # Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
 
-## 🧙‍♀️ BIBAL: [Brazaletes Sensoriales](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/brazaletessensoriales.png?raw=true), [Bastón Luminoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/bastonluminoso.png?raw=true), [Grebas de Gacela](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/grebasdegacela.png?raw=true)
+🧙‍♀️ **BIBAL**:   
+- [Brazaletes Sensoriales](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/brazaletessensoriales.png?raw=true)
+- [Bastón Luminoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/bastonluminoso.png?raw=true)
+- [Grebas de Gacela](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/grebasdegacela.png?raw=true)
 
 
