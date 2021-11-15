@@ -212,6 +212,6 @@ Errupin por su parte, volvió a la taberna con sus amigos sin dinero, borracho y
 
 # Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
 
-## 🧙‍♀️ BIBAL: Brazaletes Sensoriales, Bastón Luminoso, Grebas de Gacela
+## 🧙‍♀️ BIBAL: [Brazaletes Sensoriales](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/brazaletessensoriales.png?raw=true), [Bastón Luminoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/bastonluminoso.png?raw=true), [Grebas de Gacela](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/grebasdegacela.png?raw=true)
 
 
