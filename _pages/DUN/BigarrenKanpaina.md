@@ -11,8 +11,8 @@ title: DUN Bigarren kanpaina
 ### 📆 Semana de campaña: 14??    
 ### 💰 Tesorería: 40 y pico monedas de oro.     
 ### ↪️ Partidas disponibles:   
-- Vuelta a la mansión
-  
+- Visita al monasterio
+### [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
 ----
 
 ## Pertsonaiak
@@ -40,7 +40,7 @@ title: DUN Bigarren kanpaina
 ---
 
 
-| Morbius      |      |      **PV: 12**        |      |
+| Morbius      |      |      **PV: 16** (12+4)        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   2   |
 | Ataque     |  4    | Inteligencia |   3   |
@@ -51,9 +51,9 @@ title: DUN Bigarren kanpaina
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
-- **Armas**: Espada ancha, Colmillos.   
+- **Armas**: Espada ancha, Hacha de Batalla, Colmillos.   
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
-- **Equipo**: Pócima de curación. 
+- **Equipo**: _**[Yelmo de la Diosa](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/yelmodeladiosa.png?raw=true)(4)**_,Pócima de curación. 
 - **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg).
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 5/5
@@ -89,14 +89,14 @@ title: DUN Bigarren kanpaina
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   5   | Inteligencia |  4    |
-| Fuerza     |   3   | Mana         |  -    |
+| Fuerza     |   **4**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
 | Suerte     |   6   | Experiencia  |  1    |
 | Destreza   |   0   | Percepción   |  0    |
 
 - *Humano*-*Guerrero*
-- **Armas**: Espada ancha
+- **Armas**: Espada ancha, hacha.
 - **Armaduras**: Cota de malla y Escudo
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
 - **Habilidades** (1/8): *Perdido en la oscuridad, Curtido, Aguante*, [Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png), Forzudo.  	
@@ -209,3 +209,9 @@ Hijo bastardo de la condesa Arnaltia del Castillo Azul, Xarpas creció en la cor
 Su condición de mestizo le granjeó la enemistad de la chavalería de la corte, siendo las palizas y los insultos su segunda escuela. La belleza y voluptuosidad de su señora madre tampoco ayudaban. Arnaltia, sin embargo, era una mujer fuerte y de carácter, una auténtica señora. Consiguió que su hijo sobreviviera a cambio de favores y trifulcas.
 Un buen día, Arnaltia escuchó que se celebraba el campeonato de tiro más importante de la región a día y medio de marcha del Castillo Azul. Le dijo a su hijo que tenía que negociar ciertos asuntos y se encaminó al torneo con su fiel rodillo de madera como arma. Xarpas, curioso siempre, la siguió hasta el torneo, en el que quedó maravillado con la habilidad de Pogachas, Brassanac, pero sobre todo con el arte de un tal Errupin, a la postre campeón del torneo y ganador de la Gran Bolsa del concurso. Como buen pillo, robó una de las hachas arrojadizas del Elfo y volvió corriendo a su casa, donde no dejó de practicar el lanzamiento hasta convertirse en el campeón de lanzamiento del Castillo Azul. Arnaltia volvió más tarde con los ojos brillantes, las mejillas sonrojadas y una gran bolsa de dinero.
 Errupin por su parte, volvió a la taberna con sus amigos sin dinero, borracho y hablando de señoras y algo de cierta manutención...
+
+# Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
+
+## 🧙‍♀️ BIBAL: Brazaletes Sensoriales, Bastón Luminoso, Grebas de Gacela
+
+
