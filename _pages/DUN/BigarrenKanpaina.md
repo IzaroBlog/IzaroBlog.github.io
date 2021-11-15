@@ -61,7 +61,7 @@ title: DUN Bigarren kanpaina
 
 ---  
 
-| [Harpmouth Moe](#Xarpas-id)    |      | **PV: 12**             |      |
+| [Harpmouth Moe](#Xarpas-id)    |      | **PV: 14**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |   4   |
 | Ataque     |   3   | Inteligencia |   4   |
@@ -128,7 +128,7 @@ title: DUN Bigarren kanpaina
 ----
 
 
-| Nereus The Great      |      |    **PV: 13**	(12+1)          |      |
+| Nereus The Great      |      |    **PV: 12**	  |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   2   | Inteligencia |  5    |
