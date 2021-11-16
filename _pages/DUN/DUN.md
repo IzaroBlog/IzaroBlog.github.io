@@ -29,12 +29,15 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Listado de Objetos Mágicos y Reliquias](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Objetos%20m%C3%A1gicos%20y%20Reliquias.pdf) creado por @Oraculizador 👏 .   
 - [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
 - [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
+- [Dun Compendio de reglas Fanmade (1)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Compendio%20reglas%20fanmade%20(v1).pdf), por @Behelin
 - [Cronograma de reglas para jugar con JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/4_6019197443285977481.pdf) gracias a @Joseca 👏 .
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
 - [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.  
-- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)
+- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
+- [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
+
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
@@ -168,7 +171,7 @@ Exacto, el hechizo da un -1 a todas las tiradas, menos a las de Fortuna.
 Contra criaturas grandes, enorme y campones es con critico y si se gasta el mana, el hechizo no es que falle sino que no le afecta. Si un hechizo es de Dominacion en area afectara al resto pero a ellos no (la invocacion de elementales estan excluidos en esta equación).  
 
 *Un personaje que sea [aprendiz de mago](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/niveleshechiceria.png?raw=true)(de nivel 10-15), cuando invoca criaturas (esqueletos, elementales) hacen también 1D6 menos de daño?*  
-Si, **todas** las invocaciones de aprendices tienen -1D6 de daño y un turno menos de duración. 
+Si, **todas** las invocaciones de aprendices tienen -1D6 de daño y un turno menos de duración.   
 
 ### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
