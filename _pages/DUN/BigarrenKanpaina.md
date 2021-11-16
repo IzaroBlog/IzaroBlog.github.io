@@ -8,8 +8,8 @@ title: DUN Bigarren kanpaina
 
 ----
 
-### 📆 Semana de campaña: 14??    
-### 💰 Tesorería: 40 y pico monedas de oro.     
+### 📆 Semana de campaña: 21
+### 💰 Tesorería: 53	
 ### ↪️ Partidas disponibles:   
 - Visita al monasterio
 
