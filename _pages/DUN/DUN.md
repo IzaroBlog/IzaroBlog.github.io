@@ -167,6 +167,8 @@ Exacto, el hechizo da un -1 a todas las tiradas, menos a las de Fortuna.
 *Los [hechizos de dominio](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dominio.jpg) solo se pueden echar a lideres sacando crítico. Si lanzo y no saco crítico se gasta maná y se considera lanzado o es fallo?*  
 Contra criaturas grandes, enorme y campones es con critico y si se gasta el mana, el hechizo no es que falle sino que no le afecta. Si un hechizo es de Dominacion en area afectara al resto pero a ellos no (la invocacion de elementales estan excluidos en esta equación).  
 
+*Un personaje que sea [aprendiz de mago](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/niveleshechiceria.png?raw=true)(de nivel 10-15), cuando invoca criaturas (esqueletos, elementales) hacen también 1D6 menos de daño?*  
+Si, **todas** las invocaciones de aprendices tienen -1D6 de daño y un turno menos de duración. 
 
 ### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
