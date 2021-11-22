@@ -20,6 +20,33 @@ title: Online DUN
 
 ## Pertsonaiak
 
+| Varyana Piruja    |      | **PV: 12**             |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   6   | Agilidad     |   4   |
+| Ataque     |   2   | Inteligencia |   5   |
+| Fuerza     |   3   | Mana         |   10 (+2)   |
+| Disparo    |   4   | Valentia     |   4   |
+| Armadura   |   3   | Vitalidad    |   4   |
+| Suerte     |   5   | Experiencia  |  0   |
+| Destreza   |   0   | Percepción   |  1    |
+
+- *Elfa*-*Bruja*
+- **Armas**: Daga y bastón
+- **Armaduras**:
+- **Equipo**: Poción de maná
+- **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
+- **Xp en Pozo de Lucha**: 1/3
+- **Partidas jugadas:** 3/3
+- **Hechizos**: 
+- [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
+	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
+	🌚 [Alas negras](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/alasnegras.png?raw=true)  
+	🌚 [Asfixia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/asfixia.png?raw=true)  
+	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)   
+
+---  
+
+
 
 | Chester Cheetos    |      |     **PV: 10**         |      |
 | ---------- | :--: | ------------ | :--: |
@@ -33,7 +60,7 @@ title: Online DUN
 
 - *Félido*-*Explorador*
 - **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
-- **Armaduras**: Armadura de Cuero
+- **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (0/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
@@ -62,33 +89,6 @@ title: Online DUN
 - **Partidas jugadas:** 3/3
 
 ---
-
-
-| Varyana Piruja    |      | **PV: 12**             |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   6   | Agilidad     |   4   |
-| Ataque     |   2   | Inteligencia |   5   |
-| Fuerza     |   3   | Mana         |   10 (+2)   |
-| Disparo    |   4   | Valentia     |   4   |
-| Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  0   |
-| Destreza   |   0   | Percepción   |  1    |
-
-- *Elfa*-*Bruja*
-- **Armas**: Daga y bastón
-- **Armaduras**:
-- **Equipo**: Poción de maná
-- **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
-- **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 3/3
-- **Hechizos**: 
-- [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
-	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
-	🌚 [Alas negras](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/alasnegras.png?raw=true)  
-	🌚 [Asfixia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/asfixia.png?raw=true)  
-	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)   
-
----  
 
 | Bergoglio    |      |      **PV: 10**        |      |
 | ---------- | :--: | ------------ | :--: |
