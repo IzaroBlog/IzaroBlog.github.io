@@ -8,10 +8,10 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 8   
-### 💰 Tesorería: 32    
+### 📆 Semana de campaña: 12   
+### 💰 Tesorería: El Viktor sabe    
 ### ↪️ Partidas disponibles:   
-- M3 Reyes bajo la tierra
+- M04 La sala de los espejos
 - M10 Cazar a la gran Criatura
 - M34 Guarida de Bandidos
 
@@ -27,7 +27,7 @@ title: Online DUN
 | Fuerza     |   3   | Mana         |   10 (+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  0   |
+| Suerte     |   5   | Experiencia  |  4   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
@@ -35,8 +35,8 @@ title: Online DUN
 - **Armaduras**:
 - **Equipo**: Poción de maná
 - **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
-- **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 3/3
+- **Xp en Pozo de Lucha**: 2/3
+- **Partidas jugadas:** 5/5
 - **Hechizos**: 
 - [Brujería (4/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -48,29 +48,29 @@ title: Online DUN
 
 
 
-| Chester Cheetos    |      |     **PV: 10**         |      |
+| Chester Cheetos    |      |     **PV: 14**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  6    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   2   |
+| Suerte     |  4    | Experiencia  |   0   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
 - **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
-- **Habilidades** (0/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/3
+- **Habilidades** (2/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, Disparo Certero.
+- **Xp en Pozo de Lucha**: 1/3
+- **Partidas jugadas:** 5/5
 
 
 ---
 
 
-| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 10**           |      |
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 12**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
@@ -84,9 +84,9 @@ title: Online DUN
 - **Armas**: Hacha a dos manos, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*
+- **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/3
+- **Partidas jugadas:** 5/5
 
 ---
 
@@ -106,7 +106,7 @@ title: Online DUN
 - **Equipo**:  
 - **Habilidades** (0/6): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/3
+- **Partidas jugadas:** 0/5
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
 	💫???   
@@ -119,6 +119,8 @@ title: Online DUN
 - Liberad a los mercaderes
 - La Guarida de Rorg
 - ¡Lobos!
+- Los muertos se levantan
+- Reyes bajo la tierra
 
 
 ----
