@@ -450,7 +450,7 @@ REGLAMENTO:
 [Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) sobra, es reminiscencia de la V1. (Ludic)
 En las páginas 35 y 37 del Reglamento se establece que si un personaje ataca desde la espalda* del objetivo (o este se encuentra derribado), obtendrá +1 a su prueba de Disparo a su tirada Cuerpo a Cuerpo y el defensor no podrá aplicar la parada de su escudo. El texto puesto entre paréntesis debe suprimirse, ya que el estado de Derribado no otorga dicho modificador positivo al atacante. Las consecuencias de estar derribado ese contemplan en la página 42 del Reglamento.  
 
-- Habilidad [Embestida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/embestida.png?raw=true). Hay que añadir la frase "No puede aplicarse contra enemigos de mayor tamaño". (Ludic)
+- Habilidad [Embestida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/embestida.png?raw=true). Hay que añadir la frase "No puede aplicarse contra Líderes o enemigos de mayor tamaño". (Ludic)
 
 
 - CARTA DE PERSONAJE PREGENERADO “CRYXX”.  
