@@ -358,6 +358,9 @@ Se necesita desencadenante, no eliges escoltar a un héroe concreto, sino que pu
 - *C) No se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido).*  
 La habilidad entra en juego en el caso C); no se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido)(Ludic).  
 
+*¿La habilidad [Embestida] se puede usar frente a personajes de mayor tamaño?*
+No. Ver apartado de Erratas {#ErratasV2-id}. 
+
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
@@ -446,6 +449,9 @@ Con la inestimable ayuda de @joseca! [PDF de Erratas](https://github.com/IzaroBl
 REGLAMENTO:  
 [Página 35: Ataque por la espalda](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/errataataqueporlaespalda.png): El [texto entre paréntesis](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Errata.Derribado.jpg) sobra, es reminiscencia de la V1. (Ludic)
 En las páginas 35 y 37 del Reglamento se establece que si un personaje ataca desde la espalda* del objetivo (o este se encuentra derribado), obtendrá +1 a su prueba de Disparo a su tirada Cuerpo a Cuerpo y el defensor no podrá aplicar la parada de su escudo. El texto puesto entre paréntesis debe suprimirse, ya que el estado de Derribado no otorga dicho modificador positivo al atacante. Las consecuencias de estar derribado ese contemplan en la página 42 del Reglamento.  
+
+- Habilidad [Embestida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/embestida.png?raw=true). Hay que añadir la frase "No puede aplicarse contra enemigos de mayor tamaño". (Ludic)
+
 
 - CARTA DE PERSONAJE PREGENERADO “CRYXX”.  
 Errata detectada en el personaje pregenerado “Cryxx” (raza cristalinos). Sus puntos de maná deben ser 8 y no 0 como por error consta en la carta.  
