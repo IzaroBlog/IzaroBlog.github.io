@@ -53,7 +53,7 @@ title: DUN Bigarren kanpaina
 - *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
 - **Armas**: Espada ancha, Hacha de Batalla, Colmillos.   
 - **Armaduras**: Armadura de Cuero, Gran Escudo.  
-- **Equipo**: _**[Espada de Filo Negro](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/espadafilonegro.png?raw=true),Pócima de curación. 
+- **Equipo**: _**[Espada de Filo Negro](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/espadafilonegro.png?raw=true)**_,Pócima de curación. 
 - **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg).
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 6/6
