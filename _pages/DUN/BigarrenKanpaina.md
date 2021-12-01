@@ -247,3 +247,31 @@ A pesar de su fama, Xarpas siguió siendo un tipo misterioso, le gustaba vivir c
 - [Grebas de Gacela](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/grebasdegacela.png?raw=true)
 
 
+# Historia
+
+Thrund estaba limpiando la nueva ballesta, era de buena factura, pero no llegaba al nivel de las fabricadas en los reinos enanos. Días atras, había recortado y lijado el mango para que se acomodase bien a su hombro. Había reforzado la cuerda, y con un par de pequeños ajustes, creía que estaba lista. 
+Hacía mucho que no disparaba, y realmente siempre había sido más diestro con el hacha que con la ballesta, aunque era capaz de disparar mucho más rápido que sus compañeros de armas, no era tan preciso. Como decía su tío... "si puedes derribar un orco antes de que llegue a usar su cimitarra, mucho mejor!"
+
+La compañía estaba desbordante de alegría, llevaban una buena cantidad de dinero en el cofre, y las últimas misiones habían sido un éxito. Thrund estaba contento también, pero había estado a punto de perder la vida frente a aquel gigantesco ogro, que de un porrazo lo dejó tirado en el suelo. Le experiencia no fue nada agradable, y los dos días siguientes tampoco....  Su codo se había resentido y había dejado en manos del lagarto Morbius su gran hacha de batalla. Aquél lagartijo era de poco hablar y un tanto torpe, pero se había ganado la confianza de Thrund. Estaba seguro que iba a hacer buen uso del hacha. 
+
+Cargó la ballesta con cuidado, revisó el hacha de su cintura y se dirigió al cruce dónde los había citado el bardo. Desde allí saldrían de noche a aquel monasterio. La verdad es que nunca le habían gustado los monjes... a ver qué les deparaba el destino esta vez..
+
+-
+
+🦑El "Calamar Bravo"?? Estaréis de broma, no? Dijo Nereus The Great. Kroak! Le hacéis caso al primer borrachuzo que os encontráis en las tabernas? 
+Thrund y Xarpas se miraron sorprendidos. 
+- Pues claro, Reymrandt es un contrabandista honesto- dijo Thrund
+- Y además nos invitó a la ronda de hidromieles! - Corroboró Xarpas. 
+A Morbius le costaba seguir las conversaciones de los sangre calientes y se solía mantener al margen, pero esta vez dijo algo con su tono siseante:
+- Big CHEEESSE necesitar agua!! 
+Leon O.  murmuró algo que sonó ciertamente despectivo y dio la espalda al Gran Lagarto. Últimamente se notaba algo de tensión entre ambos... 
+
+Nereus se giró desesperada, y con un pequeño salto se subió a la mesa. 
+Pues lo siento compañeros, pero tengo que seguir la pista de algo muuucho más importante que un barco destartalado... voy a investigar por mi cuenta el origen de la piedranoche, a ver si ato algún cabo.... así que esta vez os tendréis que apañar otra vez sin mí. Y con otro ágil salto, salió por la ventana en dirección a la gran biblioteca de Bibal. 
+
+El ruido metalizado precedía a Vardek, que de un manotazo abrió la puerta, aún cojeando. 
+-Chavalada, ya tengo pasajes y coartada... saldremos hacia allí hoy por la noche y nos haremos pasar por cazadores de animales salvajes... así que... ejem... Leon O. y Morbius, deberéis hacer el papel de un león de las cavernas y un Lagarto de Isla Roja. ¿De acuerdo?  Xarpas, tu tridente da el pego y Thrund tu llevarás la lanza en ristre. 
+Leon O. rugio y espetó: "Ni de coña" con una mirada amenazante.
+Bien, pensó Vardek- ahora queda los más difícil de todo, convencer a Leon O. de que el plan va a funcionar....
+
+
