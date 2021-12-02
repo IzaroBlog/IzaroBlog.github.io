@@ -24,3 +24,5 @@ Energia-komunitateak herritarrek, beste eragile batzuekin batera, antolatutako e
 Ez dezagun amore eman. Oraindik badugu aukera klima larrialdia ekiditen gure ekarpena egiteko, tokian-tokian hasiz, baina mundu mailako ikuspegia izanik. Berreskura dezagun antiglobalizazio mugimenduaren lelo ezaguna: *Lokalki ekin, baina globalki pentsatu!*.
 
 ![energiakomunitateak](https://images.unsplash.com/photo-1515191107209-c28698631303?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80)
+Photo by <a href="https://unsplash.com/@mbrunacr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Miguel Bruna</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
