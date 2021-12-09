@@ -84,7 +84,7 @@ title: Online DUN
 - **Armas**: Hacha a dos manos, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura
+- **Habilidades** (1/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 5/5
 
