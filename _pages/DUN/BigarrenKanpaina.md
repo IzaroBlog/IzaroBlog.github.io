@@ -25,7 +25,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **6**    | Experiencia  |   4+?   |
+| Suerte     |  **6**    | Experiencia  |   4   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Bailarín Marcial*
@@ -34,7 +34,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: _**[Yelmo de la Diosa](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/yelmodeladiosa.png?raw=true)(4)**_
 - **Habilidades** (0/8): *Danza de Combate, Salto Volador, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*  
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 
 
 ---
@@ -47,7 +47,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |  4    | Mana         |   -   |
 | Disparo    |  3    | Valentia     |   3   |
 | Armadura   |  4   | Vitalidad    |   6   |
-| Suerte     |  5    | Experiencia  |  7+?    |
+| Suerte     |  5    | Experiencia  |  7    |
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *[Reptiliano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/reptiliano.png)*-*Gladiador*
@@ -56,7 +56,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: _**[Espada de Filo Negro](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/espadafilonegro.png?raw=true)**_, Pócima de curación. 
 - **Habilidades** (1/6): *Sangre fría, Ignora terreno difícil, Aguante, Pelea Sucia,* [Maestro en combate](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/maestroencombate.jpg).
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 
 ---  
 
@@ -67,7 +67,7 @@ title: DUN Bigarren kanpaina
 | Fuerza     |   4   | Mana         |   5(+1)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  2+?    |
+| Suerte     |   5   | Experiencia  |  2    |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfo*-*Bardo*
@@ -75,25 +75,25 @@ title: DUN Bigarren kanpaina
 - **Armaduras**: Armadura de Cuero  
 - **Equipo**: Hidromiel, Instrumento musical  
 - **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), [Música enardecedora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/musicaenardecedora.png), [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Primeros auxilios, Torturador.  
-- **Hechizos**: [Saber de la Interpretación (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
+- **Hechizos**: [Saber de la Interpretación (3/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Interpretacion)  
 	🎶[Encantador](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/encantador.jpg)  
 	🎶[Distracción](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Interpretacion/distraccion.jpg)  
 	🎶[Sonido revitalizante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Interpretacion/sonidorevitalizante.jpg)
 
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 
 
 ---  
 
-| [Vardek Duncan](#Duncan-id)      |      |   **PV: 14**           |      |
+| [Vardek Duncan](#Duncan-id)      |      |   **PV: 16**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   5   | Agilidad     |  4    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   **4**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
-| Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   6   | Experiencia  |  0+?    |
+| Armadura   |   3   | Vitalidad    |  6   |
+| Suerte     |   6   | Experiencia  |  0    |
 | Destreza   |   0   | Percepción   |  0    |
 
 - *Humano*-*Guerrero*
@@ -102,7 +102,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Antorcha, Pócima de Destreza, Hidromiel Vigorosa
 - **Habilidades** (3/8): *Perdido en la oscuridad, Curtido, Aguante*, [Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png), Forzudo, Herbología.  	
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 8/9
+- **Partidas jugadas:** 9/10
 
 ---
 
@@ -122,7 +122,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Ganzúas  
 - **Habilidades** (2/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Vista de Águila*, Cazador, Recarga rápida.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 7/9
+- **Partidas jugadas:** 7/10
 
 
 ----
@@ -148,9 +148,8 @@ title: DUN Bigarren kanpaina
 	💫[Luz protectora](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzprotectora.png)  
 	💫[Clarividencia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/clarividencia.png)  
 	💫[Arma centelleante](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png). 
-- **Acompañante**: Cuervo (+1PV)
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/9
+- **Partidas jugadas:** 2/10
 
 ---
 
@@ -170,7 +169,7 @@ title: DUN Bigarren kanpaina
 - **Equipo**: Pócima de curación
 - **Habilidades** (0/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Matagigantes, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/9
+- **Partidas jugadas:** 0/10
 
 
 ----
@@ -192,9 +191,6 @@ title: DUN Bigarren kanpaina
 
 🔴El oráculo de la serpiente: La compañía lleva algún tiempo tras la pista de Julius, el mago Gris, un viejo cliente que se dio a la fuga antes de abonar nuestros honorarios como espadas de alquiler...
 
-🔵El Calamar Bravo: 
-
-🔵¡Sacadlo de ahí! (Recompensa extra de 20 monedas): Berloren, el hermano rebelde de Bertrand, un noble de la localidad, ha sido sorprendido robando comida del gobernador para repartirla entre los ciudadanos. Bertrand quiere contratarnos para que rescatemos a su hermano antes de que le corten las manos.
 
 -----
 
@@ -208,7 +204,7 @@ title: DUN Bigarren kanpaina
 - El Calamar Bravo
 - Asalto de bandidos
 - ¡Sacádlo de ahí!
-
+- ¡Guardias!
 ----
 
 ## Thrund Bugman {#Thrund-id}
