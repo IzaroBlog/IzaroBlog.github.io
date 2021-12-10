@@ -9,7 +9,7 @@ title: Online DUN
 ----
 
 ### 📆 Semana de campaña: 12   
-### 💰 Tesorería: El Viktor sabe    
+### 💰 Tesorería: 61 monedas    
 ### ↪️ Partidas disponibles:   
 - M04 La sala de los espejos
 - M10 Cazar a la gran Criatura
