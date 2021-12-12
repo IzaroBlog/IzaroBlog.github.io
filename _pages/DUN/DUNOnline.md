@@ -143,7 +143,7 @@ No terminó la frase porque ya tenía un jarra de cerveza estampada en la cara, 
 Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico de la sangre en mi boca, y miré en redondo a la concurrencia. Como siempre, la manada con su lider inconsciente en el suelo, no se atrevía a levantar la mirada de sus jarras. Con la mano en el pomo de la espada, avancé directa a por el único que me sostenía la mirada. Tenía que ser este el félido que andaba buscando. 
 ¿Por qué los hombres hacían siempre las cosas tán difíciles?
 
-# Objetos Mágicos en torres de hechiceria{#objetosmagicos-id}
+# Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
 
 🧙‍♀️ **THAMEY**:   
 - [Escudo maligno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/escudomaligno.png)
