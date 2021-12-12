@@ -55,7 +55,7 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   1   |
+| Suerte     |  4    | Experiencia  |   2   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
