@@ -41,7 +41,7 @@ title: Online DUN
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
 	🌚 [Alas negras](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/alasnegras.png?raw=true)  
 	🌚 [Asfixia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/asfixia.png?raw=true)  
-	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)
+	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
 
 ---  
