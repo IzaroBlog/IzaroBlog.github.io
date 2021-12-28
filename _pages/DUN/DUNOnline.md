@@ -8,8 +8,8 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 19   
-### 💰 Tesorería: 61 monedas ??    
+### 📆 Semana de campaña: 31    
+### 💰 Tesorería: 30 monedas     
 ### ↪️ Partidas disponibles:   
 - M04 La sala de los espejos
 - M10 Cazar a la gran Criatura
@@ -20,14 +20,14 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 14**             |      |
+| Varyana Piruja    |      | **PV: 16**             |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
 | Fuerza     |   3   | Mana         |   10 (+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  3   |
+| Suerte     |   5   | Experiencia  |  2?   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
@@ -36,13 +36,14 @@ title: Online DUN
 - **Equipo**: Poción de maná
 - **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 5/5
+- **Partidas jugadas:** 8/8
 - **Hechizos**: 
-- [Brujería (5/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
+- [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
 	🌚 [Alas negras](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/alasnegras.png?raw=true)  
 	🌚 [Asfixia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/asfixia.png?raw=true)  
 	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)  
+	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
 
 ---  
@@ -56,7 +57,7 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   2   |
+| Suerte     |  4    | Experiencia  |   3?   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
@@ -65,29 +66,29 @@ title: Online DUN
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (2/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, Disparo Certero.
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 6/6
+- **Partidas jugadas:** 8/8
 
 
 ---
 
 
-| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 12**           |      |
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 14**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   4   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  3    |
+| Suerte     |   5   | Experiencia  |  1    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
 - **Armas**: Hacha a dos manos, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (1/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura
+- **Habilidades** (1/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, Escolta.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 6/6
+- **Partidas jugadas:** 8/8
 
 ---
 
@@ -98,7 +99,7 @@ title: Online DUN
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  0    |
+| Suerte     |  6    | Experiencia  |  1    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
@@ -107,11 +108,11 @@ title: Online DUN
 - **Equipo**:  
 - **Habilidades** (0/7): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 0/6
+- **Partidas jugadas:** 2/8
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
-	💫???   
-	💫???    
+	💫 Arma centelleante
+	💫 Luz sanadora
 
 ----
 
@@ -126,7 +127,8 @@ title: Online DUN
 - Los muertos se levantan
 - Reyes bajo la tierra
 - M34 Guarida de Bandidos
-
+- Asalto de bandidos
+- Defensa de la ciudad
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
@@ -150,3 +152,8 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 - [Escudo maligno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/escudomaligno.png)
 - [Anillo del sol](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/anillodelsol.png)
 - [Yelmo del Dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/yelmodeldragon.png)
+
+🧙‍♀️ **MENON**:
+- Espada bastarda mataorcos
+- Lanza voladora
+- Libro de los muertos
