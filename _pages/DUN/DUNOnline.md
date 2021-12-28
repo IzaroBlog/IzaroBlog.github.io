@@ -57,7 +57,7 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   3?   |
+| Suerte     |  4    | Experiencia  |   2?   |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
@@ -79,7 +79,7 @@ title: Online DUN
 | Fuerza     |   4   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  1    |
+| Suerte     |   5   | Experiencia  |  0?    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
