@@ -4,7 +4,7 @@ title:  "Planetaren mugak gainditzen"
 categories: eu environment
 tags: [eu, klima larrialdia, planetaren mugak, bonudaries]
 ---
-[*Artikulu hau Zientzia Kaieran argitaratu zen*](https://zientziakaiera.eus/2021/12/29/planetaren-mugak-gainditzen/)
+
 Donella Meadows ingurumen-zientzialariak eta bere taldeak [“Hazkundearen mugak”](https://eu.wikipedia.org/wiki/Hazkundearen_mugak) txosten famatua idatzi zuten 1972an, hazkundeak zituen muga garrantzitsuenak aipatuz (Meadows et al., 1972). Hogeita hamar urte geroago txostena berrikusi eta liburu berri bat argitaratu zuten, non argi uzten zuten berriro ere mugak gaindituz goazela eta kolapsoaren bidea hartu dugula: baliabide gero eta gutxiago dugu eskura, eta aldiz populazio, kontsumo eta kutsadura geroz eta gehiago (Meadows et al., 2006).
 
 Planetaren mugak lanean -edo ingelesez *Planetary boundaries* deitutakoan- Lur sistemaren egonkortasunerako funtsezko 9 prozesuen egoera ebaluatzen dute. Planetaren bizigarritasuna arriskuan jar dezaketen prozesu hauentzako atalase batzuk iradokitzen dituen marko kontzeptual bat da.
@@ -49,3 +49,5 @@ Erreferentzia bibliografikoak:
 - Lenton, T. M. et al. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105 (6), 1786-1793. DOI: 10.1073/pnas.0705414105
 - Meadows, D. H., Randers, J., Meadows, D. L. (2006). Los límites del crecimiento: 30 años después. Galaxia Gutenberg, Barcelona.
 - Meadows, D. H., Randers, J., Meadows, D. L., Behrens, W. W. (1972). The Limits to Growth. Potomac Associates Book – Universe Books, New York.
+
+[*Artikulu hau Zientzia Kaieran argitaratu zen*](https://zientziakaiera.eus/2021/12/29/planetaren-mugak-gainditzen/)
