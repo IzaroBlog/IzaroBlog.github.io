@@ -41,12 +41,11 @@ Ikusten dugunez, ur-jauzi efektu honek eragin oso desberdinak izan ditzake eta m
 Planetaren mugak gaindituz goaz, bihurgunera gero eta azkarrago iritsiz, ziurgabetasun eta arriskuen eremuan gero eta gehiago barneratuz. Noiz jabetuko gara planetak mugak dituela? Noiz ekingo diogu gure planeta benetan zaintzeari?
 
 Erreferentzia bibliografikoak:
-
-    Lenton, T. M. et al. (2019). Climate tipping points — too risky to bet against. Nature, 575, 592-595. DOI: https://doi.org/10.1038/d41586-019-03595-0
+- Lenton, T. M. et al. (2019). Climate tipping points — too risky to bet against. Nature, 575, 592-595. DOI: https://doi.org/10.1038/d41586-019-03595-0
     IPCC, (2019): IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, A. Alegría, M. Nicolai, A. Okem, J. Petzold, B. Rama, N.M. Weyer (eds.)]
-    Steffen, W. et al. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115 (33), 8252-8259. DOI:https://doi.org/10.1073/pnas.1810141115
-    Steffen, W. et al. (2015). Planetary boundaries: Guiding human development on a changing planet. Science, 347 (6223). DOI: 10.1126/science.1259855
-    Rockström, J. et al. (2009). Planetary boundaries:exploring the safe operating space for humanity. Ecology and Society, 14 (2), 32.
-    Lenton, T. M. et al. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105 (6), 1786-1793. DOI: 10.1073/pnas.0705414105
-    Meadows, D. H., Randers, J., Meadows, D. L. (2006). Los límites del crecimiento: 30 años después. Galaxia Gutenberg, Barcelona.
-    Meadows, D. H., Randers, J., Meadows, D. L., Behrens, W. W. (1972). The Limits to Growth. Potomac Associates Book – Universe Books, New York.
+- Steffen, W. et al. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115 (33), 8252-8259. DOI:https://doi.org/10.1073/pnas.1810141115
+- Steffen, W. et al. (2015). Planetary boundaries: Guiding human development on a changing planet. Science, 347 (6223). DOI: 10.1126/science.1259855
+- Rockström, J. et al. (2009). Planetary boundaries:exploring the safe operating space for humanity. Ecology and Society, 14 (2), 32.
+- Lenton, T. M. et al. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105 (6), 1786-1793. DOI: 10.1073/pnas.0705414105
+- Meadows, D. H., Randers, J., Meadows, D. L. (2006). Los límites del crecimiento: 30 años después. Galaxia Gutenberg, Barcelona.
+- Meadows, D. H., Randers, J., Meadows, D. L., Behrens, W. W. (1972). The Limits to Growth. Potomac Associates Book – Universe Books, New York.
