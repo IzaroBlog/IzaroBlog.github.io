@@ -19,7 +19,7 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 16**             |      |
+| Varyana Piruja    |      | **PV: 22 ** (16+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
@@ -32,7 +32,7 @@ title: Online DUN
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
 - **Armaduras**:
-- **Equipo**: Poción de maná,
+- **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**
 - **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
 - **Xp en Pozo de Lucha**: 2/3
 - **Partidas jugadas:** 9/9
@@ -110,8 +110,8 @@ title: Online DUN
 - **Partidas jugadas:** 3/9
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
-	💫 Arma centelleante  
-	💫 Luz sanadora  
+	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
+	💫 [Luz sanadora](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png?raw=true)    
 
 ----
 
