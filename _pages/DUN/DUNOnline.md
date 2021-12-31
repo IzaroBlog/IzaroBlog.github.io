@@ -8,10 +8,9 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 31    
-### 💰 Tesorería: 30 monedas     
+### 📆 Semana de campaña: 36    
+### 💰 Tesorería: 54 monedas     
 ### ↪️ Partidas disponibles:   
-- M04 La sala de los espejos
 - M10 Cazar a la gran Criatura
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
@@ -27,16 +26,16 @@ title: Online DUN
 | Fuerza     |   3   | Mana         |   10 (+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   4   |
-| Suerte     |   5   | Experiencia  |  2?   |
+| Suerte     |   5   | Experiencia  |  4   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
 - **Armaduras**:
-- **Equipo**: Poción de maná
+- **Equipo**: Poción de maná,
 - **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Habilidad Mental.
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 8/8
+- **Partidas jugadas:** 9/9
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -50,23 +49,23 @@ title: Online DUN
 
 
 
-| Chester Cheetos    |      |     **PV: 14**         |      |
+| Chester Cheetos    |      |     **PV: 16**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  6    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   2?   |
+| Suerte     |  4    | Experiencia  |   1  |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
 - **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
-- **Habilidades** (2/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, Disparo Certero.
+- **Habilidades** (3/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, Disparo Certero, "una de combate"
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 8/8
+- **Partidas jugadas:** 9/9
 
 
 ---
@@ -79,40 +78,40 @@ title: Online DUN
 | Fuerza     |   4   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  0?    |
+| Suerte     |   5   | Experiencia  |  2    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
 - **Armas**: Hacha a dos manos, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (1/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, Escolta.
+- **Habilidades** (2/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, Escolta.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 8/8
+- **Partidas jugadas:** 9/9
 
 ---
 
-| Bergoglio    |      |      **PV: 10**        |      |
+| Bergoglio    |      |      **PV: 12**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   3   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  1    |
+| Suerte     |  6    | Experiencia  |  0    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha,
 - **Armaduras**: Gran Escudo, Coraza
 - **Equipo**:  
-- **Habilidades** (0/7): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*
+- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, "una de capucha"
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 2/8
+- **Partidas jugadas:** 3/9
 - **Hechizos**: 
--[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) o Bendiciones (2/6):   
-	💫 Arma centelleante
-	💫 Luz sanadora
+-[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
+	💫 Arma centelleante  
+	💫 Luz sanadora  
 
 ----
 
@@ -129,6 +128,8 @@ title: Online DUN
 - M34 Guarida de Bandidos
 - Asalto de bandidos
 - Defensa de la ciudad
+- La sala de los espejos  
+
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
