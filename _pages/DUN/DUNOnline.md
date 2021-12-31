@@ -19,7 +19,7 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 22 ** (16+6)            |      |
+| Varyana Piruja    |      | **PV: 22** (16+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
