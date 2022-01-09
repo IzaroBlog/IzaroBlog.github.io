@@ -8,8 +8,8 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 36    
-### 💰 Tesorería: 54 monedas     
+### 📆 Semana de campaña: 43    
+### 💰 Tesorería: 81 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura
 
@@ -19,13 +19,13 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 22** (16+6)            |      |
+| Varyana Piruja    |      | **PV: 24** (18+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
 | Fuerza     |   3   | Mana         |   12 (+2)   |
 | Disparo    |   4   | Valentia     |   4   |
-| Armadura   |   3   | Vitalidad    |   4   |
+| Armadura   |   3   | Vitalidad    |   5   |
 | Suerte     |   5   | Experiencia  |  4   |
 | Destreza   |   0   | Percepción   |  1    |
 
@@ -35,7 +35,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**
 - **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true).
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -44,28 +44,31 @@ title: Online DUN
 	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)  
 	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
+- Fuego (1/6)
+	🔥 Arma llameante	
+
 
 ---  
 
 
 
-| Chester Cheetos    |      |     **PV: 16**         |      |
+| Chester Cheetos    |      |     **PV: 18**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  6    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   1  |
+| Suerte     |  4    | Experiencia  |   0  |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
-- **Armas**: Arco Largo, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
+- **Armas**: Arcabuz, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
-- **Habilidades** (3/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), "una de combate"
+- **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), Recarga rápida, Emboscar.
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 
 
 ---
@@ -78,16 +81,16 @@ title: Online DUN
 | Fuerza     |   4   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  2    |
+| Suerte     |   5   | Experiencia  |  4    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
-- **Armas**: Hacha a dos manos, Espada Ancha. 
-- **Armaduras**: Armadura Completa y Escudo.
+- **Armas**: Hacha, Espada Ancha. 
+- **Armaduras**: Armadura Completa y Escudo enano.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (2/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true).
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 9/9
+- **Partidas jugadas:** 10/10
 
 ---
 
@@ -102,12 +105,12 @@ title: Online DUN
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
-- **Armas**: Espada ancha,
-- **Armaduras**: Gran Escudo, Coraza
+- **Armas**: Espada ancha.
+- **Armaduras**: Gran Escudo, Coraza.
 - **Equipo**:  
-- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, "una de capucha"
+- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, Supervivencia
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 3/9
+- **Partidas jugadas:** 4/10
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -129,7 +132,7 @@ title: Online DUN
 - Asalto de bandidos
 - Defensa de la ciudad
 - La sala de los espejos  
-
+- M39 Trolls Robaovejas
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
@@ -158,3 +161,8 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 - Espada bastarda mataorcos
 - Lanza voladora
 - Libro de los muertos
+
+🧙‍♀️ **BIBAL**:
+- Cuerda inteligente
+- Hacha arrojadiza voladora
+- Espada ancha del averno
