@@ -45,7 +45,7 @@ title: Online DUN
 	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
 - Fuego (1/6)  
-	🔥 Arma llameante	
+	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)
 
 
 ---  
