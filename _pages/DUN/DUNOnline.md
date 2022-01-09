@@ -101,7 +101,7 @@ title: Online DUN
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  0    |
+| Suerte     |  6    | Experiencia  |  2    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
