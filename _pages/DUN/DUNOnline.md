@@ -23,7 +23,7 @@ title: Online DUN
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
-| Fuerza     |   3   | Mana         |   12 (+2)   |
+| Fuerza     |   3   | Mana         |   16 (14+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
 | Suerte     |   5   | Experiencia  |  4   |
