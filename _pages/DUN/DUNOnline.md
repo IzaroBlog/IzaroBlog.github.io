@@ -74,21 +74,21 @@ title: Online DUN
 ---
 
 
-| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 14**           |      |
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 16**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
-| Fuerza     |   4   | Mana         |  -    |
+| Fuerza     |   **5**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  4    |
+| Suerte     |   5   | Experiencia  |  1    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
 - **Armas**: Hacha, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo enano.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (2/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true).
+- **Habilidades** (3/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda.
 - **Xp en Pozo de Lucha**: 0/3
 - **Partidas jugadas:** 10/10
 
