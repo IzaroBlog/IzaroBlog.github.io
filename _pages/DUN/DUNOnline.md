@@ -124,15 +124,16 @@ title: Online DUN
 
 ## Partidas jugadas
 - Liberad a los mercaderes
-- La Guarida de Rorg
+- [La Guarida de Rorg](#Rorg-id)
 - ¡Lobos!
 - Los muertos se levantan
 - Reyes bajo la tierra
 - M34 Guarida de Bandidos
 - Asalto de bandidos
 - Defensa de la ciudad
-- La sala de los espejos  
-- M39 Trolls Robaovejas
+- [La sala de los espejos](#Espejos-id)
+- [M39 Trolls Robaovejas](#Trolls-id)
+
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
@@ -166,3 +167,41 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 - Cuerda inteligente
 - Hacha arrojadiza voladora
 - Espada ancha del averno
+
+# Crónicas
+
+## Guarida de bandidos {#Rorg-id}
+Intxaur estaba exhausta, su espada bastarda caída en el suelo entre las costillas de un desdichado forajido enano. Escupió sangre y notó que tenía un diente roto al pasar la lengua por su boca. 
+Recuperó su mellada espada a dos manos de un tirón y desde el visor de su casco vió el resto de la banda. Eran un par de ballesteros, que sin escapatoria y tras la matanza que habían visto, seguían dispuestos a disparar más virotes. 
+Echó de menos su viejo escudo y miró hacia atrás para ver si tenía el apoyo de sus amigas... 
+Varyana se había enfrentado al lider de la banda con su daga y estaba exhausta, cubierta de sangre y con un brazo en cabestrillo, no obstante veía la ira en sus ojos, y la mano sana comenzaba a crepitar de magia oscura. Chester no estaba en mejor situación, los hachazos de los forajidos le habían agrietado su armadura de cuero por infinidad de lugares, y tenía una brecha en la ceja, que se empeñaba en vendar con el cinturón de su carcaj. 
+Bien, no estoy sola- Pensó para sí. - Se tapó el visor del casco, empuñó la espada y se dirigió con paso firme hacia los ballesteros, mientras escuchaba los versos arcanos de la bruja y el silbido de las flechas de Chester a su lado... Hoy no iban a morir.
+
+
+## Sala de los espejos {#Espejos-id}
+Varyana invocó a sus antiguos dioses élficos y sintió el poder de la lanza en su mano. Krogal estaba despistado controlando a Intxaur y Bergoglio, que se movían como pollos sin cabeza por la sala de los espejos. 
+
+Esta vez el poder de la magia chisporroteó en sus manos y supo al instante que la lanza acabaría en su objetivo. Krogal intentó con todas sus fuerzas dispersar el hechizo pero era demasiado tarde.... la lanza atravesó su oscuro corazón y lo dejó inerte en el suelo, mientras la sangre salpicaba los espejos, reflejando un rojo intenso por toda la sala. 
+
+Chester miró a Varyana confundido, mientras recargaba su arco, todavía no estaba seguro de que el arcano hechicero hubiese muerto. Intxaur y Bergoglio seguían frente a frente, con el gran escudo de Bergoglio roto en el suelo de un hachazo. Se miraron como si se hubiesen acabado de despertar, desafiantes y sin aflojar la tensión en sus armas. 
+
+Varyana, con una voz profunda y cálida les dijo:
+
+- Tranquilos todos, hemos acabado con Krogal pero... es mejor que descanséis fuera de la sala... la magia sigue activa. 
+
+Aturdidos, los tres compañeros salieron de la sala de los espejos, mientras Varyana entraba con paso firme, directa hacia Krogal. El anillo que tenía en su mano, parecía que le estaba llamando por su nombre, y no quería compartir con nadie más su existencia. Se lo arrancó rápidamente de sus huesudos dedos, y el anillo encajó perfectamente en la mano de la bruja. Varyana sentía su poder, y se miró la mano con cautela.... "mi tesoro"
+
+Fuera de la sala, Chester estaba vendando a Bergoglio mientras que Intxaur intentaba arreglar el gran escudo con su cuerda. El félido miró de reojo a Varyana. La elfa estaba observando su mano mientras un extraño fuego salía de las muñecas de la bruja, Chester siguió vendando el brazo del sacerdote mientras pensaba para sí que la magía era demasiado peligrosa....
+
+
+
+## Trolls Robaovejas {#Trolls-id}
+🤮Puaj qué puto asco!- se quejaba Intxaur mientras intentaba limpiar su armadura de vómito de troll- esto tiene pinta de que no se va a quitar ni con la runa limpiadora de Kragg el Gruñon!! 
+
+✝️Mientras tanto Bergoglio se desesperaba intentando bendecir a Chester; se le había enrollado el rosario entre el arcabuz del félido y el codal de su armadura y no era capaz de restaurar las heridas de esa forma. 
+Espera querido hermano- decía con la voz más paciente que pudo encontrar- necesito algo de tiempo para encontrar la señal de mi señor....
+
+🔥 Varyana miró a su alrededor, cadáveres medio calcinados de trolls inundaban la estancia y el olor a carne quemada era insoportable. La senda del fuego había sido muy útil en la mazmorra pero ya tenía ganas de salir de aquel infierno. 
+Habrá que ir saliendo de este tugurio!- espetó la bruja- vamos a cobrar una buena recompensa por estos trolls robaovejas en Bibal! Rápido Intxaur corta la cabeza del más grande para llevárnosolo como prueba. 
+
+🪓 Intxaur miró con desprecio al último troll abatido y levantó el hacha -espero que esté bien muerto porque como se empiece a regenerar por el camino, pensó para sí....
