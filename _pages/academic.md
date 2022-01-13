@@ -15,6 +15,7 @@ ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación eko
 - [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)
 
 ## Argitaratutako artikulu eta liburuak/ *Artículos y libros publicados*:
+- 📝[Garapen Iraunkorra eta Nazio Batuen ingurumen politikak: 50 urteren balantze kritikoa: “Lankidetza Globala suspertu” Garapen Iraunkorraren 17. helburuaren adibidea](https://ojs.ehu.eus/index.php/ekaia/article/view/22125)
 - 📝[Urban Energy Transitions in Europe, towards Low-Socio-Environmental Impact Cities, 2021](https://www.mdpi.com/2071-1050/13/21/11641/htm)
 - 📝[Transición energética y democracia, 2020](https://publicaciones.hegoa.ehu.eus/es/publications/437)
 - 📝[European Cities in the Energy Transition: A Preliminary Analysis of 27 Cities, 2020](https://www.mdpi.com/1996-1073/13/6/1315)
