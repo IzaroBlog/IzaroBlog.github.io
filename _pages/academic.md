@@ -15,7 +15,7 @@ ekopol ikertaldeko partaidea naiz / *Soy miembro del grupo de investigación eko
 - [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)
 
 ## Argitaratutako artikulu eta liburuak/ *Artículos y libros publicados*:
-- 📝 [Retomando el timón de la transición energética]	(https://vientosur.info/retomando-el-timon-de-la-transicion-energetica/)
+- 📝 [Retomando el timón de la transición energética](https://vientosur.info/retomando-el-timon-de-la-transicion-energetica/)
 - 📝 [Energia trantsizioaren lema berreskuratuz](https://www.berria.eus/paperekoa/2001/020/003/2021-12-02/energia-trantsizioaren-lema-berreskuratuz.htm) 
 - 📝[Garapen Iraunkorra eta Nazio Batuen ingurumen politikak: 50 urteren balantze kritikoa: “Lankidetza Globala suspertu” Garapen Iraunkorraren 17. helburuaren adibidea](https://ojs.ehu.eus/index.php/ekaia/article/view/22125)
 - 📝[Urban Energy Transitions in Europe, towards Low-Socio-Environmental Impact Cities, 2021](https://www.mdpi.com/2071-1050/13/21/11641/htm)
