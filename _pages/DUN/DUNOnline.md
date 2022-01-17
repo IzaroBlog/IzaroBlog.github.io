@@ -14,7 +14,7 @@ title: Online DUN
 - M10 Cazar a la gran Criatura  
 - M40 Foso de Lucha  
 - *M5 Rescatar a Daniel (segundo intento)*  
--M21 Ladrones de caballos (nueva mini-campaña)  
+- M21 Ladrones de caballos (nueva mini-campaña)  
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
