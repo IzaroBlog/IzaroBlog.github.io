@@ -8,10 +8,13 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 43    
-### 💰 Tesorería: 81 monedas     
+### 📆 Semana de campaña: 45    
+### 💰 Tesorería: 33 monedas     
 ### ↪️ Partidas disponibles:   
-- M10 Cazar a la gran Criatura
+- M10 Cazar a la gran Criatura  
+- M40 Foso de Lucha  
+- *M5 Rescatar a Daniel (segundo intento)*  
+-M21 Ladrones de caballos (nueva mini-campaña)  
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -19,23 +22,23 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 24** (18+6)            |      |
+| Varyana Piruja    |      | **PV: 28** (22+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
-| Fuerza     |   3   | Mana         |   16 (14+2)   |
+| Fuerza     |   3   | Mana         |   17 (15+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
-| Suerte     |   5   | Experiencia  |  4   |
+| Suerte     |   5   | Experiencia  |  0   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
 - **Armaduras**:
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**
-- **Habilidades** (1/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true).
+- **Habilidades** (2/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista.
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 10/10
+- **Partidas jugadas:** 11/11
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -44,8 +47,10 @@ title: Online DUN
 	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)  
 	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
-- Fuego (1/6)  
+- Fuego (2/6)  
 	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)
+	
+	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)
 
 
 ---  
@@ -59,7 +64,7 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   0  |
+| Suerte     |  4    | Experiencia  |   1  |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
@@ -67,8 +72,8 @@ title: Online DUN
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true).
-- **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 10/10
+- **Xp en Pozo de Lucha**: 2/3
+- **Partidas jugadas:** 10/11
 
 
 ---
@@ -81,7 +86,7 @@ title: Online DUN
 | Fuerza     |   **5**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  1    |
+| Suerte     |   5   | Experiencia  |  2    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
@@ -89,8 +94,8 @@ title: Online DUN
 - **Armaduras**: Armadura Completa y Escudo enano.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (3/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda.
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 10/10
+- **Xp en Pozo de Lucha**: 1/3
+- **Partidas jugadas:** 11/11
 
 ---
 
@@ -110,7 +115,7 @@ title: Online DUN
 - **Equipo**:  
 - **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true)
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 4/10
+- **Partidas jugadas:** 4/11
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -133,6 +138,7 @@ title: Online DUN
 - Defensa de la ciudad
 - [La sala de los espejos](#Espejos-id)
 - [M39 Trolls Robaovejas](#Trolls-id)
+- *Rescatar a Daniel (primer intento)*
 
 ----
 
