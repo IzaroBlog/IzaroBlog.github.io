@@ -38,7 +38,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**
 - **Habilidades** (2/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista.
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 11/11
+- **Partidas jugadas:** 11/13
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -56,14 +56,14 @@ title: Online DUN
 
 
 
-| Chester Cheetos    |      |     **PV: 18**         |      |
+| Chester Cheetos    |      |     **PV: 20**         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  6    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  4    | Experiencia  |   1  |
+| Suerte     |  **5**    | Experiencia  |   0  |
 | Destreza   |  0    | Percepción   |  1   |
 
 - *Félido*-*Explorador*
@@ -71,50 +71,50 @@ title: Online DUN
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true).
-- **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 10/11
+- **Xp en Pozo de Lucha**: 3/3
+- **Partidas jugadas:** 12/13
 
 
 ---
 
 
-| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 16**           |      |
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 18**           |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   4   | Agilidad     |  3    |
 | Ataque     |   5   | Inteligencia |  4    |
 | Fuerza     |   **5**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  2    |
+| Suerte     |   5   | Experiencia  |  1    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
 - **Armas**: Hacha, Espada Ancha. 
 - **Armaduras**: Armadura Completa y Escudo enano.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (3/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda.
+- **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 11/11
+- **Partidas jugadas:** 13/13
 
 ---
 
-| Bergoglio    |      |      **PV: 12**        |      |
+| Bergoglio    |      |      **PV: 14**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   3   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  2    |
+| Suerte     |  6    | Experiencia  |  1    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
-- **Armas**: Espada ancha.
-- **Armaduras**: Gran Escudo, Coraza.
+- **Armas**: Espada ancha, espada falcata.
+- **Armaduras**: Coraza.
 - **Equipo**:  
-- **Habilidades** (1/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true)
+- **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true). Combatir con dos armas.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 4/11
+- **Partidas jugadas:** 6/13
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -138,6 +138,8 @@ title: Online DUN
 - [La sala de los espejos](#Espejos-id)
 - [M39 Trolls Robaovejas](#Trolls-id)
 - *Rescatar a Daniel (primer intento)*
+- Foso de Lucha
+- *Rescatar a Daniel (segundo intento)*
 
 ----
 
