@@ -367,6 +367,12 @@ No. Ver apartado de Erratas {#ErratasV2-id}.
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
+**Para recordar**  
+Si empiezas en población puedes visitar tus 3 lugares y luego salir y hacer misión en ese territorio o 1 o 2 aledaños dependiendo de si vas en montura o no.   
+Si por el contrario en un mismo turno vienes de otro territorio y entras en la población....visitas tus 3 lugares pero ya no puedes salir.  
+Si la misión está en la población puedes entrar, visitar los 3 lugares permitidos y luego hacerla.  
+
+
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
 Correcto, si no recuperas Fortuna no hay tirada inoportuna.
 
@@ -393,7 +399,6 @@ Cuando en una misión normal derrotas a todos los enemigos, [los héroes pueden 
 
 *En partidas por tiempo, si los héroes ganan iniciativa comienza un turno nuevo por lo que se disminuye en uno el contador de turnos, no?*  
 SIEMPRE que en un turno de los héroes aparezcan enemigos nuevos al descubrirse una sección, [si ganan la iniciativa se comienza un nuevo turno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/iniciativacuadroresumen.png).  
-
 
 
 
