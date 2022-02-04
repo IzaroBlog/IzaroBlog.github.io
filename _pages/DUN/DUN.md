@@ -368,9 +368,9 @@ No. Ver apartado de Erratas {#ErratasV2-id}.
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
 **Para recordar**  
-Si empiezas en población puedes visitar tus 3 lugares y luego salir y hacer misión en ese territorio o 1 o 2 aledaños dependiendo de si vas en montura o no.   
-Si por el contrario en un mismo turno vienes de otro territorio y entras en la población....visitas tus 3 lugares pero ya no puedes salir.  
-Si la misión está en la población puedes entrar, visitar los 3 lugares permitidos y luego hacerla.  
+- Si empiezas en población puedes visitar tus 3 lugares y luego salir y hacer misión en ese territorio o 1 o 2 aledaños dependiendo de si vas en montura o no.   
+- Si por el contrario en un mismo turno vienes de otro territorio y entras en la población....visitas tus 3 lugares pero ya no puedes salir.  
+- Si la misión está en la población puedes entrar, visitar los 3 lugares permitidos y luego hacerla.  
 
 
 *Si se [acampa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/acampar.jpg), y viendo que no se recupera fortuna, el JO echa dados para [marcadores de peligro](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/marcadorespeligro.jpg)?*<br>
