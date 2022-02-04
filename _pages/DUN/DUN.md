@@ -452,6 +452,13 @@ Las criaturas del JO y JOA lo tienen mejor, ya que pueden volar en escenarios in
 Recordemos que, según se indica en los capítulos de combate, impactar a una criatura voladora en cuerpo a cuerpo o disparo es difícil, ya que el atacante tienen una penalización de -1 a su tirada. A su vez, mientras una criatura vuela, los rivales la verán más fácilmente (una criatura situada tras un compañero, será vista igualmente, ya que está en alto y el rival tendrá línea de visión hacia ella).
 Ahora la habilidad es efectiva y menos enrevesada que antes. La regla del reglamento original, si bien permitía muchas más opciones y situaciones, también generaba quebraderos de cabeza en un juego con tantas opciones y combinaciones. Por ejemplo, había aventuras en el mar donde un mago volador podía desestabilizar la balanza con ciertas combinaciones de hechizos y su habilidad voladora. En fin, este cambio es importante pero los héroes voladores siguen con una gran ventaja en exteriores y gozan de una buena habilidad para los interiores. A su vez, las criaturas del Jugador Oscuro y los héroes son más sencillos de manejar. :P Espero que el "tocho" arroje un poco de luz sobre el cambio en esta habilidad.
 
+**Barcos** 
+Hay 2 versiones de hacerlo:
+1. Entender toda la tile como diáfana, sin cambios de nivel ni obstáculos. Es la forma en que fue concebida y como se entiende su uso. 
+2. Representar cada parte del barco como lo que se ve, cambios de nivel en escaleras y coberturas de 1 altura alrededor de la borda, mástiles cobertura pesada/impasable y bote ligera/impasable 1 altura.
+*Visión del Oráculo*: Los escenarios de barco, al menos los que yo he jugado, no son los más divertidos y entorpecer la jugabilidad con "elementos extra" lo vuelve tedioso. Si veo algún escenario más enriquecedor o divertido, donde esas reglas cuadren bien, cambiaré el discurso.
+
+
 ### Erratas V2 {#ErratasV2-id}
 Con la inestimable ayuda de @joseca! [PDF de Erratas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Erratas%20DUN%20V2.pdf)
 - MODIFICADOR “DERRIBADO” EN ATAQUES CAC Y A DISTANCIA EN EL
