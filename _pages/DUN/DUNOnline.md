@@ -47,7 +47,7 @@ title: Online DUN
 	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
 - Fuego (2/6)  
-	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)  	
+	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)  
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
 
 
@@ -135,7 +135,7 @@ title: Online DUN
 - **Armas**: Espada ancha
 - **Armaduras**: Coraza y Gran Escudo
 - **Equipo**:  
-- **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo*
+- **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*
 - **Xp en Pozo de Lucha**: 1/3
 - **Partidas jugadas:** 2/15
 
