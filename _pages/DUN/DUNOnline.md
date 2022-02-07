@@ -8,12 +8,12 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 48    
-### 💰 Tesorería: 65 monedas     
+### 📆 Semana de campaña: 52    
+### 💰 Tesorería: 54 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
-- M7 Escoltar a Plump
+- M8 Información en Thorzul  
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
