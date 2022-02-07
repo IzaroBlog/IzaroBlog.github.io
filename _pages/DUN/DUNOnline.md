@@ -28,16 +28,16 @@ title: Online DUN
 | Fuerza     |   3   | Mana         |   17 (15+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
-| Suerte     |   5   | Experiencia  |  0   |
+| Suerte     |   5   | Experiencia  |  1   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
 - **Armaduras**:
-- **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**
+- **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (2/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista.
 - **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 11/13
+- **Partidas jugadas:** 13/15
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -62,8 +62,8 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   0  |
-| Destreza   |  0    | Percepción   |  1   |
+| Suerte     |  **5**    | Experiencia  |   1  |
+| Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador*
 - **Armas**: Arcabuz, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
@@ -71,7 +71,7 @@ title: Online DUN
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true).
 - **Xp en Pozo de Lucha**: 3/3
-- **Partidas jugadas:** 12/13
+- **Partidas jugadas:** 14/15
 
 
 ---
@@ -84,7 +84,7 @@ title: Online DUN
 | Fuerza     |   **5**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  1    |
+| Suerte     |   5   | Experiencia  |  2    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
@@ -93,7 +93,7 @@ title: Online DUN
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 13/13
+- **Partidas jugadas:** 15/15
 
 ---
 
@@ -104,16 +104,16 @@ title: Online DUN
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  1    |
+| Suerte     |  6    | Experiencia  |  2    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha, espada falcata.
 - **Armaduras**: Coraza.
 - **Equipo**:  
-- **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true). Combatir con dos armas.
+- **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas.
 - **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 6/13
+- **Partidas jugadas:** 8/15
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -121,7 +121,23 @@ title: Online DUN
 
 ----
 
+| Gastón    |      |      **PV: 10**        |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   3   |
+| Ataque     |  5    | Inteligencia |   4   |
+| Fuerza     |  **5**    | Mana         |   0   |
+| Disparo    |  3    | Valentia     |   **5**   |
+| Armadura   |  3   | Vitalidad    |   5   |
+| Suerte     |  6    | Experiencia  |  2    |
+| Destreza   |  -1    | Percepción   |  0    |
 
+- *Humano-Caballero*
+- **Armas**: Espada ancha
+- **Armaduras**: Coraza y Gran Escudo
+- **Equipo**:  
+- **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo*
+- **Xp en Pozo de Lucha**: 1/3
+- **Partidas jugadas:** 2/15
 
 ---  
 
@@ -139,6 +155,8 @@ title: Online DUN
 - *Rescatar a Daniel (primer intento)*
 - Foso de Lucha
 - *Rescatar a Daniel (segundo intento)*
+- *Escoltar a Plump (primer intento)*
+- *Escoltar a Plump (segundo intento)*
 
 ----
 
