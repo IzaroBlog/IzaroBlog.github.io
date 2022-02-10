@@ -6,14 +6,14 @@ categories: eu
 tags: [eu, rol, adur, Juerjoi]
 ---
 
-Euskal kulturaren irlatxoan, rol jokalarion lurraldea oso da txikia. Bi joko besterik ez baititugu argitaraturik euskara hutsean. Atopia eta ADUR. Hori bai urteetan ereindako lursaila oso emankorra izatea lortu dugu denon artean, eta badira hainbat eta hainbat itzulpen eta moldaketa.
-[Rolariak.eus atarian](https://rolariak.eus/) aurki daitezke euskal rolean egindako azken lanak eta baliabide ugari bilduta. 
-
+Euskal kulturaren irlatxoan, rol jokalarion lurraldea oso da txikia. Bi joko besterik ez baititugu argitaraturik euskara hutsean:  
+[Atopia RPG](https://atopia.eus/) eta [ADUR](http://www.adurjokoa.eus/). 
+Hori bai urteetan ereindako lursaila oso emankorra izatea lortu dugu denon artean, eta badira hainbat eta hainbat itzulpen eta moldaketa. [Rolariak.eus atarian](https://rolariak.eus/) aurki daitezke euskal rolean egindako azken lanak eta baliabide ugari bilduta. 
 Mugimendu emankor guzti honen eraginpean dator gaurkoan azaldu nahi dizuedan ekimena. Eta benetan, azken aldian ikusi dudan gauza erakargarrienarekin natorkizue gaur: **JUERJOIA**-rekin hain zuzen. 
 
 ![Azkenerronka](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/azkenerronka.jpg?raw=true)
 
-- Zer da JUERJOIA, galdetuko diozue zuen buruari... 
+Zer da baina JUERJOIA?, galdetuko diozue elkarri...   
 **JUERJOI**, *Jokalari Ugarirentzako Euskal Rol Joko Online Itzela*-ren akronimoa da
 Euskal mitologian oinarritutako [ADUR](http://www.adurjokoa.eus/) jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da. 
 Eneko bera izan da JUERJOIa martxan jarri duen maizterra eta hortxe gabiltza hogei bat lagun nafarroako erresumako erronkak betetzen, hainbat euskal kondaira zahar, istoria eta leku ezagutuz. 
