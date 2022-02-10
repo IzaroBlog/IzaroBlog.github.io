@@ -11,7 +11,7 @@ Euskal kulturaren irlatxoan, rol jokalarion lurraldea oso da txikia. Bi joko bes
 
 Mugimendu emankor guzti honen eraginpean dator gaurkoan azaldu nahi dizuedan ekimena. Eta benetan, azken aldian ikusi dudan gauza erakargarrienarekin natorkizue gaur: **JUERJOIA**-rekin hain zuzen. 
 
-Azken erronk jpg
+![Azkenerronka](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/azkenerronka.jpg?raw=true)
 
 - Zer da JUERJOIA, galdetuko diozue zuen buruari... 
 **JUERJOI**, *Jokalari Ugarirentzako Euskal Rol Joko Online Itzela*-ren akronimoa da
@@ -26,8 +26,8 @@ Maizterrak dioen bezala:
 
 Telegram bidezko elkarrizketa bidez, eta bot batzuetan baliatuz jolasten da, mugikorretik edo ordenagailutik jolas dezakezu eguneko nahi duzun orduan.
 
-Bele ankerra jpg
+![BeleAnkerra](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/BeleAnkerra.png?raw=true)
 
-Zure erara jolasteko moduko jokoa da, bakarka eta lasai egin nahi baduzu, aukera duzu, taldean bildu eta elkar laguntzea nahi baduzu ere egin daiteke. Ez da ez denbora lapurtzen duen joko bat, eguneko lau jarduera egin ditzakezu gehienez.  Hori bai, mapa bat egitea gomendatzen dizut! Zure pertsonaiaren nondik norakoak idatziz uzteko! 
+Zure erara jolasteko moduko jokoa da, bakarka eta lasai egin nahi baduzu, aukera duzu; taldean bildu eta elkar laguntzea nahi baduzu ere egin daiteke. Ez da ez denbora lapurtzen duen joko bat, eguneko lau jarduera egin ditzakezu gehienez.  Hori bai, mapa bat egitea gomendatzen dizut! Zure pertsonaiaren nondik norakoak idatziz uzteko! 
 
 Probatu nahi baduzu egin klik esteka honetan, zure zain egongo gara Bele Ankerraren tabernan! 
