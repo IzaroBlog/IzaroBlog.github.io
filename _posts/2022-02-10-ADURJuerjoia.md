@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ADUR - Azken Erronka" JUERJOI-a"
+title:  "ADUR - Azken Erronka JUERJOI-a"
 date:   2022-02-10
 categories: eu
 tags: [eu, rol, adur, Juerjoi]
