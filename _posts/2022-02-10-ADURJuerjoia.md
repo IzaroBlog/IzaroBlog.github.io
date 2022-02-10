@@ -23,8 +23,8 @@ Taldean elkar laguntzearen garrantziaz azkar jabetuko zara, beraz... lagunekin j
 ![Azkenerronka](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/azkenerronka.jpg?raw=true)
 
 Jokoa 80. hamarkadan jokoetan dago oinarriturik, eta zailtasuna ere halakoa du. 
-Maizterrak dioen bezala:
-“80ko hamarkadako jokoetan ehundaka aldiz hiltzen zinen, pixkanaka aurrera egin ahal izateko, eta hau antzekoa da. Konturatzen bazarete dena puzzle bat da, eta zenbat eta gehiago jolastu, aurretik lortu duzuen ezagutza erabilgai daukazue.”
+Maizterrak dioen bezala:  
+`80ko hamarkadako jokoetan ehundaka aldiz hiltzen zinen, pixkanaka aurrera egin ahal izateko, eta hau antzekoa da. Konturatzen bazarete dena puzzle bat da, eta zenbat eta gehiago jolastu, aurretik lortu duzuen ezagutza erabilgai daukazue.`
 
 [Telegram](https://telegram.org/) bidezko elkarrizketa bidez, eta bot batzuetan baliatuz jolasten da, mugikorretik edo ordenagailutik jolas dezakezu eguneko nahi duzun orduan.
 
