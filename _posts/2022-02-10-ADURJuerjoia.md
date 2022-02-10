@@ -10,6 +10,7 @@ Euskal kulturaren irlatxoan, rol jokalarion lurraldea oso da txikia. Bi joko bes
 [Atopia RPG](https://atopia.eus/) eta [ADUR](http://www.adurjokoa.eus/) jokoak hain zuzen.  
 
 Hori bai, urteetan ereindako lursaila oso emankorra izatea lortu dugu denon artean, eta badira hainbat eta hainbat itzulpen eta moldaketa. [Rolariak.eus atarian](https://rolariak.eus/) aurki daitezke euskal rolean egindako azken lanak eta baliabide ugari bilduta. 
+
 ![ROLARIAK](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/cropped-rolariak-1.png?raw=true)
 
 Mugimendu emankor guzti honen eraginpean dator gaurkoan azaldu nahi dizuedan ekimena. Eta benetan, azken aldian ikusi dudan gauza erakargarrienarekin natorkizue gaur: **JUERJOIA**-rekin hain zuzen. 
