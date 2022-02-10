@@ -7,7 +7,7 @@ tags: [eu, rol, adur, Juerjoi]
 ---
 
 Euskal kulturaren irlatxoan, rol jokalarion lurraldea oso da txikia. Bi joko besterik ez baititugu argitaraturik euskara hutsean. Atopia eta ADUR. Hori bai urteetan ereindako lursaila oso emankorra izatea lortu dugu denon artean, eta badira hainbat eta hainbat itzulpen eta moldaketa.
-[Rolariak.eus atarian](https://rolariak.eus/) aurki daitezke euskal rolean egindako azken lanak eta baliabide ugari bilduta. Telegram zaleentzako ere badago elkarrekin informazioa eta partidak antolatzeko talde ireki bat: esteka. 
+[Rolariak.eus atarian](https://rolariak.eus/) aurki daitezke euskal rolean egindako azken lanak eta baliabide ugari bilduta. 
 
 Mugimendu emankor guzti honen eraginpean dator gaurkoan azaldu nahi dizuedan ekimena. Eta benetan, azken aldian ikusi dudan gauza erakargarrienarekin natorkizue gaur: **JUERJOIA**-rekin hain zuzen. 
 
@@ -24,7 +24,7 @@ Jokoa 80. hamarkadan jokoetan dago oinarriturik, eta zailtasuna ere halakoa du.
 Maizterrak dioen bezala:
 “80ko hamarkadako jokoetan ehundaka aldiz hiltzen zinen, pixkanaka aurrera egin ahal izateko, eta hau antzekoa da. Konturatzen bazarete dena puzzle bat da, eta zenbat eta gehiago jolastu, aurretik lortu duzuen ezagutza erabilgai daukazue.”
 
-Telegram bidezko elkarrizketa bidez, eta bot batzuetan baliatuz jolasten da, mugikorretik edo ordenagailutik jolas dezakezu eguneko nahi duzun orduan.
+[Telegram](https://telegram.org/) bidezko elkarrizketa bidez, eta bot batzuetan baliatuz jolasten da, mugikorretik edo ordenagailutik jolas dezakezu eguneko nahi duzun orduan.
 
 ![BeleAnkerra](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/BeleAnkerra.png?raw=true)
 
