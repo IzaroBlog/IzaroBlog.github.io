@@ -15,7 +15,9 @@ Hori bai, urteetan ereindako lursaila oso emankorra izatea lortu dugu denon arte
 
 Mugimendu emankor guzti honen eraginpean dator gaurkoan azaldu nahi dizuedan ekimena. Eta benetan, azken aldian ikusi dudan gauza erakargarrienarekin natorkizue gaur: **JUERJOIA**-rekin hain zuzen. 
 **JUERJOI**, *Jokalari Ugarirentzako Euskal Rol Joko Online Itzela*-ren akronimoa da
-Euskal mitologian oinarritutako [ADUR](http://www.adurjokoa.eus/) jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da. **Azken erronka** du izenburu, eta Eneko bera izan da JUERJOIa martxan jarri duen maizterra. Hortxe gabiltza hogei bat lagun nafarroako erresumako erronkak betetzen, hainbat euskal kondaira zahar, istoria eta leku ezagutuz. 
+Euskal mitologian oinarritutako [ADUR](http://www.adurjokoa.eus/) jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da. **Azken erronka** du izenburu, eta Eneko bera izan da JUERJOIa martxan jarri duen maizterra. 
+
+Hortxe gabiltza hogei bat lagun nafarroako erresumako erronkak betetzen, hainbat euskal kondaira zahar, istoria eta leku ezagutuz. 
 Euskal Erdi Aro mitologikoan girotutako rol joko honetan, zure pertsonaia nahieran egin, lanbidea bat eskuratu (sorgina, nekazaria, gerlaria...) eta segituan has zaitezke Nafarroako Erreinutik barrena erronkak egiten, baina adi ibili... bide bazterretan lapurrak, ingumak edota begibakarrak ere aurki ditzakezu eta! 
 Taldean elkar laguntzearen garrantziaz azkar jabetuko zara, beraz... lagunekin jokatzen baduzue hobe!
 
