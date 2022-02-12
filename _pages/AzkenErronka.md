@@ -62,7 +62,7 @@ Bai, kontuan izan ze motako bidelapur edo arerio duzuen aurrean, "arrunta", "arr
 
 
 ### Beste gauza batzuk {#Beste-id}
-**Oinarrizkoa**
+**Oinarrizkoa**  
 Ongi etorri bidaiari!
 Oso laster [ADUR](http://www.adurjokoa.eus/) jokoaren Unibertsoan, euskal Erdi Aro mitologikoan murgilduko zara. "ADUR - Azken Erronka" astiro jolasteko kanpaina da, egunean apur bat bakarrik aritzeko, epe luzean. 
 
