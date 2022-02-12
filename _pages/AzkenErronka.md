@@ -12,18 +12,18 @@ Akatsen bat aurkitzen baduzue, edo galderarik bazenute... Telegram taldean aurki
 
 # Aurkibidea
 
-[Jarduerak](#Jarduerak-id)  
-[Bidaiak](#Bidaiak-id)  
-[Lekuak](#Lekuak-id)  
-[Borrokak](#Borrokak-id)  
-[Sorginkeriak](#Sorginkeriak-id)  
-[Lanbidea](#Lanbidea-id)  
-[Armak](#Armak-id)  
-[Objektu miresgarriak](#ObjektuMiresgarriak-id)  
-[Leku miresgarriak](#LekuMiresgarriak-id)  
-[Etsaiak](#Etsaiak-id)  
-[Gaitzak eta ondoezak](#Gaitzak-id)  
-[Beste gauza batzuk](#Beste-id)  
+## [Jarduerak](#Jarduerak-id)  
+## [Bidaiak](#Bidaiak-id)  
+## [Lekuak](#Lekuak-id)  
+## [Borrokak](#Borrokak-id)  
+## [Sorginkeriak](#Sorginkeriak-id)  
+## [Lanbidea](#Lanbidea-id)  
+## [Armak](#Armak-id)  
+## [Objektu miresgarriak](#ObjektuMiresgarriak-id)  
+## [Leku miresgarriak](#LekuMiresgarriak-id)  
+## [Etsaiak](#Etsaiak-id)  
+## [Gaitzak eta ondoezak](#Gaitzak-id)  
+## [Beste gauza batzuk](#Beste-id)  
 
 ![Irunea](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/ADUR/iruneaerresuma.jpg?raw=true)
 
