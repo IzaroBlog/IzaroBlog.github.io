@@ -8,8 +8,6 @@ Orrialde honetan **Azken Erronka**, Jokalari Ugarirentzako Euskal Rol Joko Onlin
 Euskal mitologian oinarritutako  jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da.
 Akatsen bat aurkitzen baduzue, edo galderarik bazenute... [Telegram taldean](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag) aurki gaitzakezue!
 
-[ADUR](http://www.adurjokoa.eus/) jokoak hain zuzen.  
-
 ![Azkenerronka](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/azkenerronka.jpg?raw=true)
 
 # Aurkibidea
@@ -27,8 +25,7 @@ Akatsen bat aurkitzen baduzue, edo galderarik bazenute... [Telegram taldean](htt
 - [Gaitzak eta ondoezak](#Gaitzak-id)
 - [Beste gauza batzuk](#Beste-id)
 
-![Sarrera](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dunPortada.png)
-
+![Irunea](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/ADUR/iruneaerresuma.jpg?raw=true)
 
 ### Jarduerak {#Jarduerak-id}
 *Hiribilduan egiten diren bidaiak ere jarduera bat eskatzen dute?*  
