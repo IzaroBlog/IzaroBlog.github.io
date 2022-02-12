@@ -35,14 +35,14 @@ Ez, hiribilduetan barne egiten diren bidaiak 0.5 jarduera eskatzen dute, plazara
 ### Bidaiak {#Bidaiak-id}
 *Iruñeara bidaiatzeak jarduera bat eskatzen al du?*  
 Ez, Iruñeara iristeak ez du jarduerarik eskatzen!  
-*Herri batera bidaiatu eta ez baduzu /bidea sakatzen, zer gertatzen da?*
-Desabantaila izango duzu zure ezaugarrietan hortik aurrera denbora batean. 
+*Herri batera bidaiatu eta ez baduzu /bidea sakatzen, zer gertatzen da?*  
+Desabantaila izango duzu zure ezaugarrietan hortik aurrera denbora batean.   
 
 ### Lekuak {#Lekuak-id}
 
 ### Borrokak {#Borrokak-id}
-*Erabili al daiteke urrutirako arma bat (habaila) eta gero gertuko bat borroka berean?*
-Bai, noski! 
+*Erabili al daiteke urrutirako arma bat (habaila) eta gero gertuko bat borroka berean?*  
+Bai, noski!   
 
 ### Sorginkeriak {#Sorginkeriak-id}
 
