@@ -82,9 +82,3 @@ Aurrera egin baino lehen, jokoaren kondizioak irakurri behar dituzu:
 •Jokoaren barruko arauak bete egin behar dira beti.*
 Kondizio hauek urratzen dituena jokotik kanporatua izango da. 
 (C) Eneko Azedo. ADUR rol jokoa, Azkenengo Erronka eta horien edukiak eskubide intelektualekin babestuta daude. 
-
-Euskal mitologian oinarritutako  jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da. **Azken erronka** du izenburu, eta Eneko bera izan da JUERJOIa martxan jarri duen maizterra. 
-
-
-
-
