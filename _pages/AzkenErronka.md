@@ -6,7 +6,7 @@ title: Azken Erronka JUERJOIA
 ## Sarrera 
 Orrialde honetan **Azken Erronka**, Jokalari Ugarirentzako Euskal Rol Joko Online Itzela (JUERJOI)-ren zalantzak argitzen saiatuko gara. 
 Euskal mitologian oinarritutako  jokoa du oinarri eta [Eneko Azedo](https://twitter.com/EnekoAzedo) autorearen lana da.
-Akatsen bat aurkitzen baduzue, edo galderarik bazenute... [Telegram taldean](https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag) aurki gaitzakezue!
+Akatsen bat aurkitzen baduzue, edo galderarik bazenute... Telegram taldean aurki gaitzakezue!
 
 ![Azkenerronka](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/azkenerronka.jpg?raw=true)
 
