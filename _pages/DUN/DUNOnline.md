@@ -8,12 +8,12 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: 52    
-### 💰 Tesorería: 54 monedas     
+### 📆 Semana de campaña: Año 2: 1/52 Invierno       
+### 💰 Tesorería: 75 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
-- M8 Información en Thorzul  
+- Evento épico "Ayuda"
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -21,23 +21,23 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 28** (22+6)            |      |
+| Varyana Piruja    |      | **PV: 30** (24+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
 | Fuerza     |   3   | Mana         |   17 (15+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
-| Suerte     |   5   | Experiencia  |  1   |
+| Suerte     |   5   | Experiencia  |  0   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
 - **Armas**: Daga y bastón
 - **Armaduras**:
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
-- **Habilidades** (2/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista.
-- **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 13/15
+- **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
+- **Partidas jugadas:** 14/16
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -62,7 +62,7 @@ title: Online DUN
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   1  |
+| Suerte     |  **5**    | Experiencia  |   3  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador*
@@ -70,8 +70,8 @@ title: Online DUN
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true).
-- **Xp en Pozo de Lucha**: 2/3
-- **Partidas jugadas:** 14/15
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
+- **Partidas jugadas:** 15/16
 
 
 ---
@@ -84,15 +84,15 @@ title: Online DUN
 | Fuerza     |   **5**   | Mana         |  -    |
 | Disparo    |   3   | Valentia     |  4    |
 | Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  2    |
+| Suerte     |   5   | Experiencia  |  4    |
 | Destreza   |   1   | Percepción   |  0    |
 
 - *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
 - **Armas**: Hacha, Espada Ancha. 
-- **Armaduras**: Armadura Completa y Escudo enano.
+- **Armaduras**: Cota de Malla y Escudo enano.
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
-- **Xp en Pozo de Lucha**: 1/3
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
 - **Partidas jugadas:** 15/15
 
 ---
@@ -112,8 +112,8 @@ title: Online DUN
 - **Armaduras**: Coraza.
 - **Equipo**:  
 - **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas.
-- **Xp en Pozo de Lucha**: 0/3
-- **Partidas jugadas:** 8/15
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
+- **Partidas jugadas:** 8/16
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -121,23 +121,23 @@ title: Online DUN
 
 ----
 
-| Gastón    |      |      **PV: 10**        |      |
+| Gastón    |      |      **PV: 12**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   3   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  **5**    | Mana         |   0   |
 | Disparo    |  3    | Valentia     |   **5**   |
 | Armadura   |  3   | Vitalidad    |   5   |
-| Suerte     |  6    | Experiencia  |  2    |
+| Suerte     |  6    | Experiencia  |  1    |
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *Humano-Caballero*
 - **Armas**: Espada ancha
-- **Armaduras**: Coraza y Gran Escudo
+- **Armaduras**: Armadura Completa y Gran Escudo
 - **Equipo**:  
-- **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*
-- **Xp en Pozo de Lucha**: 1/3
-- **Partidas jugadas:** 2/15
+- **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, una de combate
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
+- **Partidas jugadas:** 3/16
 
 ---  
 
@@ -157,6 +157,7 @@ title: Online DUN
 - *Rescatar a Daniel (segundo intento)*
 - *Escoltar a Plump (primer intento)*
 - *Escoltar a Plump (segundo intento)*
+- Información en Thorzul
 
 ----
 
@@ -178,19 +179,18 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 # Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
 
 🧙‍♀️ **THAMEY**:   
-- [Escudo maligno](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/escudomaligno.png)
-- [Anillo del sol](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/anillodelsol.png)
-- [Yelmo del Dragón](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/ObjetosMagicos/yelmodeldragon.png)
-
+- ?
+- ?
+- ?
 🧙‍♀️ **MENON**:
-- Espada bastarda mataorcos
-- Lanza voladora
-- Libro de los muertos
+- ?
+- ?
+- ?
 
 🧙‍♀️ **BIBAL**:
-- Cuerda inteligente
-- Hacha arrojadiza voladora
-- Espada ancha del averno
+- ?
+- ?
+- ?	
 
 # Crónicas
 
