@@ -37,28 +37,49 @@ Idatzi /eman txatean, aukeratu objektua eta leku berdinean dagoen pertsonaia bat
 *Nola jakin dezaket arrakasta izan dudan?*  
 5 behar dira. Horrek baino gutxiago porrota dakar.  
 
-*Jarduerarik ez daukat eta gauerdia da, zergatik?*
+*Jarduerarik ez daukat eta gauerdia da, zergatik?*  
 Jarduerak goizeko bostetan berreskuratzen dira  
+
+*Nola egin dezaket Jarduera gehiago izateko?*  
+Jarduerak denboraren neurri bat dira, egun batek gauzak egiteko eskaintzen duen denbora alegia. Beraz, ezin zaio egunari denbora gehiago eskatu baina pertsonaiak bilatu dezakeena da denbora horretan gauza gehiago egitea. Adibidez, garraio bat lortuz denbora gutxiago emango du bidaiatzen eta beste gauza gehiago egin ahalko ditu.  
+
 
 ### Bidaiak {#Bidaiak-id}
 *Iruñeara bidaiatzeak jarduera bat eskatzen al du?*  
 Ez, Iruñeara iristeak ez du jarduerarik eskatzen!  
+
 *Herri batera bidaiatu eta ez baduzu /bidea sakatzen, zer gertatzen da?*  
 Desabantaila izango duzu zure ezaugarrietan hortik aurrera denbora batean.   
+
 *Arinago bidaiatu daiteke?*
 Bai, zaldiekin adibidez.  
 
+*Zer gertatzen da egun batean ez baduzu afaltzeko raziorik atseden hartzerakoan?*  
+Atseden hartzerakoan razioa baduzu, horren truke Bizitza Puntu bat geihago berreskuratuko duzu.  
+
 ### Lekuak {#Lekuak-id}
+*Herri batean zaudela zerbait idazten baduzu, gero herri hortara iristen direnak irakur dezakete?*  
+Bai, bestek irakur dezakete idatzitakoa. 
 
 ### Borrokak {#Borrokak-id}
-*Erabili al daiteke urrutirako arma bat (habaila) eta gero gertuko bat borroka berean?*  
-Bai, noski!   
+*Aldi berean gertuzko eta hurrunezko arma eduki ditzaket?*  
+Bai, aldi berean erabiltzen ez direlako. Izan ere, gomendagarria da biak edukitzea. Gogoratu baina gertuzko arma IND ezaugarriarekin eta hurrunezko arma TRE ezaugarriarekin erabiltzen direla.  
+
 *Beste jokalariek laguntza eman diezakedate?*  
 Txat berean dauden jokalariak +1 mina ematen diote borrokan dagoenari.  
 
+*Eta ezkutuak jaurtiketa behar du?*  
+Bai, ezkutuak TRE jaurtiketa bat behar du harekin kolpea arintzeko.  
+
 ### Sorginkeriak {#Sorginkeriak-id}
+*Sorginek bakarrik egin ditzakete sorginkeriak?*  
+Ez, edonork egin ditzake sorginkeriak. Hala ere, Sorginaren lanbidea dutenek merkeago lortuko dituzte leku batzuetan dauden Sorginek eskaintzen dituzten gauzak, Kofradia berean daudelako.  
+
 *Nola da sorginkeriak egiteko modua? Noiz erabakitzen da nori eta zein egin?*
 1.- Zein sorginkeri egin nahi duzun aukeratu behar da /sorginkeria. 2. Adur puntuak erabili. 3. Jaurtiketa egin eta Adur puntuak xahutu (lortu edo ez, AP xahutzen dira). 4 Nori egin nahi diozun Sorginkeria erabaki (zeure buruari, lagunari, arerioari...)
+
+*Arbasoen laguntza lortzeko Arbasoei deitu sorginkeria jakin behar da (argizaiolarekin)?*
+Arbasoei deitu sorginkeria arbasoekin hitzegiteko da bakarrik, haien aholkua jasotzeko.Dena dela Azken Erronkan ez da agertzen. Arbasoek bere laguntza nahi dutenean emango dizute, zurekin harro daudenean izan ohi da.  
 
 ### Lanbidea {#Lanbidea-id}
 
@@ -76,6 +97,10 @@ Bai, kontuan izan ze motako bidelapur edo arerio duzuen aurrean, "arrunta", "arr
 
 
 ### Beste gauza batzuk {#Beste-id}
+*ADUR Azken Erronka izugarria da eta nire bizitza aldatu du, baina nondik irten da joko honen ideia?*  
+ADUR rol jokoan oinarrituta dago, liburu fisiko, paperezko pertsonaiaren fitxak eta txanpon batzuekin jolasten dena. Esan daiteke Azken Erronka ADUR rol jokoaren bertsio digitala dela.  
+
+
 *Doakoa da jokoa?*  
 Bai.  
 
