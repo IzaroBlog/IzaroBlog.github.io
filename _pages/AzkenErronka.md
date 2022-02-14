@@ -31,20 +31,34 @@ Akatsen bat aurkitzen baduzue, edo galderarik bazenute... Telegram taldean aurki
 *Hiribilduan egiten diren bidaiak ere jarduera bat eskatzen dute?*  
 Ez, hiribilduetan barne egiten diren bidaiak 0.5 jarduera eskatzen dute, plazara bueltatzeak berriz ez du jarduerarik eskatzen. Adibidez, merkatura joan eta bertako produktuak salerosteko, 0.5 jarduera beharko dira, baina behin hau eginda, plazara bueltatzeak ez du jarduerarik erabiliko.  
 
+*Nola eman ditzaket objektuak?*  
+Idatzi /eman txatean, aukeratu objektua eta leku berdinean dagoen pertsonaia bati emateko aukera izango duzu. Izan argi zein den bere izena!  
+
+*Nola jakin dezaket arrakasta izan dudan?*  
+5 behar dira. Horrek baino gutxiago porrota dakar.  
+
+*Jarduerarik ez daukat eta gauerdia da, zergatik?*
+Jarduerak goizeko bostetan berreskuratzen dira  
 
 ### Bidaiak {#Bidaiak-id}
 *Iruñeara bidaiatzeak jarduera bat eskatzen al du?*  
 Ez, Iruñeara iristeak ez du jarduerarik eskatzen!  
 *Herri batera bidaiatu eta ez baduzu /bidea sakatzen, zer gertatzen da?*  
 Desabantaila izango duzu zure ezaugarrietan hortik aurrera denbora batean.   
+*Arinago bidaiatu daiteke?*
+Bai, zaldiekin adibidez.  
 
 ### Lekuak {#Lekuak-id}
 
 ### Borrokak {#Borrokak-id}
 *Erabili al daiteke urrutirako arma bat (habaila) eta gero gertuko bat borroka berean?*  
 Bai, noski!   
+*Beste jokalariek laguntza eman diezakedate?*  
+Txat berean dauden jokalariak +1 mina ematen diote borrokan dagoenari.  
 
 ### Sorginkeriak {#Sorginkeriak-id}
+*Nola da sorginkeriak egiteko modua? Noiz erabakitzen da nori eta zein egin?*
+1.- Zein sorginkeri egin nahi duzun aukeratu behar da /sorginkeria. 2. Adur puntuak erabili. 3. Jaurtiketa egin eta Adur puntuak xahutu (lortu edo ez, AP xahutzen dira). 4 Nori egin nahi diozun Sorginkeria erabaki (zeure buruari, lagunari, arerioari...)
 
 ### Lanbidea {#Lanbidea-id}
 
@@ -62,6 +76,9 @@ Bai, kontuan izan ze motako bidelapur edo arerio duzuen aurrean, "arrunta", "arr
 
 
 ### Beste gauza batzuk {#Beste-id}
+*Doakoa da jokoa?*  
+Bai.  
+
 **Oinarrizkoa**  
 Ongi etorri bidaiari!
 Oso laster [ADUR](http://www.adurjokoa.eus/) jokoaren Unibertsoan, euskal Erdi Aro mitologikoan murgilduko zara. "ADUR - Azken Erronka" astiro jolasteko kanpaina da, egunean apur bat bakarrik aritzeko, epe luzean. 
