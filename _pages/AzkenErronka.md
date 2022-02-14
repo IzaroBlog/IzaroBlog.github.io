@@ -51,7 +51,7 @@ Ez, Iruñeara iristeak ez du jarduerarik eskatzen!
 *Herri batera bidaiatu eta ez baduzu /bidea sakatzen, zer gertatzen da?*  
 Desabantaila izango duzu zure ezaugarrietan hortik aurrera denbora batean.   
 
-*Arinago bidaiatu daiteke?*
+*Arinago bidaiatu daiteke?*  
 Bai, zaldiekin adibidez.  
 
 *Zer gertatzen da egun batean ez baduzu afaltzeko raziorik atseden hartzerakoan?*  
