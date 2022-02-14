@@ -369,8 +369,8 @@ No. Ver apartado de Erratas {#ErratasV2-id}.
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
 **Para recordar**  
-- Si empiezas en población puedes visitar tus 3 lugares y luego salir y hacer misión en ese territorio o 1 o 2 aledaños dependiendo de si vas en montura o no.   
-- Si por el contrario en un mismo turno vienes de otro territorio y entras en la población....visitas tus 3 lugares pero ya no puedes salir.  
+- Si empiezas en población puedes visitar tus 3 lugares. Para hacer una misión en ese mismo territorio hay que salir, gastando un nuevo turno. 
+- Si vienes de otro territorio y entras en la población, puedes visitar 3 lugares pero ya no puedes salir.  
 - Si la misión está en la población puedes entrar, visitar los 3 lugares permitidos y luego hacerla.  
 
 
