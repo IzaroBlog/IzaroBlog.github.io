@@ -9,6 +9,7 @@ Auzoko plazan, haurrak jolasean. Ikastolako ezagun bat hurbiltzen zait, eta berr
 Euskaraz. Gure haurrekin bezala. Giro euskaldunean. 
 Gure alaba eskola publikora daramagu, eta berak datorren urteari begira, bere semea non sartu pentsatzen ari da. Galdera mordoxka egin eta gero, bere iritzia emateko aukera ere badu. 
 - **Giro euskaldunik** ba al dago?, beno, zuek bezalakoak badira beste gurasoak ere, pentsatuko nuke bertan sartzea. 
+
 Nik momentuan ez nion garrantzirik eman esandakoari, eta gu bezalakoak, hau da euskaldunak zirenak baginela, baina baita ere beste lurraldeetako jatorria zutenak ere, batzuk euskara ikasten eta beste batzuk ez. 
 
 Elkarrizketa eten zen, nire alaba deika zegoen eta, horrelakoak izan ohi dira parkeetako elkarrizketak, erdizka geratzen direnetakoak. 
