@@ -43,6 +43,10 @@ Jarduerak goizeko bostetan berreskuratzen dira
 *Nola egin dezaket Jarduera gehiago izateko?*  
 Jarduerak denboraren neurri bat dira, egun batek gauzak egiteko eskaintzen duen denbora alegia. Beraz, ezin zaio egunari denbora gehiago eskatu baina pertsonaiak bilatu dezakeena da denbora horretan gauza gehiago egitea. Adibidez, garraio bat lortuz denbora gutxiago emango du bidaiatzen eta beste gauza gehiago egin ahalko ditu.  
 
+*Egunen batean jolasten ez badut, hurrengo egunean 8 jarduera izango ditut?*  
+Ez
+
+
 
 ### Bidaiak {#Bidaiak-id}
 *Iruñeara bidaiatzeak jarduera bat eskatzen al du?*  
