@@ -6,7 +6,7 @@ categories: eu
 tags: [eu, euskara]
 ---
 Auzoko plazan, haurrak jolasean. Bere garaian, ikastola berean ikasitako ezagun bat hurbiltzen zait, berriketan hasten gara. Euskaraz. Gure haurrekin bezala. *Giro euskaldunean*. 
-Gure alaba eskola publikora daramagu, eta berak datorren urteari begira, bere semea non sartu pentsatzen ari da. Galdera mordoxka egin eta gero, bere iritzia emateko aukera ere badu. 
+Gure alaba eskola publikora daramagu, eta ezaguna, datorren urteari begira, bere semea non sartu pentsatzen ari da. Galdera mordoxka egin eta gero, bere iritzia emateko aukera ere badu. 
 - **Giro euskaldunik** ba al dago?, beno, zuek bezalakoak badira beste gurasoak ere, pentsatuko nuke bertan sartzea. 
 
 Nik momentuan ez nion garrantzirik eman esandakoari, eta gu bezalakoak, hau da euskaldunak zirenak baginela, baina baita ere beste lurraldeetako jatorria zutenak ere, batzuk euskara ikasten eta beste batzuk ez. 
