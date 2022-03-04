@@ -21,7 +21,7 @@ Zer zuen guraso horreko buruan? Gu bezalakoak balira denak, euskaldun, (fededun?
 **Giro euskalduna** adierazpenak, zer du atzean? 
 Zikindu ezin daitekeen zerbait. Purutasuna, jatortasuna, burbuila bat, elitismoa apika?
 
-**Giro euskalduna** sortu behar da, haren alde egin, erein, borrokatu. Eta giro horretan, euskaldun zahar, euskaldun berri, euskaraz ikasten ari diren, eta euskaraz ez dakitenak ere sartzen dira. Nik hala ikusten dut behintzat. 
+**Giro euskalduna** sortu beharrekoa da, haren alde egin, erein, borrokatu. Eta giro horretan, euskaldun zahar, euskaldun berri, euskaraz ikasten ari diren, eta euskaraz ez dakitenak ere sartzen dira. Nik hala ikusten dut behintzat. 
 Giroa sortu, bizi etan mantendu egin behar da. 
 Ez da aukeratzen den zerbait. Hori da nire ikuspuntua behintzat. 
 
