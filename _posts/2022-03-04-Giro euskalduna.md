@@ -5,8 +5,7 @@ date:   2022-03-04
 categories: eu 
 tags: [eu, euskara]
 ---
-Auzoko plazan, haurrak jolasean. Ikastolako ezagun bat hurbiltzen zait, eta berriketan hasten gara. 
-Euskaraz. Gure haurrekin bezala. Giro euskaldunean. 
+Auzoko plazan, haurrak jolasean. Bere garaian, ikastola berean ikasitako ezagun bat hurbiltzen zait, berriketan hasten gara. Euskaraz. Gure haurrekin bezala. *Giro euskaldunean*. 
 Gure alaba eskola publikora daramagu, eta berak datorren urteari begira, bere semea non sartu pentsatzen ari da. Galdera mordoxka egin eta gero, bere iritzia emateko aukera ere badu. 
 - **Giro euskaldunik** ba al dago?, beno, zuek bezalakoak badira beste gurasoak ere, pentsatuko nuke bertan sartzea. 
 
@@ -14,9 +13,10 @@ Nik momentuan ez nion garrantzirik eman esandakoari, eta gu bezalakoak, hau da e
 
 Elkarrizketa eten zen, nire alaba deika zegoen eta, horrelakoak izan ohi dira parkeetako elkarrizketak, erdizka geratzen direnetakoak. 
 
-Alaba lepan, etxera bueltan nintzela, berriz etorri zitzaidan burura esandakoa.... **Giro euskalduna**, **zuek bezalakoak**, buruan jo eta jo nituen.... 
+Alaba lepoan zintzilk, etxera bueltan nintzela, berriz etorri zitzaidan burura esandakoa.... *Giro euskalduna*, *zuek bezalakoak*, buruan jo eta jo nituen.... 
 
-Zer zuen guraso horreko buruan? Gu bezalakoak balira denak, euskaldun, (fededun??) orduan bai, bere estandarra beteko luke eskolak. Baina... ez balitz horrela, eta gazteleraz, arabierraz, edo frantsesez hitz egiten duen jendea balego? Orduan zer? Agian ez litzateke *nahikoa* izango bere semearentzat?
+Zer zuen guraso horreko buruan? Gu bezalakoak balira denak, euskaldun, (fededun??) orduan bai, bere estandarra beteko luke eskolak? 
+Baina... ez balitz horrela, eta gazteleraz, arabierraz, edo frantsesez hitz egiten duen jendea balego? Orduan zer? Agian ez litzateke *nahikoa* izango bere semearentzat?
 
 **Giro euskalduna** adierazpenak, zer du atzean? 
 Zikindu ezin daitekeen zerbait. Purutasuna, jatortasuna, burbuila bat, elitismoa apika?
