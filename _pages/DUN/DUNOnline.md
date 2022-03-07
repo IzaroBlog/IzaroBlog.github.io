@@ -9,11 +9,13 @@ title: Online DUN
 ----
 
 ### 📆 Semana de campaña: Año 2: 1/52 Invierno       
-### 💰 Tesorería: 75 monedas     
+### 💰 Tesorería: 68 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
-- Evento épico "Ayuda"
+- M33 Caza de lobos
+- M40 El Foso de Lucha (nueva versión)
+- M13 El Portal mágico
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -21,7 +23,7 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 30** (24+6)            |      |
+| Varyana Piruja    |      | **PV: 32** (26+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
@@ -37,7 +39,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 14/16
+- **Partidas jugadas:** 16/18
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -46,32 +48,33 @@ title: Online DUN
 	🌚 [Flecha Oscura](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/flechaoscura.png?raw=true)  
 	🌚 [Manipular mente](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/manipularmente.png?raw=true)  
 	🌚🌚 [Llamar a las alimañas](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Hechizos/Brujeria/llamaralasalimanas.png)
-- Fuego (2/6)  
+- Fuego (3/6)  
 	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)  
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
+	Piel Ígnea
 
 
 ---  
 
 
 
-| Chester Cheetos    |      |     **PV: 20**         |      |
+| Chester Cheetos    |      |     **PV: 24** (22+2)         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  6    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   3  |
+| Suerte     |  **5**    | Experiencia  |   2  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador*
-- **Armas**: Arcabuz, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
+- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero, Escudo
 - **Equipo**: Ganzúas, Poción de curación.  
-- **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true).
+- **Habilidades** (4/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 15/16
+- **Partidas jugadas:** 17/18
 
 
 ---
@@ -93,7 +96,7 @@ title: Online DUN
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
-- **Partidas jugadas:** 15/15
+- **Partidas jugadas:** 16/18
 
 ---
 
@@ -113,7 +116,7 @@ title: Online DUN
 - **Equipo**:  
 - **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 8/16
+- **Partidas jugadas:** 8/18
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -137,7 +140,7 @@ title: Online DUN
 - **Equipo**:  
 - **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 3/16
+- **Partidas jugadas:** 3/18
 
 ---  
 
@@ -158,6 +161,8 @@ title: Online DUN
 - *Escoltar a Plump (primer intento)*
 - *Escoltar a Plump (segundo intento)*
 - Información en Thorzul
+- Ayuda! Evento épico
+- Salvad al Gobernador!
 
 ----
 
@@ -188,9 +193,9 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 - ?
 
 🧙‍♀️ **BIBAL**:
-- ?
-- ?
-- ?	
+- Guanteletes de Bronce
+- Ídolo del Cuervo
+- Gema Sanadora	
 
 # Crónicas
 
