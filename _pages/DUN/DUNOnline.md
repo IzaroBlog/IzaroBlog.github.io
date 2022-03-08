@@ -13,9 +13,8 @@ title: Online DUN
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
-- M33 Caza de lobos
-- M40 El Foso de Lucha (nueva versión)
-- M13 El Portal mágico
+- M33 Caza de lobos  
+- M13 El Portal mágico  
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -51,7 +50,7 @@ title: Online DUN
 - Fuego (3/6)  
 	🔥 [Ataques Flamígeros](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/ataquesflamigeros.png?raw=true)  
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
-	Piel Ígnea
+	🔥Piel Ígnea  
 
 
 ---  
@@ -76,27 +75,6 @@ title: Online DUN
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
 - **Partidas jugadas:** 17/18
 
-
----
-
-
-| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 18**           |      |
-| ---------- | :--: | ------------ | :--: |
-| Movimiento |   4   | Agilidad     |  3    |
-| Ataque     |   5   | Inteligencia |  4    |
-| Fuerza     |   **5**   | Mana         |  -    |
-| Disparo    |   3   | Valentia     |  4    |
-| Armadura   |   3   | Vitalidad    |  6    |
-| Suerte     |   5   | Experiencia  |  4    |
-| Destreza   |   1   | Percepción   |  0    |
-
-- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
-- **Armas**: Hacha, Espada Ancha. 
-- **Armaduras**: Cota de Malla y Escudo enano.
-- **Equipo**: Pócima curativa, Pócima de la Destreza.
-- **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
-- **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
-- **Partidas jugadas:** 16/18
 
 ---
 
@@ -141,6 +119,29 @@ title: Online DUN
 - **Habilidades** (0/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
 - **Partidas jugadas:** 3/18
+
+---
+
+
+| [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 18**           |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |   4   | Agilidad     |  3    |
+| Ataque     |   5   | Inteligencia |  4    |
+| Fuerza     |   **5**   | Mana         |  -    |
+| Disparo    |   3   | Valentia     |  4    |
+| Armadura   |   3   | Vitalidad    |  6    |
+| Suerte     |   5   | Experiencia  |  4    |
+| Destreza   |   1   | Percepción   |  0    |
+
+- *[Enano](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/enano.png)*- *Guerrero*
+- **Armas**: Hacha, Espada Ancha. 
+- **Armaduras**: Cota de Malla y Escudo enano.
+- **Equipo**: Pócima curativa, Pócima de la Destreza.
+- **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
+- **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
+- **Partidas jugadas:** 16/18
+
+
 
 ---  
 
