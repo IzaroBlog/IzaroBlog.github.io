@@ -20,6 +20,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 
 ## Materiales fanmade
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
+- Campaña ["Los pergaminos de Morkhan"](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Los%20pergaminos%20de%20Morkhan.pdf) por José Miguel García Oliver. Para jugar con JO.  + [Mapa de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Mapa%20de%20las%20Revelaciones.png) + [Mapa de Minas de Rorouth](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Minas%20de%20Rorouth.png)
 - [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)
 - [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
