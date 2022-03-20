@@ -8,13 +8,13 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 1/52 Invierno       
+### 📆 Semana de campaña: Año 2: 4/52 Invierno       
 ### 💰 Tesorería: 68 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
 - M33 Caza de lobos  
-- M13 El Portal mágico  
+- En Menon 
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -38,7 +38,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 16/18
+- **Partidas jugadas:** 16/19
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -73,28 +73,28 @@ title: Online DUN
 - **Equipo**: Ganzúas, Poción de curación.  
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 17/18
+- **Partidas jugadas:** 17/19
 
 
 ---
 
-| Bergoglio    |      |      **PV: 14**        |      |
+| Bergoglio    |      |      **PV: 18**  (14+4)      |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   3   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3    | Valentia     |   4   |
 | Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  2    |
+| Suerte     |  6    | Experiencia  |  5    |
 | Destreza   |  0    | Percepción   |  0    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha, espada falcata, hacha.
 - **Armaduras**: Coraza.
-- **Equipo**:  
+- **Equipo**:  _**Gema Sanadora (4)**_
 - **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 8/18
+- **Partidas jugadas:** 9/19
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -109,16 +109,16 @@ title: Online DUN
 | Fuerza     |  **5**    | Mana         |   0   |
 | Disparo    |  3    | Valentia     |   **5**   |
 | Armadura   |  3   | Vitalidad    |   5   |
-| Suerte     |  6    | Experiencia  |  1    |
+| Suerte     |  6    | Experiencia  |  0    |
 | Destreza   |  -1    | Percepción   |  0    |
 
 - *Humano-Caballero*
 - **Armas**: Espada ancha
 - **Armaduras**: Armadura Completa y Gran Escudo
 - **Equipo**:  
-- **Habilidades** (1/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, una de combate
+- **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 3/18
+- **Partidas jugadas:** 4/19
 
 ---
 
