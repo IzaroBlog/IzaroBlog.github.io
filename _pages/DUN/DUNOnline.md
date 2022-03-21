@@ -8,8 +8,8 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 1/52 Invierno       
-### 💰 Tesorería: 68 monedas     
+### 📆 Semana de campaña: Año 2: 4/52 Invierno       
+### 💰 Tesorería: 27 monedas     
 ### ↪️ Partidas disponibles:   
 - M10 Cazar a la gran Criatura  
 - M21 Ladrones de caballos (nueva mini-campaña)  
