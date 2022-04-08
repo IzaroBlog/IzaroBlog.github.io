@@ -11,7 +11,6 @@ title: Online DUN
 ### 📆 Semana de campaña: Año 2: 9/52 Invierno       
 ### 💰 Tesorería: 46 monedas     
 ### ↪️ Partidas disponibles:   
-
 - M11 En las colinas guardianas 💀
 - M14 En la isla pantanosa 🏝
 - M15 En la isla serpiente 🐍
@@ -55,7 +54,7 @@ title: Online DUN
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
 	🔥Piel Ígnea  
 
-### Duncan
+#### Duncan
 Mercenario Veterano
 
 | Duncan|     **PV 5**  | (10/5)                     |      |
@@ -68,10 +67,10 @@ Mercenario Veterano
 | Suerte        |  1 | Experiencia |   0 |
 | Destreza   |   -1   | Percepción   |   -1   |
 
-#### Equipo: 
+**Equipo:**
 Espada ancha, escudo. Daga y cota de malla.
-#### Habilidades
-- Perdido en la oscuridad
+**Habilidades**
+Perdido en la oscuridad
 
 ---  
 
@@ -118,7 +117,7 @@ Espada ancha, escudo. Daga y cota de malla.
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
 	💫 [Luz sanadora](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png?raw=true)    
 
-### Norelin Gezibizi
+#### Norelin Gezibizi
 Mercenario Elfo
 
 | Norelin|     **PV 6**  | (10/5)                     |      |
@@ -131,11 +130,10 @@ Mercenario Elfo
 | Suerte        |  1 | Experiencia |   0 |
 | Destreza   |   -   | Percepción   |   2   |
 
-#### Habilidades
+**Equipo**
 Espada ancha, arco corto y armadura de cuero. 
-#### Habilidades
-- Sentidos agudizados, Cazador
-*Puede realizar acciones exploratorias*
+**Habilidades**
+Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 
 
 
