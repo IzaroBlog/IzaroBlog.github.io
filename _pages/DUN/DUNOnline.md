@@ -8,13 +8,16 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 4/52 Invierno       
-### 💰 Tesorería: 27 monedas     
+### 📆 Semana de campaña: Año 2: 9/52 Invierno       
+### 💰 Tesorería: 46 monedas     
 ### ↪️ Partidas disponibles:   
-- M10 Cazar a la gran Criatura  
-- M21 Ladrones de caballos (nueva mini-campaña)  
-- M33 Caza de lobos  
-- M13 El Portal mágico  
+
+- M11 En las colinas guardianas 💀
+- M14 En la isla pantanosa 🏝
+- M15 En la isla serpiente 🐍
+- M25 Alcanzar el Puente :⛩
+- M10 Cazar a la gran Criatura 🎃
+- M33 Caza de lobos 🐺 
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
