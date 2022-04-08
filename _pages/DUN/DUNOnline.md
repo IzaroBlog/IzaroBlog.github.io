@@ -22,7 +22,7 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 32** (26+6)            |      |
+| Varyana Piruja    |      | **PV: 37** (26+6+5)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
@@ -52,10 +52,25 @@ title: Online DUN
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
 	🔥Piel Ígnea  
 
+### Duncan
+Mercenario Veterano
+
+| Duncan|     **PV 5**  | (10/5)                     |      |
+| :--: | :--: | :--:| :--: |
+| Movimiento | 4 | Agilidad      |  3    |
+| Ataque       |   4   | Inteligencia |  4    |
+| Fuerza       |   4   | Mana            | - |
+| Disparo     |   2   | Valentia        | 4 |
+| Armadura  |   5   | Vitalidad      |   5   |
+| Suerte        |  1 | Experiencia |   0 |
+| Destreza   |   -1   | Percepción   |   -1   |
+
+#### Equipo: 
+Espada ancha, escudo. Daga y cota de malla.
+#### Habilidades
+- Perdido en la oscuridad
 
 ---  
-
-
 
 | Chester Cheetos    |      |     **PV: 24** (22+2)         |      |
 | ---------- | :--: | ------------ | :--: |
@@ -78,21 +93,21 @@ title: Online DUN
 
 ---
 
-| Bergoglio    |      |      **PV: 18 (14+4)**        |      |
+| Bergoglio    |      |      **PV: 26 (16+4+6)**        |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |  5    | Agilidad     |   3   |
+| Movimiento |  5 (-1)   | Agilidad     |   3(-1)   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
-| Disparo    |  3    | Valentia     |   4   |
-| Armadura   |  3   | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  5    |
-| Destreza   |  0    | Percepción   |  0    |
+| Disparo    |  3 (-1)   | Valentia     |   4   |
+| Armadura   |  3 (+2)  | Vitalidad    |   **5**   |
+| Suerte     |  6    | Experiencia  |  2    |
+| Destreza   |  (-1)    | Percepción   |  (-1)    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha, espada falcata, hacha.
 - **Armaduras**: Coraza.
 - **Equipo**: _**Gema sanadora (4)**_
-- **Habilidades** (2/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas.
+- **Habilidades** (3/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
 - **Partidas jugadas:** 9/19
 - **Hechizos**: 
@@ -100,21 +115,42 @@ title: Online DUN
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
 	💫 [Luz sanadora](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png?raw=true)    
 
+### Norelin Gezibizi
+Mercenario Elfo
+
+| Norelin|     **PV 6**  | (10/5)                     |      |
+| :--: | :--: | :--:| :--: |
+| Movimiento | 6 | Agilidad      |  3    |
+| Ataque       |   4   | Inteligencia |  4    |
+| Fuerza       |   3   | Mana            | - |
+| Disparo     |   4   | Valentia        | 3 |
+| Armadura  |   4   | Vitalidad      |   4   |
+| Suerte        |  1 | Experiencia |   0 |
+| Destreza   |   -   | Percepción   |   2   |
+
+#### Habilidades
+Espada ancha, arco corto y armadura de cuero. 
+#### Habilidades
+- Sentidos agudizados, Cazador
+*Puede realizar acciones exploratorias*
+
+
+
 ----
 
 | Gastón    |      |      **PV: 14**        |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |  5    | Agilidad     |   3   |
+| Movimiento |  5 (-1)   | Agilidad     |   3 (-2)  |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  **5**    | Mana         |   0   |
-| Disparo    |  3    | Valentia     |   **5**   |
-| Armadura   |  3   | Vitalidad    |   5   |
+| Disparo    |  3  (-2)  | Valentia     |   **5**   |
+| Armadura   |  3 (+3)  | Vitalidad    |   5   |
 | Suerte     |  6    | Experiencia  |  0    |
-| Destreza   |  -1    | Percepción   |  0    |
+| Destreza   |  -1 (-2)   | Percepción   |  0 (-2)   |
 
 - *Humano-Caballero*
-- **Armas**: Espada ancha
-- **Armaduras**: Armadura Completa y Gran Escudo
+- **Armas**: Espada bastarda
+- **Armaduras**: Armadura Completa
 - **Equipo**:  
 - **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, una de libro
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
