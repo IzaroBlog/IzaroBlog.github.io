@@ -139,7 +139,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 
 ----
 
-| Gastón    |      |      **PV: 16(14+2)**        |      |
+| Gastón    |      |      **PV: 19(14+2+3)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3 (-2)  |
 | Ataque     |  5    | Inteligencia |   4   |
@@ -150,9 +150,9 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 | Destreza   |  -1 (-2)   | Percepción   |  0 (-2)   |
 
 - *Humano-Caballero*
-- **Armas**: Espada bastarda
+- **Armas**: _**Espada bastarda mataorcos (3)**_
 - **Armaduras**: Armadura Completa
-- **Equipo**:  Gema del valor (+2)
+- **Equipo**:  _**Gema del valor (2)**_
 - **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
 - **Partidas jugadas:** 5/20
