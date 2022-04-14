@@ -146,7 +146,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 | Fuerza     |  **5**    | Mana         |   0   |
 | Disparo    |  3  (-2)  | Valentia     |   **5** (6)  |
 | Armadura   |  3 (+3)  | Vitalidad    |   5   |
-| Suerte     |  6    | Experiencia  |  0    |
+| Suerte     |  6    | Experiencia  |  2    |
 | Destreza   |  -1 (-2)   | Percepción   |  0 (-2)   |
 
 - *Humano-Caballero*
