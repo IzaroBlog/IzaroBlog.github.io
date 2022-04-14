@@ -8,10 +8,10 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 9/52 Invierno       
-### 💰 Tesorería: 46 monedas     
+### 📆 Semana de campaña: Año 2: 16/52 
+### 💰 Tesorería: 57 monedas     
 ### ↪️ Partidas disponibles:   
-- M11 En las colinas guardianas 💀
+
 - M14 En la isla pantanosa 🏝
 - M15 En la isla serpiente 🐍
 - M25 Alcanzar el Puente :⛩
@@ -40,7 +40,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 16/19
+- **Partidas jugadas:** 16/20
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -81,16 +81,16 @@ Perdido en la oscuridad
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   2  |
+| Suerte     |  **5**    | Experiencia  |   4  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
-- *Félido*-*Explorador*
+- *Félido*-*Explorador* Muerto por ahora
 - **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero, Escudo
-- **Equipo**: Ganzúas, Poción de curación.  
+- **Equipo**: Ganzúas, Poción de curación.
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 17/19
+- **Partidas jugadas:** 18/20
 
 
 ---
@@ -102,7 +102,7 @@ Perdido en la oscuridad
 | Fuerza     |  4    | Mana         |   4   |
 | Disparo    |  3 (-1)   | Valentia     |   4   |
 | Armadura   |  3 (+2)  | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  2    |
+| Suerte     |  6    | Experiencia  |  4    |
 | Destreza   |  (-1)    | Percepción   |  (-1)    |
 
 - *Humano-Monje Guerrero*
@@ -111,7 +111,7 @@ Perdido en la oscuridad
 - **Equipo**: _**Gema sanadora (4)**_
 - **Habilidades** (3/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 9/19
+- **Partidas jugadas:** 10/20
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -139,12 +139,12 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 
 ----
 
-| Gastón    |      |      **PV: 14**        |      |
+| Gastón    |      |      **PV: 16(14+2)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3 (-2)  |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  **5**    | Mana         |   0   |
-| Disparo    |  3  (-2)  | Valentia     |   **5**   |
+| Disparo    |  3  (-2)  | Valentia     |   **5** (6)  |
 | Armadura   |  3 (+3)  | Vitalidad    |   5   |
 | Suerte     |  6    | Experiencia  |  0    |
 | Destreza   |  -1 (-2)   | Percepción   |  0 (-2)   |
@@ -152,10 +152,10 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - *Humano-Caballero*
 - **Armas**: Espada bastarda
 - **Armaduras**: Armadura Completa
-- **Equipo**:  
-- **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, una de libro
+- **Equipo**:  Gema del valor (+2)
+- **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 4/19
+- **Partidas jugadas:** 5/20
 
 ---
 
@@ -202,7 +202,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - Ayuda! Evento épico
 - Salvad al Gobernador!
 - Portal mágico
-
+- [La cripta del rey maldito](#Cripta-id)
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
@@ -227,9 +227,9 @@ Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico 
 - ?
 - ?
 🧙‍♀️ **MENON**:
-- ?
-- ?
-- ?
+- Espada bastarda formidable
+- Lanza voladora
+- Yelmo rojo
 
 🧙‍♀️ **BIBAL**:
 - Guanteletes de Bronce
@@ -273,3 +273,16 @@ Espera querido hermano- decía con la voz más paciente que pudo encontrar- nece
 Habrá que ir saliendo de este tugurio!- espetó la bruja- vamos a cobrar una buena recompensa por estos trolls robaovejas en Bibal! Rápido Intxaur corta la cabeza del más grande para llevárnosolo como prueba. 
 
 🪓 Intxaur miró con desprecio al último troll abatido y levantó el hacha -espero que esté bien muerto porque como se empiece a regenerar por el camino, pensó para sí....
+
+## La pesadilla de Chester {#Cripta-id}
+Dulanto 🐺 Otsogorri [Izaro], [22/4/14 20:37]
+Norelin estaba exhausto, llevaban horas interminables acarreando el cuerpo inerte del félido en aquella camilla hecha con los restos destartalados del trono del rey no muerto. 
+Bergie, Gastón y Norelin se iban turnando con la camilla y la lámpara, que ya casi estaba sin aceite. Tras derribar Chester al rey no muerto bajo el plomo de su arcabuz, no habían tenido muchos má encuentros en la subida. Unos pocos murciélagos y alguna rata eran los únicos seres que se movían en la gran cripta. No obstante, a todos les había costado lo suyo volver a cruzar la zona inundada dónde reposaba sin vida la piel de la pitón. El elfo todavía tenía los pelos de punta al recordarlo. 
+
+Gastón iba cabizbajo, su juramento de caballero le pesaba ya que no había sido capaz de defender a su compañero de la espada tumularia. Las palabras del sacerdote tampoco habían calado, y era el único que no había dado relevos al llevar la camilla. Se sentía responsable de lo ocurrido. Tenía que haber sido él el que hubiera recibido el espadazo.... Chester con su disparo certero les había salvado la vida a todos, le debían la vida a aquel félido guasón y su arcabuz. 
+
+La salida está cerca! les dijo Bergie a sus compañeros. Si no fuese por sus ojos llenos de ojeras, no se diferenciaban mucho de los zombies o necrófagos con los que habían estado luchando. La claridad del día le hizo taparse los ojos con su guantelete, y miró una vez más dentro de la cripta. "Maeliss... sé que te encuentras ahí dentro escondida.... algún día volveré a por tí. Ahora tengo un amigo al que honrar". 
+Gastón y Norelin dejaron el cuerpo maltrecho de Chester bajo un árbol y comenzaron a arreglar su maltrechas armaduras. Bergie se arrodilló frente al félido y puso la gema sanador en sus manos. El poder de la gema ancestral era su única esperanza, y accedió con dificultad a la senda Denul, la senda de los sanadores. Todavía había algo de vida, y la gema podría suministrar lo poco que necesitaba el cuerpo de Chester durante un par de días. Exhausto, salió de su senda, y miró a sus demacrados compañeros. 
+"Chavales, conozco a un sanador que podría curarlo. Pero tendrá que ser rápido" 
+Norelin y Gastón abrieron los ojos como platos, y corrieron a levantar la camilla una vez más. Un fulgor verde salía de las garras del félido, pero ninguno de los dos preguntó nada. Era hora de ponerse en marcha otra vez. 
+Con su última reserva de maná, Bergio quitó el cansancio que pudo a sus compañeros y comenzaron a bajar a paso firme las colinas guardianas.... llegarían a tiempo para salvar el alma de Chester??
