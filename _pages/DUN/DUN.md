@@ -21,6 +21,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ## Materiales fanmade
 - [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
 - Campaña ["Los pergaminos de Morkhan"](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Los%20pergaminos%20de%20Morkhan.pdf) por José Miguel García Oliver. Para jugar con JO.  + [Mapa de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Mapa%20de%20las%20Revelaciones.png) + [Mapa de Minas de Rorouth](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Minas%20de%20Rorouth.png)
+- Aventura [Sangre y Oro](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Aventura%20SANGRE%20Y%20ORO.pdf) gracias a @menobasstone 👏!
 - [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)
 - [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !
 - [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
@@ -35,8 +36,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
-- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2629538192) (TTS) para Dun en Steam.  
-- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
+- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762792541&searchtext=Dungeon+Universalis) (TTS) para Dun en Steam.  - [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
 - [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
 - [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
 
