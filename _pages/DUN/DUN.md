@@ -36,7 +36,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
-- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762792541&searchtext=Dungeon+Universalis) (TTS) para Dun en Steam.  - [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
+- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762792541&searchtext=Dungeon+Universalis) (TTS) para Dun en Steam. Con el currazo de @maltheas @akilillo @Poseidondehierro y @pepnoguera 👏 !
+- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
 - [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
 - [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
 
