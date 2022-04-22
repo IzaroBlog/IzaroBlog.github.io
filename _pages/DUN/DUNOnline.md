@@ -76,12 +76,12 @@ Perdido en la oscuridad
 
 | Chester Cheetos    |      |     **PV: 24** (22+2)         |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |  6    | Agilidad     |   4   |
+| Movimiento |  **6**    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   4  |
+| Suerte     |  **5**    | Experiencia  |   1  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador* Muerto por ahora
@@ -91,6 +91,8 @@ Perdido en la oscuridad
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
 - **Partidas jugadas:** 18/20
+- **Lesiones**: Lesión de rodilla (-1Mov)
+
 
 
 ---
