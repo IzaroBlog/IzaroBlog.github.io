@@ -203,6 +203,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - Salvad al Gobernador!
 - Portal mágico
 - [La cripta del rey maldito](#Cripta-id)
+
 ----
 
 ## Intxaur Waldosson {#Intxaur-id}
