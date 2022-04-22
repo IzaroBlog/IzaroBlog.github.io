@@ -258,6 +258,12 @@ Cuando un personaje sube encima de algo se considera que esta a la altura de don
 *Un Elemento Especial Alimañas, que recibe el doble de daño de un proyectil mágico ¿Cómo se gestiona con hechizos de área? Se calcula el objetivo principal x2 y el área x2 o no se tiran los dados por el daño de área?*  
 Considera las alimañas como objetivo únicamente. (como si ocupasen una casilla, por entendernos)(Ludic).  
 
+*Si se decide abrir un cofre de un arcabuzazo-pistolazo:*  
+*- 1.Hay que tirar para impactar? El cofre se considera inmovil?* 
+*- 2. Una vez abierto, se ponen dos campanas o una solo? (Abrir cofre+escopetazo, o solo una de abrir el cofre?)*  
+Hay que tirar para impactar y son inmoviles.  
+Se ponen 2 de ruido por turno.  
+
 ### Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
 En cualquier momento que pueda aprender una habilidad.
