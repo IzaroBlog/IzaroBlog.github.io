@@ -8,15 +8,15 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 16/52 
-### 💰 Tesorería: 57 monedas     
+### 📆 Semana de campaña: Año 2: 18/52 
+### 💰 Tesorería: 30 monedas     
 ### ↪️ Partidas disponibles:   
 
 - M14 En la isla pantanosa 🏝
 - M15 En la isla serpiente 🐍
 - M25 Alcanzar el Puente :⛩
 - M10 Cazar a la gran Criatura 🎃
-- M33 Caza de lobos 🐺 
+
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -40,7 +40,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 16/20
+- **Partidas jugadas:** 16/21
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -81,16 +81,16 @@ Perdido en la oscuridad
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   1  |
+| Suerte     |  **5**    | Experiencia  |   3  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador* Muerto por ahora
 - **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
-- **Armaduras**: Armadura de Cuero, Escudo
+- **Armaduras**: Armadura de Cuero
 - **Equipo**: Ganzúas, Poción de curación.
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 18/20
+- **Partidas jugadas:** 19/21
 - **Lesiones**: Lesión de rodilla (-1Mov)
 
 
@@ -113,7 +113,7 @@ Perdido en la oscuridad
 - **Equipo**: _**Gema sanadora (4)**_
 - **Habilidades** (3/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 10/20
+- **Partidas jugadas:** 10/21
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -141,7 +141,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 
 ----
 
-| Gastón    |      |      **PV: 19(14+2+3)**        |      |
+| Gastón    |      |      **PV: 21(16+2+3)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3 (-2)  |
 | Ataque     |  5    | Inteligencia |   4   |
@@ -155,11 +155,39 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - **Armas**: _**Espada bastarda mataorcos (3)**_
 - **Armaduras**: Armadura Completa
 - **Equipo**:  _**Gema del valor (2)**_
-- **Habilidades** (2/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios
+- **Habilidades** (3/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 5/20
+- **Partidas jugadas:** 6/21
+
+
+----
+
+| [Landagast](#Landagast-id)  |      |      **PV: 10**        |      |
+| ---------- | :--: | ------------ | :--: |
+| Movimiento |  5    | Agilidad     |   4 |
+| Ataque     |  3    | Inteligencia |   5   |
+| Fuerza     |  3    | Mana         |   8   |
+| Disparo    |  3   | Valentia     |   4  |
+| Armadura   |  3   | Vitalidad    |   4   |
+| Suerte     |  4    | Experiencia  |  2    |
+| Destreza   |  0   | Percepción   |  0    |
+
+- *Humano-Animista*
+- **Armas**: Lanza
+- **Equipo**: 
+- **Habilidades** (0/10): *Adiestrar animal, Habilidad Mental, Perdido en la Oscuridad*
+- **Xp en Pozo de Lucha**:
+- **Partidas jugadas:** 1/21
 
 ---
+
+
+
+
+
+
+
+
 
 
 | [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 18**           |      |
@@ -178,7 +206,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
-- **Partidas jugadas:** 16/19
+- **Partidas jugadas:** 16/21
 
 
 
@@ -205,6 +233,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - Salvad al Gobernador!
 - Portal mágico
 - [La cripta del rey maldito](#Cripta-id)
+* [Guarida de Orcos](#GuaridaOrcos-id)
 
 ----
 
@@ -222,6 +251,13 @@ No terminó la frase porque ya tenía un jarra de cerveza estampada en la cara, 
 
 Ahora si que el silencio era profundo en la taberna. Sentía el sabor metálico de la sangre en mi boca, y miré en redondo a la concurrencia. Como siempre, la manada con su lider inconsciente en el suelo, no se atrevía a levantar la mirada de sus jarras. Con la mano en el pomo de la espada, avancé directa a por el único que me sostenía la mirada. Tenía que ser este el félido que andaba buscando. 
 ¿Por qué los hombres hacían siempre las cosas tán difíciles?
+
+## Landagast {#Landagast-id}
+El felino y el humano llevaban días caminado por la espesura. Habían irrumpido en la foresta hacía tres noches como una visita descortés que no ha sido invitada. 
+El  druida, viejo como el propio bosque, los observaba a vista de pájaro través de unos ojos que no eran los suyos. 
+A los sabios de su orden no les agradaba que se inmoscuyera en asuntos de la civilización, cosa que según ellos hacia con demasiada frecuencia, pero no estaba dispuesto a ignorar los problemas hasta que estuvieran en el linde de su amado bosque: Una partida de orcos merodeaba por la región talando, quemando y arrasando todo a su paso y pensó que un poco de ayuda no les vendría mal a esos dos... Casi cambia de idea cuando vio al caballero, vociferando, abrirse paso entre zarzas y ramas a golpe de mandoble...
+
+
 
 # Objetos Mágicos en torres de hechiceria {#objetosmagicos-id}
 
@@ -278,7 +314,7 @@ Habrá que ir saliendo de este tugurio!- espetó la bruja- vamos a cobrar una bu
 🪓 Intxaur miró con desprecio al último troll abatido y levantó el hacha -espero que esté bien muerto porque como se empiece a regenerar por el camino, pensó para sí....
 
 ## La pesadilla de Chester {#Cripta-id}
-Dulanto 🐺 Otsogorri [Izaro], [22/4/14 20:37]
+
 Norelin estaba exhausto, llevaban horas interminables acarreando el cuerpo inerte del félido en aquella camilla hecha con los restos destartalados del trono del rey no muerto. 
 Bergie, Gastón y Norelin se iban turnando con la camilla y la lámpara, que ya casi estaba sin aceite. Tras derribar Chester al rey no muerto bajo el plomo de su arcabuz, no habían tenido muchos má encuentros en la subida. Unos pocos murciélagos y alguna rata eran los únicos seres que se movían en la gran cripta. No obstante, a todos les había costado lo suyo volver a cruzar la zona inundada dónde reposaba sin vida la piel de la pitón. El elfo todavía tenía los pelos de punta al recordarlo. 
 
@@ -289,3 +325,18 @@ Gastón y Norelin dejaron el cuerpo maltrecho de Chester bajo un árbol y comenz
 "Chavales, conozco a un sanador que podría curarlo. Pero tendrá que ser rápido" 
 Norelin y Gastón abrieron los ojos como platos, y corrieron a levantar la camilla una vez más. Un fulgor verde salía de las garras del félido, pero ninguno de los dos preguntó nada. Era hora de ponerse en marcha otra vez. 
 Con su última reserva de maná, Bergio quitó el cansancio que pudo a sus compañeros y comenzaron a bajar a paso firme las colinas guardianas.... llegarían a tiempo para salvar el alma de Chester??
+
+**Chesterren heriotza**
+La espada del esqueleto estuvo a punto de rebanar el gaznate de Chester, pero se tiró de bruces para esquivar la mortal arremetida y aprovechó que Norelin se trababa con el no muerto para, usando a Lucille de bastón, levantarse y valorar sus posibilidades. Casi no podía ver a Gaston, rodeado de no muertos, sangrando profusamente, miró a su derecha y vio a Bergi sobrepasado, su coraza abollada, intentando contener a dos tumularios mientras apenas sostenía la farola, por ahí tampoco obtendría ayuda.
+
+El tema estaba jodido, él mismo sangraba profusamente de un feo corte en el muslo, “hay que ser realistas, es el fin”- pensó. Por si fuera poco el Rey tumulario se cernía sobre ellos, “espera un poco”, pensó. Con sus últimas fuerzas, pulso tambaleante pero férrea convicción, alzó por última vez el rifle apuntando a la columna tras la que el Rey se encontró y silbó. Contra todo pronóstico, tras la columna asomó el cráneo del no muerto “qué feo eres, hijo de puta” y Chester apretó el gatillo, y la cabeza del rey no muerto estalló en mil pedazos, al instante un tumulario se abalanzó sobre él y todo se hizo oscuridad.
+
+**Chester bizi da!**
+Rodeado de un intenso dolor, Chester abrió un ojo y mientras un hilo de luz entraba en la habitación. Su cuerpo estaba cubierto de vendas y en la mesilla comprobó que había ungüentos de todo tipo, velas, incienso e incluso un serrucho con coágulos de sangre. Por el Gran Felino, ¡estaba vivo! Tenía mucha sed pero se abstuvo de beber de la botella que había sobre la mesilla por precaución. Miró al otro lado y vio a Bergoglio con aspecto agotado, se había quedado dormido cuidándole. Sin hacer ruido apoyó los pies en el suelo para comprobar que una pierna le había quedado más corta que la otra “ maldita sea, bueno supongo que quedar vivo no podía salirme gratis” Con sigilo felino salió del cuchitril y al salir vio a Gastón, rebosante de salud, ejercitándose con un terrible mandoble de aspecto fiero. -Qué, ¿ya se ha despertado el bello durmiente? Tengo ganas de una nueva misión, esta belleza me está pidiendo sangre, sangre de orco-
+
+
+## Guarida de Orcos {#GuaridaOrcos-id}
+De camino a Menon, Gastón (David ) comenzó a notar que su recién adquirida espada bastarda comenzaba a vibrar. Para entonces, Chester ya se había dado cuenta de que algo no iba bien... llevaba tiempo olfateando el viento proveniente del norte, y el hedor a orcos era cada vez más evidente. 
+Estaban en una encrucijada, intentarían sortear el territorio orco sin ser descubiertos? Chester lo dudaba, Gastón sacaba más ruido que un carro de uroks relleno de chatarra... la opción de asestar un golpe sorpresa era más eficaz. Quién pega primero, pega dos veces.... 
+Se encontraban sin apoyo mágico, pero algo hizo que los bigotes de chester se erizasen....
+
