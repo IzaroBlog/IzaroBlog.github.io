@@ -56,7 +56,7 @@ title: Online DUN
 
 ---  
 
-| Chester Cheetos    |      |     **PV: 22** (22+2+4)         |      |
+| Chester Cheetos    |      |     **PV: 28** (22+2+4)         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  **6**    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
@@ -79,7 +79,7 @@ title: Online DUN
 
 ---
 
-| Bergoglio    |      |      **PV: 30 (18+2+4+6)**        |      |
+| Bergoglio    |      |      **PV: 20 (18+2)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3(-1)   |
 | Ataque     |  5    | Inteligencia |   4   |
