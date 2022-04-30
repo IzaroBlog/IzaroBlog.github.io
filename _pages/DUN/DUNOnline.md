@@ -12,11 +12,10 @@ title: Online DUN
 ### 💰 Tesorería: 27? monedas     
 ### ↪️ Partidas disponibles:   
 
-- M14 En la isla pantanosa 🏝
-
-- M25 Alcanzar el Puente :⛩
+- M14 En la isla pantanosa 🏝 (Campaña principal)
+- M25 Alcanzar el Puente :⛩ (Nueva mini-campaña)
 - M10 Cazar a la gran Criatura 🎃
-
+- M35 La casa de los Enigmas ⁉️
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
