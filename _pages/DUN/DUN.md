@@ -238,6 +238,9 @@ El [máximo de modificadores es +3](https://raw.githubusercontent.com/IzaroBlog/
 *¿Todas las que se encuentran son sin identificar o sólo las que así lo indica? Cuando se roba poción al azar u objeto especial al azar, ¿tambien es poción sin identificar? Si todas son poción sin identificar pero sólo hay 2 cartas de poción si identificar, ¿sólo puedes tener 2 a la vez?*  
 **Aclaración Pociones**: Todas las pociones encontradas por los héroes son sin identificar. La carta de objeto especial "poción sin identificar" es un mero item estético y no cuenta para el límite de pociones de este tipo, ya que no hay un límite máximo. Se pueden llevar pociones sin identificar a placer.(Ludic)  
 
+*¿Estando rota un arma mágica o encantada, sigue aumentando los PV del personaje que le lleva aunque no pueda usarla?*  
+El equipo mientras se lleve encima pesa y aporta PV. Da igual si está equipado o no.  
+
 
 ### Elementos especiales y mobiliario {#ElementosEspecialesyMobiliario-id}
 *¿También tiro agilidad si en el mismo turno salgo de la sección [suelo ardiente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/sueloardiente.jpg)?* <br>
@@ -263,6 +266,9 @@ Considera las alimañas como objetivo únicamente. (como si ocupasen una casilla
 *- 2. Una vez abierto, se ponen dos campanas o una solo? (Abrir cofre+escopetazo, o solo una de abrir el cofre?)*  
 Hay que tirar para impactar y son inmoviles.  
 Se ponen 2 de ruido por turno.  
+
+*¿Si un personaje está quieto (no transita) por la sala de lo espejos, tiene que chequear inteligencia??  
+Si, estando quieto dentro de la sala también hay que chequear.   
 
 ### Creación de personajes y evolución {#CreaciondePersonajesyEvolucion-id}
 *Las [clases](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/celestial.png) que dicen "puede aprender la habilidad [volar](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/volar.png)", en qué momento pueden aprenderla? En cualquier momento que gasten 3xp o hay alguna regla particular?* <br>
@@ -371,8 +377,11 @@ Se necesita desencadenante, no eliges escoltar a un héroe concreto, sino que pu
 - *C) No se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido).*  
 La habilidad entra en juego en el caso C); no se aplica en ese combate donde se produce, se aturde a partir de resolver ese ataque CaC concreto (por si tuviera más ataques, ya contaría como aturdido)(Ludic).  
 
-*¿La habilidad [Embestida] se puede usar frente a personajes de mayor tamaño?*
-No. Ver apartado de Erratas {#ErratasV2-id}. 
+*¿La habilidad [Embestida] se puede usar frente a personajes de mayor tamaño?*  
+No. Ver apartado de Erratas {#ErratasV2-id}.  
+
+*Hay habilidades que requieren un mínimo de agilidad o ataque (Élite/Salto Volador), por ejemplo para poder utilizarlas. ¿Es necesario tener en todo momento el nivel mínimo que exigen éstas habilidades para poder usarlas, o sólo con que el personaje tenga ese valor, antes de de los posibles penalizadores, vale?*  
+Si una habilidad tiene requisito mínimo de atributo, no se puede usar si antes de lanzar los dados no se cumple con ese requisito.  
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
