@@ -8,12 +8,12 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 18/52 
-### 💰 Tesorería: 30 monedas     
+### 📆 Semana de campaña: Año 2: 25/52 
+### 💰 Tesorería: 27? monedas     
 ### ↪️ Partidas disponibles:   
 
 - M14 En la isla pantanosa 🏝
-- M15 En la isla serpiente 🐍
+
 - M25 Alcanzar el Puente :⛩
 - M10 Cazar a la gran Criatura 🎃
 
@@ -24,14 +24,14 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 37** (26+6+5)            |      |
+| Varyana Piruja    |      | **PV: 32** (26+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
 | Fuerza     |   3   | Mana         |   17 (15+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
-| Suerte     |   5   | Experiencia  |  0   |
+| Suerte     |   5   | Experiencia  |  3   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
@@ -40,7 +40,7 @@ title: Online DUN
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
 - **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 16/21
+- **Partidas jugadas:** 18/23
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -54,90 +54,53 @@ title: Online DUN
 	🔥 [Bola de Fuego](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20del%20Fuego/boladefuego.png?raw=true)  
 	🔥Piel Ígnea  
 
-#### Duncan
-Mercenario Veterano
-
-| Duncan|     **PV 5**  | (10/5)                     |      |
-| :--: | :--: | :--:| :--: |
-| Movimiento | 4 | Agilidad      |  3    |
-| Ataque       |   4   | Inteligencia |  4    |
-| Fuerza       |   4   | Mana            | - |
-| Disparo     |   2   | Valentia        | 4 |
-| Armadura  |   5   | Vitalidad      |   5   |
-| Suerte        |  1 | Experiencia |   0 |
-| Destreza   |   -1   | Percepción   |   -1   |
-
-**Equipo:**
-Espada ancha, escudo. Daga y cota de malla.
-**Habilidades**
-Perdido en la oscuridad
 
 ---  
 
-| Chester Cheetos    |      |     **PV: 24** (22+2)         |      |
+| Chester Cheetos    |      |     **PV: 22** (22+2+4)         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  **6**    | Agilidad     |   4   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   3  |
+| Suerte     |  **5**    | Experiencia  |   3+2  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador* Muerto por ahora
-- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
+- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_ (ROTO), [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero
-- **Equipo**: Ganzúas, Poción de curación.
+- **Equipo**: Ganzúas, Poción de curación,_**Gema sanadora (4)**_
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 19/21
+- **Partidas jugadas:** 21/23
 - **Lesiones**: Lesión de rodilla (-1Mov)
 
 
 
 ---
 
-| Bergoglio    |      |      **PV: 26 (16+4+6)**        |      |
+| Bergoglio    |      |      **PV: 30 (18+2+4+6)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3(-1)   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
-| Disparo    |  3 (-1)   | Valentia     |   4   |
+| Disparo    |  3 (-1)   | Valentia     |   4 (5)  |
 | Armadura   |  3 (+2)  | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  4    |
+| Suerte     |  6    | Experiencia  |  3    |
 | Destreza   |  (-1)    | Percepción   |  (-1)    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha, espada falcata, hacha.
 - **Armaduras**: Coraza.
-- **Equipo**: _**Gema sanadora (4)**_
-- **Habilidades** (3/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible.
+- **Equipo**:  _**Gema del valor (2)**_
+- **Habilidades** (4/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible, Elite
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 10/21
+- **Partidas jugadas:** 12/23
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
 	💫 [Luz sanadora](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/luzsanadora.png?raw=true)    
-
-#### Norelin Gezibizi
-Mercenario Elfo
-
-| Norelin|     **PV 6**  | (10/5)                     |      |
-| :--: | :--: | :--:| :--: |
-| Movimiento | 6 | Agilidad      |  3    |
-| Ataque       |   4   | Inteligencia |  4    |
-| Fuerza       |   3   | Mana            | - |
-| Disparo     |   4   | Valentia        | 3 |
-| Armadura  |   4   | Vitalidad      |   4   |
-| Suerte        |  1 | Experiencia |   0 |
-| Destreza   |   -   | Percepción   |   2   |
-
-**Equipo**
-Espada ancha, arco corto y armadura de cuero. 
-**Habilidades**
-Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
-
-
 
 ----
 
@@ -157,7 +120,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - **Equipo**:  _**Gema del valor (2)**_
 - **Habilidades** (3/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 6/21
+- **Partidas jugadas:** 6/23
 
 
 ----
@@ -177,17 +140,9 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - **Equipo**: 
 - **Habilidades** (0/10): *Adiestrar animal, Habilidad Mental, Perdido en la Oscuridad*
 - **Xp en Pozo de Lucha**:
-- **Partidas jugadas:** 1/21
+- **Partidas jugadas:** 1/23
 
 ---
-
-
-
-
-
-
-
-
 
 
 | [Intxaur Waldosson](#Intxaur-id)     |      |   **PV: 18**           |      |
@@ -206,7 +161,7 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
-- **Partidas jugadas:** 16/21
+- **Partidas jugadas:** 16/23
 
 
 
@@ -233,7 +188,10 @@ Sentidos agudizados, Cazador. *Puede realizar acciones exploratorias*
 - Salvad al Gobernador!
 - Portal mágico
 - [La cripta del rey maldito](#Cripta-id)
-* [Guarida de Orcos](#GuaridaOrcos-id)
+- [Guarida de Orcos](#GuaridaOrcos-id)
+- Piratas! 
+- 🐍 Encontrar la gema de valor
+
 
 ----
 
