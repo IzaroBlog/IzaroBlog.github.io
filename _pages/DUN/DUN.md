@@ -176,6 +176,9 @@ Contra criaturas grandes, enorme y campones es con critico y si se gasta el mana
 *Un personaje que sea [aprendiz de mago](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/niveleshechiceria.png?raw=true)(de nivel 10-15), cuando invoca criaturas (esqueletos, elementales) hacen también 1D6 menos de daño?*  
 Si, **todas** las invocaciones de aprendices tienen -1D6 de daño y un turno menos de duración.   
 
+*Se puede lanzar un hechizo que tenga como objetivo una casilla vacía?*  
+Si, es posible lanzar un hechizo a una casilla vacía.   
+
 ### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
 Un personaje puede obstaculizar la [Línea de Visión](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/ldv.png), pero no es cobertura. Recuerda que ninguna criatura podrá tener LdV a través de elementos de su misma altura o superior, salvo que el objetivo sea de mayor altura que los elementos que se interponen o esté en una posición elevada. 
