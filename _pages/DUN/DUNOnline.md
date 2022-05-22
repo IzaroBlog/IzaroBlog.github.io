@@ -8,13 +8,12 @@ title: Online DUN
 
 ----
 
-### 📆 Semana de campaña: Año 2: 25/52 
-### 💰 Tesorería: 27? monedas     
+### 📆 Semana de campaña: Año 2: 34/52 
+### 💰 Tesorería: 59 monedas     
 ### ↪️ Partidas disponibles:   
 
 - M14 En la isla pantanosa 🏝 (Campaña principal)
 - M25 Alcanzar el Puente :⛩ (Nueva mini-campaña)
-- M10 Cazar a la gran Criatura 🎃
 - M35 La casa de los Enigmas ⁉️
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
@@ -37,9 +36,9 @@ title: Online DUN
 - **Armas**: Daga y bastón
 - **Armaduras**:
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
-- **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel
+- **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel, una de libro
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 18/23
+- **Partidas jugadas:** 19/24
 - **Hechizos**: 
 - [Brujería (6/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Brujeria)  
 	🌚 [Aire Venenoso](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Brujeria/airevenenoso.png?raw=true)  
@@ -56,14 +55,14 @@ title: Online DUN
 
 ---  
 
-| Chester Cheetos    |      |     **PV: 28** (22+2+4)         |      |
+| Chester Cheetos    |      |     **PV: 30** (24+2+4)         |      |
 | ---------- | :--: | ------------ | :--: |
-| Movimiento |  **6**    | Agilidad     |   4   |
+| Movimiento |  **6**    | Agilidad     |   **5**   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   3+2  |
+| Suerte     |  **5**    | Experiencia  |   1  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador* Muerto por ahora
@@ -72,30 +71,30 @@ title: Online DUN
 - **Equipo**: Ganzúas, Poción de curación,_**Gema sanadora (4)**_
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
-- **Partidas jugadas:** 21/23
+- **Partidas jugadas:** 22/24
 - **Lesiones**: Lesión de rodilla (-1Mov)
 
 
 
 ---
 
-| Bergoglio    |      |      **PV: 20 (18+2)**        |      |
+| Bergoglio    |      |      **PV: 24 (22+2)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3(-1)   |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  4    | Mana         |   4   |
-| Disparo    |  3 (-1)   | Valentia     |   4 (5)  |
+| Disparo    |  3 (-1)   | Valentia     |   5 (6)  |
 | Armadura   |  3 (+2)  | Vitalidad    |   **5**   |
-| Suerte     |  6    | Experiencia  |  3    |
+| Suerte     |  6    | Experiencia  |  0    |
 | Destreza   |  (-1)    | Percepción   |  (-1)    |
 
 - *Humano-Monje Guerrero*
 - **Armas**: Espada ancha, espada falcata, hacha.
 - **Armaduras**: Coraza.
 - **Equipo**:  _**Gema del valor (2)**_
-- **Habilidades** (4/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible, Elite
+- **Habilidades** (5)/8): *[Hechicero Guerrero](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/RazasyProfesiones/hechiceroguerrero.jpg), Odio al Submundo, Aguante, Perdido en la Oscuridad*, [Supervivencia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/supervivencia.png?raw=true), Combatir con dos armas, Impasible, Elite, una de capucha
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 12/23
+- **Partidas jugadas:** 13/24
 - **Hechizos**: 
 -[Saber de la Luz (2/6)](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz) :   
 	💫 [Arma centelleante](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Hechizos/Saber%20de%20la%20Luz/armacentelleante.png?raw=true)  
@@ -119,7 +118,7 @@ title: Online DUN
 - **Equipo**:  _**Gema del valor (2)**_
 - **Habilidades** (3/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios, una de combate
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
-- **Partidas jugadas:** 6/23
+- **Partidas jugadas:** 6/24
 
 
 ----
@@ -139,7 +138,7 @@ title: Online DUN
 - **Equipo**: 
 - **Habilidades** (0/10): *Adiestrar animal, Habilidad Mental, Perdido en la Oscuridad*
 - **Xp en Pozo de Lucha**:
-- **Partidas jugadas:** 1/23
+- **Partidas jugadas:** 1/24
 
 ---
 
@@ -160,7 +159,7 @@ title: Online DUN
 - **Equipo**: Pócima curativa, Pócima de la Destreza.
 - **Habilidades** (4/8): *Odio a Orcos y Goblins, [Manos hábiles](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/manoshabiles.png), [Resistente](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/resistente.png), Curtido*, Sobrellevar Armadura, [Escolta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/escolta.png?raw=true), Forzuda, Maestra en Combate.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 0/3)
-- **Partidas jugadas:** 16/23
+- **Partidas jugadas:** 16/24
 
 
 
@@ -190,7 +189,7 @@ title: Online DUN
 - [Guarida de Orcos](#GuaridaOrcos-id)
 - Piratas! 
 - 🐍 Encontrar la gema de valor
-
+- M10 Cazar a la gran Criatura 🎃
 
 ----
 
