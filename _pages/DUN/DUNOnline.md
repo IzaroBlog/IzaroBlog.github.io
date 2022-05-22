@@ -22,14 +22,14 @@ title: Online DUN
 
 ## Pertsonaiak
 
-| Varyana Piruja    |      | **PV: 32** (26+6)            |      |
+| Varyana Piruja    |      | **PV: 34** (28+6)            |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |   6   | Agilidad     |   4   |
 | Ataque     |   2   | Inteligencia |   5   |
 | Fuerza     |   3   | Mana         |   17 (15+2)   |
 | Disparo    |   4   | Valentia     |   4   |
 | Armadura   |   3   | Vitalidad    |   5   |
-| Suerte     |   5   | Experiencia  |  3   |
+| Suerte     |   **6**   | Experiencia  |  0   |
 | Destreza   |   0   | Percepción   |  1    |
 
 - *Elfa*-*Bruja*
