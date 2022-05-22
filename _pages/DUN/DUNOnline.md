@@ -36,7 +36,7 @@ title: Online DUN
 - **Armas**: Daga y bastón
 - **Armaduras**:
 - **Equipo**: Poción de maná, **_[Anillo Demoníaco (6)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Equipo/ObjetosMagicos/anillodemoniaco.png?raw=true)_**, Componentes para magia.
-- **Habilidades** (3/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel, una de libro
+- **Habilidades** (4/10): *Herbología, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, [Habilidad Mental](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/habilidadmental.png?raw=true), Alquimista, Cruel, una de libro
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
 - **Partidas jugadas:** 19/24
 - **Hechizos**: 
