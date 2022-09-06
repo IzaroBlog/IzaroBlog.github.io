@@ -64,7 +64,7 @@ title: Online DUN
 | Destreza   |  0    | Percepción   |  **2**   |
 
 - *Félido*-*Explorador* Muerto por ahora
-- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
+- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
 - **Armaduras**: Armadura de Cuero
 - **Equipo**: Ganzúas, Poción de curación,_**Gema sanadora (4)**_
 - **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
