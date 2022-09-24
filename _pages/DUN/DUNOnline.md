@@ -51,21 +51,21 @@ title: Online DUN
 
 ---  
 
-| Chester Cheetos    |      |     **PV: 30** (24+2+4)         |      |
+| Chester Cheetos    |      |     **PV: 32** (26+2+4)         |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  **6**    | Agilidad     |   **5**   |
 | Ataque     |  4    | Inteligencia |   4   |
 | Fuerza     |  3    | Mana         |   -   |
 | Disparo    |  5    | Valentia     |   3   |
 | Armadura   |  3    | Vitalidad    |   5   |
-| Suerte     |  **5**    | Experiencia  |   3  |
+| Suerte     |  **5**    | Experiencia  |   0  |
 | Destreza   |  0    | Percepción   |  **2**   |
 
-- *Félido*-*Explorador* Muerto por ahora
-- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Cimitarra, 
+- *Félido*-*Explorador* 
+- **Armas**: _**Arcabuz Rúnico Enano (+2PV)**_, [Garras](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/garras.png), Espada Bastarda 
 - **Armaduras**: Armadura de Cuero
 - **Equipo**: Ganzúas, Poción de curación,_**Gema sanadora (4)**_
-- **Habilidades** (5/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero.
+- **Habilidades** (6/8): *Vista de Águila, [Sentidos Agudizados](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/sentidosagudizados.png)*, Cazador, [Disparo Certero](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/disparocertero.png?raw=true), [Recarga rápida](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/recargarapida.png?raw=true), [Emboscar](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/emboscar.jpg?raw=true), Trampero, Sigilo.
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 2/3)
 - **Partidas jugadas:** 23/25
 - **Lesiones**: Lesión de rodilla (-1Mov)
