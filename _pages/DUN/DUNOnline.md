@@ -116,7 +116,7 @@ title: Online DUN
 
 ----
 
-| [Landagast](#Landagast-id)  |      |      **PV: 21 (15+5)**        |      |
+| [Landagast](#Landagast-id)  |      |      **PV: 21 (16+5)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4 |
 | Ataque     |  3    | Inteligencia |   5   |
