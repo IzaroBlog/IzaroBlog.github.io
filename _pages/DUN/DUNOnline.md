@@ -11,8 +11,6 @@ title: Online DUN
 ### 💰 Tesorería: 71 monedas     
 ### ↪️ Partidas disponibles:   
 
-- M16 Liquidar al espía
-- M35 La casa de los Enigmas ⁉️
 
 ### 🧙‍♀️ [Objetos mágicos en torres de hechicería](#objetosmagicos-id)
   
@@ -98,42 +96,63 @@ title: Online DUN
 
 ----
 
-| Gastón    |      |      **PV: 19(16+3)**        |      |
+| Gastón    |      |      **PV: 21(18+3)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5 (-1)   | Agilidad     |   3 (-2)  |
 | Ataque     |  5    | Inteligencia |   4   |
 | Fuerza     |  **5**    | Mana         |   0   |
 | Disparo    |  3  (-2)  | Valentia     |   **5** (6)  |
 | Armadura   |  3 (+3)  | Vitalidad    |   5   |
-| Suerte     |  6    | Experiencia  |  3   |
+| Suerte     |  6    | Experiencia  |  0   |
 | Destreza   |  -1 (-2)   | Percepción   |  0 (-2)   |
 
 - *Humano-Caballero*
 - **Armas**: _**Espada bastarda mataorcos (3)**_
 - **Armaduras**: Armadura Completa
-- **Equipo**:  - **Habilidades** (3/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios, maestro en combate.
+- **Equipo**:  - **Habilidades** (3/8): *Voluntad Férrea, Matagigantes, Forzudo, Perdido en la Oscuridad*, Golpe Brutal, Primeros auxilios, maestro en combate, Curtido
 - **Xp en Pozo de Lucha**: 0/3 (1.Año 1/3)
 - **Partidas jugadas:** 7/25
 
 
 ----
 
-| [Landagast](#Landagast-id)  |      |      **PV: 10**        |      |
+| [Landagast](#Landagast-id)  |      |      **PV: 21 (15+5)**        |      |
 | ---------- | :--: | ------------ | :--: |
 | Movimiento |  5    | Agilidad     |   4 |
 | Ataque     |  3    | Inteligencia |   5   |
 | Fuerza     |  3    | Mana         |   8   |
 | Disparo    |  3   | Valentia     |   4  |
 | Armadura   |  3   | Vitalidad    |   4   |
-| Suerte     |  4    | Experiencia  |  2    |
+| Suerte     |  **5**    | Experiencia  |  2    |
 | Destreza   |  0   | Percepción   |  0    |
 
 - *Humano-Animista*
 - **Armas**: Lanza
 - **Equipo**: 
-- **Habilidades** (0/10): *Adiestrar animal, Habilidad Mental, Perdido en la Oscuridad*
+- **Habilidades** (1/10): *Licantropía, Adiestrar animal, Habilidad Mental, Perdido en la Oscuridad*, Recuperar Maná
 - **Xp en Pozo de Lucha**:
 - **Partidas jugadas:** 1/25
+- **Hechizos**: 
+- 🌱🐺[Control animal y Vegetal](https://github.com/IzaroBlog/IzaroBlog.github.io/tree/main/_images/DUN/Hechizos/Control%20Animal%20y%20Vegetal) (5/6)
+	🌱🐺 Aves furiosas  
+	🌱🐺 Cortina de Espinas  
+	🌱🐺 Lanza de caza  
+	🌱🐺 Señor de las Bestias  
+	🌱🐺 Piel de la Bestia  
+
+### Animal
+Bubu el oso
+
+| Bubu|     **PV 5**  | (12/3)                     |      |
+| :--: | :--: | :--:| :--: |
+| Movimiento | 7 | Agilidad      |  3    |
+| Ataque       |   4   | Inteligencia |  1    |
+| Fuerza       |   5   | Mana            | - |
+| Disparo     |   -   | Valentia        | 5 |
+| Armadura  |   4   | Vitalidad      |   8   |
+| Suerte        |  0 | Experiencia |   0 |
+| Destreza   |   -   | Percepción   |   0   |
+
 
 ---
 
