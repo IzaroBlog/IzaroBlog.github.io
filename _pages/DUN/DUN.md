@@ -41,7 +41,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
 - [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
 - [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
-- [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @djstelle 👏!  
+- [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
 * Cartas del bestiario gracias nuestro compañero @Carleonarq:
 [Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)  
 
