@@ -57,6 +57,11 @@ Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.m
 | Elf        | Elfo       | Elfoa  |
 | Dwarf      | Enano      | Nanoa, Ipotxa|
 
+### Lanbideak {#Lanbideak-id}
+
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
+| Warlock        |       | ???  |
 
 
 
