@@ -8,6 +8,8 @@ Orrialde honetan [Rolariak](https://rolariak.eus/) euskal rol jokalieren artean 
 Rol eta ziegaliritzan euskaraz aritzeko baliabide bat da, eta zalantza berriak sortu ahala eguneratzen joango gara. 
 Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.me/rolariak) taldean sar zaitezke! 
 
+![HitzEderrak](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/hitzederrak.png?raw=true)
+
 ## Aurkibidea
 
 [Ohiko Hiztegia](#Ohiko-id)  
@@ -25,20 +27,36 @@ Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.m
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Movimiento |  **6**     | Agilidad  |
+| Master | Director de juego | Maizterra, Gidaria  |
+| Mastering  | Masterear        | Gidatu    | 
+| Cultist    |  Cultista         | Kultista, Gurtzailea     | 
+| Dexterity    | Destreza         | Abilezia, Trebezia     |
+|     |  Constitución         | Sendotasuna     |
+| Intelligence    |  Inteligencia         | Adimena     |
+| Wisdom    |  Sabiduria         | Jakituria     |
+|     |  Carisma         | Karisma, Kemena     |
+|     | Ataque  | Erasoa    |
+|     |  Brujería         | Sorginkeria   |
+|     |  Atributos      | Ezaugarriak   |
+|     |  Hechizos        | Aztikeriak   |
+|     |  Masilla, minion    | Morroia   |
+|     |  Juego de Rol        | Rol Jokoa   |
+|     |  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
+|     |  Primigenio         | Aitzindaria   |
+|     |  Chetar         | Puztu   |
+|     |  Arma contundente         | Arma sendoa  |
+| Dungeon    |      | Ziega   |
+|     |  Saja-raja         | Zirt-zart   |
+| TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
 
-
+ 
 ### Arrazak {#Arrazak-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Movimiento |  **6**     | Agilidad  |
-| Ataque     |  4         | Inteligen |
-| Fuerza     |  3         | Mana         | 
-| Disparo    |  5         | Valentia     | 
-| Armadura   |  3         | Vitalidad    | 
-| Suerte     |  **5**     | Experiencia  |
-| Destreza   |  0         | Percepción   |
+| Elf        | Elfo       | Elfoa  |
+| Dwarf      | Enano      | Nanoa, Ipotxa|
+
 
 
 
