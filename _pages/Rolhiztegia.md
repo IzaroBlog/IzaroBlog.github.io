@@ -7,6 +7,7 @@ title: Rol Hiztegia
 Orrialde honetan [Rolariak](https://rolariak.eus/) euskal rol jokalieren artean sortutako hiztegia duzue.
 Rol eta ziegaliritzan euskaraz aritzeko baliabide bat da, eta zalantza berriak sortu ahala eguneratzen joango gara. 
 Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.me/rolariak) taldean sar zaitezke! 
+Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/biltegia) aurki dezakezu! 
 
 ![HitzEderrak](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/hitzederrak.png?raw=true)
 
@@ -28,7 +29,7 @@ Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.m
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Master | Director de juego | Maizterra, Gidaria  |
-| Mastering  | Masterear        | Gidatu    | 
+| to master  | Masterear        | Gidatu    | 
 | Cultist    |  Cultista         | Kultista, Gurtzailea     | 
 | Dexterity    | Destreza         | Abilezia, Trebezia     |
 |     |  Constitución         | Sendotasuna     |
@@ -44,12 +45,13 @@ Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.m
 |     |  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
 |     |  Primigenio         | Aitzindaria   |
 |     |  Chetar         | Puztu   |
-|     |  Arma contundente         | Arma sendoa  |
 | Dungeon    |      | Ziega   |
 |     |  Saja-raja         | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
+|     | Alineamiento          | Lerrokadura |
+|  Strenght   | Fuerza          | Indarra |
+|  Strenght   | Fuerza          | Indarra |
 
- 
 ### Arrazak {#Arrazak-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
@@ -64,6 +66,9 @@ Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.m
 | Warlock        |       | ???  |
 
 
-
-
+### Armak eta Babeskiak {#Armak-id}  
+|     | Armadura          | Burdin-jantzi, Armadura, Babeskia |
+|     | Armadura ligera         | ? |
+|     | Armadura pesada         | ? |
+|     |  Arma contundente         | Arma sendoa  |
  
