@@ -66,7 +66,6 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Centaur | Centauro | Zentauro |
 | Cyclop | Cíclope | Ziklope |
 | Shardmins | Cristalino | Kristalino |
-| Cyclop | Cíclope | Ziklope |
 | Catfolk | Félido | Felido |
 | Goblin | Goblin | Goblin |
 | Beastmen | Hombre bestia | Gizon piztia |
