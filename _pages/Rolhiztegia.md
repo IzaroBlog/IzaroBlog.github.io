@@ -35,21 +35,21 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 |     |  Constitución         | Sendotasuna     |
 | Intelligence    |  Inteligencia         | Adimena     |
 | Wisdom    |  Sabiduria         | Jakituria     |
-|     |  Carisma         | Karisma, Kemena     |
-|     | Ataque  | Erasoa    |
-|     |  Brujería         | Sorginkeria   |
-|     |  Atributos      | Ezaugarriak   |
-|     |  Hechizos        | Aztikeriak   |
-|     |  Masilla, minion    | Morroia   |
-|     |  Juego de Rol        | Rol Jokoa   |
-|     |  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
-|     |  Primigenio         | Aitzindaria   |
-|     |  Chetar         | Puztu   |
-| Dungeon    |      | Ziega   |
-|     |  Saja-raja         | Zirt-zart   |
+| Charisma |  Carisma         | Karisma, Kemena     |
+| Attack    | Ataque  | Erasoa    |
+| Witchcraft    |  Brujería         | Sorginkeria   |
+| Attributes   |  Atributos      | Ezaugarriak   |
+| Spells    |  Hechizos        | Aztikeriak   |
+|  ?   |  Masilla, minion    | Morroia   |
+| Role-playing game |  Juego de Rol        | Rol Jokoa   |
+| Non-player character (NPC)|  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
+| Primordial |  Primigenio         | Aitzindaria   |
+| ? (to cheat?)    |  Chetar         | Puztu   |
+| Dungeon    | Mazmorra     | Ziega   |
+| Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
-|     | Alineamiento          | Lerrokadura |
-|  Strenght   | Fuerza          | Indarra |
+| Alignment | Alineamiento          | Lerrokadura |
+|    |           |  |
 |  Strenght   | Fuerza          | Indarra |
 
 ### Arrazak {#Arrazak-id}
@@ -67,8 +67,12 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 
 
 ### Armak eta Babeskiak {#Armak-id}  
+
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
 |     | Armadura          | Burdin-jantzi, Armadura, Babeskia |
-|     | Armadura ligera         | ? |
-|     | Armadura pesada         | ? |
+| Light armour    | Armadura ligera         | Babeski arina |
+|  Heavy armour   | Armadura pesada         | Babeski astuna |
 |     |  Arma contundente         | Arma sendoa  |
- 
+|     | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
+| Warhammer | Martillo de guerra | Gudamailu  |
