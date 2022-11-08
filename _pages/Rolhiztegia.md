@@ -57,9 +57,21 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Elf        | Elfo       | Elfoa  |
+| Dark Elf        | Elfo Oscuro       | Elfo Iluna  |
 | Dwarf      | Enano      | Nanoa, Ipotxa|
 | Halfling | Mediano | Ertaina|
 | Orc | Orco | Orkoa|
+| Treefolk | Arbóreo |  |
+| Treefolk | Arbóreo |  |
+| Centaur | Centauro | Zentauro |
+| Cyclop | Cíclope | Ziklope |
+| Shardmins | Cristalino | Kristalino |
+| Cyclop | Cíclope | Ziklope |
+| Catfolk | Félido | Felido |
+| Goblin | Goblin | Goblin |
+| Beastmen | Hombre bestia | Gizon piztia |
+| Vampire | Vampiro | Banpiro |
+
 
 ### Lanbideak {#Lanbideak-id}
 
