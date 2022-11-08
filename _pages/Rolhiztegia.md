@@ -6,7 +6,7 @@ title: Rol Hiztegia
 ## Sarrera 
 Orrialde honetan [Rolariak](https://rolariak.eus/) euskal rol jokalieren artean sortutako hiztegia duzue.
 Rol eta ziegaliritzan euskaraz aritzeko baliabide bat da, eta zalantza berriak sortu ahala eguneratzen joango gara. 
-Rol jokoetan edota itzulpenetan interesa baduzu, [Rolariak Telegram](https://t.me/rolariak) taldean sar zaitezke! 
+Itzulpenen bati buruzko zuzenketa, ekarpena edo zalantzarik baduzu, [Rolariak Telegram](https://t.me/rolariak) taldean sar zaitezke eta #Rolhiztegi traola erabili, bertatik irakur gaitezke! 
 Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/biltegia) aurki dezakezu! 
 
 ![HitzEderrak](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/hitzederrak.png?raw=true)
