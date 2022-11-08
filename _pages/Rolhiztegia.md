@@ -58,6 +58,8 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | ---------- | ---------- | --------- | 
 | Elf        | Elfo       | Elfoa  |
 | Dwarf      | Enano      | Nanoa, Ipotxa|
+| Halfling | Mediano | Ertaina|
+| Orc | Orco | Orkoa|
 
 ### Lanbideak {#Lanbideak-id}
 
