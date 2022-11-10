@@ -70,22 +70,41 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Goblin | Goblin | Goblin |
 | Beastmen | Hombre bestia | Gizon piztia |
 | Vampire | Vampiro | Banpiro |
-
+| Werewolf | Hombre lobo | Gizotso |
 
 ### Lanbideak {#Lanbideak-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Warlock        |       | ???  |
+| Warlock        |  Brujo     | Sorgina |
+| Rogue | Pícaro | Pikaro |
+| Warrior | Guerrero | Gerlaria |
+| Barbarian | Bárbaro | Barbaro/basati |
+| Ranger | Explorador | Exploratzaile/basozain |
+| Bard | Bardo | Bardo/koplari |
+| Paladin | Paladín | Paladina |
+| Druid | Druida | Druida |
+| Wizard/Mage | Mago | Mago |
+| Sorcerer | Hechicero | Azti | 
 
 
 ### Armak eta Babeskiak {#Armak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-|     | Armadura          | Burdin-jantzi, Armadura, Babeskia |
+| Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
+| Blunt weapon    |  Arma contundente         | Arma sendoa  |
+| Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
+| Warhammer | Martillo de guerra | Gudamailu  |
+| Rapier | Espada ropera/estoque | Estoke | 
+| Mace | Maza | Mazo |
+| Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
 | Light armour    | Armadura ligera         | Babeski arina |
 |  Heavy armour   | Armadura pesada         | Babeski astuna |
-|     |  Arma contundente         | Arma sendoa  |
-|     | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
-| Warhammer | Martillo de guerra | Gudamailu  |
+| Greave | Greba | Zango-babes |
+| Cuirass | Coraza | Koraza/bular-oskol |
+| Breastplate | Peto | Bular-oskol/bular-babes |
+| Ranged weapons | Armas a distancia | Urrutiko armak |
+
+
+
