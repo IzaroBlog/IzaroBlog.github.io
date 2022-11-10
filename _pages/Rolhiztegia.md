@@ -90,6 +90,8 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Blunt weapon    |  Arma contundente         | Arma sendoa  |
 | Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
 | Warhammer | Martillo de guerra | Gudamailu  |
+| Rapier | Espada ropera/estoque | Estoke | 
+| Mace | Maza | Mazo |
 | Ranged weapons | Armas a distancia | Urrutiko armak |
 | Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
 | Light armour    | Armadura ligera         | Babeski arina |
@@ -97,8 +99,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol/bular-babes |
-| Rapier | Espada ropera/estoque | Estoke | 
-| Mace | Maza | Mazo |
+
 
 ### Aztikeriak {#Aztikeriak-id}  
 | Ingelesa   | Gaztelera  | Euskeraz  |
