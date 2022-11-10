@@ -61,7 +61,6 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Halfling | Mediano | Ertaina|
 | Orc | Orco | Orkoa|
 | Treefolk | Arbóreo |  |
-| Treefolk | Arbóreo |  |
 | Centaur | Centauro | Zentauro |
 | Cyclop | Cíclope | Ziklope |
 | Shardmins | Cristalino | Kristalino |
@@ -111,19 +110,19 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | ---------- | ---------- | --------- | 
 | Fireball    | Bola de fuego          | Suzko bola |
 
-### Objektu arruntak{#ObjektuArruntak-id}  
+### Objektu arruntak {#ObjektuArruntak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Lock pick    | Ganzúa   | Gakorde |
 
-### Objektu miresgarriak{#ObjektuMiresgarriak-id}  
+### Objektu miresgarriak {#ObjektuMiresgarriak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Healing potion   | Poción de curación  | Sendatzeko edabea |
 
-### Munstroak{#Munstroak-id}  
+### Munstroak {#Munstroak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
