@@ -96,12 +96,15 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Rapier | Espada ropera/estoque | Estoke | 
 | Mace | Maza | Mazo |
 | Ranged weapons | Armas a distancia | Urrutiko armak |
-| Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
-| Light armour    | Armadura ligera         | Babeski arina |
-|  Heavy armour   | Armadura pesada         | Babeski astuna |
+| Armour    | Armadura          |  Babesjantzia, Burdin-jantzi, Armadura |
+| Light armour    | Armadura ligera         | Armadura arina |
+| Heavy armour   | Armadura pesada         | Armadura astuna |
+| Chainmail   | Cota de mallas       | Burdinsarezko babesjantzia, Sare-begiko kota |
+|    | Chaqueta de cuero       | Larruzko jaka |
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol/bular-babes |
+
 
 
 ### Aztikeriak {#Aztikeriak-id}  
