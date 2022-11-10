@@ -19,20 +19,18 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 [Aztikeriak](#Aztikeriak-id)  
 [Borrokak](#Borrokak-id)  
 [Armak eta Babeskiak](#Armak-id)  
-[Objektu arruntak](#ObjektuArruntak-id)
+[Objektu arruntak](#ObjektuArruntak-id)  
 [Objektu miresgarriak](#ObjektuMiresgarriak-id)  
 [Munstroak](#Munstroak-id)  
 
-
 ### Ohiko hitzak {#Ohiko-id}
-
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Master | Director de juego | Maizterra, Gidaria  |
 | to master  | Masterear        | Gidatu    | 
 | Cultist    |  Cultista         | Kultista, Gurtzailea     | 
 | Dexterity    | Destreza         | Abilezia, Trebezia     |
-|     |  Constitución         | Sendotasuna     |
+| Constitution    |  Constitución         | Sendotasuna     |
 | Intelligence    |  Inteligencia         | Adimena     |
 | Wisdom    |  Sabiduria         | Jakituria     |
 | Charisma |  Carisma         | Karisma, Kemena     |
@@ -40,7 +38,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Witchcraft    |  Brujería         | Sorginkeria   |
 | Attributes   |  Atributos      | Ezaugarriak   |
 | Spells    |  Hechizos        | Aztikeriak   |
-|  ?   |  Masilla, minion    | Morroia   |
+| Minion   |  Masilla, minion    | Morroia   |
 | Role-playing game |  Juego de Rol        | Rol Jokoa   |
 | Non-player character (NPC)|  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
 | Primordial |  Primigenio         | Aitzindaria   |
@@ -53,7 +51,6 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 |  Strenght   | Fuerza          | Indarra |
 
 ### Arrazak {#Arrazak-id}
-
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Elf        | Elfo       | Elfoa  |
@@ -73,7 +70,6 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Werewolf | Hombre lobo | Gizotso |
 
 ### Lanbideak {#Lanbideak-id}
-
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Warlock        |  Brujo     | Sorgina |
@@ -87,24 +83,42 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Wizard/Mage | Mago | Mago |
 | Sorcerer | Hechicero | Azti | 
 
-
 ### Armak eta Babeskiak {#Armak-id}  
-
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
-| Blunt weapon    |  Arma contundente         | Arma sendoa  |
-| Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
-| Warhammer | Martillo de guerra | Gudamailu  |
-| Rapier | Espada ropera/estoque | Estoke | 
-| Mace | Maza | Mazo |
 | Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
 | Light armour    | Armadura ligera         | Babeski arina |
 |  Heavy armour   | Armadura pesada         | Babeski astuna |
+| Blunt weapon    |  Arma contundente         | Arma sendoa  |
+| Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
+| Warhammer | Martillo de guerra | Gudamailu  |
+| Ranged weapons | Armas a distancia | Urrutiko armak |
+| Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol/bular-babes |
-| Ranged weapons | Armas a distancia | Urrutiko armak |
+| Rapier | Espada ropera/estoque | Estoke | 
+| Mace | Maza | Mazo |
+
+### Aztikeriak {#Aztikeriak-id}  
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
+| Fireball    | Bola de fuego          | Suzko bola |
+
+### Objektu arruntak{#ObjektuArruntak-id}  
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
+| Lock pick    | Ganzúa   | Gakorde |
+
+### Objektu miresgarriak{#ObjektuMiresgarriak-id}  
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
+| Healing potion   | Poción de curación  | Sendatzeko edabea |
+
+### Munstroak{#Munstroak-id}  
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
+| Troll   | Troll | Troll |
 
 
 
