@@ -86,14 +86,14 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 ### Armak eta Babeskiak {#Armak-id}  
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
-| Light armour    | Armadura ligera         | Babeski arina |
-|  Heavy armour   | Armadura pesada         | Babeski astuna |
+| Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
 | Blunt weapon    |  Arma contundente         | Arma sendoa  |
 | Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Bi eskuko ezpata/aizkora  |
 | Warhammer | Martillo de guerra | Gudamailu  |
 | Ranged weapons | Armas a distancia | Urrutiko armak |
-| Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
+| Armour    | Armadura          | Burdin-jantzi, Armadura, Babeskia |
+| Light armour    | Armadura ligera         | Babeski arina |
+|  Heavy armour   | Armadura pesada         | Babeski astuna |
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol/bular-babes |
