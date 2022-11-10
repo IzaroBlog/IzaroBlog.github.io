@@ -24,6 +24,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 [Munstroak](#Munstroak-id)  
 
 ### Ohiko hitzak {#Ohiko-id}
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Master | Director de juego | Maizterra, Gidaria  |
@@ -47,10 +48,10 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
 | Alignment | Alineamiento          | Lerrokadura |
-|    |           |  |
 |  Strenght   | Fuerza          | Indarra |
 
 ### Arrazak {#Arrazak-id}
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Elf        | Elfo       | Elfoa  |
@@ -70,6 +71,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Werewolf | Hombre lobo | Gizotso |
 
 ### Lanbideak {#Lanbideak-id}
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Warlock        |  Brujo     | Sorgina |
@@ -84,6 +86,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 | Sorcerer | Hechicero | Azti | 
 
 ### Armak eta Babeskiak {#Armak-id}  
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Melee weapons | Armas cuerpo a cuerpo | Gorputzez gorputzeko armak/Buruz buruko armak |
@@ -102,21 +105,25 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegia](https://rolariak.eus/b
 
 
 ### Aztikeriak {#Aztikeriak-id}  
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Fireball    | Bola de fuego          | Suzko bola |
 
 ### Objektu arruntak{#ObjektuArruntak-id}  
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Lock pick    | Ganzúa   | Gakorde |
 
 ### Objektu miresgarriak{#ObjektuMiresgarriak-id}  
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Healing potion   | Poción de curación  | Sendatzeko edabea |
 
 ### Munstroak{#Munstroak-id}  
+
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Troll   | Troll | Troll |
