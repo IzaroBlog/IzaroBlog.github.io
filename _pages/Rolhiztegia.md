@@ -109,7 +109,7 @@ Charisma |  Carisma     | Karisma,  Kemena     |
 | Shardmins | Cristalino | Kristalino |
 | Catfolk | Félido | Katagizona, Katandrea |
 | Goblin | Goblin | Goblin |
-| Beastmen | Hombre bestia | Piztigizona, Piztiandrea, Gizon piztia |
+| Beastmen | Hombre bestia | Piztigizona, Piztiandrea |
 | Vampire | Vampiro | Banpiro |
 | Werewolf | Hombre lobo | Gizotso |
 |  |  Sabueso de guerra | Guda txakurra    | 
