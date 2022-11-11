@@ -106,7 +106,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 |   | Practicante arcano | Magia erabiltzailea  |           
 |   | Caballero | Zalduna  |               
 | Mystic warrior | Guerrero místico | Gerlari mistikoa  |                
-| Deamon hunter | Cazador de demonios | Demonio ehiztaria | 
+| Daemon hunter | Cazador de demonios | Demonio ehiztaria | 
 | Monk | Monje | Monjea  |  
 |  | Matón | Harroputza  |         
 |  | Jabalinero | Azkonaria   |          
