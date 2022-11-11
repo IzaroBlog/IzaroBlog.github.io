@@ -25,33 +25,6 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 [Objektu miresgarriak](#ObjektuMiresgarriak-id)  
 [Munstroak](#Munstroak-id)  
 
----
-permalink: /Rolhiztegia
-layout: page
-title: Rol Hiztegia
----
-## Sarrera 
-Orrialde honetan [Rolariak](https://rolariak.eus/) euskal rol jokalieren artean sortutako hiztegia duzue.
-Rol eta ziegaliritzan euskaraz aritzeko baliabide bat da, eta zalantza berriak sortu ahala eguneratzen joango gara.
-
-Lan egiteko [Pad hau](https://annuel2.framapad.org/p/rolhiztegia-9xih?lang=es) erabiltzen dugu eta aldizka, weborri honetan eguneratzen da.
-Itzulpenen bati buruzko zuzenketa, ekarpena edo zalantzarik baduzu, [Rolariak Telegram](https://t.me/rolariak) taldean sar zaitezke eta #Rolhiztegi traola erabili, bertatik irakur gaitezke! 
-Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/biltegia) aurki dezakezu! 
-
-![HitzEderrak](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/hitzederrak.png?raw=true)
-
-## Aurkibidea
-
-[Ohiko Hiztegia](#Ohiko-id)  
-[Arrazak](#Arrazak-id)  
-[Lanbideak](#Lanbideak-id)  
-[Aztikeriak](#Aztikeriak-id)  
-[Borrokak](#Borrokak-id)  
-[Armak eta Babeskiak](#Armak-id)  
-[Objektu arruntak](#ObjektuArruntak-id)  
-[Objektu miresgarriak](#ObjektuMiresgarriak-id)  
-[Munstroak](#Munstroak-id)  
-
 ### Ohiko hitzak {#Ohiko-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
