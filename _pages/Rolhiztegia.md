@@ -83,9 +83,9 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
 | Inch  |  Pulgada | Hazbetea |
-| | Acción Action | Ekintza  | 
-| Spell Casting | Aztikeri igortzea  | 
-| Line of Sight | Línea de visión Ikusmen lerroa | 
+| Action  Acción  | Ekintza  | 
+| Spell Casting | | Aztikeri igortzea  | 
+| Line of Sight | Línea de visión | Ikusmen lerroa | 
 | |  Objetivo de un ataque | Erasoaren xedea   |            
 | | Terreno irregular | Lursail malkartsua  |           
 | | Modificador | Aldatzailea  |         
