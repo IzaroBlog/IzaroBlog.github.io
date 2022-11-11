@@ -82,7 +82,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
-| Inch  |  Pulgada Hazbetea 
+| Inch  |  Pulgada | Hazbetea |
 | | Acción Action | Ekintza  | 
 | Spell Casting | Aztikeri igortzea  | 
 | Line of Sight | Línea de visión Ikusmen lerroa | 
