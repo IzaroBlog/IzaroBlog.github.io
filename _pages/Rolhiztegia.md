@@ -78,7 +78,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Fight  | Pelear  | Borrokatu    | 
 | Attack    | Ataque  | Erasoa  |
 | Defense  | Defensa  | Babesa |
-Charisma |  Carisma     | Karisma,  Kemena     |
+| Charisma |  Carisma     | Karisma,  Kemena     |
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
@@ -133,7 +133,7 @@ Charisma |  Carisma     | Karisma,  Kemena     |
 |   | Practicante arcano | Magia erabiltzailea  |           
 |   | Caballero | Zalduna  |               
 | Mystic warrior | Guerrero místico | Gerlari mistikoa  |                
-| Deamon hunter | Cazador de demonios | Demonio** ehiztaria | 
+| Deamon hunter | Cazador de demonios | Demonio ehiztaria | 
 | Monk | Monje | Monjea  |  
 |  | Matón | Harroputza  |         
 |  | Jabalinero | Azkonaria   |          
