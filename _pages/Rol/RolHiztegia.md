@@ -3,6 +3,7 @@ permalink: /Rolhiztegia
 layout: page
 title: Rol Hiztegia
 ---
+
 ## Sarrera 
 Orrialde honetan [Rolariak](https://rolariak.eus/) euskal rol jokalieren artean sortutako hiztegia duzue.
 Rol eta ziegaliritzan euskaraz aritzeko baliabide bat da, eta zalantza berriak sortu ahala eguneratzen joango gara.
