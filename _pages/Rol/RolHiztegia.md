@@ -43,6 +43,17 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
 | Alignment | Alineamiento  | Lerrokadura |
+| Inch  |  Pulgada | Hazbetea |
+| Action  Acción  | Ekintza  | 
+| Spell Casting | | Aztikeri igortzea  | 
+| Line of Sight | Línea de visión | Ikusmen lerroa | 
+| |  Objetivo de un ataque | Erasoaren xedea   |            
+| | Terreno irregular | Lursail malkartsua  |           
+| | Modificador | Aldatzailea  |         
+| | Bonificación | Bonifikazioa  |       
+| | Penalización | Penalizazioa   |      
+| | Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
+| |  (tomar la) Iniciativa  | Aurrea (hartu)  | 
 | **Attributes**   |  **Atributos**    | **Ezaugarriak**   |
 |  Strenght   | Fuerza   | Indarra |
 | Constitution    |  Constitución    | Sendotasuna     |
@@ -56,17 +67,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
-| Inch  |  Pulgada | Hazbetea |
-| Action  Acción  | Ekintza  | 
-| Spell Casting | | Aztikeri igortzea  | 
-| Line of Sight | Línea de visión | Ikusmen lerroa | 
-| |  Objetivo de un ataque | Erasoaren xedea   |            
-| | Terreno irregular | Lursail malkartsua  |           
-| | Modificador | Aldatzailea  |         
-| | Bonificación | Bonifikazioa  |       
-| | Penalización | Penalizazioa   |      
-| | Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
-| |  (tomar la) Iniciativa  | Aurrea (hartu)  | 
+
 
 ### Arrazak {#Arrazak-id}
 
