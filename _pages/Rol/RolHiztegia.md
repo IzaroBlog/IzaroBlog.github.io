@@ -43,7 +43,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
 | Alignment | Alineamiento  | Lerrokadura |
-| Attributes   |  Atributos    | Ezaugarriak   |
+| **Attributes**   |  **Atributos**    | **Ezaugarriak**   |
 |  Strenght   | Fuerza   | Indarra |
 | Constitution    |  Constitución    | Sendotasuna     |
 | Intelligence    |  Inteligencia    | Adimena     |
