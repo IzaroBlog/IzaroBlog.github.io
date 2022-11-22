@@ -5,19 +5,18 @@ title: Errunen Jaunen Goraldia
 ---
 ## Sarrera 
 
-### Ihi iratxoa, 
-Klasea: Aztia
-Tamaina: -1, Txikia
-Pisua: Txikia
-**Beniak: 4**
-
+### Ihi iratxoa
+Klasea: Aztia  
+Tamaina: -1, Txikia  
+Pisua: Txikia  
+**Beniak: 4**  
 
 
 | IHI   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
-|     Pausua      | 5       |  *Gaitasunak*  |    |
-|   Geldiketa        |  4      |  Atletismoa |  D8 |
-|   Gogortasuna        |  5      |  Ezagutza orokorra   |  D6   |
+|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
+|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
+|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
 | **Ezaugarriak** |      |  Konbentzitu    |   D4   |
 | Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
 | Azerikeria    |  D6    |    Borroka     |  D4  |
