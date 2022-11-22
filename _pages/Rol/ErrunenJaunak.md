@@ -28,7 +28,7 @@ Pisua: Txikia
 - Desabantailak:Lasaia, Ahoandia, Kuriosoa, Konfiatua
 - Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Oinarri arkanoa (Magia), Interferentzia arkanoa, Leinu feerikoa (toke irribera), aztikeria gehiago, **Sorioneku** 
-- Jukutriak: animalia, argia, soinua, telep.
+- *Jukutriak: animalia, argia, soinua, telep.*
 - Armak: Habaila, makila, aiztoa, liken poltsa, su alkimikoa, tximistarria
 #### Botere/Aztikeriak:
   - Sator dantza (2)
