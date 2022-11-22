@@ -10,6 +10,7 @@ Klasea: Aztia
 Tamaina: -1, Txikia
 Pisua: Txikia
 **Beniak: 4**
+
 | IHI   |      |
 | ---------- | :--: |
 | Pausua | 5 |
