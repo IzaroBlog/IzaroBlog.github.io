@@ -23,7 +23,7 @@ Pisua: Txikia
 | Espiritua    |  D10    |  Okultismoa    |  D4    |
 | Indarra  |  D4    |       Aztikeria | D10   |
 | Kemena    |  D6    |      Humanitateak | D6   |
-|           |        |   | Medikuntza | D6   |
+|           |        | Medikuntza | D6   |
 
 - Desabantailak:Lasaia, Ahoandia, Kuriosoa, Konfiatua
 - Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
