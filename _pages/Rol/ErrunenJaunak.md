@@ -26,23 +26,24 @@ Mugan dagoen lurralde izan arren, gizakiak dira oraindik Varisiako biztanle gehi
 
 ### Sajan monjea {#Sajan-id}
 Klasea: Monjea  
-Tamaina: 0
+Tamaina: 0  
 Pisua: 75kg  
 **Beniak: 3**  
 ![SAJAN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/sajan500.jpg?raw=true)
 
 | Sajan   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
-|     _**Pausua**_      | **_8 (D10)**       |  *Gaitasunak*  |    |
-|   _**Geldiketa**_|  **_6_**      |  Atletismoa |  D8 |
-|   _**Gogortasuna**_        |  **_7_**      |  Ezagutza orokorra   |  D4   |
+|     _**Pausua**_      | 8 (D10)       |  **Gaitasunak**  |    |
+|   _**Geldiketa**_|  6      |  Atletismoa |  D8 |
+|   _**Gogortasuna**_  |  7      |  Ezagutza orokorra   |  D4   |
+|======        | ======     |  Antzeman    |   D6   |
 | **Ezaugarriak** |      |  Konbentzitu    |   D4   |
 | Bizkortasuna    |  D8    | Isil-gordean  |  d8   |
 | Azerikeria    |  D6    |    Borroka     |  D8  |
 | Espiritua    |  D6    |  Zaldiz-ibili    |  D4    |
-| Indarra  |  D6    |       Antzematea | D6   |
+| Indarra  |  D6    |  Medikuntza | D4   | 
 | Kemena    |  D8    |  Beldurra eragin     | D6   |
-|           |        | Medikuntza | D4   |
+
 
 - Desabantailak:Heroikoa, zina (txikia, leiala
 - Leinua: Malgua
@@ -52,7 +53,7 @@ Pisua: 75kg
 
 
 ### Lem koblakaria {#Lem-id}
-Klasea: Bardoa
+Klasea: Bardoa  
 Tamaina: -1, Txikia  
 Pisua: Txikia  
 **Beniak: 4**  
@@ -63,7 +64,7 @@ Pisua: Txikia
 |     _**Pausua**_      | 5(D4)  |  **Gaitasunak**  |    |
 |   _**Geldiketa**_     |  5     | Atletismoa |  D6 |
 |   _**Gogortasuna**_   |  6 (2) | Ezagutza orokorra   |  D6   |
-|   =====               | =====  | Antzeman     | D6 |
+|   ======               | ======| Antzeman     | D6 |
 | **Ezaugarriak** |              | Konbentzitu    |   D6   |
 | Bizkortasuna    |  D8          | Isil-gordean  |  D6   |
 | Azerikeria    |  D6            | Borroka     |  D4  |
@@ -93,23 +94,24 @@ Pisua: Txikia
 
 | IHI   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
-|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
-|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
-|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
-| **Ezaugarriak** |      |  Konbentzitu    |   D4   |
-| Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
-| Azerikeria    |  D6    |    Borroka     |  D4  |
-| Espiritua    |  D10    |  Okultismoa    |  D4    |
-| Indarra  |  D4    |       Aztikeria | D10   |
-| Kemena    |  D6    |      Humanitateak | D6   |
-|           |        | Medikuntza | D6   |
+|     _**Pausua**_      | 5      |  **Gaitasunak**  |    |
+|   _**Geldiketa**_|  4          | Atletismoa |  D8 |
+|   _**Gogortasuna**_  |  5      | Ezagutza orokorra   |  D6   |
+| ===== |  =====                 | Antzeman    |   D4   |
+| **Ezaugarriak** |              | Konbentzitu    |   D4   |
+| Bizkortasuna    |  D6          | Isil-gordean  |  D6   |
+| Azerikeria    |  D6            | Borroka     |  D4  |
+| Espiritua    |  D10            | Okultismoa    |  D4    |
+| Indarra  |  D4                 | Aztikeria | D10   |
+| Kemena    |  D6                | Humanitateak | D6   |
+|           |                    | Medikuntza | D6   |
 
 - Desabantailak:Lasaia, Ahoandia, Kuriosoa, Konfiatua
 - Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Oinarri arkanoa (Magia), Interferentzia arkanoa, Leinu feerikoa (toke irribera), aztikeria gehiago, **Sorioneku** 
 - *Jukutriak: animalia, argia, soinua, telep.*
 - Armak: Habaila, makila, aiztoa, liken poltsa, su alkimikoa, tximistarria
-#### Botere/Aztikeriak:
+#### Botere/Aztikeriak (15PP):
   - Sator dantza (2)
   - Loa,loa (2)
   - Egiaren ahotsa (2)
@@ -118,4 +120,18 @@ Pisua: Txikia
 
 ### Breoagn Pikaroa {#Breogan-id}
 ![Breogan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Breogan.jpg?raw=true)
-
+| Breogan   |      |             |      |
+| ---------- | :--: | ------------ | :--: |
+|     _**Pausua**_      | 5      |  **Gaitasunak**  |    |
+|   _**Geldiketa**_|  6          | Atletismoa |  D8 |
+|   _**Gogortasuna**_  |  7(2)   | Ezagutza orokorra   |  D4   |
+| ===== |  =====                 | Antzeman    |   D4   |
+| **Ezaugarriak** |              | Konbentzitu    |   D6   |
+| Bizkortasuna    |  D8          | Isil-gordean  |  D8   |
+| Azerikeria    |  D6            | Borroka     |  D6  |
+| Espiritua    |  D8             | Okultismoa    |  D4    |
+| Indarra  |  D6                 | Jaurtiketa| D6   |
+| Kemena    |  D6                | Lapurreta | D6   |
+|           |                    | Zirikatu  | D6   |
+|           |                    | Apustu egin  | D4   |
+|           |                    | Zaldiz-ibili  | D4   |
