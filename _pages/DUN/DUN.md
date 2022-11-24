@@ -197,6 +197,10 @@ No, son dos cosas diferentes, frente a disparos [puedes bloquear el impacto, mie
 *Se pueden tener valores negativos en las características? P ej Alguien con Agilidad 1 con una [armadura completa](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Equipo/armaduracompleta.png) tendría -1?*  
 Si, en negativo no hay límites.  
 
+*Un personaje que falle la tirada de salto destacado para saltar un abismo de dos casillas, y usa **Fortuna** para evitar caer: ¿Puede elegir en qué lado del abismo quedar, o nunca se considera que ha saltado con éxito y debe volver a intentarlo?*  
+El uso de fortuna evita la muerte del aventurero en el abismo, pero no le permite obtener un éxito en el salto. (Respuesta de Ludic)   
+
+
 ### Equipo y armas {#EquipoyArmas-id}
 *¿Cuánto sube la valoración de un personaje cuándo "encanta" un arma en la escuela de hechicería?*<br>
 Aumenta en +2PV. [Ver carta de escuela de hechicería.](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/escuela.jpg)<br>
