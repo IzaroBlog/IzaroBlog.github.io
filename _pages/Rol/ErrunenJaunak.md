@@ -141,3 +141,8 @@ Pisua: Txikia
 |           |                    | Zirikatu  | D6   |
 |           |                    | Apustu egin  | D4   |
 |           |                    | Zaldiz-ibili  | D4   |
+
+
+- Desabantailak: Harroa, zitala, baztertua, oldarkorra
+- Abantailak: Sneak Attack, Erakargarria
+- Armak: Balezta arina, lantza eta labanak (6)
