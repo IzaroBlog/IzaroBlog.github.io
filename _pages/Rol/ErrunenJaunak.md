@@ -12,6 +12,20 @@ Pisua: 75kg
 **Beniak: 3**  
 ![SAJAN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/sajan500.jpg?raw=true)
 
+| Sajan   |      |             |      |
+| ---------- | :--: | ------------ | :--: |
+|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
+|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
+|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
+| **Ezaugarriak** |      |  Konbentzitu    |   D4   |
+| Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
+| Azerikeria    |  D6    |    Borroka     |  D4  |
+| Espiritua    |  D10    |  Okultismoa    |  D4    |
+| Indarra  |  D4    |       Aztikeria | D10   |
+| Kemena    |  D6    |      Humanitateak | D6   |
+|           |        | Medikuntza | D6   |
+
+
 ### Lem koblakaria
 Klasea: Bardoa
 Tamaina: -1, Txikia  
@@ -19,6 +33,18 @@ Pisua: Txikia
 **Beniak: 3**  
 ![LEM](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Lem500.jpg?raw=true)
 
+| LEM   |      |             |      |
+| ---------- | :--: | ------------ | :--: |
+|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
+|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
+|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
+| **Ezaugarriak** |      |  Konbentzitu    |   D4   |
+| Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
+| Azerikeria    |  D6    |    Borroka     |  D4  |
+| Espiritua    |  D10    |  Okultismoa    |  D4    |
+| Indarra  |  D4    |       Aztikeria | D10   |
+| Kemena    |  D6    |      Humanitateak | D6   |
+|           |        | Medikuntza | D6   |
 
 
 ### Ihi iratxoa
