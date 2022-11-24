@@ -22,6 +22,7 @@ Mugan dagoen lurralde izan arren, gizakiak dira oraindik Varisiako biztanle gehi
 - [Sajan monjea](#Sajan-id)
 - [Lem Koblakaria](#Lem-id)
 - [Ihi aztia](#Ihi-id)
+- [Breogan](#Breogan-id)
 
 ### Sajan monjea {#Sajan-id}
 Klasea: Monjea  
@@ -115,4 +116,6 @@ Pisua: Txikia
   - Txinpartak (1)
 
 
+### Breoagn Pikaroa {#Breogan-id}
+![Breogan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Breogan.jpg?raw=true)
 
