@@ -4,9 +4,8 @@ layout: page
 title: Errunen Jaunen Goraldia
 ---
 ## Sarrera 
-Kaixo abenturazaleak, 
-Gure kanpaina Varisian hasiko dugu: 
-Varisia lurralde zaharra da, eta duela 10.000 urte baino gehiago, Varisia modernoaren zati handi bat Avistani kontinenteko lehen giza zibilizazioetako batek gobernatu zuen, Thassiloniar Inperioak. Gaur aldiz ez dira gelditzen inperio zahar eta boteretsu horren errautsak besterik....
+Kaixo abenturazaleak,   
+Gure kanpaina Varisian hasiko dugu: Varisia lurralde zaharra da, eta duela 10.000 urte baino gehiago, Varisia modernoaren zati handi bat Avistani kontinenteko lehen giza zibilizazioetako batek gobernatu zuen, Thassiloniar Inperioak. Gaur aldiz ez dira gelditzen inperio zahar eta boteretsu horren errautsak besterik....
 
 Antzinako Thassilonek utzitako monumentu eta eraikin erraldoi ugari aurki daitezke Varisian zehar. Hamar mila urte baino gehiago iraun dute bizirik, beren harrizko artisau erraldoien trebeziari esker. Horien artean ezagunenak dira Riddleport-eko Cyphergate, Magnimarko Irespan, Korvosako Mastaba Handia, eta Mushfenseko Anderearen Argia.
 
