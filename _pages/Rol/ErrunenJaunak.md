@@ -24,6 +24,8 @@ Mugan dagoen lurralde izan arren, gizakiak dira oraindik Varisiako biztanle gehi
 - [Ihi aztia](#Ihi-id)
 - [Breogan](#Breogan-id)
 
+----------------------------------------------
+
 ### Sajan monjea {#Sajan-id}
 Klasea: Monjea  
 Tamaina: 0  
@@ -50,6 +52,7 @@ Pisua: 75kg
 - Abantailak: arma bereizgarria (armarik gabeko erasoa), Oin arinak.
 - Armak: templuko ezpata, 6 shuriken, 3 alkimista su botila.
 
+----------------------------------------------
 
 
 ### Lem koblakaria {#Lem-id}
@@ -83,6 +86,7 @@ Pisua: Txikia
   - Ezaugarriak hobetzea/murriztea (2)
 
 
+----------------------------------------------
 
 ### Ihi iratxoa {#Ihi-id}
 Klasea: Aztia  
@@ -117,8 +121,9 @@ Pisua: Txikia
   - Egiaren ahotsa (2)
   - Txinpartak (1)
 
+----------------------------------------------
 
-### Breoagn Pikaroa {#Breogan-id}
+### Breoagan Pikaroa {#Breogan-id}
 ![Breogan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Breogan.jpg?raw=true)
 | Breogan   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
