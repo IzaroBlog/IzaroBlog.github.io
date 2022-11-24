@@ -125,6 +125,7 @@ Pisua: Txikia
 
 ### Breoagan Pikaroa {#Breogan-id}
 ![Breogan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Breogan.jpg?raw=true)
+
 | Breogan   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
 |     _**Pausua**_      | 5      |  **Gaitasunak**  |    |
