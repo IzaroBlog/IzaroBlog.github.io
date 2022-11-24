@@ -54,21 +54,32 @@ Pisua: 75kg
 Klasea: Bardoa
 Tamaina: -1, Txikia  
 Pisua: Txikia  
-**Beniak: 3**  
+**Beniak: 4**  
 ![LEM](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Lem500.jpg?raw=true)
 
 | LEM   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
-|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
-|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
-|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
-| **Ezaugarriak** |      |  Konbentzitu    |   D4   |
-| Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
-| Azerikeria    |  D6    |    Borroka     |  D4  |
-| Espiritua    |  D10    |  Okultismoa    |  D4    |
-| Indarra  |  D4    |       Aztikeria | D10   |
-| Kemena    |  D6    |      Humanitateak | D6   |
-|           |        | Medikuntza | D6   |
+|     _**Pausua**_      | 5(D4)  |  **Gaitasunak**  |    |
+|   _**Geldiketa**_     |  5     | Atletismoa |  D6 |
+|   _**Gogortasuna**_   |  6 (2) | Ezagutza orokorra   |  D6   |
+|   =====               | =====  | Antzeman     | D6 |
+| **Ezaugarriak** |              | Konbentzitu    |   D6   |
+| Bizkortasuna    |  D8          | Isil-gordean  |  D6   |
+| Azerikeria    |  D6            | Borroka     |  D4  |
+| Espiritua    |  D8             | Okultismoa    |  D6    |
+| Indarra  |  D6                 | Interpretazioa | D8   |
+| Kemena    |  D6                | Humanitateak | D4   |
+|           |                    | Lapurreta | D4   |
+
+- Desabantailak: Baketsua, inpultsiboa, mania (tarareatu)
+- Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
+- Abantailak: Bardoa, karismaduna
+- Armak: Daga, Habaila.
+#### Botere/Aztikeriak (10PP):
+  - Nahastea (2)
+  - Enpatia (1)
+  - Ezaugarriak hobetzea/murriztea (2)
+
 
 
 ### Ihi iratxoa {#Ihi-id}
