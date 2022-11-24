@@ -11,6 +11,7 @@ Tamaina: -1, Txikia
 Pisua: Txikia  
 **Beniak: 4**  
 
+![IHI](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/ihi500.jpg?raw=true)
 
 | IHI   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
