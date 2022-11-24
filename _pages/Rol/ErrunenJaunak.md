@@ -5,6 +5,22 @@ title: Errunen Jaunen Goraldia
 ---
 ## Sarrera 
 
+### Sajan monjea
+Klasea: Monjea  
+Tamaina: 0
+Pisua: 75kg  
+**Beniak: 3**  
+![SAJAN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/sajan500.jpg?raw=true)
+
+### Lem koblakaria
+Klasea: Bardoa
+Tamaina: -1, Txikia  
+Pisua: Txikia  
+**Beniak: 3**  
+![LEM](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Lem500.jpg?raw=true)
+
+
+
 ### Ihi iratxoa
 Klasea: Aztia  
 Tamaina: -1, Txikia  
