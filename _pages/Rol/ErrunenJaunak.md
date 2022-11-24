@@ -32,16 +32,22 @@ Pisua: 75kg
 
 | Sajan   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
-|     _**Pausua**_      | **_5_**       |  *Gaitasunak*  |    |
-|   _**Geldiketa**_|  **_4_**      |  Atletismoa |  D8 |
-|   _**Gogortasuna**_        |  **_5_**      |  Ezagutza orokorra   |  D6   |
+|     _**Pausua**_      | **_8 (D10)**       |  *Gaitasunak*  |    |
+|   _**Geldiketa**_|  **_6_**      |  Atletismoa |  D8 |
+|   _**Gogortasuna**_        |  **_7_**      |  Ezagutza orokorra   |  D4   |
 | **Ezaugarriak** |      |  Konbentzitu    |   D4   |
-| Bizkortasuna    |  D6    | Isil-gordean  |  D6   |
-| Azerikeria    |  D6    |    Borroka     |  D4  |
-| Espiritua    |  D10    |  Okultismoa    |  D4    |
-| Indarra  |  D4    |       Aztikeria | D10   |
-| Kemena    |  D6    |      Humanitateak | D6   |
-|           |        | Medikuntza | D6   |
+| Bizkortasuna    |  D8    | Isil-gordean  |  d8   |
+| Azerikeria    |  D6    |    Borroka     |  D8  |
+| Espiritua    |  D6    |  Zaldiz-ibili    |  D4    |
+| Indarra  |  D6    |       Antzematea | D6   |
+| Kemena    |  D8    |  Beldurra eragin     | D6   |
+|           |        | Medikuntza | D4   |
+
+- Desabantailak:Heroikoa, zina (txikia, leiala
+- Leinua: Malgua
+- Abantailak: arma bereizgarria (armarik gabeko erasoa), Oin arinak.
+- Armak: templuko ezpata, 6 shuriken, 3 alkimista su botila.
+
 
 
 ### Lem koblakaria {#Lem-id}
