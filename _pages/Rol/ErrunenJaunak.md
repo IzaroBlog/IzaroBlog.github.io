@@ -18,9 +18,12 @@ Mugan dagoen lurralde izan arren, gizakiak dira oraindik Varisiako biztanle gehi
 
 ![Varisia](https://pathfinderwiki.com/w/images/thumb/c/c8/Varisia_map.jpg/776px-Varisia_map.jpg)
 
+## Pertsonaiak
+- [Sajan monjea](#Sajan-id)
+- [Lem Koblakaria](#Lem-id)
+- [Ihi aztia](#Ihi-id)
 
-
-### Sajan monjea
+### Sajan monjea {#Sajan-id}
 Klasea: Monjea  
 Tamaina: 0
 Pisua: 75kg  
@@ -41,7 +44,7 @@ Pisua: 75kg
 |           |        | Medikuntza | D6   |
 
 
-### Lem koblakaria
+### Lem koblakaria {#Lem-id}
 Klasea: Bardoa
 Tamaina: -1, Txikia  
 Pisua: Txikia  
@@ -62,7 +65,7 @@ Pisua: Txikia
 |           |        | Medikuntza | D6   |
 
 
-### Ihi iratxoa
+### Ihi iratxoa {#Ihi-id}
 Klasea: Aztia  
 Tamaina: -1, Txikia  
 Pisua: Txikia  
