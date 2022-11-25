@@ -27,7 +27,7 @@ Zenbait ostatuk (berrogei kilometroz behin, gutxi gorabehera, bidaiari gehienek 
 Denborarekin, zibilizazio-germen horietako edozeinek aurrera egin dezake eta tamaina handiko herri bihur daiteke, baita hiri ere. Eta gertatu da, Magnimarretik laurogei kilometro ipar-ekialdera labarren artean kokatutako portu natural baten ertzean.
 Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen dorre zahar baten gerizpean, gaur egun Kosta Galduko herririk handiena da: **Hondar Punta**, Itsasertz Galduaren Argia.(*Ezagutzen ez diren arrazoiengatik, bertakoek Punta Galea deitezen diote baina!*)
 
-
+![PuntaGalea](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/PuntaGalea.png?raw=true)
 
 
 
@@ -38,7 +38,7 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 - [Lem Koblakaria](#Lem-id)
 - [Ihi aztia](#Ihi-id)
 - [Breogan](#Breogan-id)
-
+- [Irori](#Irori-id)
 ----------------------------------------------
 
 ### Sajan monjea {#Sajan-id}
@@ -161,3 +161,28 @@ Pisua: Txikia
 - Desabantailak: Harroa, zitala, baztertua, oldarkorra
 - Abantailak: Sneak Attack, Erakargarria
 - Armak: Balezta arina, lantza eta labanak (6)
+
+----------------------------------------------------
+
+### Irori Gudaria {#Irori-id}
+
+
+| Irori   |      |             |      |
+| ---------- | :--: | ------------ | :--: |
+|     _**Pausua**_      | 6     |  **Gaitasunak**  |    |
+|   _**Geldiketa**_|  8 (9✴️)      | Atletismoa |  D8 |
+|   _**Gogortasuna**_  |  8(3)   | Ezagutza orokorra   |  D4   |
+| ===== |  =====                 | Antzeman    |   D4   |
+| **Ezaugarriak** |              | Konbentzitu    |   D4   |
+| Bizkortasuna    |  D8          | Isil-gordean  |  D8   |
+| Azerikeria    |  D4            | Borroka     |  D8  |
+| Espiritua    |  D8             | Interpretazioa    |  D8    |
+| Indarra  |  D8                 | Jaurtiketa| D6   |
+| Kemena    |  D6                |  |    |
+
+
+
+- Desabantailak: Ohitura txikia, Bihozgabea, Etsai nagusia (XXX)
+- Abantailak: Gerlaria, Bi eskuekin trebea, Sendoa
+- Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna.
+
