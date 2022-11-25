@@ -34,11 +34,12 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 
 
 ## Pertsonaiak
-- [Sajan monjea](#Sajan-id)
-- [Lem Koblakaria](#Lem-id)
-- [Ihi aztia](#Ihi-id)
+- [Sajan](#Sajan-id)
+- [Lem](#Lem-id)
+- [Ihi](#Ihi-id)
 - [Breogan](#Breogan-id)
 - [Irori](#Irori-id)
+
 ----------------------------------------------
 
 ### Sajan monjea {#Sajan-id}
@@ -184,5 +185,5 @@ Pisua: Txikia
 
 - Desabantailak: Ohitura txikia, Bihozgabea, Etsai nagusia (XXX)
 - Abantailak: Gerlaria, Bi eskuekin trebea, Sendoa
-- Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna.
+- Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna, Burdinsarezko alkondara (Gogortasuna+3)
 
