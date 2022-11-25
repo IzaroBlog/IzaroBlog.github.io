@@ -18,6 +18,21 @@ Mugan dagoen lurralde izan arren, gizakiak dira oraindik Varisiako biztanle gehi
 
 ![Varisia](https://pathfinderwiki.com/w/images/thumb/c/c8/Varisia_map.jpg/776px-Varisia_map.jpg)
 
+### Kostalde Galdua: Hondar Puntara bidean
+Magnimarretik iparraldera kostalde harritsuan doazenak berehala ohartzen dira nazio berezi batean daudela. Lainoak paisaia kulunkaria estaltzen du, eta behelainoak hezegune bakartien gainean geldi dagoela dirudi. 
+Lurraldeko baso txikien sakontasunean asun, erramu eta pinu izerdien usainez bustita daude, eskualdea estaltzen dutelarik. Barrualdera, sekuoia bikainez mugatutako ibai-haranak sigi-sagatsuak, muino irregularren eta kareharrizko malkarren artean egiten dute bidea. Zonaldearen neurrigabetasunak eta isolamendu-sentsazioak sortu dute bertako izena: **Kostalde Galdua**
+
+Kostalde Galduan zehar badira zibilizazio-fokuak, Varisiako kanpamendu tradizionalak bezala, muga horietako amildegi eta sakonune ia guztietan aurkitzen direnak. Noizean behin etxe bakartiak ikusten dira harkaitzen goialdean, aberatsen egoitzak izan ohi dira, bake pixka baten bila Magnimarko kaleetako zalapartatik urrun.
+Zenbait ostatuk (berrogei kilometroz behin, gutxi gorabehera, bidaiari gehienek egun batean egin dezaketen distantzia) Kosta Galduaren Errepidea zedarritzen dute. Harrizko santutegi txikiek, **Desna** arloteen jainkosaren eta Varisiarren jainko babeslearen ohoretan, aterpea eskaintzen dute, ekaitzetako batek bidaiariak harrapatuz gero.
+Denborarekin, zibilizazio-germen horietako edozeinek aurrera egin dezake eta tamaina handiko herri bihur daiteke, baita hiri ere. Eta gertatu da, Magnimarretik laurogei kilometro ipar-ekialdera labarren artean kokatutako portu natural baten ertzean.
+Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen dorre zahar baten gerizpean, gaur egun Kosta Galduko herririk handiena da: **Hondar Punta**, Itsasertz Galduaren Argia.(*Ezagutzen ez diren arrazoiengatik, bertakoek Punta Galea deitezen diote baina!*)
+
+
+
+
+
+
+
 ## Pertsonaiak
 - [Sajan monjea](#Sajan-id)
 - [Lem Koblakaria](#Lem-id)
