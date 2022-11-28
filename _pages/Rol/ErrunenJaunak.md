@@ -43,10 +43,10 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 ----------------------------------------------
 
 ### Sajan monjea {#Sajan-id}
-Klasea: Monjea  
-Tamaina: 0  
-Pisua: 75kg  
-**Beniak: 3**  
+
+Bere ahizpa bikia, Sajini, aurkituko zuela agindu zuen; eta honek Sajanen bizirauteko nahia bultzatzen du. Pazientziaz eta nekaezin jarraitzen du bere bilaketan, egun bakar bat ere pasatzen utzi gabe ahizparen arrastoen bila. Sajanek diziplina eta pertseberantzia bera erakusten du gauza guztietan, baina bereziki bere praktika martzialen erregimen zorrotzaren gogortasunen aurrean.
+Monjeak beti laguntzen die behar dutenei, nahiz eta horrek arriskuak hartzea ekar dezakeen. 
+
 ![SAJAN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/sajan500.jpg?raw=true)
 
 | Sajan   |      |             |      |
@@ -63,6 +63,9 @@ Pisua: 75kg
 | Kemena    |  D8    |  Beldurra eragin     | D6   |
 
 
+- Klasea: Monjea  
+- Tamaina: 0  
+- **Beniak: 3**  
 - Desabantailak:Heroikoa, zina (txikia, leiala
 - Leinua: Malgua
 - Abantailak: arma bereizgarria (armarik gabeko erasoa), Oin arinak.
@@ -72,10 +75,8 @@ Pisua: 75kg
 
 
 ### Lem koblakaria {#Lem-id}
-Klasea: Bardoa  
-Tamaina: -1, Txikia  
-Pisua: Txikia  
-**Beniak: 4**  
+Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo izanda pasa zuen. Etengabe abesti txikiak, obra klasikoak edo bere asmakizunekoak ahapetik kantatzen ditu. Horrek ez dio halaber eragozten mediano oldarkor honi azkar esku hartzea, edozein krudelkeria nabaritzen duen bakoitzean.
+
 ![LEM](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Lem500.jpg?raw=true)
 
 | LEM   |      |             |      |
@@ -92,6 +93,10 @@ Pisua: Txikia
 | Kemena    |  D6                | Humanitateak | D4   |
 |           |                    | Lapurreta | D4   |
 
+
+- Klasea: Bardoa  
+- Tamaina: -1, Txikia  
+- **Beniak: 4**  
 - Desabantailak: Baketsua, inpultsiboa, mania (tarareatu)
 - Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Bardoa, karismaduna
@@ -105,10 +110,7 @@ Pisua: Txikia
 ----------------------------------------------
 
 ### Ihi iratxoa {#Ihi-id}
-Klasea: Aztia  
-Tamaina: -1, Txikia  
-Pisua: Txikia  
-**Beniak: 4**  
+
 
 ![IHI](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/ihi500.jpg?raw=true)
 
@@ -126,8 +128,12 @@ Pisua: Txikia
 | Kemena    |  D6                | Humanitateak | D6   |
 |           |                    | Medikuntza | D6   |
 
+
+- Klasea: Aztia  
+- Tamaina: -1, Txikia  
+- **Beniak: 4**  
 - Desabantailak:Lasaia, Ahoandia, Kuriosoa, Konfiatua
-- Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
+- Leinua: Gogorra, Motela, Iratxoen magia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Oinarri arkanoa (Magia), Interferentzia arkanoa, Leinu feerikoa (toke irribera), aztikeria gehiago, **Sorioneku** 
 - *Jukutriak: animalia, argia, soinua, telep.*
 - Armak: Habaila, makila, aiztoa, liken poltsa, su alkimikoa, tximistarria
@@ -159,6 +165,9 @@ Pisua: Txikia
 |           |                    | Zaldiz-ibili  | D4   |
 
 
+- Klasea: Pikaroa
+-Tamaina: o  
+- **Beniak: 3** 
 - Desabantailak: Harroa, zitala, baztertua, oldarkorra
 - Abantailak: Sneak Attack, Erakargarria
 - Armak: Balezta arina, lantza eta labanak (6)
@@ -182,7 +191,9 @@ Pisua: Txikia
 | Kemena    |  D6                |  |    |
 
 
-
+Klasea: Gerlaria
+Tamaina: o  
+- **Beniak: 3**  
 - Desabantailak: Ohitura txikia, Bihozgabea, Etsai nagusia (XXX)
 - Abantailak: Gerlaria, Bi eskuekin trebea, Sendoa
 - Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna, Burdinsarezko alkondara (Gogortasuna+3)
