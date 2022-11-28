@@ -94,9 +94,9 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 |           |                    | Lapurreta | D4   |
 
 
-- Klasea: Bardoa  
-- Tamaina: -1, Txikia  
-- **Beniak: 4**  
+- Klasea: Bardoa    
+- Tamaina: -1, Txikia    
+- **Beniak: 4**    
 - Desabantailak: Baketsua, inpultsiboa, mania (tarareatu)
 - Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Bardoa, karismaduna
@@ -129,9 +129,9 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 |           |                    | Medikuntza | D6   |
 
 
-- Klasea: Aztia  
-- Tamaina: -1, Txikia  
-- **Beniak: 4**  
+- Klasea: Aztia    
+- Tamaina: -1, Txikia    
+- **Beniak: 4**    
 - Desabantailak:Lasaia, Ahoandia, Kuriosoa, Konfiatua
 - Leinua: Gogorra, Motela, Iratxoen magia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
 - Abantailak: Oinarri arkanoa (Magia), Interferentzia arkanoa, Leinu feerikoa (toke irribera), aztikeria gehiago, **Sorioneku** 
@@ -165,9 +165,9 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 |           |                    | Zaldiz-ibili  | D4   |
 
 
-- Klasea: Pikaroa
--Tamaina: o  
-- **Beniak: 3** 
+- Klasea: Pikaroa  
+- Tamaina: 0    
+- **Beniak: 3**   
 - Desabantailak: Harroa, zitala, baztertua, oldarkorra
 - Abantailak: Sneak Attack, Erakargarria
 - Armak: Balezta arina, lantza eta labanak (6)
@@ -191,9 +191,9 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 | Kemena    |  D6                |  |    |
 
 
-Klasea: Gerlaria
-Tamaina: o  
-- **Beniak: 3**  
+- Klasea: Gerlaria  
+- Tamaina: 0  
+- **Beniak: 3**    
 - Desabantailak: Ohitura txikia, Bihozgabea, Etsai nagusia (XXX)
 - Abantailak: Gerlaria, Bi eskuekin trebea, Sendoa
 - Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna, Burdinsarezko alkondara (Gogortasuna+3)
