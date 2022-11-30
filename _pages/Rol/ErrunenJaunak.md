@@ -110,7 +110,11 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 ----------------------------------------------
 
 ### Ihi iratxoa {#Ihi-id}
+Ihi Varisiako hegoaldeko hezegunetan jaiotako ipotxa da. Hezegunetako ipotxen artean ohitura denez, 15 urte bete zituenean heldu bilakatzeko erritoa egiteko garaia iritsi zitzaion. Bere familiak ez zuen begi onez ikusten ikusten magia egiteko zuen berezko trebetasuna, ipotxen artean liburuetan ikasitako zientzia eta magia hobesten baita. "Zer egingo dinagu alabarekin, Trip, ez da gai ihiak hazteko aztikeria jaurtitzeko ere?" "Etzekinat, Merv, denbora eman beharko zioanagu" Horrela, urteak pasa ziren eta Ihi ez zen gai izan ihiak haztarazteko aztikeriak ikasteko, ez komunitateak eskatzen zizkion espektatibak betetzeko. 15. urteurrena iritsi zenean erritotik kanpo utzi zuten, eta inoiz ez zioten bere helduaroko izena eman. Horregatik Ihi izaten jarraitu zuen.
 
+Egun batean, paduran sendabelarrak bilatzen ari zela, ura edaten ari zen orkatz bat ikusi zuen. Orkatzak segitzeko keinua egin zion eta landaretza handia zegoen eremu batera gidatu zuen. Han zuhaitz baten adarrean eserita Zip deituriko iratxo bat ikusi zuen. Ez zen elkar ikusten zuten lehengo aldia, Zip Ihiren jaiotzan egon baitzen, erditzean laguntzen. "Neskato, ez egin negar, hire patua ez baitun ipotxen artean heldu bihurtzea, hik mundu zabalera atera behar dun, Liralen hegazti miresgarriaren izena ezagutu, Gules dragoiaren abestiak ikasi, Curunen eskutik munduko asmakizun guztiak ezagutu, bat izan ezik..."
+
+Ihik zakutoa prestatu zuen eta bidean ezagutuko zituen izaki miresgarrietan amesten hasi zen, gaur arte.
 
 ![IHI](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/ihi500.jpg?raw=true)
 
@@ -145,7 +149,7 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 
 ----------------------------------------------
 
-### Breoagan Pikaroa {#Breogan-id}
+### Breogan Pikaroa {#Breogan-id}
 ![Breogan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Breogan.jpg?raw=true)
 
 | Breogan   |      |             |      |
