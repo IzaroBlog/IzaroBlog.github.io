@@ -39,6 +39,7 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 - [Ihi](#Ihi-id)
 - [Breogan](#Breogan-id)
 - [Irori](#Irori-id)
+- [Dukan](#Dukan-id)
 
 ----------------------------------------------
 
@@ -202,3 +203,33 @@ Ihik zakutoa prestatu zuen eta bidean ezagutuko zituen izaki miresgarrietan ames
 - Abantailak: Gerlaria, Bi eskuekin trebea, Sendoa
 - Armak: Ezkutu handia (Geldiketa+2), Izar-labana✴️(Geldiketa+1), Maza astuna, Burdinsarezko alkondara (Gogortasuna+3)
 
+-----------------------------------------------------------
+
+### Dukkan Azti-Gerlaria {#Dukan-id}
+
+| Dukan  |      |             |      |
+| ---------- | :--: | ------------ | :--: |
+|     _**Pausua**_      | 6     |  **Gaitasunak**  |    |
+|   _**Geldiketa**_|  7 (2)      | Atletismoa |  D4 |
+|   _**Gogortasuna**_  |  9(6)   | Ezagutza orokorra   |  D4   |
+| ===== |  =====                 | Antzeman    |   D4   |
+| **Ezaugarriak** |              | Konbentzitu    |   D4   |
+| Bizkortasuna    |  D4          | Isil-gordean  |  D4   |
+| Azerikeria    |  D10            | Borroka     |  D10  |
+| Espiritua    |  D6             | Aztikeriak    |  D10    |
+| Indarra  |  D8                 |               |     |
+| Kemena    |  D6                |               |      |
+
+- Klasea: Magoa  
+- Tamaina: 0  
+- **Beniak: 3**    
+- Desabantailak: Etsaia, Marginatua (H), Leiala
+- Abantailak:  Babeski arin, Babeski ertain, Babeski astuna.
+- Leinua: Abjurazioa, Interferentzia arkanoa, Transfondo arkanoa, Lotura arkanoa (Belea+5PP), 
+- Hizkuntzak: Komuna, Orkoera, Goblinera
+- Armak: Ezkutu ertaina (Geldiketa+2), Ezpata luzea, Burdinsarezko alkondara (Gogortasuna+3), Burdinasarezko galtzak (+3), Kaskoa (+3)
+#### Botere/Aztikeriak (15PP):
+  - Gorputz babesa (2)
+  - Desbideraketa (2)
+  - Disipazioa (1)
+  
