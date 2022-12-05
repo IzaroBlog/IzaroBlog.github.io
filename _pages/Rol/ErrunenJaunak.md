@@ -219,26 +219,26 @@ Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor iz
 | Dukan  |      |             |      |
 | ---------- | :--: | ------------ | :--: |
 |     _**Pausua**_      | 6     |  **Gaitasunak**  |    |
-|   _**Geldiketa**_|  7 (2)      | Atletismoa |  D4 |
-|   _**Gogortasuna**_  |  9(6)   | Ezagutza orokorra   |  D4   |
-| ===== |  =====                 | Antzeman    |   D4   |
+|   _**Geldiketa**_|  7 (2)      | Atletismoa |  D6 |
+|   _**Gogortasuna**_  |  8(3)   | Ezagutza orokorra   |  D4   |
+| ===== |  =====                 | Antzeman    |   D6   |
 | **Ezaugarriak** |              | Konbentzitu    |   D4   |
-| Bizkortasuna    |  D4          | Isil-gordean  |  D4   |
-| Azerikeria    |  D10            | Borroka     |  D10  |
-| Espiritua    |  D6             | Aztikeriak    |  D10    |
-| Indarra  |  D8                 |               |     |
-| Kemena    |  D6                |               |      |
+| Bizkortasuna    |  D6          | Isil-gordean  |  D4   |
+| Azerikeria    |  D18            | Borroka     |  D6  |
+| Espiritua    |  D8             | Fedea    |  D8    |
+| Indarra  |  D6                 | Okultismoa  | D6    |
+| Kemena    |  D6                | Medizina  |   D6   |
+|     |                          | Beldurra eragin  |   D8   |
 
-- Klasea: Magoa  
+- Klasea: Klerigoa
 - Tamaina: 0  
 - **Beniak: 3**    
-- Desabantailak: Etsaia, Marginatua (H), Leiala
-- Abantailak:  Babeski arin, Babeski ertain, Babeski astuna.
-- Leinua: Abjurazioa, Interferentzia arkanoa, Transfondo arkanoa, Lotura arkanoa (Belea+5PP), 
-- Hizkuntzak: Komuna, Orkoera, Goblinera
-- Armak: Ezkutu ertaina (Geldiketa+2), Ezpata luzea, Burdinsarezko alkondara (Gogortasuna+3), Burdinasarezko galtzak (+3), Kaskoa (+3)
+- Desabantailak: Marginatua (H), Etsaia (T), Leiala (T), Ohore kodea (H): Iomedae
+- Abantailak:  Osatzailea, Energia positiboa kanalizatu, Hitza (Iomedae), Trasfondo arkanoa, 
+- Hizkuntzak: Komuna, Orkoera, Goblinera, Basokoa, Infra-komuna.
+- Armak: Ezkutu ertaina (Geldiketa+2), Gudamailua, Burdinsare alkandora (Gogortasuna+3), Burdinasarezko galtzak (+3), Kaskoa (+3)
 #### Botere/Aztikeriak (15PP):
-  - Gorputz babesa (2)
+  - Sendatu (3)
   - Desbideraketa (2)
-  - Disipazioa (1)
+  - Zigorra (2)
   
