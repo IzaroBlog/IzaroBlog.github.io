@@ -39,7 +39,7 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 - [Ihi](#Ihi-id)
 - [Breogan](#Breogan-id)
 - [Irori](#Irori-id)
-- [Dukan](#Dukan-id)
+- [Dukkan](#Dukkan-id)
 
 ----------------------------------------------
 
@@ -205,7 +205,7 @@ Ihik zakutoa prestatu zuen eta bidean ezagutuko zituen izaki miresgarrietan ames
 
 -----------------------------------------------------------
 
-### Dukkan {#Dukan-id}
+### Dukkan {#Dukkan-id}
 Dukkan kondea gizon boteretsua zen. Neverwinterreko politikan oso estimatua. Bereziki liraina eta azkarra zen emakume orko batekin maitemindu zen arte. Baina harek ez zuen bera gustoko. Diruak eta armek ematen zioten boterea aprobetxatuz, bortxatu egin zuen.
 Emakumea haurdun geratu zen, baina kondeak ezin zuen onartu inork jakiterik, hori dela eta giltzaperatu egin zituen ama eta umea. Amak izkutuan Gabor deitu zion umeari. 
 Gaborrek 5 urte zituela, ihes egiten saiatu ziren, baina Dukkanen gizonek ama hil zuten eta umeak, guztiz hasarre, gortearen aurrera jo zuen eta han Dukkan kondeari bere aita izatea leporatu zion. Honen erreakzioa horren traketsa izan zen ze mundu guztiak sinistu zuen.
