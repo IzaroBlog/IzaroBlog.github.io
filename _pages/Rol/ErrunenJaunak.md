@@ -233,7 +233,7 @@ Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor iz
 - Klasea: Klerigoa
 - Tamaina: 0  
 - **Beniak: 3**    
-- Desabantailak: Marginatua (H), Etsaia (T), Leiala (T), Ohore kodea (H): Iomedae
+- Desabantailak: Marginatua (H), Etsaia (T), Leiala (T), Ohore kodea (H), Zina (H): Iomedaea
 - Abantailak:  Osatzailea, Energia positiboa kanalizatu, Hitza (Iomedae), Trasfondo arkanoa, 
 - Hizkuntzak: Komuna, Orkoera, Goblinera, Basokoa, Infra-komuna.
 - Armak: Ezkutu ertaina (Geldiketa+2), Gudamailua, Burdinsare alkandora (Gogortasuna+3), Burdinasarezko galtzak (+3), Kaskoa (+3)
