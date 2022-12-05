@@ -205,7 +205,15 @@ Ihik zakutoa prestatu zuen eta bidean ezagutuko zituen izaki miresgarrietan ames
 
 -----------------------------------------------------------
 
-### Dukkan Azti-Gerlaria {#Dukan-id}
+### Dukkan {#Dukan-id}
+Dukkan kondea gizon boteretsua zen. Neverwinterreko politikan oso estimatua. Bereziki liraina eta azkarra zen emakume orko batekin maitemindu zen arte. Baina harek ez zuen bera gustoko. Diruak eta armek ematen zioten boterea aprobetxatuz, bortxatu egin zuen.
+Emakumea haurdun geratu zen, baina kondeak ezin zuen onartu inork jakiterik, hori dela eta giltzaperatu egin zituen ama eta umea. Amak izkutuan Gabor deitu zion umeari. 
+Gaborrek 5 urte zituela, ihes egiten saiatu ziren, baina Dukkanen gizonek ama hil zuten eta umeak, guztiz hasarre, gortearen aurrera jo zuen eta han Dukkan kondeari bere aita izatea leporatu zion. Honen erreakzioa horren traketsa izan zen ze mundu guztiak sinistu zuen.
+Dukkanen influentziak eta negozioek txarrera egin zuten oso eta honen familiak Gaborri leporatzen zion dinastiaren estatusaren gainbehera.
+Dukkani zion gorrotoa amorru bilakatu zen, eta amorru hori bideratzeko eta batez ere tenpluan beste inon baino hobeto tratatzen zutelako, Iomedae, Gudaren jainkoarengana hurbildu zen. Bere asmoa gerlari izatea zen arren, amorru hura zentzu eta bakean bilakatu zen eta Gudaren kleriko bihurtu zen urteen poderioz.
+Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor izena erabiliko erabaki zuen, eta Dukkan ezizenarekin ezagutarazi zuen bere burua eta hiritik alde egin zuen, behar zutenei bere laguntza eskainiz eta mundu zail honetan bere lekuaren bila abiatuz.
+
+(all rights reserved https://www.deviantart.com/rotaken)
 
 | Dukan  |      |             |      |
 | ---------- | :--: | ------------ | :--: |
