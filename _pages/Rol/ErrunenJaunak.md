@@ -38,7 +38,7 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 - [Lem](#Lem-id)
 - [Ihi](#Ihi-id)
 - [Breogan](#Breogan-id)
-- [Irori](#Irori-id)
+- [Artzai](#Artzai-id)
 - [Dukkan](#Dukkan-id)
 
 ----------------------------------------------
@@ -179,8 +179,12 @@ Ihik zakutoa prestatu zuen eta bidean ezagutuko zituen izaki miresgarrietan ames
 
 ----------------------------------------------------
 
-### Irori Gudaria {#Irori-id}
+### Artzai Gudaria {#Artzai-id}
+Artzaik ez ditu bere gurasoak gogoratzen, ezta ere bere jaioterria. Gau hartako ekaitz bortitza, ordea, oso gogoan du. Mendian zegoen, artaldea zaintzen. Gaua ailegatu orduko hasi ziren euria eta haizea; inpernuko deabru guztiak borda txikiaren kanpoan dantzan ariko balira bezalako zaratarekin. 
+Eta, bapatean, bi trumoien arteko isiltasunean, bildotsaren marrua entzun zuen. Horrela hasi zen sarraskia. Mina, odolaren usaina eta tximistek marraztutako silueta gogaikarria dira gau hartako azkenengo memoriak.
+Hilzorian zegoela aurkitu zuen Iroriren praile batek hurrengo goizean. Eskua bularrean ipini eta halaxe sendatu zuen, betirako jainkoaren botereak ukitu zuen lekuan marka darama orain. Urteak pasa dira zorigaiztoko gau hartatik, eta Artzaik munduko bideetan noraezean dabil, bere gorputza eta arima prestatzen bere etsaia berriz topatzen duenerako.
 
+![Artzai](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Artzai.jpg?raw=true)
 
 | Irori   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
