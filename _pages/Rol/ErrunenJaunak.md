@@ -186,7 +186,7 @@ Hilzorian zegoela aurkitu zuen Iroriren praile batek hurrengo goizean. Eskua bul
 
 ![Artzai](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Artzai.jpg?raw=true)
 
-| Irori   |      |             |      |
+| Artzai   |      |             |      |
 | ---------- | :--: | ------------ | :--: |
 |     _**Pausua**_      | 6     |  **Gaitasunak**  |    |
 |   _**Geldiketa**_|  8 (9✴️)      | Atletismoa |  D8 |
@@ -228,7 +228,7 @@ Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor iz
 | ===== |  =====                 | Antzeman    |   D6   |
 | **Ezaugarriak** |              | Konbentzitu    |   D4   |
 | Bizkortasuna    |  D6          | Isil-gordean  |  D4   |
-| Azerikeria    |  D18            | Borroka     |  D6  |
+| Azerikeria    |  D8            | Borroka     |  D6  |
 | Espiritua    |  D8             | Fedea    |  D8    |
 | Indarra  |  D6                 | Okultismoa  | D6    |
 | Kemena    |  D6                | Medizina  |   D6   |
