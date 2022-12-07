@@ -1,7 +1,7 @@
 ---
 permalink: SuaetaFesta
 layout: page
-title: Errunen Jaunen Goraldia
+title: 1. Saioa Errunen Jaunen Goraldia
 ---
 ## 1.Saioa: Sua eta Festa {#SuaetaFesta}
 
@@ -15,6 +15,8 @@ Herriko iparraldeko atean, **Aldern Atzandel** noblearen bizia salbatu dute, era
 Abenturazaleak, herriko heroi bihurtu ziren, eta honekin jada Dragoi Herdoilduan atseden hartzeko ordua iritsi zen. Beno denek, ez ze Artzai lerdenak, **Shayliss Vinder**ezagutu eta haren "arratoi handiak" ehizatzeko prest azaldu zen... eta aurkitu zuena **Vin Vinder** izan zen, Shaylissen aita haserrekoia. 
 
 Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalparsoro izeneko zelaira, eta arratsaldean hara joango zirela esan zioten. Bien bitartean **Belor Cicuta**ren bila zebiltzala, hark aurkitu, eta hilerrian **Ezakyen Tobyn** aurreko apezaren mausoleoa irekita omen zegoela esan zien, eta harekin abiatu ziren hilerrira. Han mausoleoa irekita, eta ezusteko batzuekin aurkitu ziren... 6 eskeletok eraso egin zieten eta su alkimikoa erabili behar izan zuten hauk akabatzeko. Ikerketa sendoa egin eta gero, 6 goblin eta gizaki baten lorratzk aurkitu zituzten mausoleora sartu eta irten egin zutenak; eta baita Tobynen hilobian zeuden hezurdurak lapurtuak izan zirela. Ihik ere, *hezur tunika* bat aurkitu zuen, eta eskeletoak horrela atera zirela ondorioztatu zuten.en lorratzk aurkitu
+
+[Sarrera](https://izaroblog.github.io/SuaetaFesta)
 
 ![Argazkia](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/tortilla.jpg?raw=true)
 
