@@ -25,7 +25,7 @@ Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalp
 Sutondoan mahai gainean dantzaka ari ziren lagunei begiratu zien, Ihi eta Lem hor zebiltzak Ameikorekin batera musika joaz eta tabernako bezeroak animatzen. Nola egiten zuten ba? Atzo goblin haien erasoa gelditu zuten, baina Lemek izugarrizko zauria jaso zuen, eta Ihi oso sentibera zela bazekien, eskeletoak ikusitakoan jarri zuen aurpegia ez zen erraz ahazten zen horietakoa... Hala ere hor zeuden, bizitza gozatzen ezer gertatu izan ez balitz bezala! 
 Goblin koblakariaren kantu eta irainak barruraino sartu zitzaizkiola jabetzen zen, amataz gogoratu zen, eta malko baten hasiera zena segituan moztu zuen. 
 Sasi-orkoak bere hausnarketarekin jarraitu zuen, garagardo beltzari trago ederra eman eta gero. Goblinak esandakoa egia ote? Hankaluze, hau da, gizaki bat egongo ote zen guzti honen atzean?
-Zergatik baina Ezakyian Tobyn-en gorpu edo hezurrak lapurtu? Zer zentzu zuen horrek?
+Zergatik baina Ezakyian Tobyn-en gorpu edo hezurrak lapurtu? Zer zentzu zuen horrek?`
 
 Begiak garagardotik altxa, eta Artzai ikusi zuen, noble beldurti horrekin hizketan eta barrezka.... Higuingarria iruditzen zitzaion... nola zen tipoaren izena? Aldern Dedalo? Ez, ez Aldern Dedalera zuen izena handiki hark. Eta gainera harekin basurde ehizara joan behar zuten, falta zena! 
 Artzai horrek ere egin zituen bereak ea bi... Shaylis Vinder horrekin larrutan egin eta aitak harrapatu! Kar, kar, irribarretso bat azaldu zen Dukkanen ezpainetan, Ven Vinder hori ez zen tipo makala ez! Barreak bota zituzten gertatukoa kontatu zienean... herriko jendeak ez zekien berriz zer pentsatuko zuen... 
