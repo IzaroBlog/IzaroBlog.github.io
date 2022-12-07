@@ -45,7 +45,15 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 
 ## 1.Saioa: Sua eta Festa {#SuaetaFesta}
 
+### Lehen zatia
+Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
+Sajanek Hamblytarrak (Crade eta Lys) ezagutu ditu, Artzaik tatuaia egin zion itsasgizon bat eta Lemek txirula jotzen zuen bitartean, Dukkanek indar proba bat irabazi du, bertako dendatan astebetezko frutak dohan izaki saria. 
 
+
+
+#### Lehen zatian ezagututako pertsonaiak
+![KendraDeverin](https://pathfinderwiki.com/w/images/thumb/4/48/Kendra_Deverin.jpg/250px-Kendra_Deverin.jpg)  
+Kendra Deverin alkatesa
 
 
 ----------------------------------------------
