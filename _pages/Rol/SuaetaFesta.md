@@ -1,11 +1,9 @@
 ---
 permalink: SuaetaFesta
 layout: page
-title: 1. Saioa
+title: 1. Saioa: Sua eta Festa
 ---
 [Sarrera](https://izaroblog.github.io/ErrunenJaunak)
-
-## 1.Saioa: Sua eta Festa {#SuaetaFesta}
 
 Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
 Sajanek Hamblytarrak (Crade eta Lys) ezagutu ditu, Artzaik tatuaia egin zion itsasgizon bat eta Lemek txirula jotzen zuen bitartean, Dukkanek indar proba bat irabazi du, bertako dendatan astebetezko frutak dohan izaki saria. 
