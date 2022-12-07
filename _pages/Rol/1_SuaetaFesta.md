@@ -3,7 +3,6 @@ permalink: 1_SuaetaFesta
 layout: page
 title: 1. Saioa: Sua eta Festa
 ---
-
 ## 1.Saioa: Sua eta Festa {#SuaetaFesta}
 
 ### Lehen zatia
