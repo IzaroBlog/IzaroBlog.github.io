@@ -48,13 +48,31 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 ### Lehen zatia
 Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
 Sajanek Hamblytarrak (Crade eta Lys) ezagutu ditu, Artzaik tatuaia egin zion itsasgizon bat eta Lemek txirula jotzen zuen bitartean, Dukkanek indar proba bat irabazi du, bertako dendatan astebetezko frutak dohan izaki saria. 
-
+**Kendra Deverin** alkatesa, **Belor Cicuta** aguazila, (**Lonjiku Kaijitsu**-k ezin izan du etorri) **Cydrak Drokkus** artista eta **Abstalar Zantus** apaizaren hitzaldiak entzun eta gero, Ameikoren *Izokina Curry erara"* dastatzen pasa dute eguerdia. 
+Arratsalde partean, Zantus konsakratzeko ekitaldi ospetsua egitear zegoela, Goblinen erasoa jasan du herriak. Kaos hartan abenturazaleak azkar ibili dira, egon diren erasoak zapalduz. (Tximeletak, pifiak eta goblinak eragindako suteak itzaltzeko abenturak medio). 
+Herriko iparraldeko atean, **Aldern Atzandel** noblearen bizia salbatu dute, erasotzen zebilen Goblin Komandoa eta bere goblinzakurra aise menderatuz. 
 
 
 #### Lehen zatian ezagututako pertsonaiak
 ![KendraDeverin](https://pathfinderwiki.com/w/images/thumb/4/48/Kendra_Deverin.jpg/250px-Kendra_Deverin.jpg)  
 Kendra Deverin alkatesa
 
+---
+
+![Belor](https://pathfinderwiki.com/w/images/thumb/d/d3/Belor_Hemlock_official.jpg/250px-Belor_Hemlock_official.jpg)  
+Belor Cicuta
+
+---
+
+![Zantus](https://i.pinimg.com/originals/0f/6f/6a/0f6f6a59978972c3e2737e4c073b1bb2.jpg)
+Abstalar Zantus
+
+---
+
+![Ameiko Kaijitsu](https://pathfinderwiki.com/w/images/thumb/0/03/Ameiko.jpg/328px-Ameiko.jpg)
+
+![Aldern](http://cdn.obsidianportal.com/assets/177300/foxglovebig.jpg)
+Aldern Atzandel
 
 ----------------------------------------------
 
