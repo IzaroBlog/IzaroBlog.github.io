@@ -3,6 +3,7 @@ permalink: SuaetaFesta
 layout: page
 title: 1. Saioa: Sua eta Festa
 ---
+
 [Sarrera](https://izaroblog.github.io/ErrunenJaunak)
 
 Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
