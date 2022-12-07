@@ -53,7 +53,7 @@ Arratsalde partean, Zantus konsakratzeko ekitaldi ospetsua egitear zegoela, Gobl
 Herriko iparraldeko atean, **Aldern Atzandel** noblearen bizia salbatu dute, erasotzen zebilen Goblin Komandoa eta bere goblinzakurra aise menderatuz. 
 Abenturazaleak, herriko heroi bihurtu ziren, eta honekin jada Dragoi Herdoilduan atseden hartzeko ordua iritsi zen. Beno denek, ez ze Artzai lerdenak, **Shayliss Vinder**ezagutu eta haren "arratoi handiak" ehizatzeko prest azaldu zen... eta aurkitu zuena **Vin Vinder** izan zen, Shaylissen aita haserrekoia. 
 
-Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalparsoro izeneko zelaira, eta arratsaldean hara joango zirela esan zioten. Bien bitartean **Belor Cicuta**ren bila zebiltzala, hark aurkitu, eta hilerrian **Ezakyen Tobyn** aurreko apezaren mausoleoa irekita omen zegoela esan zien, eta harekin abiatu ziren hilerrira. Han mausoleoa irekita, eta sorprespa batzuekin aurkitu ziren... 6 eskeletok eraso egin zieten eta su alkimikoa erabili behar izan zuten 
+Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalparsoro izeneko zelaira, eta arratsaldean hara joango zirela esan zioten. Bien bitartean **Belor Cicuta**ren bila zebiltzala, hark aurkitu, eta hilerrian **Ezakyen Tobyn** aurreko apezaren mausoleoa irekita omen zegoela esan zien, eta harekin abiatu ziren hilerrira. Han mausoleoa irekita, eta ezusteko batzuekin aurkitu ziren... 6 eskeletok eraso egin zieten eta su alkimikoa erabili behar izan zuten hauk akabatzeko. Ikerketa sendoa egin eta gero, 6 goblin eta gizaki baten lorratzk aurkitu zituzten mausoleora sartu eta irten egin zutenak; eta baita Tobynen hilobian zeuden hezurdurak lapurtuak izan zirela. Ihik ere, *hezur tunika* bat aurkitu zuen, eta eskeletoak horrela atera zirela ondorioztatu zuten.en lorratzk aurkitu
 
 #### Lehen zatian ezagututako pertsonaiak
 ![KendraDeverin](https://pathfinderwiki.com/w/images/thumb/4/48/Kendra_Deverin.jpg/250px-Kendra_Deverin.jpg)  
@@ -66,17 +66,17 @@ Belor Cicuta
 
 ---
 
-![Zantus](https://i.pinimg.com/originals/0f/6f/6a/0f6f6a59978972c3e2737e4c073b1bb2.jpg)
+![Zantus](https://db4sgowjqfwig.cloudfront.net/campaigns/216936/assets/955454/abstalar_zantus_clean.jpg?1553433635)
 Abstalar Zantus
 
 ---
 
-![Ameiko Kaijitsu](https://pathfinderwiki.com/w/images/thumb/0/03/Ameiko.jpg/328px-Ameiko.jpg)
+![Ameiko Kaijitsu](https://pathfinderwiki.com/w/images/thumb/0/03/Ameiko.jpg/328px-Ameiko.jpg)  
 Ameiko Kaijitsu
 
 ---
 
-![Aldern](http://cdn.obsidianportal.com/assets/177300/foxglovebig.jpg)
+![Aldern](http://cdn.obsidianportal.com/assets/177300/foxglovebig.jpg)  
 Aldern Atzandel
 
 ---
@@ -86,8 +86,10 @@ Crade Hambley
 
 ---
 
-![Shayliss](https://db4sgowjqfwig.cloudfront.net/images/1751245/Shayliss_Vinder.png)  
+![Shayliss](https://db4sgowjqfwig.cloudfront.net/images/996104/shyllaSmall.jpg)  
 Shayliss Vinder
+
+---
 
 ![Ven](https://db4sgowjqfwig.cloudfront.net/images/996122/VenVindersmall.jpg)
 Ven Vinder
