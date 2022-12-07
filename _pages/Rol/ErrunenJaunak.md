@@ -48,8 +48,10 @@ Bere garaian, ohi baino kanpaleku varisiar handiagoa izan zena, hondatuta zegoen
 ### Lehen zatia
 Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
 Sajanek Hamblytarrak (Crade eta Lys) ezagutu ditu, Artzaik tatuaia egin zion itsasgizon bat eta Lemek txirula jotzen zuen bitartean, Dukkanek indar proba bat irabazi du, bertako dendatan astebetezko frutak dohan izaki saria. 
+
 **Kendra Deverin** alkatesa, **Belor Cicuta** aguazila, (**Lonjiku Kaijitsu**-k ezin izan du etorri) **Cydrak Drokkus** artista eta **Abstalar Zantus** apaizaren hitzaldiak entzun eta gero, Ameikoren *Izokina Curry erara"* dastatzen pasa dute eguerdia. 
 Arratsalde partean, Zantus konsakratzeko ekitaldi ospetsua egitear zegoela, Goblinen erasoa jasan du herriak. Kaos hartan abenturazaleak azkar ibili dira, egon diren erasoak zapalduz. (Tximeletak, pifiak eta goblinak eragindako suteak itzaltzeko abenturak medio). 
+
 Herriko iparraldeko atean, **Aldern Atzandel** noblearen bizia salbatu dute, erasotzen zebilen Goblin Komandoa eta bere goblinzakurra aise menderatuz. 
 Abenturazaleak, herriko heroi bihurtu ziren, eta honekin jada Dragoi Herdoilduan atseden hartzeko ordua iritsi zen. Beno denek, ez ze Artzai lerdenak, **Shayliss Vinder**ezagutu eta haren "arratoi handiak" ehizatzeko prest azaldu zen... eta aurkitu zuena **Vin Vinder** izan zen, Shaylissen aita haserrekoia. 
 
@@ -66,7 +68,7 @@ Belor Cicuta
 
 ---
 
-![Zantus](https://db4sgowjqfwig.cloudfront.net/campaigns/216936/assets/955454/abstalar_zantus_clean.jpg?1553433635)
+![Zantus](https://db4sgowjqfwig.cloudfront.net/campaigns/216936/assets/955454/abstalar_zantus_clean.jpg?1553433635)    
 Abstalar Zantus
 
 ---
@@ -81,7 +83,7 @@ Aldern Atzandel
 
 ---
 
-![Crade](https://static.wikia.nocookie.net/shadowsend-rise-of-the-runelords/images/8/88/Human-peasant.jpg/revision/latest?cb=20150722220852)  
+![Crade](https://static.wikia.nocookie.net/shadowsend-rise-of-the-runelords/images/8/88/Human-peasant.jpg)  
 Crade Hambley
 
 ---
@@ -91,7 +93,7 @@ Shayliss Vinder
 
 ---
 
-![Ven](https://db4sgowjqfwig.cloudfront.net/images/996122/VenVindersmall.jpg)
+![Ven](https://db4sgowjqfwig.cloudfront.net/images/996122/VenVindersmall.jpg)  
 Ven Vinder
 
 ----------------------------------------------
