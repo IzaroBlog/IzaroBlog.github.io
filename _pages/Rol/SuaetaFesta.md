@@ -1,5 +1,5 @@
 ---
-permalink: 1SuaetaFesta
+permalink: SuaetaFesta
 layout: page
 title: Errunen Jaunen Goraldia
 ---
