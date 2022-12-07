@@ -3,6 +3,8 @@ permalink: SuaetaFesta
 layout: page
 title: 1. Saioa Errunen Jaunen Goraldia
 ---
+[Sarrera](https://izaroblog.github.io/ErrunenJaunak)
+
 ## 1.Saioa: Sua eta Festa {#SuaetaFesta}
 
 Abenturazaleak *Punta Galea* ezagutzen hasi dira, eta katedral berria konsakratzeko festan parte hartzera. Desnaren omenez Tximeleta festa izango da herrian eta han ezagutu dira **Sajan, Ihi, Lem, Dukkan** eta **Artzai**.  
@@ -16,11 +18,10 @@ Abenturazaleak, herriko heroi bihurtu ziren, eta honekin jada Dragoi Herdoilduan
 
 Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalparsoro izeneko zelaira, eta arratsaldean hara joango zirela esan zioten. Bien bitartean **Belor Cicuta**ren bila zebiltzala, hark aurkitu, eta hilerrian **Ezakyen Tobyn** aurreko apezaren mausoleoa irekita omen zegoela esan zien, eta harekin abiatu ziren hilerrira. Han mausoleoa irekita, eta ezusteko batzuekin aurkitu ziren... 6 eskeletok eraso egin zieten eta su alkimikoa erabili behar izan zuten hauk akabatzeko. Ikerketa sendoa egin eta gero, 6 goblin eta gizaki baten lorratzk aurkitu zituzten mausoleora sartu eta irten egin zutenak; eta baita Tobynen hilobian zeuden hezurdurak lapurtuak izan zirela. Ihik ere, *hezur tunika* bat aurkitu zuen, eta eskeletoak horrela atera zirela ondorioztatu zuten.en lorratzk aurkitu
 
-[Sarrera](https://izaroblog.github.io/SuaetaFesta)
 
 ---
 
-Dukkan Dragoi Herdoilduko mahai apartatu batean zegoen, bere garagardo beltzari begira. Kopetilun, azken hogei urteetan bezala. 
+`Dukkan Dragoi Herdoilduko mahai apartatu batean zegoen, bere garagardo beltzari begira. Kopetilun, azken hogei urteetan bezala. 
 Sutondoan mahai gainean dantzaka ari ziren lagunei begiratu zien, Ihi eta Lem hor zebiltzak Ameikorekin batera musika joaz eta tabernako bezeroak animatzen. Nola egiten zuten ba? Atzo goblin haien erasoa gelditu zuten, baina Lemek izugarrizko zauria jaso zuen, eta Ihi oso sentibera zela bazekien, eskeletoak ikusitakoan jarri zuen aurpegia ez zen erraz ahazten zen horietakoa... Hala ere hor zeuden, bizitza gozatzen ezer gertatu izan ez balitz bezala! 
 Goblin koblakariaren kantu eta irainak barruraino sartu zitzaizkiola jabetzen zen, amataz gogoratu zen, eta malko baten hasiera zena segituan moztu zuen. 
 Sasi-orkoak bere hausnarketarekin jarraitu zuen, garagardo beltzari trago ederra eman eta gero. Goblinak esandakoa egia ote? Hankaluze, hau da, gizaki bat egongo ote zen guzti honen atzean?
@@ -34,7 +35,7 @@ Sasi-orkoak irribarre bat eskeini eta ez zuen erantzun. Dukkan jauna, noiz izan 
 
 ----
 
-Bitartean, Lem gustora ari da kanta eta dantzan. Indarra ematen dio, ingurukoen pozak eta juergak. Ihik sekulako martxa dauka eta oso atsegina da! Eta Amaikoren interpretazio gaitasunak, inoiz bizitakoekin aldera ezinak! Hala ere, Dukkan, bere hausnarketa bakarti eta ilunetan ikusten du noizean behin. Ez du ulertzen zergatik ez duen momentua gozatzen. Hain da ederra! Egunean zehar jasotako zauriek noizbehinka mugimendua mugatzen dioten arren, gau aparta ari da izaten Dragoi herdoildukoa!
+Bitartean, Lem gustora ari da kanta eta dantzan. Indarra ematen dio, ingurukoen pozak eta juergak. Ihik sekulako martxa dauka eta oso atsegina da! Eta Amaikoren interpretazio gaitasunak, inoiz bizitakoekin aldera ezinak! Hala ere, Dukkan, bere hausnarketa bakarti eta ilunetan ikusten du noizean behin. Ez du ulertzen zergatik ez duen momentua gozatzen. Hain da ederra! Egunean zehar jasotako zauriek noizbehinka mugimendua mugatzen dioten arren, gau aparta ari da izaten Dragoi herdoildukoa!` 
 
 ----
 
