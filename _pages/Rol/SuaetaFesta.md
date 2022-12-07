@@ -1,7 +1,7 @@
 ---
 permalink: SuaetaFesta
 layout: page
-title: 1. Saioa Errunen Jaunen Goraldia
+title: 1. Saioa
 ---
 [Sarrera](https://izaroblog.github.io/ErrunenJaunak)
 
