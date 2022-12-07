@@ -13,6 +13,8 @@ Sajanek Hamblytarrak (Crade eta Lys) ezagutu ditu, Artzaik tatuaia egin zion its
 **Kendra Deverin** alkatesa, **Belor Cicuta** aguazila, (**Lonjiku Kaijitsu**-k ezin izan du etorri) **Cydrak Drokkus** artista eta **Abstalar Zantus** apaizaren hitzaldiak entzun eta gero, Ameikoren *Izokina Curry erara"* dastatzen pasa dute eguerdia. 
 Arratsalde partean, Zantus konsakratzeko ekitaldi ospetsua egitear zegoela, Goblinen erasoa jasan du herriak. Kaos hartan abenturazaleak azkar ibili dira, egon diren erasoak zapalduz. (Tximeletak, pifiak eta goblinak eragindako suteak itzaltzeko abenturak medio). 
 
+![GOBLINSUTEA](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/goblinerasoa.jpg?raw=true)
+
 Herriko iparraldeko atean, **Aldern Atzandel** noblearen bizia salbatu dute, erasotzen zebilen Goblin Komandoa eta bere goblinzakurra aise menderatuz. 
 Abenturazaleak, herriko heroi bihurtu ziren, eta honekin jada Dragoi Herdoilduan atseden hartzeko ordua iritsi zen. Beno denek, ez ze Artzai lerdenak, **Shayliss Vinder**ezagutu eta haren "arratoi handiak" ehizatzeko prest azaldu zen... eta aurkitu zuena **Vin Vinder** izan zen, Shaylissen aita haserrekoia. 
 
