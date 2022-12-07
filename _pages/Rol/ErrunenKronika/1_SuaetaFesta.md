@@ -1,5 +1,5 @@
 ---
-permalink:1_SuaetaFesta
+permalink: 1.SuaetaFesta
 layout: page
 title: 1. Saioa: Sua eta Festa
 ---
