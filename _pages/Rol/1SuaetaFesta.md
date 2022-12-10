@@ -22,7 +22,7 @@ Hurrengo egunean **Aldern**-ek Basurde ehiza batera gonbidatu zituen denak, Kalp
 
 
 ---
-Dukkan  
+✳️Dukkan  
 *Dukkan Dragoi Herdoilduko mahai apartatu batean zegoen, bere garagardo beltzari begira. Kopetilun, azken hogei urteetan bezala. 
 Sutondoan mahai gainean dantzaka ari ziren lagunei begiratu zien, Ihi eta Lem hor zebiltzak Ameikorekin batera musika joaz eta tabernako bezeroak animatzen. Nola egiten zuten ba? Atzo goblin haien erasoa gelditu zuten, baina Lemek izugarrizko zauria jaso zuen, eta Ihi oso sentibera zela bazekien, eskeletoak ikusitakoan jarri zuen aurpegia ez zen erraz ahazten zen horietakoa... Hala ere hor zeuden, bizitza gozatzen ezer gertatu izan ez balitz bezala! 
 Goblin koblakariaren kantu eta irainak barruraino sartu zitzaizkiola jabetzen zen, amataz gogoratu zen, eta malko baten hasiera zena segituan moztu zuen. 
@@ -36,11 +36,11 @@ Artzai horrek ere egin zituen bereak ea bi... Shaylis Vinder horrekin larrutan e
 Sasi-orkoak irribarre bat eskeini eta ez zuen erantzun. Dukkan jauna, noiz izan zen, errespetuz, hala deitu zioten azken aldia?*
 
 ----
-Lem  
+🎵Lem  
 *Bitartean, Lem gustora ari da kanta eta dantzan. Indarra ematen dio, ingurukoen pozak eta juergak. Ihik sekulako martxa dauka eta oso atsegina da! Eta Amaikoren interpretazio gaitasunak, inoiz bizitakoekin aldera ezinak! Hala ere, Dukkan, bere hausnarketa bakarti eta ilunetan ikusten du noizean behin. Ez du ulertzen zergatik ez duen momentua gozatzen. Hain da ederra! Egunean zehar jasotako zauriek noizbehinka mugimendua mugatzen dioten arren, gau aparta ari da izaten Dragoi herdoildukoa!*
 
 ----
-Ihiren eskutitza  
+📜Ihiren eskutitza  
 *Biharamunean, Ihi Dragoi herdoilduko ikuiluan esnatu da, lastozko ohatze batean etzanda. Begiak oraindik makarrez beteta dituela, aurreko eguneko errepasoa egiten du bere gurasoei idatzitako gutun batean: 
 Aupa aita eta ama
 Punta Galea oso toki dibertigarria da eta lagun berriak egin ditut! Atzo gizon bati eskua nola ebakitzen zioten ikusi nuen (ugh). Sasiorko bat ezagutu dut, Dukkan, oso jatorra, frutajalea da baina Goblin batzuek bere fruta puskatu zuten. Lem koblakaria da eta sekulako abestiak jo zituen tabernan eta Amaiokorekin batera kriston parranda egin genuen atzo. Lem eta biok herria erretzetik salbatu genuen (uste dut heroiak garela, baina jendea oraindik ez da konturatu). Sajan monje bat da,  goblin burezurrak txikitu zituen esku hutsez. Artzai... bueno, konplikatua da, esan dezagun gurekin datorrela. Atzo eskua burdin barra batzuetan kateatu zitzaion, uste dut sator dantza irakatsi beharko diodala. Tatuaia bat egin nahi dit, nik esan diot ez didazuela egiten uzten, baina egia esan, ez dut egin nahi.  A, eta eskeleto batzuen kontra borrokatu ginen! 
