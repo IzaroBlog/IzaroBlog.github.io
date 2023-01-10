@@ -33,7 +33,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
 - [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
 - [Dun Compendio de reglas Fanmade (1)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Compendio%20reglas%20fanmade%20(v1).pdf), por @Behelin
-- [Cronograma de reglas para jugar con JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/4_6019197443285977481.pdf) gracias a @Joseca 👏 .
+- [Cronograma de reglas para jugar con JOA (Actualizado)](https://drive.google.com/file/d/1pw6DSqY7f9wFzmVZS2k_57IYbmcI2QxH/view?usp=share_link) gracias a @Joseca 👏 .
 - [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
 - En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
 - [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
