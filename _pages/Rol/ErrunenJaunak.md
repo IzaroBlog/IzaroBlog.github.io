@@ -6,7 +6,7 @@ title: Errunen Jaunen Goraldia
 ## Errunen Jaunen Goraldia. Kronika
 - [Sarrera](#Sarrera-id)
 - [1.Saioa: Sua eta Festa](https://izaroblog.github.io/SuaetaFesta)
-- [2.Saioa: Beira fabrika]
+- [2.Saioa: Beira fabrika](https://izaroblog.github.io/BeiraFabrika)
 ## Pertsonaiak
 - [Sajan](#Sajan-id)
 - [Lem](#Lem-id)

@@ -1,5 +1,5 @@
 ---
-permalink: SuaetaFesta
+permalink: BeiraFabrika
 layout: page
 title: 2. Saioa
 ---
