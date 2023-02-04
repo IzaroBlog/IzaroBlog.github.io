@@ -219,8 +219,8 @@ Dukkanen influentziak eta negozioek txarrera egin zuten oso eta honen familiak G
 Dukkani zion gorrotoa amorru bilakatu zen, eta amorru hori bideratzeko eta batez ere tenpluan beste inon baino hobeto tratatzen zutelako, Iomedae, Gudaren jainkoarengana hurbildu zen. Bere asmoa gerlari izatea zen arren, amorru hura zentzu eta bakean bilakatu zen eta Gudaren kleriko bihurtu zen urteen poderioz.
 Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor izena erabiliko erabaki zuen, eta Dukkan ezizenarekin ezagutarazi zuen bere burua eta hiritik alde egin zuen, behar zutenei bere laguntza eskainiz eta mundu zail honetan bere lekuaren bila abiatuz.
 
-![Dukkan](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Dukkan.jpg?raw=true)  
-(all rights reserved https://www.deviantart.com/rotaken)
+![Dukkan](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/c1d14610a762903e217a81c16bba8d982131f078/_images/postimages/ErrunenJaunak/Dukan.jpg)  
+
 
 | Dukan  |      |             |      |
 | ---------- | :--: | ------------ | :--: |
