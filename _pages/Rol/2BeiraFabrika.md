@@ -37,6 +37,9 @@ Amikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira 
 ![BeiraFabrika](https://i.pinimg.com/originals/f2/af/b5/f2afb576cc1751ef26deb0ae7b8ccee3.jpg)
 
 
+
+### Pertsonaiak
+
 #### Tsuto
 ![Tsuto](https://sites.google.com/site/heroesofgolarion/Tsuto.jpg)
 #### Lonjiku
