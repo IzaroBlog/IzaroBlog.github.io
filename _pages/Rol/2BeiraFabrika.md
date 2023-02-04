@@ -28,6 +28,7 @@ Turandarok akademian, Ilsoari aztiarekin egon ziren berbetan bere hipotesi guzti
 ## Ameiko bahiturik!
 Amikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira fabrikara. Han Tsuto (Ameikoren anaia) eta bere goblin taldea menderatu zuten eta Ameiko erreskatatu bazuten ere Lonjiku aita hilda aurkitu zuten.
 ez zuten senarra salbatzerik lortu
+![BeiraFabrika](https://i.pinimg.com/originals/f2/af/b5/f2afb576cc1751ef26deb0ae7b8ccee3.jpg)
 
 
 ### Tsuto
