@@ -31,8 +31,8 @@ Dukan eta Breoganek "Aintzinako argia: izeneko harria ikertu eta ska-latzen saia
 ### Ilsoari Gandethus aztiarekin hitz egin
 Turandarok akademian, Ilsoari aztiarekin egon ziren berbetan bere hipotesi guztiak azaltzen zizkien bitartean. Lem-ek bere txirularen doinu tristeak erabiliz Jerviss Stoot-en historiari buruzko informazioa lortu zuen.
 
-### Ameiko bahiturik!
-Amikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira fabrikara. Han Tsuto (Ameikoren anaia) eta bere goblin taldea menderatu zuten eta Ameiko erreskatatu bazuten ere Lonjiku aita hilda aurkitu zuten.
+### [Ameiko](https://db4sgowjqfwig.cloudfront.net/images/4073749/Ameiko_Kaijitsu.jpeg) bahiturik!
+Ameikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira fabrikara. Han Tsuto (Ameikoren anaia) eta bere goblin taldea menderatu zuten eta Ameiko erreskatatu bazuten ere Lonjiku aita hilda aurkitu zuten.
 
 ![BeiraFabrika](https://i.pinimg.com/originals/f2/af/b5/f2afb576cc1751ef26deb0ae7b8ccee3.jpg)
 
@@ -40,16 +40,11 @@ Amikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira 
 
 ### Pertsonaiak
 
-#### Tsuto
-![Tsuto](https://sites.google.com/site/heroesofgolarion/Tsuto.jpg)
-#### Lonjiku
-![Longiku](http://cdn.obsidianportal.com/assets/177162/LonjikuKaijitsu.jpg)
-#### Ilsoari
-![Ilsoari](https://db4sgowjqfwig.cloudfront.net/images/5056613/Ilasori.jpg)
-### Lamashtu
-![Lamashtu](https://i.pinimg.com/originals/82/a5/c3/82a5c32bbf2ef04af44744f3dc5e6c2c.jpg)
-### Jervis Stoot
-![Jervis](http://4.bp.blogspot.com/-DeWJ3B3UVcA/ThbxY62AarI/AAAAAAAACu4/tRyyBJY9-Fo/s1600/Shadow-OPENER.jpg)
+#### [Tsuto](https://sites.google.com/site/heroesofgolarion/Tsuto.jpg)
+#### [Longiku](http://cdn.obsidianportal.com/assets/177162/LonjikuKaijitsu.jpg)
+#### []Ilsoari](https://db4sgowjqfwig.cloudfront.net/images/5056613/Ilasori.jpg)
+#### [Lamashtu](https://i.pinimg.com/originals/82/a5/c3/82a5c32bbf2ef04af44744f3dc5e6c2c.jpg)
+#### [Jervis Stoot](http://4.bp.blogspot.com/-DeWJ3B3UVcA/ThbxY62AarI/AAAAAAAACu4/tRyyBJY9-Fo/s1600/Shadow-OPENER.jpg)
 
 
 
