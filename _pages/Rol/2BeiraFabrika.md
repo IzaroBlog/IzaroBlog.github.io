@@ -42,7 +42,7 @@ Ameikoren bahiketaren berri izan zuten heroiek eta haren bila abiatu ziren beira
 
 #### [Tsuto](https://sites.google.com/site/heroesofgolarion/Tsuto.jpg)
 #### [Longiku](http://cdn.obsidianportal.com/assets/177162/LonjikuKaijitsu.jpg)
-#### []Ilsoari](https://db4sgowjqfwig.cloudfront.net/images/5056613/Ilasori.jpg)
+#### [Ilsoari](https://db4sgowjqfwig.cloudfront.net/images/5056613/Ilasori.jpg)
 #### [Lamashtu](https://i.pinimg.com/originals/82/a5/c3/82a5c32bbf2ef04af44744f3dc5e6c2c.jpg)
 #### [Jervis Stoot](http://4.bp.blogspot.com/-DeWJ3B3UVcA/ThbxY62AarI/AAAAAAAACu4/tRyyBJY9-Fo/s1600/Shadow-OPENER.jpg)
 
