@@ -14,6 +14,7 @@ title: Errunen Jaunen Goraldia
 - [Breogan](#Breogan-id)
 - [Artzai](#Artzai-id)
 - [Dukkan](#Dukkan-id)
+- [Amiri](#Amiri-id)
 
 
 
@@ -248,3 +249,10 @@ Bere amaren omenez, benetan onartuko zuen familia aurkitu arte ez zuela Gabor iz
   - Desbideraketa (2)
   - Zigorra (2)
   
+  -----------------
+  
+  ### Amiri {Amiri-id}
+Borrokaz beteriko herri txiki batean hazi eta hezi da. Herri txiki bezain indartsu batetik dator eta kolonizatzera zetozen guztiak akabatzea lortzen zituzten. Horregatik, Amiri, ohituago dago ezer esan aurretik ezpata altxatzera eta aurkariaren lepoaldera eramatera. Beste ezerren gainetik, familia eta bere herria maite dituelako. Beraz, ez da inoiz fio ezagutu berri duen edozein izakiz, dena delakoa. Baina konfiantza irabazi ezkero, ez da Amiri baina leialagorik. Bere edo bere familiaren aurrean jartzen den edozein akabatzeko prest dago, ondorioetan gehiegi pentsatu gabe, ez baita guztiz asetzen odola ikusten ez badu!
+
+![Amiri](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvtropes.org%2Fpmwiki%2Fpub%2Fimages%2Fmythic_amiri.jpg&f=1&nofb=1&ipt=a0c60668584c53062dbab7bf22d9ef2b03a8214824e3b55021302d722d63b63a&ipo=images)
+
