@@ -102,7 +102,7 @@ Lem umore gozokoa da, baita baikorra ere, nahiz eta haurtzaroa Cheliaxen esklabo
 - Tamaina: -1, Txikia    
 - **Beniak: 4**    
 - Desabantailak: Baketsua, inpultsiboa, mania (tarareatu)
-- Leinua: Gogorra, Motela, Iratxoen mgaia, Obsesioa, Zentzumen zorrotzak, Tamaina -1, Ilunantzeko ikusmena.
+- Leinua: Ertaina, (sorioneku, agila, mantsoa, oin sendoak, zentzumen zorrotzak)
 - Abantailak: Bardoa, karismaduna
 - Armak: Daga, Habaila.
 #### Botere/Aztikeriak (10PP):
