@@ -44,7 +44,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
 - Cartas del bestiario gracias nuestro compañero @Carleonarq:[Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)
 - [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"
-
+-[DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
 
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
@@ -532,3 +532,24 @@ Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”
 - 80 Perfidiae (poker, 88x63mm)
 
    
+### Dun Total Conversion by @ilia {DUNTotal-id}
+I'm back with a BIG UPDATE of my DUN total conversion project (if you're not familiar with what this is about check https://boardgamegeek.com/thread/2893705/lot-custom-content-dun) 
+- character creation stuff (including backgrounds UPDATED, character sheets UPDATED, classes UPDATED, races UPDATED) https://drive.google.com/file/d/1-r0_x1Wz7RnqXGp4CBgi2mdOFj0fpbI1/view?usp=sharing
+- conditions (including injuries UPDATED)
+https://drive.google.com/file/d/12wg1dWgIKhJ_Q-Ml_gSZ6gLQV07BuRZ1/view?usp=sharing
+- equipment (including weapons UPDATED, enchanted weapons UPDATED, armors and shields UPDATED, relics and magical objects UPDATED, common and special objects NEW)
+https://drive.google.com/file/d/1UxJnuiJT-46vDiIe4lnC27HfA66JEJdN/view?usp=sharing
+- fractions (44 factions, minor updates in all of them)
+https://drive.google.com/file/d/1G62ZmJZw_KLI62YgBfn3AMimIXVCPkYo/view?usp=sharing
+- magic cards (hero, dark player spells, some minor updates)
+https://drive.google.com/file/d/1f8HUiifSLENkRLa35mk9J6vwMXdsShlj/view?usp=sharing
+- neutral creatures, pets, etc (mercenaries and pets UPDATED, neutral creatures, summons & forms UPDATED - there is an older file, ignore it, pregenerated - - player characters NEW)
+https://drive.google.com/file/d/1r9_RpUiHf-qNf6muxmTOKnopmCP-8RRs/view?usp=sharing
+quest stuff (quest specific creatures abd quest instructions, some minor updates)
+https://drive.google.com/file/d/1k_gZQOHrTA0Unty8er1Fm3YK2kb8SF93/view?usp=sharing
+- skills, behavior cards, etc (including Dark Player’s cards NEW, places and services NEW, reference cards UPDATED - this is kind of important, all relevant - information about any home rules that are incorporated in all other cards are here)
+https://drive.google.com/file/d/1XXS6BITLQjphcN3NmyiInUkm6zkMXLa0/view?usp=sharing
+
+
+
+In case the links do not show, go to BGG>Dungeon Universalis>Forums>Variants>A lot of custom content for DUN
