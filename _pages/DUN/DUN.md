@@ -43,7 +43,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
 - [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
 - Cartas del bestiario gracias nuestro compañero @Carleonarq:[Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)
-- [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"
+- [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"  
 -[DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
 
 ## FAQ
@@ -532,7 +532,7 @@ Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”
 - 80 Perfidiae (poker, 88x63mm)
 
    
-### Dun Total Conversion by @ilia {DUNTotal-id}
+### Dun Total Conversion by @ilia {DunTotal-id}
 I'm back with a BIG UPDATE of my DUN total conversion project (if you're not familiar with what this is about check https://boardgamegeek.com/thread/2893705/lot-custom-content-dun) 
 - character creation stuff (including backgrounds UPDATED, character sheets UPDATED, classes UPDATED, races UPDATED) https://drive.google.com/file/d/1-r0_x1Wz7RnqXGp4CBgi2mdOFj0fpbI1/view?usp=sharing
 - conditions (including injuries UPDATED)
