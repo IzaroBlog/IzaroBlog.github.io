@@ -3,7 +3,7 @@ permalink: AmorruarenZiega
 layout: page
 title: 3. Saioa
 ---
-## Amorruaren Ziegak
+## Amorruaren Ziega
 
 Breoganek Ameiko leku segurura eraman zuen, eta bitartean Sajanek lagun berri bat egin zuen Dragoi Herdoilduan: Amiri Barbaroa. Biak beira fabrikara hurbildu eta taldean "Amorruaren ziegatan" sartu ziren, zer aurki zezaketen jakin gabe...
 Bekatudun ekoizpenak nonahi aurkitu zituzten, baina talde lanaren bitartez gai izan ziren hauei aurre egiteko. Aurkitu zituzten gelatan, Lamasthu eta Alazneren omenez egindako estatuez gain, Varguilla desatsegin batzuk ere izan zituzten lagun, eta aintzanan giltzapeturiko zonbi batzuk ere topatu eta akatu zituzten. 

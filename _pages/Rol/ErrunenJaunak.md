@@ -7,6 +7,7 @@ title: Errunen Jaunen Goraldia
 - [Sarrera](#Sarrera-id)
 - [1.Saioa: Sua eta Festa](https://izaroblog.github.io/SuaetaFesta)
 - [2.Saioa: Beira fabrika](https://izaroblog.github.io/BeiraFabrika)
+- [3.Saioa: Amorru ziega](https://izaroblog.github.io/AmorruarenZiega)
 ## Pertsonaiak
 - [Sajan](#Sajan-id)
 - [Lem](#Lem-id)
