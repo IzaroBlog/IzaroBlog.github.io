@@ -6,7 +6,11 @@ title: 3. Saioa
 ## Amorruaren Ziega
 
 Breoganek Ameiko leku segurura eraman zuen, eta bitartean Sajanek lagun berri bat egin zuen Dragoi Herdoilduan: Amiri Barbaroa. Biak beira fabrikara hurbildu eta taldean "Amorruaren ziegatan" sartu ziren, zer aurki zezaketen jakin gabe...
-Bekatudun ekoizpenak nonahi aurkitu zituzten, baina talde lanaren bitartez gai izan ziren hauei aurre egiteko. Aurkitu zituzten gelatan, Lamasthu eta Alazneren omenez egindako estatuez gain, Varguilla desatsegin batzuk ere izan zituzten lagun, eta aintzanan giltzapeturiko zonbi batzuk ere topatu eta akatu zituzten.   
+Bekatudun ekoizpenak nonahi aurkitu zituzten, baina talde lanaren bitartez gai izan ziren hauei aurre egiteko.
+
+![Ekoizpenak](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Pecaminoso.jpg?raw=true)
+
+ Aurkitu zituzten gelatan, Lamasthu eta Alazneren omenez egindako estatuez gain, Varguilla desatsegin batzuk ere izan zituzten lagun, eta aintzanan giltzapeturiko zonbi batzuk ere topatu eta akatu zituzten.   
 ![Vargouilla](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpaizo.com%2Fimage%2Fcontent%2FConventions%2FVargouille_500.jpeg&f=1&nofb=1&ipt=1dc4992376a7677b5d50457c17375cc5ad2135b79d7fde48054df5063ea8f6fb&ipo=images)
 
 Bien bitartean, eskailera zahar batzuk aurkitu zituzten eta "castellet" bat egiten saiatu ziren handik irtetzeko. Ez ziren nahiko koordinatu, eta baten batek jasan zituen ubeldurak ipurtaldean. Leme eta Ihi, poltsa itsaskor bat zatituz gora egin zuten, eta putzuak Punta Galeako kaleetara zeramala ohartu ziren. Punta Galea lasai zegoen gaualdean, eta Ameiko ondo zegoela ikusiz, ziegara bueltatu ziren, soka bertan utziz. 
@@ -21,5 +25,13 @@ Azkenik, mugimendua nabaritu zuten ziegatan, eta Punta Galeara zeraman putzura b
 ![AmorruZiega](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/amorruziegak.png?raw=true)
 
 Artzai tatuaiarik egin gabe gelditu zen beste behin ere....
+
+
+--------------
+
+
+![JanariFest](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Janarifesta.jpg?raw=true)
+
+![Eryliumkonbatea](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/postimages/ErrunenJaunak/Erylium.jpg?raw=true)
 
 
