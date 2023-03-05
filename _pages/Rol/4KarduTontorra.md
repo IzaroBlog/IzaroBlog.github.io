@@ -22,3 +22,8 @@ Tontorraren beheko pisuetan "hanka-luze" batzuk zeudela badakite, Nualia behar b
 
 ![Erasoa](https://pathfinderwiki.com/w/images/thumb/5/57/Thistletop_bridge_fight.jpg/455px-Thistletop_bridge_fight.jpg?20101111200026)
 
+----
+
+
+
+![Ebla-argazkia](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/95b10e6976d956e7ad7dc7109a1ec87795e438d2/_images/postimages/ErrunenJaunak/KarduTontorra.jpg)
