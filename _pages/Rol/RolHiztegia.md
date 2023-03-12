@@ -34,7 +34,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Player | Jugador/a | Jokalari |
 | Roleplayer | Rolero/a | Rolari |
 | to master  | Masterear        | Gidatu, Zuzendu    | 
-| Character  Personaje | Pertsonaia          
+| Character | Personaje | Pertsonaia |          
 | Minion   |  Masilla, minion    | Morroia   |
 | Role-playing game |  Juego de Rol        | Rol Jokoa   |
 | Non-player character (NPC)|  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
