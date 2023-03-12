@@ -31,31 +31,22 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Master | Director de juego | Maizterra, Gidaria  |
-| to master  | Masterear        | Gidatu    | 
+| Player | Jugador/a | Jokalari |
+| Roleplayer | Rolero/a | Rolari |
+| to master  | Masterear        | Gidatu, Zuzendu    | 
 | Character  Personaje | Pertsonaia          
 | Minion   |  Masilla, minion    | Morroia   |
 | Role-playing game |  Juego de Rol        | Rol Jokoa   |
 | Non-player character (NPC)|  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
 | Primordial |  Primigenio         | Aitzindaria   |
-| to Buff  |  Chetar         | Puztu   |
+| to Buff  |  Potenciar, "Chetar"   | Puztu, Indartu   |
 | to Nerf   |  Debilitar     | Ahuldu   |
 | Dungeon    | Mazmorra     | Ziega   |
 | Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
 | Alignment | Alineamiento  | Lerrokadura |
-| Inch  |  Pulgada | Hazbetea |
-| Action  Acción  | Ekintza  | 
-| Spell Casting | | Aztikeri igortzea  | 
-| Line of Sight | Línea de visión | Ikusmen lerroa | 
-| |  Objetivo de un ataque | Erasoaren xedea   |            
-| | Terreno irregular | Lursail malkartsua  |           
-| | Modificador | Aldatzailea  |         
-| | Bonificación | Bonifikazioa  |       
-| | Penalización | Penalizazioa   |      
-| | Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
-| |  (tomar la) Iniciativa  | Aurrea (hartu)  | 
-| **Attributes**   |  **Atributos**    | **Ezaugarriak**   |
-|  Strenght   | Fuerza   | Indarra |
+| Attributes   |  Atributos    | Ezaugarriak, Gaitasunak   |
+|  Strength   | Fuerza   | Indarra |
 | Constitution    |  Constitución    | Sendotasuna     |
 | Intelligence    |  Inteligencia    | Adimena     |
 | Wisdom    |  Sabiduria     | Jakituria     |
@@ -64,9 +55,30 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Attack    | Ataque  | Erasoa  |
 | Defense  | Defensa  | Babesa |
 | Charisma |  Carisma     | Karisma,  Kemena     |
+|  Agility|  Agilidad    | Bizkortasun   |
+|Cunning | Astucia | Azerikeria, Zuhurtasuna |
+| | Vigor | Kemena?|
+| | Ascendencia | Jatorria|
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
+| Inch  |  Pulgada | Hazbetea |
+| Action | Acción  | Ekintza  | 
+| Spell Casting | | Aztikeri igortzea  | 
+| Line of Sight | Línea de visión | Ikusmen lerroa | 
+| |  Objetivo de un ataque | Erasoaren xedea/helburua   |            
+| | Terreno irregular | Lursail malkartsua  |           
+| | Modificador | Aldatzailea  |         
+| | Bonificación | Bonifikazioa, bonusa  |       
+| | Penalización | Penalizazioa, malusa  |      
+| | Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
+|Turn| Turno | Txanda |
+| |  (tomar la) Iniciativa  | Aurrea (hartu)  | 
+| Sneak Attack | Ataque furtivo | Ezkutuko erasoa |
+| Advantage | Ventaja | Abantaila |
+| Disadvantage | Desventaja | Desabantaila |
+
+
 
 
 ### Arrazak {#Arrazak-id}
@@ -87,16 +99,15 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Beastmen | Hombre bestia | Piztigizona, Piztiandrea |
 | Vampire | Vampiro | Banpiro |
 | Werewolf | Hombre lobo | Gizotso |
-|  |  Sabueso de guerra | Guda txakurra    | 
+| Warhound |  Sabueso de guerra | Guda txakurra    | 
 
 ### Lanbideak {#Lanbideak-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
-| ---------- | ---------- | --------- | 
-| Whitch |  Brujo/a     | Sorgina |
-| Warlock        |  Brujo     | Sorgina |
-| Seer | Adivino/a  | Aztia | 
-| Sorcerer | Hechicero | Aztia | 
+| Witch |  Brujo/a     | Sorgina |
+| Warlock  |  Brujo     | Sorgina |
+| Seer | Adivino/a  | Aztia, Igarlea, Profeta | 
+| Sorcerer | Hechicero | Aztia, Belagile | 
 | Wizard/Mage | Mago | Magoa |
 | Rogue | Pícaro | Lapurra, Pikaroa |
 | Warrior | Guerrero | Gerlaria |
@@ -104,22 +115,22 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Ranger | Explorador | Basozain, Exploratzaile |
 | Bard | Bardo | Koblakaria, Koplaria, Bertsolaria, Bardoa |
 | Paladin | Paladín | Paladina |
-| Druid | Druida | Druida |
+| Druid | Druida | Druida, Intxisua |
 |   | Practicante arcano | Magia erabiltzailea  |           
-|   | Caballero | Zalduna  |               
+|  Knight | Caballero | Zalduna  |               
 | Mystic warrior | Guerrero místico | Gerlari mistikoa  |                
 | Daemon hunter | Cazador de demonios | Demonio ehiztaria | 
 | Monk | Monje | Monjea  |  
-|  | Matón | Harroputza  |         
+|  | Matón | Harroputza, Liskargilea  |         
 |  | Jabalinero | Azkonaria   |          
-|  | Arquero | Arkularia  |             
+| Archer | Arquero | Arkularia  |             
 |  | Ballestero | Baleztaria   |           
 |  | Infante | Oinezkoa  |            
 |  | Trampero  | Tranparia  |       
 |  | Rastreador | Aztarnaria  |           
 |  | Hombre de armas | Armagizona  |       
 |  | Cazador de tesoros | Altxorlaria  |           
-|  | Asesino  | Erailea  | 
+| Assassin | Asesino  | Erailea  | 
 |  | Portador | Zamaria | 
 |  | Aprendiz | Ikastuna  |               
 |  | Compañero | Laguna  | 
@@ -151,19 +162,33 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
 | Fireball    | Bola de fuego          | Suzko bola |
+| Magic Missile | Proyectil Mágico | Gezi magikoa |
+| Healing word | Palabra de curación | Hitz sendatzailea |
+| Identify | Identificar| Ezagutu, Identifikatu| 
+| Grease | Grasa | Koipea, Koipeztu | 
+| Detect Magic | Detectar Magia | Magia Antzeman | 
+
+
 
 ### Objektu arruntak {#ObjektuArruntak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Lock pick    | Ganzúa   | Gakoa, Gakordea |
+| Lockpick    | Ganzúa   | Gakoa, Gakordea |
+| Torch | Antorcha | Lastargia, Zuzia |
+| Rope | Cuerda | Soka |
+| Supplies | Provisiones | Hornidurak |
+| Barrel| Barril| (K)Upela, Barrika| 
 
 ### Objektu miresgarriak {#ObjektuMiresgarriak-id}  
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Potion   | Poción  | Edabea |
+ Potion   | Poción  | Edabea |
 | Healing potion   | Poción de curación  | Sendatzeko edabea |
+| Potion of invisibility| Poción de invisibilidad | Ikusezintasunezko edabea | 
+| Bag of holding | Bolsa de Contencion | Ondasun Poltsa | 
+
 
 ### Munstroak {#Munstroak-id}  
 
@@ -171,5 +196,5 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | ---------- | ---------- | --------- | 
 | Troll   | Troll | Troll |
 | Cultist    |  Cultista | Gurtzailea, Kultista | 
-
+| Bandit | Bandido | Bidelapurra | 
 
