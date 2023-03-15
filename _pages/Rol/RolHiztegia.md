@@ -90,6 +90,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Dwarf      | Enano      | Nanoa, Ipotxa|
 | Halfling | Mediano | Ertaina |
 | Orc | Orco | Orkoa |
+| Undead | No muerto | *eztabaidan* |
 | Treefolk | Arbóreo |  Zuhaiztia |
 | Centaur | Centauro | Zentauro |
 | Cyclop | Cíclope | Ziklope |
@@ -141,17 +142,24 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | ---------- | ---------- | --------- | 
 | **Melee weapons** | **Armas cuerpo a cuerpo** | **Gertuzko armak, Gorputzez gorputzeko armak, Buruz buruko armak** |
 | Blunt weapon    |  Arma contundente         | Arma sendoa  |
+| Slashing weapon | Arma cortante | Arma ebakitzailea | 
+| Piercing weapon | Arma perforante | Arma zulatzailea | 
 | Great sword/Two handed sword/axe  | Espada/Hacha a dos manos | Ezpatatzarra, Bi eskuko ezpata/aizkora  |
 | Warhammer | Martillo de guerra | Gudamailu  |
 | Rapier | Espada ropera/estoque | Estoke | 
 | Mace | Maza | Mazo |
+| Shortsword | Espada corta | Ezpata motza | 
+| Longsword | Espada Larga | Ezpata luzea | 
 | **Ranged weapons** | **Armas a distancia** | **Urrunezko armak, Urrutiko armak**|
 | Bow | Arco | Arkua|
+| Longbow| Arco largo | Arku luzea | 
+| Sling | Honda | Habaila |
+| Crossbow | Ballesta | Balezta | 
 | **Armour**    | **Armadura**   |  **Babeskia (burukoa, gorputzekoa), Babesjantzia, Burdin-jantzi, Armadura** |
 | Light armour    | Armadura ligera    | Babeski arina, Armadura arina |
 | Heavy armour   | Armadura pesada     | Babeski astuna. Armadura astuna |
 | Chainmail   | Cota de mallas    | Burdinsarezko babesjantzia, Sare-begiko kota |
-| | Chaqueta de cuero   | Larruzko jaka |
+| Leather jacket | Chaqueta de cuero   | Larruzko jaka |
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Bular babeskia, Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol, bular-babes |
