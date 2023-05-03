@@ -31,6 +31,6 @@ Jarraituko al dute esploratzen? Punta Galeara bueltatuko dira? Erre zuten goblin
 
 **Lem Koblakariaren egunerokotik "Errunen jaunekin lehenengo harremanak II. Liburukia"**
 
-![Lem](https%3A%2F%2Fimg00.deviantart.net%2F6bdc%2Fi%2F2015%2F135%2Fe%2F2%2Flem__pathfinder_rpg__by_s_gondolf-d8tg6cu.jpg)
+![Lem](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f83e3c-4002-4fde-9b3e-79bc1bf8d286/d8tg6cu-33b392b0-4f40-4079-affd-335c98e4f8cc.jpg/v1/fill/w_1024,h_724,q_75,strp/lem__pathfinder_rpg__by_s_gondolf-d8tg6cu.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hMmY4M2UzYy00MDAyLTRmZGUtOWIzZS03OWJjMWJmOGQyODYvZDh0ZzZjdS0zM2IzOTJiMC00ZjQwLTQwNzktYWZmZC0zMzVjOThlNGY4Y2MuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTcyNCJ9XV19.0b5l3QP9fSd0IZpmkNLGbw5IxvCGsayTmZsAU3E0RbQ)
 
 
