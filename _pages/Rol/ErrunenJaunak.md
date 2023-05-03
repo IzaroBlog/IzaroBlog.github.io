@@ -9,6 +9,7 @@ title: Errunen Jaunen Goraldia
 - [2.Saioa: Beira fabrika](https://izaroblog.github.io/BeiraFabrika)
 - [3.Saioa: Amorru ziega](https://izaroblog.github.io/AmorruarenZiega)
 - [4.Saioa: Kardu tontorra](https://izaroblog.github.io/KarduTontorra)
+- [5.Saioa: Kardu tontorra2](https://izaroblog.github.io/KarduTontorZiegak)
 
 ## Pertsonaiak
 - [Sajan](#Sajan-id)
