@@ -29,4 +29,4 @@ Gure heroiak orain, eskeletoz apaindutako ate bat duen gela baten aurrean ditugu
 Jarraituko al dute esploratzen? Punta Galeara bueltatuko dira? Erre zuten goblin gotorlekua zutik egongo al da? Eta bertako goblin buruzagiak, zer egingo zuen? ... 
 
 
-![NUALIA]](https://db4sgowjqfwig.cloudfront.net/campaigns/214952/assets/1003786/Nualia_Throne.jpg)
+![NUALIA](https://db4sgowjqfwig.cloudfront.net/campaigns/214952/assets/1003786/Nualia_Throne.jpg)
