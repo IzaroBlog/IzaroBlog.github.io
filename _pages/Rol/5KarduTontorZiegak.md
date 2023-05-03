@@ -5,6 +5,16 @@ title: 5. Saioa
 ---
 ## Kardu Tontor Ziegak
 
+Gure Heroiak Kardu Tontorraren lehenengo solairuan "isil-gordean" sartu ziren, eta bertako biztanle guztiak kupidagabe akabatu zituzten...baita laguntza eskaintzeko zegoen mertzenarioa ere... nola zuen izena? ZAAAAAST Amirik burua moztu zion. 
+Lau logela aurkitu eta ikertu ostean, taldea bigarren solairura jaitsi zen. Solairua ez zegoen orekan, baina abenturazaleak tinko egin zuten aurrera. Estatuen artean zegoen tranpa batek aldiz gogor eman zien, eta baita alarma sortu ere. 
+Alarmarekin edo gabe ere, talde lan bikaina eginez sartu ziren Lamashturen gurtzailearen gelara... Nualiak hasieran aurre egin arren, egoera ikusita alde egitea erabaki zuen, bai Brutazamus Osgoa, zein Nualia eta bere txakurrak erraz garaitu zituen boskoteak. 
+
+Gure heroiak orain, eskeletoz apaindutako ate bat duen gela baten aurrean ditugu eta badirudi bertan urrez eta txanponez josita zegoen zutabea ilusio magikoa bakarrik zela... zein izango da gure talde ausartaren datorren erabakia? 
+Jarraituko al dute esploratzen? Punta Galeara bueltatuko dira? Erre zuten goblin gotorlekua zutik egongo al da? Eta bertako goblin buruzagiak, zer egingo zuen? ... 
+
+
+![NUALIA](https://db4sgowjqfwig.cloudfront.net/campaigns/214952/assets/1003786/Nualia_Throne.jpg)
+
 
 *Lemen buruan argitasun beharra da nagusi, nekatuta dagoenean, kantuz lotzen ditu ideiak: 🎧goblinen uharte arraro hortan lurrazpiko lehen ta bigarren solairuak aztertu ditugu, Punta Galea eraso nahi duten arerioen bila. Lurrazpiko lehen solairuan Lamixkiren aldarea babesten, halako zakur hegalari batzuk irten ziren, juxtu baina irabazi genuen. Bertako estatua jatatxikitu genuen, Artzaik burua bizkar gaiean eraman zuelarik; Ezkutu, laban, babeski, zaku, ta harri...Kalabozotatik, beira fabrikako Janus Junus kapataza askatu ta sendatu, Suzi+laban, gurekin dator, ikusitakoek izutzen badute ere.*
 
@@ -21,12 +31,6 @@ title: 5. Saioa
 
 **Lem Koblakariaren egunerokotik "Errunen jaunekin lehenengo harremanak II. Liburukia"**
 
-Gure Heroiak Kardu Tontorraren lehenengo solairuan "isil-gordean" sartu ziren, eta bertako biztanle guztiak kupidagabe akabatu zituzten...baita laguntza eskaintzeko zegoen mertzenarioa ere... nola zuen izena? ZAAAAAST Amirik burua moztu zion. 
-Lau logela aurkitu eta ikertu ostean, taldea bigarren solairura jaitsi zen. Solairua ez zegoen orekan, baina abenturazaleak tinko egin zuten aurrera. Estatuen artean zegoen tranpa batek aldiz gogor eman zien, eta baita alarma sortu ere. 
-Alarmarekin edo gabe ere, talde lan bikaina eginez sartu ziren Lamashturen gurtzailearen gelara... Nualiak hasieran aurre egin arren, egoera ikusita alde egitea erabaki zuen, bai Brutazamus Osgoa, zein Nualia eta bere txakurrak erraz garaitu zituen boskoteak. 
-
-Gure heroiak orain, eskeletoz apaindutako ate bat duen gela baten aurrean ditugu eta badirudi bertan urrez eta txanponez josita zegoen zutabea ilusio magikoa bakarrik zela... zein izango da gure talde ausartaren datorren erabakia? 
-Jarraituko al dute esploratzen? Punta Galeara bueltatuko dira? Erre zuten goblin gotorlekua zutik egongo al da? Eta bertako goblin buruzagiak, zer egingo zuen? ... 
+![Lem](https%3A%2F%2Fimg00.deviantart.net%2F6bdc%2Fi%2F2015%2F135%2Fe%2F2%2Flem__pathfinder_rpg__by_s_gondolf-d8tg6cu.jpg)
 
 
-![NUALIA](https://db4sgowjqfwig.cloudfront.net/campaigns/214952/assets/1003786/Nualia_Throne.jpg)
