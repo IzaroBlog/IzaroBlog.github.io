@@ -28,7 +28,7 @@ Taldea Punta Galeara iritsi eta atsedena hartzeko aukera izan zuten. Cicuta eta 
 Lemek, Ameikorekin batera abesti berriak asmatu eta aurkezteari ekin zion, baina ez zuen inongo arrakastarik izan, bihen bitartean Breoganen festak ezagunak egin ziren inguruan, ez zuen bat bera ere galtzen, eta hasia zen antolatzen ere! 
 Artzaik ziegatik ikusitako kaskoa ezin burutik kendu, eta bertako arrantzale batekin (aaaarrrr!) ziegara itzuli eta kaskoa berreskuratzea lortu zuen. Dukkan Thasiloniar hizkuntzaren hastapenak ikasten hasi zen, eta Sajan berriz meditazioara bidaratu zuen bere burua. 
 
-Baina lasaitasunak ez zuen gehiegi iraun... Kaskoa barkutik ateratzen zebiltzala, Cicutan haien laguntza eskatu zien eta... hilketa oso arraroa izan zen gauean zerrategian eta aguazilak, orain dela gutxi gertatutako batekin harremana izan zezakeela uste zuen. 
+Baina lasaitasunak ez zuen gehiegi iraun... Kaskoa barkutik ateratzen zebiltzala, Cicutak haien laguntza eskatu zien eta... hilketa oso arraroa izan zen gauean zerrategian eta aguazilak, orain dela gutxi gertatutako batekin harremana izan zezakeela uste zuen. 
 
 [Ibor](http://fc00.deviantart.net/fs71/f/2012/216/d/f/ibor_thorn_by_akeiron-d59tmpm.jpg)
 
