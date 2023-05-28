@@ -21,6 +21,8 @@ Borroka epikoa izan zen, Lemen txirula desafinaturik, Dukkanen mailua zartaka, e
 Artzairen aurpegia itsusiturik gelditu bazen ere, Dukkanen zaintzek bizia salbatu zioten. Atsedenaldi labur bat, eta goblinak alde egin zutela ikustean, Punta Galearako bidea hartu zuten. Bide ezaguna zuten, eta denek eskertu zituzten Dragoi Herdoilduko maindire garbiak...
 
 --
+![Punta Galea](https://db4sgowjqfwig.cloudfront.net/campaigns/49276/assets/324019/sandpoint-banner.jpg?1399181649)
+
 
 Taldea Punta Galeara iritsi eta atsedena hartzeko aukera izan zuten. Cicuta eta Alkatesari abisatu zieten goblinak eta Nualiaren mehatxua jada bertan behera utzi zutela, eta Shaleluk berretsi zuen handik egun batzuk barru, goblinak buruzagi gabe ez zutela inongo indarrik erakuste. 
 Lemek, Ameikorekin batera abesti berriak asmatu eta aurkezteari ekin zion, baina ez zuen inongo arrakastarik izan, bihen bitartean Breoganen festak ezagunak egin ziren inguruan, ez zuen bat bera ere galtzen, eta hasia zen antolatzen ere! 
@@ -28,7 +30,7 @@ Artzaik ziegatik ikusitako kaskoa ezin burutik kendu, eta bertako arrantzale bat
 
 Baina lasaitasunak ez zuen gehiegi iraun... Kaskoa barkutik ateratzen zebiltzala, Cicutan haien laguntza eskatu zien eta... hilketa oso arraroa izan zen gauean zerrategian eta aguazilak, orain dela gutxi gertatutako batekin harremana izan zezakeela uste zuen. 
 
-
+[Ibor](http://fc00.deviantart.net/fs71/f/2012/216/d/f/ibor_thorn_by_akeiron-d59tmpm.jpg)
 
 -----
 
