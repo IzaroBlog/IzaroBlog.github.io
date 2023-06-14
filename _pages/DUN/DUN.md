@@ -46,6 +46,13 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"  
 -[DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
 
+-[Webapp helper de cartas, versión de "prueba"](https://gustavomicha.github.io/DUN_card_helper/) gracias a @relhit 👏!  
+    Notas: 
+1. Los items duplicados tienen su numeración en el nombre (y no en la imagen), para evitar elegir al azar una carta ya en juego. 
+Por ejemplo hay dos cartas para el item Maza: Maza (50) y Maza (51), donde 50 y 51 es el número que coincide con la numeración de las dos cartas de Maza.  
+2. El mazo de tesoros lo he puesto con los "items", pero podría bien moverlo a otro lado (mobiliario?). Lo dejaré ahí porque es indistinto, veré que tal cuando lo testee jugando.
+3. Los hechizos se muestran todos juntos por saber, y vienen con un contador de maná debajo
+
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
 - Enlace al grupo TELEGRAM de DUN: <https://t.me/joinchat/ALa2CUoxRpn4f8iHfAqBag>
@@ -183,6 +190,10 @@ Si, **todas** las invocaciones de aprendices tienen -1D6 de daño y un turno men
 
 *Se puede lanzar un hechizo que tenga como objetivo una casilla vacía?*  
 Si, es posible lanzar un hechizo a una casilla vacía.   
+
+*Un nigromante que tiene activos unos esqueletos (o un mago un elemental) puede en el mismo turno: 1. Atacar con los esqueletos, 2. Quitar el hechizo, 3. Volver a lanzarlo?*  
+Un hechizo de invocación sólo puede ser usado una vez por turno. Da igual si se lanza de nuevo, si la criatura/s invocada/s ya ha jugado, no vuelve a jugar- (Ofcial, respuesta de Ludic)  
+
 
 ### Daño y efectos {#Dañoyefectos-id}
 *¿Una criatura/compañero de menor tamaño se considera cobertura? ¿ligera o pesada?*  
