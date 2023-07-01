@@ -71,7 +71,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Spell Casting | Lanzar Hechizo | Aztikeri igortzea  | 
 | Line of Sight | Línea de visión | Ikuspegi-Lerroa, Ikusmira | 
 | Target|  Objetivo de un ataque | Erasoaren xedea/helburua   |            
-| Difficul Terrain| Terreno irregular | Lursail malkartsua  |           
+| Difficult Terrain| Terreno irregular | Lursail malkartsua  |           
 | Modifier| Modificador | Aldatzailea  |         
 | Bonus| Bonificación | Bonifikazioa, bonusa  |       
 | Penalty| Penalización | Penalizazioa, malusa  |      
