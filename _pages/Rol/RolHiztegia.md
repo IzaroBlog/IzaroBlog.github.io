@@ -44,39 +44,47 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Dungeon    | Mazmorra     | Ziega   |
 | Hack & Slash | Saja-raja | Zirt-zart   |
 | TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
-| Alignment | Alineamiento  | Lerrokadura |
+| Alignment | Alineamiento  | Lerrokadura, Lerrokaketa |
 | Attributes   |  Atributos    | Ezaugarriak, Gaitasunak   |
+| Stat | Característica | Ezaugarria |
 |  Strength   | Fuerza   | Indarra |
 | Constitution    |  Constitución    | Sendotasuna     |
 | Intelligence    |  Inteligencia    | Adimena     |
 | Wisdom    |  Sabiduria     | Jakituria     |
 | Battle |  Pelea  | Borroka     | 
 | Fight  | Pelear  | Borrokatu    | 
+| Shoot | Disparo | Tiro Egin|
+| Range | Rango | Helmena|
 | Attack    | Ataque  | Erasoa  |
 | Defense  | Defensa  | Babesa |
-| Charisma |  Carisma     | Karisma,  Kemena     |
+| Charisma |  Carisma     | Karisma,  Kemena, Xarma     |
 |  Agility|  Agilidad    | Bizkortasun   |
 |Cunning | Astucia | Azerikeria, Zuhurtasuna |
 | | Vigor | Kemena?|
-| | Ascendencia | Jatorria|
+|Origin | Ascendencia | Jatorria|
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
 | Dexterity    | Destreza     | Trebezia , Abilezia    |
 | Inch  |  Pulgada | Hazbetea |
+| Foot | Pie | Oin
 | Action | Acción  | Ekintza  | 
-| Spell Casting | | Aztikeri igortzea  | 
-| Line of Sight | Línea de visión | Ikusmen lerroa | 
-| |  Objetivo de un ataque | Erasoaren xedea/helburua   |            
-| | Terreno irregular | Lursail malkartsua  |           
-| | Modificador | Aldatzailea  |         
-| | Bonificación | Bonifikazioa, bonusa  |       
-| | Penalización | Penalizazioa, malusa  |      
-| | Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
+| Spell Casting | Lanzar Hechizo | Aztikeri igortzea  | 
+| Line of Sight | Línea de visión | Ikuspegi-Lerroa, Ikusmira | 
+| Target|  Objetivo de un ataque | Erasoaren xedea/helburua   |            
+| Difficul Terrain| Terreno irregular | Lursail malkartsua  |           
+| Modifier| Modificador | Aldatzailea  |         
+| Bonus| Bonificación | Bonifikazioa, bonusa  |       
+| Penalty| Penalización | Penalizazioa, malusa  |      
+| Round| Vuelta o ronda, secuencia de turnos | Itzulia, Erronda  | 
 |Turn| Turno | Txanda |
-| |  (tomar la) Iniciativa  | Aurrea (hartu)  | 
+| Lead|  (tomar la) Iniciativa  | Aurrea (hartu)  | 
 | Sneak Attack | Ataque furtivo | Ezkutuko erasoa |
 | Advantage | Ventaja | Abantaila |
 | Disadvantage | Desventaja | Desabantaila |
+| Deployment Zone | Zona de Despliegue | Hedatze Zona |
+| Target Number (TN) | Número Objetivo (NO) | Xede Zenbakia (XZ) |
+| Armor Class (AC) | Clase de Armadura (CA) | Armadura Klasea (AK) |
+| Difficulty Class (DC) | Clase de Dificultad (CD) | Zailtasun Maila (ZM) |
 
 
 
@@ -87,10 +95,11 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | ---------- | ---------- | --------- | 
 | Elf        | Elfo       | Elfoa  |
 | Dark Elf        | Elfo Oscuro       | Elfo Iluna  |
+| Dragonborn | Dracónido | Dragoiseme
 | Dwarf      | Enano      | Nanoa, Ipotxa|
+| Gnome | Gnomo | Iratxo
 | Halfling | Mediano | Ertaina |
 | Orc | Orco | Orkoa |
-| Undead | No muerto | *eztabaidan* |
 | Treefolk | Arbóreo |  Zuhaiztia |
 | Centaur | Centauro | Zentauro |
 | Cyclop | Cíclope | Ziklope |
@@ -100,7 +109,10 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Beastmen | Hombre bestia | Piztigizona, Piztiandrea |
 | Vampire | Vampiro | Banpiro |
 | Werewolf | Hombre lobo | Gizotso |
+| Hound | Perro | Zakurra
 | Warhound |  Sabueso de guerra | Guda txakurra    | 
+| Bloodhound | Perro Sabueso | Ehiza Zakurra|
+| Recruit | Recluta | Errekruta
 
 ### Lanbideak {#Lanbideak-id}
 
@@ -113,28 +125,29 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Rogue | Pícaro | Lapurra, Pikaroa |
 | Warrior | Guerrero | Gerlaria |
 | Barbarian | Bárbaro | Basatia, Barbaro |
-| Ranger | Explorador | Basozain, Exploratzaile |
+| Ranger | Explorador | Basozain, Esploratzaile |
 | Bard | Bardo | Koblakaria, Koplaria, Bertsolaria, Bardoa |
 | Paladin | Paladín | Paladina |
 | Druid | Druida | Druida, Intxisua |
 |   | Practicante arcano | Magia erabiltzailea  |           
 |  Knight | Caballero | Zalduna  |               
+| Templar | Templario | Tenplarioa|
 | Mystic warrior | Guerrero místico | Gerlari mistikoa  |                
 | Daemon hunter | Cazador de demonios | Demonio ehiztaria | 
 | Monk | Monje | Monjea  |  
-|  | Matón | Harroputza, Liskargilea  |         
-|  | Jabalinero | Azkonaria   |          
+| Thug | Matón | Harroputza, Liskargilea  |         
+| Javelineer | Jabalinero | Azkonaria   |          
 | Archer | Arquero | Arkularia  |             
-|  | Ballestero | Baleztaria   |           
-|  | Infante | Oinezkoa  |            
-|  | Trampero  | Tranparia  |       
-|  | Rastreador | Aztarnaria  |           
-|  | Hombre de armas | Armagizona  |       
-|  | Cazador de tesoros | Altxorlaria  |           
+| Crossbowman | Ballestero | Baleztaria   |           
+| Infantryman | Infante | Oinezkoa  |            
+| Trap Expert | Trampero  | Tranparia  |       
+| Tracker | Rastreador | Aztarnaria  |           
+| Man-at-Arms | Hombre de armas | Armagizona  |       
+| Treasure Hunter | Cazador de tesoros | Altxorlaria  |           
 | Assassin | Asesino  | Erailea  | 
-|  | Portador | Zamaria | 
-|  | Aprendiz | Ikastuna  |               
-|  | Compañero | Laguna  | 
+| Pack Mule | Portador | Zamaria | 
+| Apprentice | Aprendiz | Ikastuna  |               
+| Companion | Compañero | Laguna / Bidelaguna | 
 
 ### Armak eta Babeskiak {#Armak-id}  
 
@@ -150,6 +163,9 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Mace | Maza | Mazo |
 | Shortsword | Espada corta | Ezpata motza | 
 | Longsword | Espada Larga | Ezpata luzea | 
+| Dagger | Daga | Daga |
+| Staff | Bastón | Makila |
+| Fists | Puños | Ukabilak |
 | **Ranged weapons** | **Armas a distancia** | **Urrunezko armak, Urrutiko armak**|
 | Bow | Arco | Arkua|
 | Longbow| Arco largo | Arku luzea | 
@@ -163,6 +179,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Greave | Greba | Zango-babes |
 | Cuirass | Coraza | Bular babeskia, Koraza/bular-oskol |
 | Breastplate | Peto | Bular-oskol, bular-babes |
+| Shield | Escudo | Ezkutu |
 
 
 ### Aztikeriak {#Aztikeriak-id}  
@@ -205,4 +222,3 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Troll   | Troll | Troll |
 | Cultist    |  Cultista | Gurtzailea, Kultista | 
 | Bandit | Bandido | Bidelapurra | 
-
