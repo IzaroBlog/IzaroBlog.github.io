@@ -44,9 +44,9 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
 - Cartas del bestiario gracias nuestro compañero @Carleonarq:[Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)
 - [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"  
--[DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
--[Webapp helper de cartas, versión de "prueba"](https://gustavomicha.github.io/DUN_card_helper/) gracias a @relhit 👏!  
--[Advances Classes. Expansión fanmade](https://e.pcloud.link/publink/show?code=kZ8mlBZelgjPRR203Sndr1QhOsklFwgBOTy) gracias a @adri, @rock_and_roll_motherfucher, y @Adrian2353 👏!   
+- [DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
+- [Webapp helper de cartas, versión de "prueba"](https://gustavomicha.github.io/DUN_card_helper/) gracias a @relhit 👏!  
+- [Advances Classes. Expansión fanmade](https://e.pcloud.link/publink/show?code=kZ8mlBZelgjPRR203Sndr1QhOsklFwgBOTy) gracias a @adri, @rock_and_roll_motherfucher, y @Adrian2353 👏!   
 
     Notas: 
 1. Los items duplicados tienen su numeración en el nombre (y no en la imagen), para evitar elegir al azar una carta ya en juego. 
