@@ -16,8 +16,8 @@ Hacía bastante tiempo que no coincidía con Paco, ya que suelo aprovechar las v
 Yo hace tiempo descubrí una técnica infalible para evitar esto. Simplemente entro y digo: “Córteme el pelo”, después sólo hay que responder afirmativamente a las sugerencias que nos dan y esperar al final del trabajo, disfrutando de una agradable charla, a poder ser. Siempre sales con un peinado diferente y lo más importante, *con menos pelo*.
 
 Hoy Paco y yo estábamos hablando de los pueblos, de la gente con aires de grandeza, la vida en la sierra de Cádiz, su pueblo, cómo se vivía y trabajaba... y nos hemos ido desviando hacia terrenos literarios con los [Santos Inocentes](http://es.wikipedia.org/wiki/Los_santos_inocentes_(novela)), las injusticias, los pobres los ricos, los señoritos... 
-De pronto, Paco se ha puesto serio y ha recitado:
-
+De pronto, Paco se ha puesto serio y ha recitado:  
+  
 Andaluces de Jaén,  
 aceituneros altivos  
 decidme en el alma quién,  
