@@ -17,6 +17,7 @@ Yo hace tiempo descubrí una técnica infalible para evitar esto. Simplemente en
 
 Hoy Paco y yo estábamos hablando de los pueblos, de la gente con aires de grandeza, la vida en la sierra de Cádiz, su pueblo, cómo se vivía y trabajaba... y nos hemos ido desviando hacia terrenos literarios con los [Santos Inocentes](http://es.wikipedia.org/wiki/Los_santos_inocentes_(novela)), las injusticias, los pobres los ricos, los señoritos... 
 De pronto, Paco se ha puesto serio y ha recitado:
+
 Andaluces de Jaén,  
 aceituneros altivos  
 decidme en el alma quién,  
@@ -32,6 +33,6 @@ Los poetas siempre llevan razón, hay algunos a los que no les gusta pero siempr
 
 Tienes toda la razón Paco, pero parece que a veces se nos olvida.
 Menos mal que todavía hay peluqueros-poetas que nos recuerden estas cosas.
-[Paco Ibañez; aceituneros de Jaén](https://www.youtube.com/watch?v=91DhwcUz6xE)
+[Paco Ibañez; aceituneros de Jaén]([https://www.youtube.com/watch?v=91DhwcUz6xE](https://www.youtube.com/watch?v=DBlxtTpU-gM))
 
 Foto de las tijeras: “<a href="http://www.flickr.com/photos/nachoeuropa/">De todos los Colores</a>”<
