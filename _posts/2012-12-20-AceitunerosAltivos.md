@@ -31,6 +31,7 @@ Tras un momento de silencio y ciertas miradas cómplices y cruzadas a través de
 Los poetas siempre llevan razón, hay algunos a los que no les gusta pero siempre llevan razón. A [este](http://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez) lo mataron porque decía la verdad, y ... ¿ahora? ¿No está pasando lo mismo? ¿No somos los trabajadores los que tras años de trabajo hemos levantado el estado de bienestar? ¿A quién pertenece más que a nosotros?
 
 Tienes toda la razón Paco, pero parece que a veces se nos olvida.
-Menos mal que todavía hay peluqueros-poetas que nos recuerden estas cosas
-<p align="LEFT">[youtube http://www.youtube.com/watch?v=91DhwcUz6xE&amp;w=420&amp;h=315]</p>
+Menos mal que todavía hay peluqueros-poetas que nos recuerden estas cosas.
+[Paco Ibañez; aceituneros de Jaén](https://www.youtube.com/watch?v=91DhwcUz6xE)
+
 Foto de las tijeras: “<a href="http://www.flickr.com/photos/nachoeuropa/">De todos los Colores</a>”<
