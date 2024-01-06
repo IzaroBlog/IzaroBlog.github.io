@@ -15,6 +15,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Bestiario DUN V2, sin fondo (PrintFriendly) y marcadores](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2_PrintFriend_marcadores_indice.pdf) gracias a @trabucaire77,[Bestiario DUN V2, normal](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2.pdf)
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
+- [Erratas expansión](#ErratasExpa-id)
 - [Erratas de la V2](#ErratasV2-id)
 - [Listado de todos los hechizos](https://izaroblog.github.io/DUN/Hechizos)
 
@@ -389,7 +390,6 @@ Se pifia con doble 1, 2 y 3. Sucede lo mismo con todas las armas donde hay más 
 *¿La habilidad [golpe brutal](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/golpebrutal.png) sirve para impactar a personajes [invulnerables](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/invulnerable.jpg)  con 4,5,6?*  
 Así es, la habilidad indica que consideras críticos los resultados de 4, 5 y 6. (Ludic)	   
 
-
 *Habilidad "[Escolta](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/Habilidades/escolta.png)"*.   
 1. *Es una habilidad pasiva, ¿con lo que necesita un desencadenante o debes elegir el aliado a escoltar de los que tengas adyacentes al acabar el turno de los héroes?*   
 2. *Si necesita desencadenante, o sea un ataque a un aliado adyacente al escolta. ¿Puede elegirse escoltar antes de ese ataque (para que el JOA cambie de objetivo o confundir al JO) o sólo puede decidirse aplicar escolta cuando un aliado es seleccionado como objetivo?*  
@@ -406,6 +406,7 @@ No. Ver apartado de Erratas {#ErratasV2-id}.
 
 *Hay habilidades que requieren un mínimo de agilidad o ataque (Élite/Salto Volador), por ejemplo para poder utilizarlas. ¿Es necesario tener en todo momento el nivel mínimo que exigen éstas habilidades para poder usarlas, o sólo con que el personaje tenga ese valor, antes de de los posibles penalizadores, vale?*  
 Si una habilidad tiene requisito mínimo de atributo, no se puede usar si antes de lanzar los dados no se cumple con ese requisito.  
+
 
 ### Aventuras y campañas {#AventurasyCampañas-id}
 
@@ -500,6 +501,10 @@ Hay 2 versiones de hacerlo:
 2. Representar cada parte del barco como lo que se ve, cambios de nivel en escaleras y coberturas de 1 altura alrededor de la borda, mástiles cobertura pesada/impasable y bote ligera/impasable 1 altura.
 *Visión del Oráculo*: Los escenarios de barco, al menos los que yo he jugado, no son los más divertidos y entorpecer la jugabilidad con "elementos extra" lo vuelve tedioso. Si veo algún escenario más enriquecedor o divertido, donde esas reglas cuadren bien, cambiaré el discurso.
 
+### Erratas Expansion {#ErratasExpa-id}
+
+En la carta de habilidad de Herrería, al final de la carta debe decir "si el resultado total es igual o **superior** en lugar de *inferior* como viene en la carta. 
+[Ver corrección de carta](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/DUN/Habilidades/herreria.jpg?raw=true)
 
 ### Erratas V2 {#ErratasV2-id}
 Con la inestimable ayuda de @joseca! [PDF de Erratas](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Erratas%20DUN%20V2.pdf)
