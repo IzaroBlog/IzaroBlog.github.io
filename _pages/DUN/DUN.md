@@ -19,41 +19,8 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Erratas de la V2](#ErratasV2-id)
 - [Listado de todos los hechizos](https://izaroblog.github.io/DUN/Hechizos)
 
-## Materiales fanmade
-- [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
-- Campaña ["Los pergaminos de Morkhan"](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Los%20pergaminos%20de%20Morkhan.pdf) por José Miguel García Oliver. Para jugar con JO.  + [Mapa de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Mapa%20de%20las%20Revelaciones.png) + [Mapa de Minas de Rorouth](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Minas%20de%20Rorouth.png)
-- Aventura [Sangre y Oro](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Aventura%20SANGRE%20Y%20ORO.pdf) gracias a @menobasstone 👏!  
-- Aventuras [Los cuentos de Arasca V1](https://cloud.disroot.org/s/LE4oQpkgqsgrKLp) creados por @Skueis 👏  
-- [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)  
-- [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !  
-- [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
-- [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) creado por @Behelin 👏 .
-- [Reglas para jugar sin logros (V5)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros%20(v5).pdf) creado por @Behelin 👏 .   
-- [Referencia de aventuras por Territorio Campaña I y II](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20de%20aventuras%20por%20territorio%20Campa%C3%B1a%20I%20y%20II.ods) por @Oraculizador y @Triple6  👏 .   
-- [Listado de Objetos Mágicos y Reliquias](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Objetos%20m%C3%A1gicos%20y%20Reliquias.pdf) creado por @Oraculizador 👏 .   
-- [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
-- [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
-- [Dun Compendio de reglas Fanmade (1)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Compendio%20reglas%20fanmade%20(v1).pdf), por @Behelin
-- [Cronograma de reglas para jugar con JOA (Actualizado)](https://drive.google.com/file/d/1pw6DSqY7f9wFzmVZS2k_57IYbmcI2QxH/view?usp=share_link) gracias a @Joseca 👏 .
-- [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
-- En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
-- [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
-- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762792541&searchtext=Dungeon+Universalis) (TTS) para Dun en Steam. Con el currazo de @maltheas @akilillo @Poseidondehierro y @pepnoguera 👏 !
-- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
-- [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
-- [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
-- [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
-- Cartas del bestiario gracias nuestro compañero @Carleonarq:[Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)
-- [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"  
-- [DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
-- [Webapp helper de cartas, versión de "prueba"](https://gustavomicha.github.io/DUN_card_helper/) gracias a @relhit 👏!  
-- [Advances Classes. Expansión fanmade](https://e.pcloud.link/publink/show?code=kZ8mlBZelgjPRR203Sndr1QhOsklFwgBOTy) gracias a @adri, @rock_and_roll_motherfucher, y @Adrian2353 👏!   
-
-    Notas: 
-1. Los items duplicados tienen su numeración en el nombre (y no en la imagen), para evitar elegir al azar una carta ya en juego. 
-Por ejemplo hay dos cartas para el item Maza: Maza (50) y Maza (51), donde 50 y 51 es el número que coincide con la numeración de las dos cartas de Maza.  
-2. El mazo de tesoros lo he puesto con los "items", pero podría bien moverlo a otro lado (mobiliario?). Lo dejaré ahí porque es indistinto, veré que tal cuando lo testee jugando.
-3. Los hechizos se muestran todos juntos por saber, y vienen con un contador de maná debajo
+## Material fanmade {#Fanmade-id}
+[Pinchar para sección fanmade]({#Fanmade-id}
 
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
@@ -548,7 +515,44 @@ Erratas detectadas en el personaje “Diablillo” de la facción “Demonios”
 - 192 Bestiary cards (120x80 mm)
 - 80 Perfidiae (poker, 88x63mm)
 
-   
+### Materiales fanmade {#Fanmade-id}
+- [Drive de recopilación de materialas DUN *FanMade*](https://drive.google.com/drive/folders/1SaSx6VwVaUKn3KgKF2cxQysN5cDudcA9) gracias a @Menobasstone 👏 !  
+- Campaña ["Los pergaminos de Morkhan"](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Los%20pergaminos%20de%20Morkhan.pdf) por José Miguel García Oliver. Para jugar con JO.  + [Mapa de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Mapa%20de%20las%20Revelaciones.png) + [Mapa de Minas de Rorouth](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Fanmade%20campa%C3%B1a%20ESP%20001%20Minas%20de%20Rorouth.png)
+- Aventura [Sangre y Oro](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Aventura%20SANGRE%20Y%20ORO.pdf) gracias a @menobasstone 👏!  
+- Aventuras [Los cuentos de Arasca V1](https://cloud.disroot.org/s/LE4oQpkgqsgrKLp) creados por @Skueis 👏  
+- [Videos tutoriales de DUN](https://www.youtube.com/playlist?list=PLJu7_1iF-xBEthqlFpkL_RLPPaw2Civy5)  
+- [Referencia rápida de combateV6](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20r%C3%A1pida%20modificadoresV6.pdf), gracias a @drassain 👏 !  
+- [DUN Tool](https://docs.google.com/spreadsheets/d/1k_xZWWaTjWQ1h35OYEJEXgkrrtK5PeiKucQUOwgEZPM/edit#gid=612000350), hoja de cálculo con varias herramientas, creado por @Behelin 👏 .   
+- [Hoja para la Adquisición de objetos para el JOA](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN%20-%20Adquisici%C3%B3n%20de%20objetos%20para%20el%20JOA.pdf) creado por @Behelin 👏 .
+- [Reglas para jugar sin logros (V5)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Jugar%20sin%20logros%20(v5).pdf) creado por @Behelin 👏 .   
+- [Referencia de aventuras por Territorio Campaña I y II](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Referencia%20de%20aventuras%20por%20territorio%20Campa%C3%B1a%20I%20y%20II.ods) por @Oraculizador y @Triple6  👏 .   
+- [Listado de Objetos Mágicos y Reliquias](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Objetos%20m%C3%A1gicos%20y%20Reliquias.pdf) creado por @Oraculizador 👏 .   
+- [Listado de Equipo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Equipo%20DUN.pdf) creado por @Oraculizador 👏 .   
+- [Listado de cartas de encuentros legendarios DUN](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Listado%20de%20cartas%20de%20encuentros%20legendarios%20DUN.pdf)  
+- [Dun Compendio de reglas Fanmade (1)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUN%20-%20Compendio%20reglas%20fanmade%20(v1).pdf), por @Behelin
+- [Cronograma de reglas para jugar con JOA (Actualizado)](https://drive.google.com/file/d/1pw6DSqY7f9wFzmVZS2k_57IYbmcI2QxH/view?usp=share_link) gracias a @Joseca 👏 .
+- [Elementos de mobiliario y escenografía para DUN](https://t.me/DUNMobiliario), grupo de Telegram.   
+- En [Discord](https://discord.com/) existe un grupo llamado **DUN Fans**, donde se juegan partidas.   
+- [Adaptación de Hero Quest a Dun](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/DUN%20-%20Como%20adaptar%20Heroquest%20(v2).pdf) por @Behelin 👏  
+- [Módulo Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762792541&searchtext=Dungeon+Universalis) (TTS) para Dun en Steam. Con el currazo de @maltheas @akilillo @Poseidondehierro y @pepnoguera 👏 !
+- [Medidas y cantidad de las fundas necesarias](#MedidasFundas-id)  
+- [Reglas de DUNHammer](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/DUNhammer.pdf) hechas por @Oraculizador.  
+- [Hoja de personaje](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20Personaje%20DUN%20vFinal.pdf) y [Hoja de campaña](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/dun/Fanmade/Hoja%20de%20campa%C3%B1a%20DUN%20vFinal.pdf) realizada por @Astaroth39 👏  
+- [Muros 2D para DUN](https://e1.pcloud.link/publink/show?code=kZJQWzZaQIMnNAbbr7Mq7jNBzcYcSGoce97) gracias a @Carleonarq y @djstelle 👏!  
+- Cartas del bestiario gracias nuestro compañero @Carleonarq:[Cartas de Bestiario](https://www.dropbox.com/sh/6ehp031u0ioowr6/AAAJRVtqBdpbs9n977kQljr3a?dl=0)
+- [Camino del Héroe](https://dungeonuniversalis.com/wp-content/uploads/2023/01/David-Soriano-y-Pedro-Julian-Martinez-El-Camino-del-heroe.pdf) por David Soriano y Pedro Julián Martinez. Ganadores del concurso de "Heraldos de DUN"  
+- [DUN total Conversion](#DunTotal-id) material fanmade en en inglés hecho por @ilia
+- [Webapp helper de cartas, versión de "prueba"](https://gustavomicha.github.io/DUN_card_helper/) gracias a @relhit 👏!  
+- [Advances Classes. Expansión fanmade](https://e.pcloud.link/publink/show?code=kZ8mlBZelgjPRR203Sndr1QhOsklFwgBOTy) gracias a @adri, @rock_and_roll_motherfucher, y @Adrian2353 👏!   
+
+    Notas: 
+1. Los items duplicados tienen su numeración en el nombre (y no en la imagen), para evitar elegir al azar una carta ya en juego. 
+Por ejemplo hay dos cartas para el item Maza: Maza (50) y Maza (51), donde 50 y 51 es el número que coincide con la numeración de las dos cartas de Maza.  
+2. El mazo de tesoros lo he puesto con los "items", pero podría bien moverlo a otro lado (mobiliario?). Lo dejaré ahí porque es indistinto, veré que tal cuando lo testee jugando.
+3. Los hechizos se muestran todos juntos por saber, y vienen con un contador de maná debajo
+
+
+
 ### Dun Total Conversion by @ilia {DunTotal-id}
 I'm back with a BIG UPDATE of my DUN total conversion project (if you're not familiar with what this is about check https://boardgamegeek.com/thread/2893705/lot-custom-content-dun) 
 - character creation stuff (including backgrounds UPDATED, character sheets UPDATED, classes UPDATED, races UPDATED) https://drive.google.com/file/d/1-r0_x1Wz7RnqXGp4CBgi2mdOFj0fpbI1/view?usp=sharing
