@@ -29,9 +29,6 @@ Obras de teatro creadas con AntzerkiZ y dokumentales en los que he participado, 
 - [ekopol ikertaldea](https://ekopol.eus/eu/)-ko blogean.
 - UPV/EHUko [Zientzia Kaiera](https://izaroblog.github.io/collaborations/ZientziaKaiera)-n.
 
-### ♟ Xakea / Ajedrez 
-Nirekin xakean jolastu nahi baduzue [Lichess.org](https://lichess.org/)-en aurkituko nauzue, erabiltzailea  **[IzaroChess](https://lichess.org/@/izarochess)** da! <br>
-*Si os apetece jugar una partida al ajedrez conmigo, lo podéis hacer en [Lichess.org](https://lichess.org/), mi usuario es **[IzaroChess](https://lichess.org/@/izarochess)***
 
   ![](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/izaro.jpg)
 
