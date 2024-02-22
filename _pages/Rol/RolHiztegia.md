@@ -248,7 +248,7 @@ Mestizajeak idazteko, bi aukea proposatu ditugu "Sasi" erabiliz edo bi arrazen b
 
 
 
-### Eztabaidak{#Eztabaidak-id}  : 
+### Eztabaidak {#Eztabaidak-id}  : 
     Nola esan Undead (no muerto)? Ezhila, hilbizi, ez hil, ...... 
     GG: Nik hilbizi erabili izan det. Adib. Lich Lord, Hilotz Errege itzuli nuen.
     Pipo: Nik "berpiztua" edo "deshila" esango nuke. 
