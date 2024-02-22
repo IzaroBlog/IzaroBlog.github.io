@@ -25,52 +25,61 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 [Objektu arruntak](#ObjektuArruntak-id)  
 [Objektu miresgarriak](#ObjektuMiresgarriak-id)  
 [Munstroak](#Munstroak-id)  
+[Eztabaidak](#Eztabaidak-id)
 
 ### Ohiko hitzak {#Ohiko-id}
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
-| Master | Director de juego | Maizterra, Gidaria  |
+| Master | Director de juego | Maizterra, Gidaria, Zuzendaria, Narratzailea |
+| Dice | Dado | Dado, Jostarri |
 | Player | Jugador/a | Jokalari |
 | Roleplayer | Rolero/a | Rolari |
-| to master  | Masterear        | Gidatu, Zuzendu    | 
+| to master  | Masterear        | Gidatu, Zuzendu, | 
 | Character | Personaje | Pertsonaia |          
 | Minion   |  Masilla, minion    | Morroia   |
 | Role-playing game |  Juego de Rol        | Rol Jokoa   |
+| Setting  |  Ambientación   | Mundugiroa   |
 | Non-player character (NPC)|  PNJ         | PEJ (Pertsonaia Ez Jokalaria)  |
 | Primordial |  Primigenio         | Aitzindaria   |
 | to Buff  |  Potenciar, "Chetar"   | Puztu, Indartu   |
+| Bonus (to a roll)  |  Bonificador (a una tirada)   | Bonoa (jaurtiketa bati)   |
+| Effect (of a spell)  |  Efecto (de un hechizo)   | (Aztikeria baten) Eragina |
 | to Nerf   |  Debilitar     | Ahuldu   |
 | Dungeon    | Mazmorra     | Ziega   |
 | Hack & Slash | Saja-raja | Zirt-zart   |
-| TPK    |           | TPK (Taldea Pikutara Kabenzotz) |
+| TPK    |    Tepeká       | TPK (Taldea Pikutara Kabenzotz) |
 | Alignment | Alineamiento  | Lerrokadura, Lerrokaketa |
 | Attributes   |  Atributos    | Ezaugarriak, Gaitasunak   |
+| Abilities   |  Habilidades   | Gaitasunak, Trebetasunak (kontuz! ez nahastu Trebeziarekin)   |
 | Stat | Característica | Ezaugarria |
 |  Strength   | Fuerza   | Indarra |
+| Dexterity    | Destreza     | Trebezia , Abilezia    |
 | Constitution    |  Constitución    | Sendotasuna     |
 | Intelligence    |  Inteligencia    | Adimena     |
 | Wisdom    |  Sabiduria     | Jakituria     |
+| Charisma |  Carisma     | Karisma,  Kemena, Xarma     |
+| Spell Slot | Hueco de hechizo | Aztikeria Lekuak/Tarteak |
 | Battle |  Pelea  | Borroka     | 
 | Fight  | Pelear  | Borrokatu    | 
 | Shoot | Disparo | Tiro Egin|
 | Range | Rango | Helmena|
 | Attack    | Ataque  | Erasoa  |
+| (to) Impact    | Impactar  | Jo, Eman, Impaktatu, (erasoak) konektatu  |
+| (to) Wound    | Herir  | Zauritu  |
 | Defense  | Defensa  | Babesa |
-| Charisma |  Carisma     | Karisma,  Kemena, Xarma     |
 |  Agility|  Agilidad    | Bizkortasun   |
 |Cunning | Astucia | Azerikeria, Zuhurtasuna |
-| | Vigor | Kemena?|
+| Vigor | Vigor | Kemena?|
 |Origin | Ascendencia | Jatorria|
 | Witchcraft    |  Brujería    | Sorginkeria   |
 | Spells    |  Hechizos        | Aztikeriak, Sorginkeriak   |
-| Dexterity    | Destreza     | Trebezia , Abilezia    |
 | Inch  |  Pulgada | Hazbetea |
 | Foot | Pie | Oin
 | Action | Acción  | Ekintza  | 
 | Spell Casting | Lanzar Hechizo | Aztikeri igortzea  | 
 | Line of Sight | Línea de visión | Ikuspegi-Lerroa, Ikusmira | 
-| Target|  Objetivo de un ataque | Erasoaren xedea/helburua   |            
+| Target|  Objetivo de un ataque | Erasoaren itua/xedea/helburua   |            
 | Difficult Terrain| Terreno irregular | Lursail malkartsua  |           
 | Modifier| Modificador | Aldatzailea  |         
 | Bonus| Bonificación | Bonifikazioa, bonusa  |       
@@ -85,7 +94,9 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Target Number (TN) | Número Objetivo (NO) | Xede Zenbakia (XZ) |
 | Armor Class (AC) | Clase de Armadura (CA) | Armadura Klasea (AK) |
 | Difficulty Class (DC) | Clase de Dificultad (CD) | Zailtasun Maila (ZM) |
-
+| Mundane, Worldly    | Mundano  | Mundutar  |
+| Campaign    | Campaña  | Kanpaina  |
+| Oneshot    |  "Oneshot"  | Balabakar  |
 
 
 
@@ -112,7 +123,11 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Hound | Perro | Zakurra
 | Warhound |  Sabueso de guerra | Guda txakurra    | 
 | Bloodhound | Perro Sabueso | Ehiza Zakurra|
-| Recruit | Recluta | Errekruta
+
+
+Mestizajeak idazteko, bi aukea proposatu ditugu "Sasi" erabiliz edo bi arrazen baturaz
+| Half-Orc | Semiorco | Sasi-Orko edo Gizorko |
+| Half-Elf | Semielfo | Sasi-Elfo edo Gizelfo |
 
 ### Lanbideak {#Lanbideak-id}
 
@@ -129,7 +144,8 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Bard | Bardo | Koblakaria, Koplaria, Bertsolaria, Bardoa |
 | Paladin | Paladín | Paladina |
 | Druid | Druida | Druida, Intxisua |
-|   | Practicante arcano | Magia erabiltzailea  |           
+| Artificer | Artífice | Asmatzailea |
+|Arcane/Magic user| Practicante arcano | Magia erabiltzailea  |           
 |  Knight | Caballero | Zalduna  |               
 | Templar | Templario | Tenplarioa|
 | Mystic warrior | Guerrero místico | Gerlari mistikoa  |                
@@ -148,6 +164,7 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Pack Mule | Portador | Zamaria | 
 | Apprentice | Aprendiz | Ikastuna  |               
 | Companion | Compañero | Laguna / Bidelaguna | 
+| Recruit | Recluta | Errekruta
 
 ### Armak eta Babeskiak {#Armak-id}  
 
@@ -186,8 +203,11 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 
 | Ingelesa   | Gaztelera  | Euskeraz  |
 | ---------- | ---------- | --------- | 
+| Dispell / Counter | Dispersar / Contrarrestar | Deuseztatu |
+| Counterspell | Contrahechizo | Kontraztikeria |
 | Fireball    | Bola de fuego          | Suzko bola |
-| Magic Missile | Proyectil Mágico | Gezi magikoa |
+| Fire bolt    | Saeta de fuego          | Suzko saieta|
+| Magic Missile | Proyectil Mágico | Gezi/suziri magikoa |
 | Healing word | Palabra de curación | Hitz sendatzailea |
 | Identify | Identificar| Ezagutu, Identifikatu| 
 | Grease | Grasa | Koipea, Koipeztu | 
@@ -222,3 +242,17 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Troll   | Troll | Troll |
 | Cultist    |  Cultista | Gurtzailea, Kultista | 
 | Bandit | Bandido | Bidelapurra | 
+
+
+
+### Eztabaidak{#Eztabaidak-id}  : 
+    Nola esan Undead (no muerto)? Ezhila, hilbizi, ez hil, ...... 
+    GG: Nik hilbizi erabili izan det. Adib. Lich Lord, Hilotz Errege itzuli nuen.
+    Pipo: Nik "berpiztua" edo "deshila" esango nuke. 
+    
+    Bazegoen beste eztabaida bat brujo/azti/sorgin/beilagile inguruan, baina ez naiz ondo gogoratzen.
+    Pipo: Ziegak eta Herensugeak jokoaren kontestuan, nire ustez:
+        Wizard=Mago=Magoa
+        Sorcerer=Hechicero=Aztia
+        Warlock=Brujo=Sorgina 
+        Druid=Druida=Druida
