@@ -125,7 +125,10 @@ Euskaratutako material gehiago Rolariak.eus-en [Biltegian](https://rolariak.eus/
 | Bloodhound | Perro Sabueso | Ehiza Zakurra|
 
 
-Mestizajeak idazteko, bi aukea proposatu ditugu "Sasi" erabiliz edo bi arrazen baturaz
+Mestizajeak idazteko, bi aukea proposatu ditugu "Sasi" erabiliz edo bi arrazen baturaz:
+
+| Ingelesa   | Gaztelera  | Euskeraz  |
+| ---------- | ---------- | --------- | 
 | Half-Orc | Semiorco | Sasi-Orko edo Gizorko |
 | Half-Elf | Semielfo | Sasi-Elfo edo Gizelfo |
 
