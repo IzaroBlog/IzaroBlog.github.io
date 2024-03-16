@@ -8,12 +8,6 @@ title: Información adicional para la clase
 
 En esta página podréis encontrar materiales, artículos e información adicional que se ha trabajado en clase. 
 
-## Sostenibilidad y cooperación- 18 de mayo
-- [Presentación 18 de mayo]
-
-## Integrando la sostenibilidad en las políticas de cooperación - 19 de mayo
-- [Presentación 19 de mayo]
-
 ## Materiales adicionales
 - [Manual de Integración del Medio Ambiente en la Cooperación al Desarrollo de la CE. Comisión Europea. (2007)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/Manual%20de%20Integraci%C3%B3n%20del%20Medio%20Ambiente%20de%20la%20CE.pdf)
 - [Manual para la integración del medio ambiente en proyectos de desarrollo. IPADE. (2011)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/manualintegracionipade.pdf)
@@ -26,29 +20,28 @@ En esta página podréis encontrar materiales, artículos e información adicion
 - [Environment and Climate Change Mainstreaming in EU Development Cooperation.DG DEVCO(2018)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/EC-Briefing-Note.pdf)
 - [Transversalización del medio ambiente y el cambio climático en los proyectos de cooperación internacional para el desarrollo. ONGD Bosque y Comunidad.(2019)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/Gu%C3%ADa-TMA_BosqueyComunidad.pdf)
 - Greening Development Co-operation.OECD (2019). Disponible en: <https://doi.org/10.1787/62cc4634-en>
-- [Nire tesina](https://izaroblog.github.io/es/cooperation/environment/2012/02/02/IntegracionMA.html)
+- [Mi Tesina: Integración del Medio Ambiente en la Cooperación](https://izaroblog.github.io/es/cooperation/environment/2012/02/02/IntegracionMA.html)
 
 ### Medio ambiente y cooperación
 
 ### Informes 
-- [Informe ÚLTIMA LÍNEA  DE DEFENSA. Global Witness](https://www.globalwitness.org/- documents/20192/Last_line_of_defence_ES_-_low_res_-_September_2021.pdf)
+- [Informe 2023 Siempre en pie. Global Witness](https://www.globalwitness.org/documents/20577/GW_Defenders_Standing_Firm_ES_September_2023_Web_AW.pdf)
 
 ### Recursos web
 
 - [EJAtlas - Global Atlas of Environmental Justice ](https://ejatlas.org/)
-
 - [Declaración de París, acuerdo de Accra](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/acuerdoaccra.pdf)
+- [Integrando el medio ambiente en el marco lógico](https://izaroblog.github.io/es/cooperation/2012/03/05/MAmarcologico.html)
 
 ## [Portal de la cooperación pública vasca](https://euskalankidetza.hegoa.ehu.eus/es/agents/1)
 -[IV Plan Director de Cooperación para el Desarrollo 2018-2021](https://www.elankidetza.euskadi.eus/contenidos/informacion/planificacion_avcd/es_def/adjuntos/IV_Plan_Director_version_final_CR-CG.pdf)
 -[(H)ABIAN 2030](https://www.elankidetza.euskadi.eus/informacion/habia-n/x63-content7/es/)
 -[ESTRATEGIA DE ACCIÓN HUMANITARIA DE LA AGENCIA VASCA DE COOPERACIÓN PARA EL DESARROLLO 2018-2023](https://www.elankidetza.euskadi.eus/contenidos/informacion/estrategia_ah/es_def/adjuntos/EAH-AVCD%202018-2023.pdf)
+-[Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad](https://www.boe.es/eli/es-pv/l/2024/02/15/3/con)
 
 
-https://www.aecid.es/Centro-Documentacion/Documentos/Publicaciones%20AECID/151015guiaTMA.pdf
 
 
-https://izaroblog.github.io/es/cooperation/2012/03/05/MAmarcologico.html
 
 
 
