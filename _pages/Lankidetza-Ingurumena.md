@@ -33,11 +33,11 @@ En esta página podréis encontrar materiales, artículos e información adicion
 - [Declaración de París, acuerdo de Accra](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/acuerdoaccra.pdf)
 - [Integrando el medio ambiente en el marco lógico](https://izaroblog.github.io/es/cooperation/2012/03/05/MAmarcologico.html)
 
-## [Portal de la cooperación pública vasca](https://euskalankidetza.hegoa.ehu.eus/es/agents/1)
--[IV Plan Director de Cooperación para el Desarrollo 2018-2021](https://www.elankidetza.euskadi.eus/contenidos/informacion/planificacion_avcd/es_def/adjuntos/IV_Plan_Director_version_final_CR-CG.pdf)
--[(H)ABIAN 2030](https://www.elankidetza.euskadi.eus/informacion/habia-n/x63-content7/es/)
--[ESTRATEGIA DE ACCIÓN HUMANITARIA DE LA AGENCIA VASCA DE COOPERACIÓN PARA EL DESARROLLO 2018-2023](https://www.elankidetza.euskadi.eus/contenidos/informacion/estrategia_ah/es_def/adjuntos/EAH-AVCD%202018-2023.pdf)
--[Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad](https://www.boe.es/eli/es-pv/l/2024/02/15/3/con)
+## [Portal de la cooperación pública vasca](https://euskalankidetza.hegoa.ehu.eus/es/agents/1)  
+-[IV Plan Director de Cooperación para el Desarrollo 2018-2021](https://www.elankidetza.euskadi.eus/contenidos/informacion/planificacion_avcd/es_def/adjuntos/IV_Plan_Director_version_final_CR-CG.pdf)  
+-[(H)ABIAN 2030](https://www.elankidetza.euskadi.eus/informacion/habia-n/x63-content7/es/)  
+-[ESTRATEGIA DE ACCIÓN HUMANITARIA DE LA AGENCIA VASCA DE COOPERACIÓN PARA EL DESARROLLO 2018-2023](https://www.elankidetza.euskadi.eus/contenidos/informacion/estrategia_ah/es_def/adjuntos/EAH-AVCD%202018-2023.pdf)  
+-[Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad](https://www.boe.es/eli/es-pv/l/2024/02/15/3/con)  
 
 
 
