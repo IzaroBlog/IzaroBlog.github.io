@@ -16,7 +16,7 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando vernos!
 - Respetad el espacio. Viveros de Ulia es un espacio autogestionado que nos han dejado utilizar para nuestra fiesta. No vamos a estar solos en el parque. Cuidad el entorno. Basuras y baño. 
 - En viveros de Ulia no va a haber posibilidad de sentarse a comer en una mesa. Haremos una comida de pie, si queréis podéis traer alguna manta para sentaros en el suelo! 
 - Todo esto funcionará si nos hace buen tiempo! En caso de lluvia tenemos disponible un invernadero, pero puede que hagamos algún cambio en la programación! 
-
+- Queremos que también sea una fiesta en la que los peques disfruten, hacerles partícipe
 https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/
 FB: https://www.facebook.com/uliakolorebaratzak/
 Mapa: https://uliakolorebaratzak.wordpress.com/kokapena/
