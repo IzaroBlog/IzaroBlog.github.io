@@ -1,3 +1,13 @@
+---
+permalink: /Ezkontza
+layout: page
+title: Ezkontza
+---
+
+
+
+
+
 ## Introducción
 Gracias por aceptar la invitación a nuestra boda! Estamos deseando vernos! 
 ## Indicaciones generales
