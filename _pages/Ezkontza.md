@@ -14,6 +14,7 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando vernos!
 - No necesitamos ningún regalo, solo poder pasar con vosotras un día bonito. De verdad, sabemos que es costumbre regalar objetos o dar dinero a los recien casados, pero no vamos a aceptar más que vuestra maravillosa presencia en la boda! 
 - No hay ningún tipo de etiqueta ni forma de vestir que sea precisa para participar en la boda. Sed libres de venir con lo que más os apetezca! Eso si, para el plan de la tarde poneros algo cómodo y que os sirva para disfrutar de la hierba! 
 - Respetad el espacio. Viveros de Ulia es un espacio autogestionado que nos han dejado utilizar para nuestra fiesta. No vamos a estar solos en el parque. Cuidad el entorno. Basuras y baño. 
+- En viveros de Ulia no va a haber posibilidad de sentarse a comer en una mesa. Haremos una comida de pie, si queréis podéis traer alguna manta para sentaros en el suelo! 
 - Todo esto funcionará si nos hace buen tiempo! En caso de lluvia tenemos disponible un invernadero, pero puede que hagamos algún cambio en la programación! 
 
 https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/
