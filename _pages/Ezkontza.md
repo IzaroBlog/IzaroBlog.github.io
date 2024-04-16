@@ -22,7 +22,7 @@ Wikipideia: https://es.wikipedia.org/wiki/Parque_de_Viveros_de_Ul%C3%ADa
 ### Mañana
 10:30 Ceremonia de boda en el Ayuntamiento de Donostia (link). Se entra por las escaleras de Alderdi Eder. Puntualidad [Mapa](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N)  
 11:00 Foto de todas. Intentaremos hacer una foto todas juntas en las escalinatas del ayuntamiento.   
-**Recordad que NO ESTÁ permitido lanzar ni arroz ni flores, por normativa** 
+**Recordad que NO ESTÁ permitido lanzar ni arroz ni flores, por normativa**   
 11:15 Paseo en Tio-Vivo con la novia  
 
 -----
@@ -32,10 +32,10 @@ Para llegar desde Alderdi Eder a Viveros de Ulia: xxxxx bus, taxi, 13 (Boulevard
 
 ----- 
 
-![mapa]()https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/lorebaratza.jpg?raw=true)
+![mapa](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/lorebaratza.jpg?raw=true)
 
 13:30 Comienza la fiesta en Viveros de Ulia. Picoteo, bebidas.  
-![Mapa](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
+[Mapa](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
 14:30 Paella  
 
 17:00 Comienza la música con **Hugo y Olana Liss**!  
