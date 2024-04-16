@@ -3,6 +3,7 @@ permalink: /Ezkontza
 layout: page
 title: Ezkontza
 ---
+![Logo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/ezkontza1.jpg?raw=true)
 
 ## Introducción
 Gracias por aceptar la invitación a nuestra boda! Estamos deseando vernos! 
@@ -17,7 +18,6 @@ https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/
 FB: https://www.facebook.com/uliakolorebaratzak/
 Mapa: https://uliakolorebaratzak.wordpress.com/kokapena/
 Wikipideia: https://es.wikipedia.org/wiki/Parque_de_Viveros_de_Ul%C3%ADa
-## Plan
 
 ### Mañana
 10:30 Ceremonia de boda en el Ayuntamiento de Donostia (link). Se entra por las escaleras de Alderdi Eder. Puntualidad [Mapa](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N)
@@ -31,6 +31,8 @@ Libre para disfrutar del marco incomparable, tomarse algo en lo viejo....
 Para llegar desde Alderdi Eder a Viveros de Ulia: xxxxx bus, taxi, 13 (Boulevard 3, Libertad 21) ,14 (Plaza Gipuzkoa, Libertad 7), (Boulevard)31 (Libertad 19 o Easo 9),46 (Libertad 4) Parada en Intxaurrondo Zaharra
 
 ----- 
+
+![mapa]()https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/lorebaratza.jpg?raw=true)
 
 13:30 Comienza la fiesta en Viveros de Ulia. Picoteo, bebidas.
 [Mapa](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
