@@ -4,10 +4,6 @@ layout: page
 title: Ezkontza
 ---
 
-
-
-
-
 ## Introducción
 Gracias por aceptar la invitación a nuestra boda! Estamos deseando vernos! 
 ## Indicaciones generales
@@ -36,10 +32,11 @@ Para llegar desde Alderdi Eder a Viveros de Ulia: xxxxx bus, taxi, 13 (Boulevard
 
 ----- 
 
-13:30 Comienza la fiesta en Viveros de Ulia. Picoteo y bebidas. [Mapa](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
+13:30 Comienza la fiesta en Viveros de Ulia. Picoteo, bebidas.
+[Mapa](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
 14:30 Paella
 
-17:00 Comienza la música con XXXX
+17:00 Comienza la música con Hugo y Olana Liss!
 19:00 Finalizamos la fiesta y recogida
 
-A partir de entonces, si alguien se queda con ganas podemos quedarnos a tomar algo más en Txiringuito de Intxaurrondo. (mapa)(https://www.openstreetmap.org/?mlat=43.32005&mlon=-1.95124#map=19/43.32005/-1.95124&layers=N)
+A partir de entonces, si alguien se queda con ganas podemos quedarnos a tomar algo más en el []Kiosko de Intxaurrondo](https://www.openstreetmap.org/?mlat=43.32005&mlon=-1.95124#map=19/43.32005/-1.95124&layers=N)
