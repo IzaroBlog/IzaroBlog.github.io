@@ -7,6 +7,7 @@ title: Boda
 
 ## Introducción
 Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros! 
+
 ### Indicaciones generales
 - **No necesitamos ningún regalo 🎁**, solo poder pasar con vosotras un día bonito. De verdad, sabemos que es costumbre regalar objetos o dar dinero a los recien casados, pero no vamos a aceptar más que vuestra maravillosa presencia en la boda! 
 - **No hay ningún tipo de etiqueta 🎩** ni forma de vestir que sea precisa para participar en la boda. Sed libres de venir con lo que más os apetezca! Eso si, para el plan de la tarde poneros algo cómodo y que os sirva para disfrutar de la hierba! 
