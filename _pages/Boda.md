@@ -17,7 +17,7 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros!
 - Queremos que también sea una fiesta en la que los peques disfruten!!
 
 ## Mañana (10:30-11:30)
-- 10:30:💍 Ceremonia de boda en el [Ayuntamiento de Donostia](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N). Se entra por las escaleras de Alderdi Eder. Las que queráis venir, sed puntuales!    
+- 10:30:💍 Ceremonia de boda en el [Ayuntamiento de Donostia](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N). Se entra por las escaleras de Alderdi Eder. **Sed puntuales tenemos 30 minutos!!**    
 - 11:00: 📸 Foto de todas. Intentaremos hacer una foto todas juntas en las escalinatas del ayuntamiento.   
 **Recordad que NO ESTÁ permitido lanzar ni arroz ni flores, por normativa**   
 - 11:15: 🎠 Paseo en Tio-Vivo con la novia  
