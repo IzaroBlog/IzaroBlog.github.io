@@ -1,7 +1,7 @@
 ---
-permalink: /Ezkontza
+permalink: /Boda
 layout: page
-title: Ezkontza
+title: Boda
 ---
 ![Logo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/ezkontza1.jpg?raw=true)
 
