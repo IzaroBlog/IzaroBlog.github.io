@@ -42,7 +42,4 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros!
 ![mapa](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/lorebaratza.jpg?raw=true)
 
 
-FB: https://www.facebook.com/uliakolorebaratzak/
-Mapa: 
-Wikipideia: 
 
