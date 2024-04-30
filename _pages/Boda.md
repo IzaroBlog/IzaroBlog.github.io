@@ -17,24 +17,24 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros!
 - Queremos que también sea una fiesta en la que los peques disfruten!!
 
 ## Mañana (10:30-11:30)
-10:30 Ceremonia de boda en el [Ayuntamiento de Donostia](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N). Se entra por las escaleras de Alderdi Eder. Las que queráis venir, sed puntuales!    
-11:00 Foto de todas. Intentaremos hacer una foto todas juntas en las escalinatas del ayuntamiento.   
+- 10:30: Ceremonia de boda en el [Ayuntamiento de Donostia](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N). Se entra por las escaleras de Alderdi Eder. Las que queráis venir, sed puntuales!    
+- 11:00: Foto de todas. Intentaremos hacer una foto todas juntas en las escalinatas del ayuntamiento.   
 **Recordad que NO ESTÁ permitido lanzar ni arroz ni flores, por normativa**   
-11:15 Paseo en Tio-Vivo con la novia  
+- 11:15: Paseo en Tio-Vivo con la novia  
 
-Después del paseo en el Tio-Vivo os dejamos libres para disfrutar del marco incomparable, tomarse algo en lo viejo, lo que se os ocurra! Nosotras iremos a prepara lo que falte! Nos vemos a partir de la 13:30 en Viveros de Ulía!
+Después del paseo en el Tio-Vivo os dejamos libres para disfrutar del marco incomparable, tomarse algo en lo viejo, lo que se os ocurra! Nosotras iremos a ponernos cómodas, y preparar lo que falte! Nos vemos a partir de la 13:30 en Viveros de Ulía!
 Para llegar desde Alderdi Eder a Viveros de Ulia se puede hacer en:
 - Bus: 13 (Boulevard 3, Libertad 21), 14 (Plaza Gipuzkoa, Libertad 7), (Boulevard)31 (Libertad 19 o Easo 9),46 (Libertad 4). La parada en la que hay que hay que bajarse es **Intxaurrondo Zaharra**. +INFO: [DBus](https://dbus.eus/)
 - [Taxi](https://www.donostia.eus/ataria/es/web/info/taxia)  
 
 ## Tarde (13:30-...)
 
-- 13:30 Comienza la fiesta en [Viveros de Ulia](https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/). Picoteo, charlar un rato y bebidas.  [Mapa de ubicación, por si acaso!](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
-- 14:30 Llega la paella, a disfrutar con la comida!
-- 17:00 Comienza la música con **Hugo y [Olana Liss](https://olanaliss.com/)**!  
-- 19:00 Finalizamos la fiesta y recogida.  
+- 13:30: Comienza la fiesta en [Viveros de Ulia](https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/). Picoteo, charlar un rato y bebidas.  [Mapa de ubicación, por si acaso!](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
+- 14:30: Llega la paella, a disfrutar con la comida!
+- 17:00: Comienza la música con **Hugo y [Olana Liss](https://olanaliss.com/)**!  
+- 19:00: Finalizamos la fiesta y recogida.  
 
-- A partir de entonces, si alguien se queda con ganas podemos quedarnos a tomar algo más en el [Kiosko de Intxaurrondo](https://www.openstreetmap.org/?mlat=43.32005&mlon=-1.95124#map=19/43.32005/-1.95124&layers=N)
+- A partir de entonces, si alguien se queda con ganas de algo más, podemos quedarnos a tomar algo en el [Kiosko de Intxaurrondo](https://www.openstreetmap.org/?mlat=43.32005&mlon=-1.95124#map=19/43.32005/-1.95124&layers=N)
 
 
 
