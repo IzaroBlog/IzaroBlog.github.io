@@ -23,7 +23,7 @@ title: Boda
 
 *Después del paseo en el Tio-Vivo os dejamos libres para disfrutar del marco incomparable, tomarse algo en lo viejo, lo que se os ocurra! Nosotras iremos a ponernos cómodas, y preparar lo que falte! Nos vemos a partir de la 13:30 en Viveros de Ulía!*
 *Para llegar desde Alderdi Eder a Viveros de Ulia se puede hacer en:*
-- 🚌 *Bus: 13 (Boulevard 3, Libertad 21), 14 (Plaza Gipuzkoa, Libertad 7), (Boulevard)31 (Libertad 19 o Easo 9),46 (Libertad 4). La parada en la que hay que hay que bajarse es **Intxaurrondo Zaharra**. +INFO: [DBus](https://dbus.eus/)*
+- 🚌 *Bus: 13 (Boulevard 3, Libertad 21); 14 (Plaza Gipuzkoa, Libertad 7); 31 (Boulevard, Avda. Libertad 19 o Easo 9),46 (Avda. Libertad 4). La parada en la que hay que hay que bajarse es **Intxaurrondo Zaharra**. +INFO: [DBus](https://dbus.eus/)*
 - 🚕 *[Taxi](https://www.donostia.eus/ataria/es/web/info/taxia)* 
 - 🚗 *Coche: Cerca de **Alderdi Eder** hay varios Parkings disponibles: [Boulevard](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-boulevard/), [La Concha](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-la-concha/) o incluso en [Okendo](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-okendo/). En **Viveros de Ulía** no hay aparcamiento; se puede intentar aparcar por la zona pero no es fácil!*
 
