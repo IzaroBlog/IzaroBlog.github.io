@@ -23,9 +23,9 @@ title: Ezkontza
 
 *Zaldiko-maldikoan ibili ondoren, libre uzten zaituztegu zuen kabuz Donostiaz gozatzeko, alde zaharretik zerbait hartzeko, edo bururatzen zaizuena egiteko! Gu eroso jarri eta arratsalderako falta dena prestatzera joango gara! 13:30etatik aurrera Uliako lore-baratzetan ikusiko gara berriz!*
 *Alderdi Ederretik Uliako Mintegietara iristeko, hauek dituzue aukerak:*
-- 🚌 *Autobusa: 13 (Boulevard 3, Libertad 21); 14 (Plaza Gipuzkoa, Avda. Libertad 7); 31 (Boulevard, Avda. Libertad 19 o Easo 9); 46 (Avda. Libertad 4). Jaisteko geltokia **Intxaurrondo Zaharra** da. +INFO: [DBus](https://dbus.eus/)*
+- 🚌 *Autobusa: 13 (Boulevard 3, Libertad 21); 14 (Plaza Gipuzkoa, Avda. Libertad 7); 31 (Boulevard, Avda. Libertad 19, Easo 9); 46 (Avda. Libertad 4). Jaisteko geltokia **Intxaurrondo Zaharra** da. +INFO: [DBus](https://dbus.eus/)*
 - 🚕 *[Taxia](https://www.donostia.eus/ataria/es/web/info/taxia)* 
-- 🚗 *Autoz: **Alderdi Eder** inguruan pare bat parking dituzue eskuragarri: [Boulevard](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-boulevard/), [La Concha](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-la-concha/) edota [Okendo](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-okendo/). **Uliako lore-baratzetan** ez dago aparkatzek aukerarik, baina Intxaurrondon aurki dezakezue lekua, erraza ez izan arren!
+- 🚗 *Autoz: **Alderdi Eder** inguruan pare bat parking dituzue eskuragarri: [Boulevard](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-boulevard/), [La Concha](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-la-concha/) edota [Okendo](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-okendo/). **Uliako lore-baratzetan** ez dago aparkatzek aukerarik, baina Intxaurrondon aurki dezakezue lekua, erraza ez izan arren!*
 
 ## Arratsaldez (13:30-...)
 
