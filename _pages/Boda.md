@@ -13,7 +13,7 @@ title: Boda
 - **Respetad el espacio. 🌳🚯** [Viveros de Ulia](https://es.wikipedia.org/wiki/Parque_de_Viveros_de_Ul%C3%ADa) es un espacio autogestionado que nos han dejado utilizar para nuestra fiesta. No vamos a estar solos en el parque. Os pedimos que cuidemos entre todas el entorno, depositar las basuras en las bolsas habilitadas y hace buen uso del baño. 
 - En viveros de Ulia no va a haber posibilidad de sentarse a comer en una mesa. Haremos una **comida de pie**, si queréis podéis traer alguna manta para sentaros en el suelo y disfrutar de la hierba☘️! 
 - ☀️ Todo esto funcionará si nos hace **buen tiempo**! En caso de lluvia 🌧 tenemos disponible un invernadero, pero puede que hagamos algún cambio en la programación! 
-- Queremos que también sea una fiesta en la que los peques disfruten!!
+- 🤹‍♀️ Queremos que también sea una fiesta en la que los peques disfruten!!
 
 ## Mañana (10:30-11:30)
 - 10:30:💍 Ceremonia de boda en el [Ayuntamiento de Donostia](https://www.openstreetmap.org/?mlat=43.32126&mlon=-1.98556#map=19/43.32126/-1.98556&layers=N). Se entra por las escaleras de Alderdi Eder. **Sed puntuales tenemos 30 minutos!!**    
