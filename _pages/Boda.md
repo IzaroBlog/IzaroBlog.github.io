@@ -3,7 +3,7 @@ permalink: /Boda
 layout: page
 title: Boda
 ---
-![Logo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/ezkontza1.jpg?raw=true)
+![Logo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/logo.jpg?raw=true)
 
 ## Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros! 
 
