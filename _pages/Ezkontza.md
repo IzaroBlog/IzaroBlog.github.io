@@ -8,7 +8,7 @@ title: Ezkontza
 ## Eskerrik asko gure gonbidapenari baizkeoa emateagatik! Zuek ikusteko irrikitan gaude!
 
 ### Argibide Orokorrak
-- **Ez dugu oparirik behar.🎁**, egun polit bat zuekin igaro ahal izatea besterik ez. Badakigu ohitura dela ezkontzen direnei opariak egin edo dirua ematea ohitura direla, baina guretzat zuek bertaratzea baino opari politagorik ez da! 
+- **Ez dugu oparirik behar.🎁**, egun polit bat zuekin igaro ahal izatea besterik ez. Badakigu ohitura dela ezkontzen direnei opariak egin edo dirua ematea, baina guretzat zuek bertaratzea baino opari politagorik ez da! 
 - **Ez dago inolako janzkera etiketarik.🎩**. Izan zaitez libre gustuko eta eroso duzun bezala etortzeko! Arratsaldeko planerako zerbait erosoa soinean jartzea gomendatzen dizugu, belarraz eta dantzaz gozatzeko!
 - **Errespetatu espazioa.**🌳🚯[Uliako lore-baratzak](https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/) gune autogestionatua da, eta gure festarako erabiltzen utzi digute. Ez gara bakarrik egongo parkean. Inguru guztia zaintzeko eskatzen dizuegu, zaborrak jarriko ditugun zaborrontzietan bota eta bainua txukun erabiltzeko eskatzen dizuegu.
 - Uliako lore-baratzetan ez dugu mahai batean bazkaltzeko aukerarik izango. **Bazkaria zutik eginen dugu** baina nahi baduzue mantaren bat ekar dezakezue lurrean eseri eta belarrez gozatzeko.☘️
