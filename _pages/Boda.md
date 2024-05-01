@@ -5,8 +5,7 @@ title: Boda
 ---
 ![Logo](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/ezkontza1.jpg?raw=true)
 
-## Introducción
-Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros! 
+## Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros! 
 
 ### Indicaciones generales
 - **No necesitamos ningún regalo 🎁**, solo poder pasar con vosotras un día bonito. De verdad, sabemos que es costumbre regalar objetos o dar dinero a los recien casados, pero no vamos a aceptar más que vuestra maravillosa presencia en la boda! 
@@ -24,8 +23,9 @@ Gracias por aceptar la invitación a nuestra boda! Estamos deseando veros!
 
 *Después del paseo en el Tio-Vivo os dejamos libres para disfrutar del marco incomparable, tomarse algo en lo viejo, lo que se os ocurra! Nosotras iremos a ponernos cómodas, y preparar lo que falte! Nos vemos a partir de la 13:30 en Viveros de Ulía!*
 *Para llegar desde Alderdi Eder a Viveros de Ulia se puede hacer en:*
-- *Bus: 🚌 13 (Boulevard 3, Libertad 21), 14 (Plaza Gipuzkoa, Libertad 7), (Boulevard)31 (Libertad 19 o Easo 9),46 (Libertad 4). La parada en la que hay que hay que bajarse es **Intxaurrondo Zaharra**. +INFO: [DBus](https://dbus.eus/)*
-- *[Taxi](https://www.donostia.eus/ataria/es/web/info/taxia)* 🚕 
+- 🚌 *Bus: 13 (Boulevard 3, Libertad 21), 14 (Plaza Gipuzkoa, Libertad 7), (Boulevard)31 (Libertad 19 o Easo 9),46 (Libertad 4). La parada en la que hay que hay que bajarse es **Intxaurrondo Zaharra**. +INFO: [DBus](https://dbus.eus/)*
+- 🚕 *[Taxi](https://www.donostia.eus/ataria/es/web/info/taxia)* 
+- 🚗 *Coche: Cerca de **Alderdi Eder** hay varios Parkings disponibles: [Boulevard](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-boulevard/), [La Concha](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-la-concha/) o incluso en [Okendo](https://www.telpark.com/es/ciudades/donostia-san-sebastian/parking-okendo/). En **Viveros de Ulía** no hay aparcamiento; se puede intentar aparcar por la zona pero no es fácil!*
 
 ## Tarde (13:30-...)
 
