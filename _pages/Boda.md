@@ -37,6 +37,8 @@ title: Boda
 - 🍸🍻 A partir de entonces, si alguien se queda con ganas de algo más, podemos quedarnos a tomar algo en el [Kiosko de Intxaurrondo](https://www.openstreetmap.org/?mlat=43.32005&mlon=-1.95124#map=19/43.32005/-1.95124&layers=N)
 
 
+## [![Invitación](Video Invitación)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/video_es.mp4)
+
 
 ### 🗺 Mapa de Viveros de Ulía
 ![mapa](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_images/Ezkontza/lorebaratza.jpg?raw=true)
