@@ -29,7 +29,7 @@ title: Boda
 
 ## Tarde (13:30-...)
 
-- 13:30: 💃 Comienza la fiesta en [Viveros de Ulia](https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/). Picoteo, charlar un rato y bebidas.  [Mapa de ubicación, por si acaso!](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
+- 13:30: 💃 Comienza la fiesta en [Viveros de Ulia](https://uliakolorebaratzak.wordpress.com/uliako-lore-baratzak-proiektua-2/). Picoteo, charlar un rato y conocer nueva gente con alguna bebida.  [Mapa de ubicación, por si acaso!](https://www.openstreetmap.org/?mlat=43.32221&mlon=-1.95368#map=19/43.32221/-1.95368&layers=N)
 - 14:30: 🥘 Llega la paella, a disfrutar con la comida!
 - 17:00: 🎶 Comienza la música con **Hugo y [Olana Liss](https://olanaliss.com/)**!  
 - 19:00: 💪 Finalizamos la fiesta y recogida.  
