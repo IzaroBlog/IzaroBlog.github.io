@@ -21,7 +21,7 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 - [Listado de los hechizos (sin los de la expansión)](https://izaroblog.github.io/DUN/Hechizos)
 
 ## Material fanmade {#Fanmade-id}
-[Pinchar para sección fanmade]({#Fanmade-id}
+[Pinchar para sección fanmade]{#Fanmade-id}
 
 ## FAQ
 Aquí tenéis recopiladas las preguntas y respuestas que se han dado en el grupo de Telegram de la [Comunidad Aruok](https://telegram.me/comunidadAruok), dedicado a [DUN](https://dungeonuniversalis.com/) completándolas con la [recopilación](https://docs.google.com/document/d/1CRRnY7W7N8DQH3Ex4_KIIDShrM0K4WS4Sx8rc2n_Gtk/edit#heading=h.gjdgxs) que amablemente nos ha cedido @Darleth 👏 !
