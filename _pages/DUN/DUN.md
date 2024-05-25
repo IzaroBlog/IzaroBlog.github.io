@@ -11,13 +11,14 @@ Si encontráis algún error o fallo, estaremos en el grupo de [Telegram](https:/
 ![DUN](https://raw.githubusercontent.com/IzaroBlog/IzaroBlog.github.io/main/_images/DUN/dungeon-universalis.jpg)
 
 ## Materiales oficiales
+- [FAQ oficiales, mayo del 2024](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/02f20dc857b26ca4179a14abf99386ff251e3a60/_materials/dun/2024%20FAQS%20Espa%C3%B1ol.pdf)
 - [Reglamento DUN V2, sin fondo (PrintFriendly) y con Erratas corregidas](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/DUN_REGLAMENTO.pdf). Gracias a @Trabucaire77 👏 !  
 - [Bestiario DUN V2, sin fondo (PrintFriendly) y marcadores](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2_PrintFriend_marcadores_indice.pdf) gracias a @trabucaire77,[Bestiario DUN V2, normal](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/dun/Bestiario%20I%20V2.pdf)
 - [Contenido oficial (FAQ, hojas de personajes, etc.)](https://dungeonuniversalis.com/es/dun-fans-2/)
 - [Plataforma para jugar online y la creación de personajes "World of Arasca"](https://worldofarasca.dungeonuniversalis.com/)  
 - [Erratas expansión](#ErratasExpa-id)
 - [Erratas de la V2](#ErratasV2-id)
-- [Listado de todos los hechizos](https://izaroblog.github.io/DUN/Hechizos)
+- [Listado de los hechizos (sin los de la expansión)](https://izaroblog.github.io/DUN/Hechizos)
 
 ## Material fanmade {#Fanmade-id}
 [Pinchar para sección fanmade]({#Fanmade-id}
