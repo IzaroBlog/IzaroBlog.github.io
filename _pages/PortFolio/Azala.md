@@ -1,5 +1,5 @@
 ---
-permalink: /Azala
+permalink: /Portfolio/Azala
 layout: page
 title: Azala
 ---
