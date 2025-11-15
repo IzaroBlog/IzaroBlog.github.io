@@ -18,6 +18,7 @@ En esta página podréis encontrar materiales, artículos e información adicion
 - [Guía núm. 6 Integración del medio ambiente y el cambio climático en la cooperación internacional de la UE. Hacia un desarrollo sostenible.Dirección General de Cooperación Internacional y Desarrollo Comisión Europea (2016)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/Integracion%20del%20MAyCC%20en%20la%20cooperacion%20internacional%20de%20la%20UE.pdf)
 - [Articulando la política social y ambiental para el desarrollo sostenible: opciones prácticas en América Latina y el Caribe.ONU (2017)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/articulando_es_1107.pdf)
 - [Environment and Climate Change Mainstreaming in EU Development Cooperation.DG DEVCO(2018)](https://github.com/IzaroBlog/IzaroBlog.github.io/raw/main/_materials/lankidetza/EC-Briefing-Note.pdf)
+- [Evaluación de Riesgo Climático para la Adaptación basada en Ecosistemas. Guía para planificadores y practicantes](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/76c4a599db62dbe3cc96583798c73b1d5f3db837/_materials/lankidetza/Evaluaci%C3%B3n%20de%20Riesgo%20Clim%C3%A1tico%20para%20la%20Adaptaci%C3%B3n%20basada%20en%20Ecosistemas.pdf) (2018) de Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
 - [Transversalización del medio ambiente y el cambio climático en los proyectos de cooperación internacional para el desarrollo. ONGD Bosque y Comunidad.(2019)](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/main/_materials/lankidetza/Gu%C3%ADa-TMA_BosqueyComunidad.pdf)
 - Greening Development Co-operation.OECD (2019). Disponible en: <https://doi.org/10.1787/62cc4634-en>
 - [Mi Tesina: Integración del Medio Ambiente en la Cooperación](https://izaroblog.github.io/es/cooperation/environment/2012/02/02/IntegracionMA.html)
@@ -34,10 +35,12 @@ En esta página podréis encontrar materiales, artículos e información adicion
 - [Integrando el medio ambiente en el marco lógico](https://izaroblog.github.io/es/cooperation/2012/03/05/MAmarcologico.html)
 
 ## [Portal de la cooperación pública vasca](https://euskalankidetza.hegoa.ehu.eus/es/agents/1)  
--[IV Plan Director de Cooperación para el Desarrollo 2018-2021](https://www.elankidetza.euskadi.eus/contenidos/informacion/planificacion_avcd/es_def/adjuntos/IV_Plan_Director_version_final_CR-CG.pdf)  
--[(H)ABIAN 2030](https://www.elankidetza.euskadi.eus/informacion/habia-n/x63-content7/es/)  
--[ESTRATEGIA DE ACCIÓN HUMANITARIA DE LA AGENCIA VASCA DE COOPERACIÓN PARA EL DESARROLLO 2018-2023](https://www.elankidetza.euskadi.eus/contenidos/informacion/estrategia_ah/es_def/adjuntos/EAH-AVCD%202018-2023.pdf)  
--[Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad](https://www.boe.es/eli/es-pv/l/2024/02/15/3/con)  
+- [IV Plan Director de Cooperación para el Desarrollo 2018-2021](https://www.elankidetza.euskadi.eus/contenidos/informacion/planificacion_avcd/es_def/adjuntos/IV_Plan_Director_version_final_CR-CG.pdf)  
+- [(H)ABIAN 2030](https://www.elankidetza.euskadi.eus/informacion/habia-n/x63-content7/es/)  
+- [ESTRATEGIA DE ACCIÓN HUMANITARIA DE LA AGENCIA VASCA DE COOPERACIÓN PARA EL DESARROLLO 2018-2023](https://www.elankidetza.euskadi.eus/contenidos/informacion/estrategia_ah/es_def/adjuntos/EAH-AVCD%202018-2023.pdf)  
+- [Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad](https://www.boe.es/eli/es-pv/l/2024/02/15/3/con)  
+- [Plan director de la Diputación de Gipuzkoa 2021-2030](https://www.gipuzkoa.eus/documents/3724543/3724812/Plan+director+2021-2030+castellano/3decee38-a908-e997-07ee-b02e9a6ca6b5)
+- [Plan Bienal 2025-2026 eLankdietza](https://github.com/IzaroBlog/IzaroBlog.github.io/blob/c0bbc8ae000daef55da0b9aaa5b42a7a93a0c22c/_materials/lankidetza/Plan-bienal-2025-2026_es.pdf)
 
 
 
